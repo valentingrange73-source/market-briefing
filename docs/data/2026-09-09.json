@@ -17,14 +17,28 @@
     },
     "europe": {
       "status": "done",
-      "generated_at": "2026-09-09T18:05:00+02:00",
+      "generated_at": "2026-09-09T16:30:00+02:00",
       "items": [
         {
-          "stars": 3,
-          "headline": "Example: ECB speaker flags inflation risk",
-          "detail": "Placeholder item. A 3-star item is something that moved more than one asset class at once, or was a genuine policy surprise.",
-          "source": "Bloomberg Market Daily via Gmail",
-          "time": "14:15 CET"
+          "stars": 2,
+          "headline": "Novartis pelacarsen drug fails Phase 3 trial; pharma stocks extend losses",
+          "detail": "Novartis and Ionis' lipoprotein(a)-lowering drug pelacarsen failed to reduce cardiovascular event risk in its Phase 3 trial announced Sept 4, triggering a 9% plunge in Novartis shares—the worst performer on STOXX600 today. The setback raises questions about a broader class of Lp(a)-lowering therapies, wiping an estimated $6B in peak annual sales from Novartis' pipeline expectations.",
+          "source": "BioPharma Dive, StatNews",
+          "time": "09:30 CET session"
+        },
+        {
+          "stars": 2,
+          "headline": "European equities sold off sharply; energy inflation surge weighs on sentiment",
+          "detail": "FTSE 100 fell 1.38%, DAX dropped 1.6%, CAC40 declined ~2% as all major European indices moved lower together. Energy inflation surged to 14.3% in August—highest since January 2023—with Iran tensions and Strait of Hormuz disruptions pushing crude and natural gas higher. Rising energy costs amplified inflation concerns ahead of tomorrow's ECB decision.",
+          "source": "CNBC, Trading Economics, Web search",
+          "time": "16:00 CET close"
+        },
+        {
+          "stars": 2,
+          "headline": "ECB rate hike fully priced in; markets lock 98.9% probability for tomorrow's decision",
+          "detail": "Market pricing placed the probability of a 25bp ECB rate hike tomorrow at 98.9%, with the decision announcement scheduled for 14:15 CET in Berlin and press conference at 14:45 CET. The hike to 2.5% reflects eurozone inflation running at 3.3% in August versus ECB's 2% target, with core inflation at 2.4%, providing minimal dovish cover.",
+          "source": "CNBC, Reuters, ECB calendar",
+          "time": "forward-looking"
         }
       ]
     },
