@@ -17,43 +17,124 @@
     },
     "europe": {
       "status": "done",
-      "generated_at": "2026-09-09T16:30:00+02:00",
+      "generated_at": "2026-09-09T21:20:00+02:00",
       "items": [
         {
-          "stars": 2,
-          "headline": "Novartis pelacarsen drug fails Phase 3 trial; pharma stocks extend losses",
-          "detail": "Novartis and Ionis' lipoprotein(a)-lowering drug pelacarsen failed to reduce cardiovascular event risk in its Phase 3 trial announced Sept 4, triggering a 9% plunge in Novartis shares—the worst performer on STOXX600 today. The setback raises questions about a broader class of Lp(a)-lowering therapies, wiping an estimated $6B in peak annual sales from Novartis' pipeline expectations.",
-          "source": "BioPharma Dive, StatNews",
-          "time": "09:30 CET session"
+          "stars": 3,
+          "headline": "Brent briefly tops $100/bbl as US strikes Iranian oil tankers, Houthis hit Saudi Aramco site",
+          "detail": "Brent crude rose as much as 2.3% early Wednesday to briefly trade at $100 a barrel for the first time since July, before paring the move, after the US struck five Iranian oil tankers and Iran-aligned Houthi forces attacked a Saudi Aramco distribution site in Abha, sending up smoke visible in satellite imagery. Reports also pointed to Iranian missile activity directed at US warships in the Gulf, raising the risk of a direct military escalation rather than a proxy skirmish. Brent and WTI are each up more than 60% year-to-date, and the US national average diesel price hit a record $5.90/gallon this week, feeding straight into the inflation prints the ECB and BoE are trying to read. This is the kind of shock that reprices more than one asset class simultaneously — it is already showing up in Bund/Gilt yields (higher, on inflation risk), gold (mixed, safe-haven vs. dollar-strength tug-of-war), CHF (bid), and European energy-import-sensitive credits (spread pressure). Fixed income and multi-asset desks should treat Strait of Hormuz tanker traffic as the key tail-risk variable into Thursday's ECB decision.",
+          "source": "CNN, Kobeissi Letter (X), web search synthesis",
+          "time": "07:00-09:00 CET"
+        },
+        {
+          "stars": 3,
+          "headline": "ECB opens two-day meeting in Berlin; 25bp hike near-fully priced for tomorrow",
+          "detail": "The ECB's Governing Council began its September 9-10 meeting in Berlin, hosted by the Bundesbank, with the rate decision and Lagarde press conference not due until 14:15/14:45 CET tomorrow. Markets have priced a 25bp deposit-rate hike at close to 100%, which would take the deposit rate to 2.50% from the 2.25% level in place since June — a hike being forced by eurozone headline inflation at 3.3% y/y, well above target, with energy costs the primary driver given the oil spike above. Because the move is this close to fully priced, the trade tomorrow is about the statement language and the new staff projections, not the 25bp itself — watch for any hint the Council sees this as a one-and-done versus the start of a hiking cycle. Bund yields already sit at 3.38%, the highest since April 2011, reflecting the market pulling forward hawkish risk ahead of the announcement. EUR crosses and STOXX Banks (up ~22% YTD, one of the best-performing sectors in Europe this year) are the highest-beta expressions of this into tomorrow's print.",
+          "source": "ECB calendar, Trading Economics, web search",
+          "time": "all-day (decision due Thu 14:15 CET)"
         },
         {
           "stars": 2,
-          "headline": "European equities sold off sharply; energy inflation surge weighs on sentiment",
-          "detail": "FTSE 100 fell 1.38%, DAX dropped 1.6%, CAC40 declined ~2% as all major European indices moved lower together. Energy inflation surged to 14.3% in August—highest since January 2023—with Iran tensions and Strait of Hormuz disruptions pushing crude and natural gas higher. Rising energy costs amplified inflation concerns ahead of tomorrow's ECB decision.",
-          "source": "CNBC, Trading Economics, Web search",
-          "time": "16:00 CET close"
+          "headline": "European government bond yields sit at multi-year highs; Bund at 15-year high",
+          "detail": "Germany's 10-year Bund yield is at 3.38%, its highest level since April 2011, and UK 30-year Gilt yields rose another 7bp to 5.87%, with 69 of 70 conventional gilts higher on the day. The proximate driver is the same one hitting oil and gold: escalating Middle East conflict pushing energy prices and inflation expectations higher just as the ECB prepares to hike and the BoE stays cautious on cuts. This is a genuine, tradable multi-country rates move rather than noise — duration books are being tested across the curve, and the move is happening into, not after, the ECB decision, which is unusual positioning risk. Credit spread desks should note this is happening alongside oil at $100, not instead of it — the correlation between energy and duration has flipped positive again, a regime multi-asset funds have had to relearn twice already this year.",
+          "source": "Trading Economics (Germany/UK bond yield pages), Euronews",
+          "time": "session, as of ~11:30 London"
+        },
+        {
+          "stars": 1,
+          "headline": "French OAT-Bund spread holds near 85bp — fiscal risk premium, not a fresh catalyst today",
+          "detail": "The French 10-year OAT yields around 4.19% against 3.34-3.38% for the Bund, keeping the OAT-Bund spread near 84.7bp — elevated but not blowing out today. This is legacy fiscal-risk premium: France's deficit ran at 5.8% of GDP last year against a 3% EU target, and the political turbulence of the past year (Bayrou's government fell in a confidence vote in September 2025; the current PM, Sébastien Lecornu, survived two no-confidence votes in February 2026 before the 2026 budget passed) has left investors demanding a persistent premium on French paper even with no new domestic political shock today. Worth flagging for periphery/core spread trades: this is a slow-burn structural story, not a today-driven move, so don't mistake background OAT softness for a fresh French headline.",
+          "source": "Amundi Research Center, ideal-investisseur.fr, web search",
+          "time": "session"
         },
         {
           "stars": 2,
-          "headline": "ECB rate hike fully priced in; markets lock 98.9% probability for tomorrow's decision",
-          "detail": "Market pricing placed the probability of a 25bp ECB rate hike tomorrow at 98.9%, with the decision announcement scheduled for 14:15 CET in Berlin and press conference at 14:45 CET. The hike to 2.5% reflects eurozone inflation running at 3.3% in August versus ECB's 2% target, with core inflation at 2.4%, providing minimal dovish cover.",
-          "source": "CNBC, Reuters, ECB calendar",
-          "time": "forward-looking"
+          "headline": "CHF bid as Middle East risk revives safe-haven flows; SNB flags intervention readiness",
+          "detail": "The franc is firming again as Iranian missile activity toward US warships and the Aramco strike revive haven demand, a pattern the SNB has already had to address once this year — the central bank said in June it stands ready to intervene in FX markets if a renewed franc rally goes too far, and CHF touched an 11-year high against the dollar back in January. Right now the franc's move is being partly offset by a more hawkish-priced Fed keeping the dollar side supported, so USD/CHF is choppier than a pure risk-off franc rally would suggest. For European FX desks, CHF is the cleanest read on how seriously the market is taking the tanker-strike escalation versus treating it as another transient flare-up — a decisive break lower in USD/CHF this week would be the tell that this time is different.",
+          "source": "SWI swissinfo.ch, CNBC, Trading Economics",
+          "time": "session"
+        },
+        {
+          "stars": 2,
+          "headline": "Gold eases toward $4,400/oz even as Iran tensions escalate — profit-taking outweighs the bid",
+          "detail": "Spot gold sat around $4,400/oz Wednesday morning, down roughly 0.9% from Tuesday's close, with the day's range $4,342-$4,443 — a pullback rather than the fresh safe-haven spike the tanker-strike headlines might suggest. Gold is still nowhere near its 2026 record of $5,597 hit in January, and the muted reaction to a genuine geopolitical escalation is itself informative: positioning looks stretched after a huge run this year, and central-bank buying (PBoC added +20 tonnes in August, matching its largest monthly purchase since October 2023, taking 2026 additions to +80t and reserves to a record 2,387t) is providing a floor rather than driving fresh highs. For macro funds, the gap between what this headline should imply for gold and what gold is actually doing (drifting lower) is the more interesting signal than the headline itself.",
+          "source": "Yahoo Finance, CNBC Select, Kobeissi Letter (X)",
+          "time": "09:00 ET / 15:00 CET"
+        },
+        {
+          "stars": 2,
+          "headline": "Turkish lira grinds past 48.5/USD; CBRT keeps burning reserves to slow the slide",
+          "detail": "USD/TRY printed 48.4769, up another 0.07% on the day and down 17.5% over the past year, even after the central bank hiked its overnight reference rate by 300bp to near 40% and sold more than $8bn of FX reserves this month alone to slow the depreciation. ING sees USD/TRY at 52 by year-end and 63 by end-2027 even as reserves recover, which tells you the market views this as managed, gradual depreciation rather than a controlled disinflation win — the lira is a slow bleed, not a crisis, but it's a persistent one. Turkish equities (BIST 100 +0.7% today, +37% over the past year in lira terms — far less impressive in USD) continue to be a story about nominal returns masking real erosion. EM/periphery desks should keep TRY funding costs in the expensive-carry-with-no-re-rating-catalyst bucket for now.",
+          "source": "Trading Economics, ING via FXStreet",
+          "time": "session"
+        },
+        {
+          "stars": 1,
+          "headline": "Rand holds up despite the global shock list; SARB rate-hike bets build for Sept 23",
+          "detail": "USD/ZAR is around 16.04, with the rand actually up almost 1% over the past month and 8.5% over the past year despite the oil shock, the Middle East war, and Fed policy uncertainty all being exactly the kind of backdrop that usually punishes ZAR. Speculation is building that the SARB delivers a 25bp hike at its September 23 meeting, which would be a hawkish surprise relative to where the market sat a few months ago. The resilience here is more interesting than any single data point — it suggests EM carry positioning in ZAR has been de-risked enough already this year that the current shock isn't finding fresh short positioning to squeeze.",
+          "source": "Trading Economics, web search",
+          "time": "session"
+        },
+        {
+          "stars": 1,
+          "headline": "Zloty and CEE FX steady as NBP holds; energy-driven CPI uptick kills a September cut",
+          "detail": "The National Bank of Poland is widely expected to hold its policy rate at 3.75%, with headline CPI accelerating to 3.4% y/y on higher fuel prices linked directly to the Middle East tensions — the same energy pass-through hitting the eurozone print the ECB is wrestling with. That inflation shift has taken a September Polish rate cut off the table, and the zloty and forint both firmed slightly against the euro last week on the back of it, while the Czech koruna softened marginally. For CEE rates desks, the read-through is that energy-driven inflation is now a regional, not just a eurozone, policy constraint — every CEE central bank is quietly getting less dovish at the margin.",
+          "source": "FXStreet (Societe Generale, ING CEE notes)",
+          "time": "session"
+        },
+        {
+          "stars": 2,
+          "headline": "HSBC downgrades LVMH and Burberry to Hold, flags a tough second half for European luxury",
+          "detail": "HSBC cut both LVMH and Burberry to Hold, with the stocks extending recent declines on the call, arguing the soft-luxury demand backdrop stays tricky into H2 — weak Chinese consumer demand and Middle-East-war-linked tourist spending disruption are the two drags HSBC cites explicitly. This is a genuine single-name-with-sector-read-through story: LVMH is the bellwether for the entire European luxury complex (Kering, Richemont, Hermès, Moncler all trade off the same read), and a sell-side downgrade from a major desk on both a house-of-brands name and a smaller single-category name at once signals the caution is broadening, not name-specific. Rates/multi-asset accounts with European consumer-discretionary exposure should treat this as confirmation rather than new information — it's the second half of a story that's been building since the summer.",
+          "source": "Bloomberg, FashionNetwork UK",
+          "time": "session (Wed)"
+        },
+        {
+          "stars": 2,
+          "headline": "European equities open in the red — media and autos underperform, banks/energy hold up better",
+          "detail": "The STOXX 600 slipped below the flatline around 8:10am London after opening higher, with media stocks the session's laggard (-1.4%) and autos/parts names down 1.2% in early dealing. Regionally it was a mixed tape: FTSE MIB was the outlier (+0.2%), while the DAX (-0.2%), FTSE 100 (-0.1%) and CAC 40 (roughly flat) all traded softer. The sector split — media and autos underperforming while banks and energy hold up — is consistent with the macro backdrop: energy is being bid by the oil shock, banks benefit from higher-for-longer rate expectations into the ECB, while autos are exposed to both China demand worries and higher input-energy costs. This is a session where sector rotation is telling you more than the index-level move, which is small.",
+          "source": "Web search synthesis of morning European equity commentary",
+          "time": "~08:10 London / 09:10 CET"
+        },
+        {
+          "stars": 2,
+          "headline": "Novo Nordisk retakes crown as Europe's most valuable listed company, passing SAP",
+          "detail": "Novo Nordisk's market cap (~$367.9bn) has moved back above SAP's, retaking the title of Europe's largest listed company, with ASML in third. The move comes even as Novo separately halted two ziltivekimab trials this week — the market is instead focused on the positive STEP Young Phase 3 readout, which hit its primary endpoint in adolescent weight-loss treatment and reopens a large pediatric/adolescent GLP-1 market opportunity. For index and single-stock desks, a change at the top of the European market-cap table matters mechanically (index weighting, passive flow rebalancing) as well as narratively — it's a read on how much further the GLP-1 growth story still has to run versus tech/software, which SAP represents.",
+          "source": "Yahoo Finance, web search",
+          "time": "session"
+        },
+        {
+          "stars": 2,
+          "headline": "Oil majors Shell, BP, TotalEnergies extend gains as the crude rally feeds straight to earnings",
+          "detail": "European energy majors continue to trade near their highs of the year as Brent's push toward $100 flows directly into windfall-style profits — Shell, BP, Repsol, TotalEnergies and Eni posted a combined $21.7bn in Q1 profits already, 43% above the year-ago quarter, and the current spike only adds to that trajectory. Shell closed around €40.55 on Euronext Amsterdam this week (+~28% YTD), while BP and TotalEnergies both continue to trade near recent highs. This is the flip side of the inflation story hurting bonds and consumer names: energy-sector equity and credit are a direct hedge against the same Middle East shock that's hurting duration and consumer discretionary, which is exactly the kind of cross-asset offset multi-asset books should already have on.",
+          "source": "ad-hoc-news.de, Yahoo Finance sector data, web search",
+          "time": "session"
+        },
+        {
+          "stars": 2,
+          "headline": "Record AI-driven US IG issuance ($215bn in September) is a read-through for European credit appetite",
+          "detail": "US investment-grade issuance is tracking roughly $215bn for September — a record for the month — with $410bn borrowed in 2026 specifically to fund AI data-centre buildout, according to Kobeissi Letter's credit-market tracking. European IG and L/S credit desks watch this closely because hyperscaler and data-centre financing increasingly crosses the Atlantic (several US-anchored deals carry EUR tranches, and European utilities/telecoms are raising their own AI-infrastructure-linked debt in parallel). So far European high-yield spreads have absorbed this year's shocks in orderly fashion — spreads widened roughly 80bp during the February-March Middle East flare-up before stabilizing near 296bp by late June — but a genuine test of AI-capex credit appetite in the US market is the kind of signal that tends to show up in European spreads within days, not weeks, if sentiment turns.",
+          "source": "Kobeissi Letter (X), TwentyFour Asset Management, web search",
+          "time": "session"
+        },
+        {
+          "stars": 1,
+          "headline": "Pharma sector still digesting Novartis' pelacarsen wipeout from earlier this week",
+          "detail": "Novartis shares fell as much as 10% earlier this week — reportedly the stock's largest-ever one-day drop — after its and Ionis' Lp(a)-lowering drug pelacarsen failed to reduce cardiovascular event risk in its Phase 3 trial, a result that also raises doubts about the wider class of Lp(a) therapies in development at other firms. There's no fresh follow-through specifically today, but European pharma remains a touch heavy as the market continues to digest the read-across to other Lp(a) programs; it's included here as context rather than a new catalyst, since desks pricing cardiovascular/biotech names into year-end should still have the pipeline reset in view.",
+          "source": "Bloomberg, StatNews (prior-session reporting)",
+          "time": "prior session, ongoing read-through"
+        },
+        {
+          "stars": 1,
+          "headline": "European M&A tape stays thin — no major large-cap deal announced in today's window",
+          "detail": "Today's dedicated M&A search turned up nothing at large-cap European scale; the one deal surfacing in searches (PayTabs' ~$100m acquisition of Amazon Payment Services' MENA unit) is a Middle East payments transaction with only tangential European relevance. Flagging the thin tape plainly rather than padding it: with the ECB meeting underway and the Middle East escalation dominating flow, dealmakers may simply be waiting out the next 24-48 hours before pricing anything large.",
+          "source": "Web search (no corroborating large-cap deal found)",
+          "time": "n/a"
         }
       ]
     },
     "us": {
-      "status": "done",
-      "generated_at": "2026-09-09T23:06:00+02:00",
-      "items": [
-        {
-          "stars": 2,
-          "headline": "Example: US data print moves rate expectations",
-          "detail": "Placeholder item. Once the real routines run, this whole file gets overwritten with the actual day.",
-          "source": "yfinance snapshot",
-          "time": "16:00 ET"
-        }
-      ]
+      "status": "pending"
     }
   }
 }
