@@ -1,0 +1,7 @@
+{
+  "week_of": "2026-09-09",
+  "summary": "SAMPLE DATA. This is what the weekly rollup will look like once four or five days of real daily data exist for it to synthesize.",
+  "themes": [
+    {"title": "Example theme", "detail": "A short synthesis of something that showed up more than once during the week."}
+  ]
+}

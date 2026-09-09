@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Session brief</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#10141C;
+    --panel:#171C27;
+    --panel-2:#1D2330;
+    --hairline:#2A3140;
+    --paper:#E8E6DE;
+    --muted:#8B93A6;
+    --copper:#D68C45;
+    --copper-dim:#8C6438;
+    --rise:#5FAE82;
+    --fall:#C5645A;
+    --serif:'Source Serif 4', Georgia, serif;
+    --mono:'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:var(--ink);
+    color:var(--paper);
+    font-family:var(--serif);
+    font-size:17px;
+    line-height:1.55;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:var(--copper);}
+  :focus-visible{outline:2px solid var(--copper); outline-offset:2px;}
+
+  .wrap{max-width:720px; margin:0 auto; padding:40px 20px 80px;}
+
+  header.masthead{margin-bottom:28px;}
+  .masthead-top{display:flex; align-items:baseline; justify-content:space-between; gap:12px; flex-wrap:wrap;}
+  h1{font-size:1.5rem; font-weight:600; margin:0; letter-spacing:0.01em;}
+  .date-nav{font-family:var(--mono); font-size:0.8rem; color:var(--muted); display:flex; gap:10px; align-items:center;}
+  .date-nav button{
+    background:none; border:1px solid var(--hairline); color:var(--muted);
+    font-family:var(--mono); font-size:0.75rem; padding:4px 9px; border-radius:6px; cursor:pointer;
+  }
+  .date-nav button:hover{color:var(--paper); border-color:var(--muted);}
+  .date-nav button:disabled{opacity:0.35; cursor:default;}
+
+  /* day arc: the three sessions as a single horizontal timeline */
+  .arc{margin-top:22px;}
+  .arc-track{display:flex; height:8px; border-radius:4px; overflow:hidden; background:var(--panel-2);}
+  .arc-seg{flex:1; position:relative; border-right:1px solid var(--ink);}
+  .arc-seg:last-child{border-right:none;}
+  .arc-seg[data-status="done"]{background:var(--copper);}
+  .arc-seg[data-status="pending"]{background:var(--panel-2); background-image:repeating-linear-gradient(45deg, var(--hairline) 0 4px, transparent 4px 8px);}
+  .arc-seg[data-status="unavailable"]{background:var(--panel-2);}
+  .arc-labels{display:flex; margin-top:7px; font-family:var(--mono); font-size:0.72rem; color:var(--muted); text-transform:none;}
+  .arc-labels span{flex:1;}
+  .arc-labels span:nth-child(2){text-align:center;}
+  .arc-labels span:last-child{text-align:right;}
+
+  .summary{
+    margin:26px 0 34px;
+    padding:18px 20px;
+    background:var(--panel);
+    border-left:3px solid var(--copper);
+    border-radius:0 8px 8px 0;
+    font-size:1.02rem;
+  }
+  .summary p{margin:0;}
+  .summary .empty{color:var(--muted); font-style:italic;}
+
+  .filters{display:flex; gap:8px; margin-bottom:8px; flex-wrap:wrap;}
+  .filters button{
+    font-family:var(--mono); font-size:0.78rem; letter-spacing:0.03em;
+    background:var(--panel); border:1px solid var(--hairline); color:var(--muted);
+    padding:6px 12px; border-radius:20px; cursor:pointer;
+  }
+  .filters button.active{color:var(--copper); border-color:var(--copper-dim); background:var(--panel-2);}
+
+  section.session{margin-top:34px;}
+  .session-head{
+    display:flex; align-items:baseline; justify-content:space-between;
+    border-bottom:1px solid var(--hairline); padding-bottom:8px; margin-bottom:6px;
+  }
+  .session-head h2{font-size:1.05rem; font-weight:500; margin:0;}
+  .session-head .meta{font-family:var(--mono); font-size:0.72rem; color:var(--muted);}
+  .session-empty{color:var(--muted); font-style:italic; padding:14px 0; font-size:0.95rem;}
+
+  ul.items{list-style:none; margin:0; padding:0;}
+  ul.items li{border-bottom:1px solid var(--hairline);}
+  ul.items li[data-stars="1"].filtered-out,
+  ul.items li[data-stars="2"].filtered-out,
+  ul.items li[data-stars="3"].filtered-out{display:none;}
+
+  details{padding:13px 0;}
+  summary{
+    list-style:none; cursor:pointer; display:flex; gap:12px; align-items:baseline;
+  }
+  summary::-webkit-details-marker{display:none;}
+  .stars{
+    font-family:var(--mono); font-size:0.85rem; letter-spacing:1px; flex-shrink:0; padding-top:2px;
+  }
+  li[data-stars="3"] .stars{color:var(--copper);}
+  li[data-stars="2"] .stars{color:var(--copper-dim);}
+  li[data-stars="1"] .stars{color:var(--muted);}
+  .headline{flex:1;}
+  .detail-body{margin-top:10px; padding-left:calc(0.85rem * 3 + 12px); color:var(--muted); font-size:0.94rem;}
+  .detail-body .src{font-family:var(--mono); font-size:0.74rem; color:var(--copper-dim); margin-top:6px; display:block;}
+
+  .datebrowser{margin-top:44px;}
+  .datebrowser h3{font-size:0.8rem; font-weight:500; color:var(--muted); text-transform:none; margin-bottom:10px;}
+  .pills{display:flex; gap:8px; flex-wrap:wrap;}
+  .pills button{
+    font-family:var(--mono); font-size:0.76rem; background:var(--panel); border:1px solid var(--hairline);
+    color:var(--muted); padding:5px 10px; border-radius:6px; cursor:pointer;
+  }
+  .pills button.current{color:var(--copper); border-color:var(--copper-dim);}
+
+  .weekly{
+    margin-top:30px; padding:18px 20px; background:var(--panel-2); border-radius:8px;
+    display:none;
+  }
+  .weekly.visible{display:block;}
+  .weekly h3{margin:0 0 8px; font-size:0.95rem; font-weight:500;}
+  .weekly p{margin:0 0 10px; color:var(--muted); font-size:0.94rem;}
+  .weekly ul{margin:0; padding-left:18px; color:var(--muted); font-size:0.9rem;}
+
+  footer{margin-top:60px; color:var(--muted); font-family:var(--mono); font-size:0.72rem;}
+
+  @media (max-width:520px){
+    body{font-size:16px;}
+    .detail-body{padding-left:0;}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="masthead">
+    <div class="masthead-top">
+      <h1 id="date-heading">Session brief</h1>
+      <nav class="date-nav">
+        <button id="prev-day" aria-label="Previous day">&larr;</button>
+        <span id="date-sub"></span>
+        <button id="next-day" aria-label="Next day">&rarr;</button>
+      </nav>
+    </div>
+    <div class="arc" aria-hidden="true">
+      <div class="arc-track">
+        <div class="arc-seg" data-status="pending" id="arc-asia"></div>
+        <div class="arc-seg" data-status="pending" id="arc-europe"></div>
+        <div class="arc-seg" data-status="pending" id="arc-us"></div>
+      </div>
+      <div class="arc-labels">
+        <span>Asia</span><span>Europe</span><span>US</span>
+      </div>
+    </div>
+  </header>
+
+  <div class="summary" id="summary-box">
+    <p class="empty">Loading&hellip;</p>
+  </div>
+
+  <div class="filters" role="group" aria-label="Filter by importance">
+    <button data-tier="3" class="active">&#9679;&#9679;&#9679;</button>
+    <button data-tier="2" class="active">&#9679;&#9679;&#9675;</button>
+    <button data-tier="1" class="active">&#9679;&#9675;&#9675;</button>
+  </div>
+
+  <main id="sessions"></main>
+
+  <div class="weekly" id="weekly-box">
+    <h3 id="weekly-title">This week</h3>
+    <p id="weekly-summary"></p>
+    <ul id="weekly-themes"></ul>
+  </div>
+
+  <div class="datebrowser">
+    <h3>Other days</h3>
+    <div class="pills" id="date-pills"></div>
+  </div>
+
+  <footer>generated automatically &middot; <span id="gen-note"></span></footer>
+
+</div>
+
+<script>
+const SESSION_ORDER = ["asia","europe","us"];
+const SESSION_LABEL = {asia:"Asia session", europe:"Europe session", us:"US session"};
+let manifest = [];
+let activeTiers = new Set([1,2,3]);
+let currentDate = null;
+
+function fmtDate(d){
+  const dt = new Date(d + "T00:00:00");
+  return dt.toLocaleDateString(undefined, {weekday:"short", month:"short", day:"numeric", year:"numeric"});
+}
+
+async function loadManifest(){
+  try{
+    const res = await fetch("./data/manifest.json", {cache:"no-store"});
+    manifest = await res.json();
+  }catch(e){
+    manifest = [];
+  }
+}
+
+async function loadDay(date){
+  try{
+    const res = await fetch(`./data/${date}.json`, {cache:"no-store"});
+    if(!res.ok) throw new Error("missing");
+    return await res.json();
+  }catch(e){
+    return null;
+  }
+}
+
+async function loadWeekly(){
+  try{
+    const res = await fetch("./data/weekly/latest.json", {cache:"no-store"});
+    if(!res.ok) throw new Error("missing");
+    return await res.json();
+  }catch(e){
+    return null;
+  }
+}
+
+function renderArc(sessions){
+  SESSION_ORDER.forEach(key=>{
+    const el = document.getElementById(`arc-${key}`);
+    const status = sessions && sessions[key] ? sessions[key].status : "pending";
+    el.setAttribute("data-status", status || "pending");
+  });
+}
+
+function renderSummary(day){
+  const box = document.getElementById("summary-box");
+  if(day && day.summary){
+    box.innerHTML = `<p>${escapeHtml(day.summary)}</p>`;
+  }else{
+    box.innerHTML = `<p class="empty">No summary generated yet for this day.</p>`;
+  }
+}
+
+function starGlyph(n){
+  return "&#9679;".repeat(n) + "&#9675;".repeat(3-n);
+}
+
+function renderSessions(day){
+  const main = document.getElementById("sessions");
+  main.innerHTML = "";
+  SESSION_ORDER.forEach(key=>{
+    const s = day && day.sessions ? day.sessions[key] : null;
+    const section = document.createElement("section");
+    section.className = "session";
+
+    const head = document.createElement("div");
+    head.className = "session-head";
+    const genAt = s && s.generated_at ? new Date(s.generated_at).toLocaleTimeString(undefined,{hour:"2-digit",minute:"2-digit"}) : "";
+    head.innerHTML = `<h2>${SESSION_LABEL[key]}</h2><span class="meta">${s ? (s.status === "done" ? genAt : s.status) : "pending"}</span>`;
+    section.appendChild(head);
+
+    if(!s || s.status !== "done" || !s.items || s.items.length === 0){
+      const empty = document.createElement("div");
+      empty.className = "session-empty";
+      empty.textContent = s && s.status === "unavailable" ? "Not available for this session." : "Not generated yet.";
+      section.appendChild(empty);
+      main.appendChild(section);
+      return;
+    }
+
+    const ul = document.createElement("ul");
+    ul.className = "items";
+    s.items.forEach(item=>{
+      const li = document.createElement("li");
+      li.setAttribute("data-stars", item.stars || 1);
+      const det = document.createElement("details");
+      det.innerHTML = `
+        <summary>
+          <span class="stars">${starGlyph(item.stars || 1)}</span>
+          <span class="headline">${escapeHtml(item.headline || "")}</span>
+        </summary>
+        <div class="detail-body">
+          ${escapeHtml(item.detail || "")}
+          <span class="src">${escapeHtml(item.source || "")}${item.time ? " &middot; " + escapeHtml(item.time) : ""}</span>
+        </div>`;
+      li.appendChild(det);
+      ul.appendChild(li);
+    });
+    section.appendChild(ul);
+    main.appendChild(section);
+  });
+  applyFilters();
+}
+
+function applyFilters(){
+  document.querySelectorAll("ul.items li").forEach(li=>{
+    const stars = parseInt(li.getAttribute("data-stars"), 10);
+    li.classList.toggle("filtered-out", !activeTiers.has(stars));
+  });
+}
+
+function renderWeekly(w){
+  const box = document.getElementById("weekly-box");
+  if(!w){ box.classList.remove("visible"); return; }
+  document.getElementById("weekly-title").textContent = `Week of ${w.week_of ? fmtDate(w.week_of) : "this week"}`;
+  document.getElementById("weekly-summary").textContent = w.summary || "";
+  const ul = document.getElementById("weekly-themes");
+  ul.innerHTML = "";
+  (w.themes || []).forEach(t=>{
+    const li = document.createElement("li");
+    li.textContent = t.title ? `${t.title} — ${t.detail || ""}` : (t.detail || "");
+    ul.appendChild(li);
+  });
+  box.classList.add("visible");
+}
+
+function renderDatePills(){
+  const wrap = document.getElementById("date-pills");
+  wrap.innerHTML = "";
+  manifest.slice(0, 14).forEach(d=>{
+    const btn = document.createElement("button");
+    btn.textContent = d;
+    if(d === currentDate) btn.classList.add("current");
+    btn.addEventListener("click", ()=> goToDate(d));
+    wrap.appendChild(btn);
+  });
+}
+
+function updateNav(){
+  const idx = manifest.indexOf(currentDate);
+  document.getElementById("prev-day").disabled = idx === -1 || idx >= manifest.length - 1;
+  document.getElementById("next-day").disabled = idx <= 0;
+}
+
+function escapeHtml(str){
+  const d = document.createElement("div");
+  d.textContent = str == null ? "" : String(str);
+  return d.innerHTML;
+}
+
+async function goToDate(date){
+  currentDate = date;
+  location.hash = date;
+  document.getElementById("date-heading").textContent = "Session brief";
+  document.getElementById("date-sub").textContent = fmtDate(date);
+  const day = await loadDay(date);
+  renderArc(day ? day.sessions : null);
+  renderSummary(day);
+  renderSessions(day);
+  renderDatePills();
+  updateNav();
+  document.getElementById("gen-note").textContent = day ? date : "no data for this date";
+}
+
+document.getElementById("prev-day").addEventListener("click", ()=>{
+  const idx = manifest.indexOf(currentDate);
+  if(idx > -1 && idx < manifest.length - 1) goToDate(manifest[idx+1]);
+});
+document.getElementById("next-day").addEventListener("click", ()=>{
+  const idx = manifest.indexOf(currentDate);
+  if(idx > 0) goToDate(manifest[idx-1]);
+});
+document.querySelectorAll(".filters button").forEach(btn=>{
+  btn.addEventListener("click", ()=>{
+    const tier = parseInt(btn.getAttribute("data-tier"), 10);
+    if(activeTiers.has(tier)){ activeTiers.delete(tier); btn.classList.remove("active"); }
+    else { activeTiers.add(tier); btn.classList.add("active"); }
+    applyFilters();
+  });
+});
+
+(async function init(){
+  await loadManifest();
+  const hashDate = location.hash.replace("#","");
+  const start = manifest.includes(hashDate) ? hashDate : (manifest[0] || new Date().toISOString().slice(0,10));
+  await goToDate(start);
+  const weekly = await loadWeekly();
+  renderWeekly(weekly);
+})();
+</script>
+</body>
+</html>

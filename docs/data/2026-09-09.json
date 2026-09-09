@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-09",
+  "summary": "SAMPLE DATA — replace once the routines are running. This is here only so the page renders something real the first time it is opened.",
+  "sessions": {
+    "asia": {
+      "status": "done",
+      "generated_at": "2026-09-09T10:04:00+02:00",
+      "items": [
+        {
+          "stars": 2,
+          "headline": "Example: China CPI misses expectations",
+          "detail": "This is a placeholder item showing the expected format — two to four sentences of context, written in plain language.",
+          "source": "ForexFactory calendar + web search",
+          "time": "09:30 CST"
+        }
+      ]
+    },
+    "europe": {
+      "status": "done",
+      "generated_at": "2026-09-09T18:05:00+02:00",
+      "items": [
+        {
+          "stars": 3,
+          "headline": "Example: ECB speaker flags inflation risk",
+          "detail": "Placeholder item. A 3-star item is something that moved more than one asset class at once, or was a genuine policy surprise.",
+          "source": "Bloomberg Market Daily via Gmail",
+          "time": "14:15 CET"
+        }
+      ]
+    },
+    "us": {
+      "status": "done",
+      "generated_at": "2026-09-09T23:06:00+02:00",
+      "items": [
+        {
+          "stars": 2,
+          "headline": "Example: US data print moves rate expectations",
+          "detail": "Placeholder item. Once the real routines run, this whole file gets overwritten with the actual day.",
+          "source": "yfinance snapshot",
+          "time": "16:00 ET"
+        }
+      ]
+    }
+  }
+}
