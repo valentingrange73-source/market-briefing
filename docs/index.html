@@ -60,6 +60,61 @@
   .arc-labels span:nth-child(2){text-align:center;}
   .arc-labels span:last-child{text-align:right;}
 
+  .indicators{
+    margin-top:24px;
+    background:var(--panel);
+    border:1px solid var(--hairline);
+    border-radius:10px;
+    overflow:hidden;
+  }
+  .indicators-head{
+    padding:10px 16px;
+    border-bottom:1px solid var(--hairline);
+    font-family:var(--mono); font-size:0.72rem; letter-spacing:0.05em;
+    color:var(--muted); text-transform:uppercase;
+  }
+  .indicators-grid{
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr;
+  }
+  .indicators-col{
+    padding:14px 16px;
+    border-right:1px solid var(--hairline);
+    min-width:0;
+  }
+  .indicators-col:last-child{border-right:none;}
+  .indicators-col h4{
+    margin:0 0 10px; font-size:0.85rem; font-weight:600; letter-spacing:0.01em;
+    display:flex; align-items:center; gap:6px;
+  }
+  .indicators-col h4 .dot{
+    width:6px; height:6px; border-radius:50%; background:var(--hairline); flex-shrink:0;
+  }
+  .indicators-col h4 .dot[data-status="done"]{background:var(--copper);}
+  .indicator-cat{
+    font-family:var(--mono); font-size:0.66rem; letter-spacing:0.06em; text-transform:uppercase;
+    color:var(--copper-dim); margin:12px 0 4px;
+  }
+  .indicator-cat:first-of-type{margin-top:0;}
+  .indicator-row{
+    display:flex; justify-content:space-between; align-items:baseline; gap:8px;
+    padding:3px 0; font-size:0.85rem;
+  }
+  .indicator-row .name{color:var(--paper); flex:1; min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;}
+  .indicator-row .metrics{font-family:var(--mono); font-size:0.78rem; white-space:nowrap; display:flex; gap:7px; flex-shrink:0;}
+  .indicator-row .value{color:var(--muted);}
+  .indicator-row .change{font-weight:500;}
+  .indicator-row .change.up{color:var(--rise);}
+  .indicator-row .change.down{color:var(--fall);}
+  .indicator-row .change.flat{color:var(--muted);}
+  .indicators-empty{color:var(--muted); font-style:italic; font-size:0.82rem;}
+
+  @media (max-width:640px){
+    .indicators-grid{grid-template-columns:1fr;}
+    .indicators-col{border-right:none; border-bottom:1px solid var(--hairline);}
+    .indicators-col:last-child{border-bottom:none;}
+  }
+
   .summary{
     margin:26px 0 34px;
     padding:18px 20px;
@@ -159,6 +214,11 @@
     </div>
   </header>
 
+  <section class="indicators" aria-label="Key market indicators">
+    <div class="indicators-head">Key market indicators</div>
+    <div class="indicators-grid" id="indicators-grid"></div>
+  </section>
+
   <div class="summary" id="summary-box">
     <p class="empty">Loading&hellip;</p>
   </div>
@@ -242,6 +302,54 @@ function renderSummary(day){
   }else{
     box.innerHTML = `<p class="empty">No summary generated yet for this day.</p>`;
   }
+}
+
+const INDICATOR_CAT_ORDER = ["Equities","FX","Commodities","Rates"];
+
+function renderIndicators(day){
+  const grid = document.getElementById("indicators-grid");
+  grid.innerHTML = "";
+  SESSION_ORDER.forEach(key=>{
+    const items = day && day.indicators ? day.indicators[key] : null;
+    const status = day && day.sessions && day.sessions[key] ? day.sessions[key].status : "pending";
+    const col = document.createElement("div");
+    col.className = "indicators-col";
+    const h4 = document.createElement("h4");
+    h4.innerHTML = `<span class="dot" data-status="${status}"></span>${SESSION_LABEL[key]}`;
+    col.appendChild(h4);
+    if(!items || items.length === 0){
+      const empty = document.createElement("div");
+      empty.className = "indicators-empty";
+      empty.textContent = status === "unavailable" ? "Not available." : "Not generated yet.";
+      col.appendChild(empty);
+      grid.appendChild(col);
+      return;
+    }
+    const byCategory = {};
+    items.forEach(it=>{
+      const cat = it.category || "Other";
+      (byCategory[cat] = byCategory[cat] || []).push(it);
+    });
+    const cats = Object.keys(byCategory).sort((a,b)=>{
+      const ia = INDICATOR_CAT_ORDER.indexOf(a), ib = INDICATOR_CAT_ORDER.indexOf(b);
+      return (ia === -1 ? 99 : ia) - (ib === -1 ? 99 : ib);
+    });
+    cats.forEach(cat=>{
+      const catEl = document.createElement("div");
+      catEl.className = "indicator-cat";
+      catEl.textContent = cat;
+      col.appendChild(catEl);
+      byCategory[cat].forEach(it=>{
+        const row = document.createElement("div");
+        row.className = "indicator-row";
+        const dir = it.direction === "up" ? "up" : it.direction === "down" ? "down" : "flat";
+        const arrow = dir === "up" ? "&#9650;" : dir === "down" ? "&#9660;" : "&#8226;";
+        row.innerHTML = `<span class="name">${escapeHtml(it.label || "")}</span><span class="metrics"><span class="value">${escapeHtml(it.value || "")}</span><span class="change ${dir}">${arrow} ${escapeHtml(it.change || "")}</span></span>`;
+        col.appendChild(row);
+      });
+    });
+    grid.appendChild(col);
+  });
 }
 
 function starGlyph(n){
@@ -348,6 +456,7 @@ async function goToDate(date){
   document.getElementById("date-sub").textContent = fmtDate(date);
   const day = await loadDay(date);
   renderArc(day ? day.sessions : null);
+  renderIndicators(day);
   renderSummary(day);
   renderSessions(day);
   renderDatePills();

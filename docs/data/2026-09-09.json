@@ -1,6 +1,20 @@
 {
   "date": "2026-09-09",
   "summary": "SAMPLE DATA — replace once the routines are running. This is here only so the page renders something real the first time it is opened.",
+  "indicators": {
+    "europe": [
+      {"category": "Equities", "label": "DAX", "value": "—", "change": "-0.2%", "direction": "down"},
+      {"category": "Equities", "label": "FTSE 100", "value": "—", "change": "-0.1%", "direction": "down"},
+      {"category": "Equities", "label": "CAC 40", "value": "—", "change": "~flat", "direction": "flat"},
+      {"category": "Equities", "label": "FTSE MIB", "value": "—", "change": "+0.2%", "direction": "up"},
+      {"category": "FX", "label": "USD/TRY", "value": "48.48", "change": "+0.07%", "direction": "up"},
+      {"category": "Commodities", "label": "Brent crude", "value": "$100", "change": "+2.3% (intraday high)", "direction": "up"},
+      {"category": "Commodities", "label": "Gold", "value": "$4,400/oz", "change": "-0.9%", "direction": "down"},
+      {"category": "Rates", "label": "Bund 10Y", "value": "3.38%", "change": "15-yr high", "direction": "up"},
+      {"category": "Rates", "label": "Gilt 30Y", "value": "5.87%", "change": "+7bp", "direction": "up"},
+      {"category": "Rates", "label": "OAT 10Y", "value": "~4.19%", "change": "spread ~85bp vs Bund", "direction": "flat"}
+    ]
+  },
   "sessions": {
     "asia": {
       "status": "done",
