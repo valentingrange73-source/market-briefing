@@ -1,18 +1,143 @@
 {
   "date": "2026-09-09",
-  "summary": "SAMPLE DATA — replace once the routines are running. This is here only so the page renders something real the first time it is opened.",
+  "summary": "Middle East escalation was the day's throughline: Iran struck a US-linked base in Jordan and ten Gulf ships after the US destroyed five Iranian tankers, pushing Brent near $100 and WTI to $94, and feeding directly into the ECB's meeting (decision due Thursday), multi-year-high Bund/Gilt yields, and a US Treasury sell-off that sent the 10-year to 4.857% after Bessent's buyback move backfired. Asia's leg of today's briefing was not captured with real data (placeholder content only survives in the file) — treat the Asian session as unavailable rather than quiet, not as evidence nothing happened there. US stocks fell a third straight day (S&P -0.48%, Dow -0.77%, Nasdaq -0.64%, Russell -1.32%) even as a strong 10-year auction, a calm VIX near 16, and thin M&A on both sides of the Atlantic suggested markets aren't yet in panic mode; Thursday's ECB decision and US PPI, plus Friday's CPI, are now the pivot points into next week's coin-flip Fed meeting.",
   "indicators": {
     "europe": [
-      {"category": "Equities", "label": "DAX", "value": "—", "change": "-0.2%", "direction": "down"},
-      {"category": "Equities", "label": "FTSE 100", "value": "—", "change": "-0.1%", "direction": "down"},
-      {"category": "Equities", "label": "CAC 40", "value": "—", "change": "~flat", "direction": "flat"},
-      {"category": "Equities", "label": "FTSE MIB", "value": "—", "change": "+0.2%", "direction": "up"},
-      {"category": "FX", "label": "USD/TRY", "value": "48.48", "change": "+0.07%", "direction": "up"},
-      {"category": "Commodities", "label": "Brent crude", "value": "$100", "change": "+2.3% (intraday high)", "direction": "up"},
-      {"category": "Commodities", "label": "Gold", "value": "$4,400/oz", "change": "-0.9%", "direction": "down"},
-      {"category": "Rates", "label": "Bund 10Y", "value": "3.38%", "change": "15-yr high", "direction": "up"},
-      {"category": "Rates", "label": "Gilt 30Y", "value": "5.87%", "change": "+7bp", "direction": "up"},
-      {"category": "Rates", "label": "OAT 10Y", "value": "~4.19%", "change": "spread ~85bp vs Bund", "direction": "flat"}
+      {
+        "category": "Equities",
+        "label": "DAX",
+        "value": "—",
+        "change": "-0.2%",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "FTSE 100",
+        "value": "—",
+        "change": "-0.1%",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "CAC 40",
+        "value": "—",
+        "change": "~flat",
+        "direction": "flat"
+      },
+      {
+        "category": "Equities",
+        "label": "FTSE MIB",
+        "value": "—",
+        "change": "+0.2%",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "USD/TRY",
+        "value": "48.48",
+        "change": "+0.07%",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "Brent crude",
+        "value": "$100",
+        "change": "+2.3% (intraday high)",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "Gold",
+        "value": "$4,400/oz",
+        "change": "-0.9%",
+        "direction": "down"
+      },
+      {
+        "category": "Rates",
+        "label": "Bund 10Y",
+        "value": "3.38%",
+        "change": "15-yr high",
+        "direction": "up"
+      },
+      {
+        "category": "Rates",
+        "label": "Gilt 30Y",
+        "value": "5.87%",
+        "change": "+7bp",
+        "direction": "up"
+      },
+      {
+        "category": "Rates",
+        "label": "OAT 10Y",
+        "value": "~4.19%",
+        "change": "spread ~85bp vs Bund",
+        "direction": "flat"
+      }
+    ],
+    "us": [
+      {
+        "category": "Equities",
+        "label": "S&P 500",
+        "value": "7,636.36",
+        "change": "-0.48%",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "Nasdaq Composite",
+        "value": "26,253.34",
+        "change": "-0.64%",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "Dow Jones",
+        "value": "52,380.66",
+        "change": "-0.77%",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "Russell 2000",
+        "value": "2,921.23",
+        "change": "-1.32%",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "Dollar Index (DXY)",
+        "value": "~98.7",
+        "change": "rangebound, mixed",
+        "direction": "flat"
+      },
+      {
+        "category": "Commodities",
+        "label": "Gold",
+        "value": "$4,400/oz",
+        "change": "roughly flat",
+        "direction": "flat"
+      },
+      {
+        "category": "Commodities",
+        "label": "WTI crude",
+        "value": "$94.24",
+        "change": "+3.0%",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "Copper",
+        "value": "$6.73/lb",
+        "change": "+0.6%",
+        "direction": "up"
+      },
+      {
+        "category": "Rates",
+        "label": "US 10Y Treasury",
+        "value": "4.86%",
+        "change": "highest since Nov 2023",
+        "direction": "up"
+      }
     ]
   },
   "sessions": {
@@ -148,7 +273,143 @@
       ]
     },
     "us": {
-      "status": "pending"
+      "status": "done",
+      "generated_at": "2026-09-09T23:45:00+02:00",
+      "items": [
+        {
+          "stars": 3,
+          "headline": "Stocks fall a third straight day as 10Y yield surges to 4.857% after Bessent's buyback move backfires",
+          "detail": "The Dow fell 405 points (-0.77%) to 52,380.66, the S&P 500 lost 0.48% to 7,636.36, and the Nasdaq slid 0.64% to 26,253.34 — the third consecutive down day for all three benchmarks, with the Russell 2000 the worst performer at -1.32%. The proximate trigger was ironic: Treasury Secretary Scott Bessent tripled the size of the long-end buyback operation to $6bn, an intervention explicitly designed to cap borrowing costs, but yields did the opposite — the 10-year note yield jumped to 4.857%, its highest level since November 2023, as investors read the move as confirmation the Treasury is worried about demand at the long end rather than as reassurance. Stan Druckenmiller's warning from earlier this year — that governments defending prices against fundamentals always lose, the only variable is how much they spend before conceding — is getting a live test. This is a genuine cross-asset event: equities down, yields up, in the same session gold is drifting and the dollar is directionless, exactly the kind of simultaneous multi-asset repricing that matters most for macro books. It also lands one week before the September 16 FOMC decision and two days ahead of Friday's CPI, so duration and equity desks are now trading policy-credibility risk on top of the usual data risk.",
+          "source": "CNBC, Yahoo Finance, NBC News",
+          "time": "16:00 ET (close)"
+        },
+        {
+          "stars": 2,
+          "headline": "10Y note auction stops through despite yield stress — bid-to-cover highest since 2016",
+          "detail": "Wednesday's 10-year note auction cleared at a high yield of 4.834%, a level unseen since August 2007, but demand was exceptionally strong: the bid-to-cover ratio came in at 2.71, the highest since April 2016, and the auction stopped through the when-issued yield by 1.5bp — the final clearing yield printed lower than where the market was trading just before the auction. Indirect bidders, the category capturing foreign central banks and overseas institutions, took a striking 79.2% of the offering, while primary dealers were left holding just 4.3%. That combination — record yields but record demand — is the key technical counter-narrative to the buyback-backfire story above: foreign real-money buyers are still willing to step in at these levels, which argues the sell-off is a fiscal-credibility repricing rather than a genuine buyers' strike. Thursday's 30-year bond auction is now the next test of whether that appetite extends to the long end, where the buyback operations are concentrated.",
+          "source": "TreasuryDirect, Boock Report, web search synthesis",
+          "time": "13:00 ET (auction results)"
+        },
+        {
+          "stars": 3,
+          "headline": "Iran-US Hormuz conflict escalates further — Jordan base hit, ten ships attacked",
+          "detail": "The Gulf conflict widened meaningfully during the US session: after CENTCOM said it had destroyed five Iranian oil tankers over the weekend, Iran responded by striking the US-linked Al-Azraq base in Jordan and attacking ten ships near the Strait of Hormuz. This is a step up from ship-on-ship skirmishing to a direct strike on sovereign territory hosting US forces, which raises the odds of a broader US response rather than a contained tanker exchange. Brent's push toward $100/bbl and WTI's climb to $94.24 (+3.0%) are the most direct market expression, but the read-through is genuinely cross-asset: oil-linked inflation expectations are feeding into the same Treasury sell-off hitting duration, gold's muted reaction (still drifting near $4,400 despite the escalation) tells multi-asset desks positioning is already stretched, and the dollar's rangebound behavior suggests FX hasn't yet decided whether this is a risk-off or an inflation-up regime. Fixed income and multi-asset books should treat the Jordan strike as the clearest signal yet that this conflict is not de-escalating into the ECB's Thursday decision or the Fed's September 16 meeting.",
+          "source": "Al Jazeera, CNBC, NPR",
+          "time": "throughout US session"
+        },
+        {
+          "stars": 2,
+          "headline": "Energy extends its 2026 outperformance; Chevron hits a fresh all-time high",
+          "detail": "Chevron shares touched an all-time high of $214.85 intraday, giving the company a $417bn market cap, as the energy sector continued to be the standout S&P 500 performer of the year — up roughly 9% over the past 30 days alone as Hormuz-linked supply fears keep a bid under crude. The Hess acquisition continues to underpin the bull case, having handed Chevron exposure to Guyana's low-cost, high-return offshore fields just as the broader complex re-rates on geopolitical risk. This is the clean equity-market hedge against the same oil shock that's hurting consumer discretionary and adding to inflation pressure into Friday's CPI — multi-asset books running long energy against short duration or long inflation breakevens have had the trade working in their favor for weeks now, not just today.",
+          "source": "Investing.com, 24/7 Wall St., Benzinga",
+          "time": "session"
+        },
+        {
+          "stars": 2,
+          "headline": "VIX sits near 16.4 — notably calm given the yield spike and the Jordan strike",
+          "detail": "The CBOE Volatility Index traded in a 15.57-16.68 range Wednesday, ending near 16.4 — hardly the reading one would expect on a day combining a 10-year yield at a three-year high, oil pushing toward $100, and a direct Iranian strike on a US-linked base in Jordan. That's consistent with the broader 2026 pattern: the year is on pace to be the only one in at least 30 years with zero 80%-plus NYSE downside-volume days (days when 80%+ of trading volume comes from declining stocks), versus 49 such days in 2008 and 33 in 2022. For multi-asset and vol-selling strategies, this gap between headline stress and realized/implied volatility is itself the signal — either markets have become genuinely desensitized to this specific conflict after six months of it, or complacency is building into a data-heavy back half of the week (PPI Thursday, CPI Friday, a 30-year auction Thursday) that could puncture it quickly.",
+          "source": "CNBC, Kobeissi Letter (X)",
+          "time": "16:00 ET (close)"
+        },
+        {
+          "stars": 2,
+          "headline": "Alphabet drops on renewed youth-addiction litigation risk",
+          "detail": "Alphabet shares fell as much as 3.18% intraday (settling down roughly 2.2%) after a US appeals court cleared the way for 2,400 to 3,000-plus youth-addiction lawsuits to proceed against major platforms, putting Meta, Google, Snap and TikTok under renewed legal and regulatory pressure. The ruling reopens a liability overhang that had been dormant for markets even as Alphabet's underlying numbers stay strong (revenue near $402.8bn trailing twelve months, gross margins above 80%). This is a genuine single-name-with-sector-read-through move — Meta and Snap are trading off the same legal theory — and it lands the same day Salesforce and other software names are separately selling off on AI-disruption fears, giving the mega-cap tech complex two distinct negative catalysts in one session rather than one broad risk-off move.",
+          "source": "MarketBeat, TimothySykes, ad-hoc-news.de",
+          "time": "session"
+        },
+        {
+          "stars": 2,
+          "headline": "Salesforce, ServiceNow, Intuit extend the AI-disruption software selloff",
+          "detail": "Software names remained under pressure into Wednesday after Tuesday's roughly 4% drop in Salesforce, 5% in ServiceNow and 4% in Intuit on the back of OpenAI's GPT-6 Astra launch, which investors are reading as another concrete step toward general AI systems displacing specialized enterprise software rather than just augmenting it. The S&P 500 software and services index fell 1.4% on the initial move and the theme has legs — this is the same fear cycle that has hit the group repeatedly since GPT-5-class models arrived, and each new model release is now functioning as a software-sector volatility event in its own right. For L/S and multi-asset desks, the split between AI infrastructure winners (semis, hyperscaler capex) and AI application-layer losers (SaaS incumbents) is one of the highest-conviction sector pair trades running through the market right now, and today's Alphabet and semiconductor moves sit on opposite sides of exactly that line.",
+          "source": "Martech Notes, Quiver Quantitative, ad-hoc-news.de",
+          "time": "session (continuation from Tue)"
+        },
+        {
+          "stars": 2,
+          "headline": "Semiconductors outperform broader tech — Intel +4.7%, SOXX +1.7%",
+          "detail": "The iShares Semiconductor ETF (SOXX) rose 1.7% even as software names slid, with Intel up 4.7%, Broadcom up 1.1% and Nvidia up 0.7%, extending Nvidia's momentum since its fiscal Q2 beat-and-raise on August 26 sent the stock up nearly 9% the following session. The divergence from the Salesforce/ServiceNow AI-disruption selloff on the same day is the point: the market is telling a consistent story where AI infrastructure (chips, capex-linked hardware) keeps winning while AI application-layer incumbents keep losing, and today is a clean illustration of that rotation happening within tech rather than tech trading as a single bloc. Multi-asset and thematic desks should note this split is now persistent enough — recurring across multiple GPT-release-driven selloffs this year — to be treated as a structural rotation, not a one-day quirk.",
+          "source": "MarketBeat, Yahoo Finance",
+          "time": "session"
+        },
+        {
+          "stars": 1,
+          "headline": "Apple unveils foldable iPhone Duo; stock dips ~1% under new CEO Ternus",
+          "detail": "Apple's Cupertino event — the first product launch under new CEO John Ternus following Tim Cook's September 1 handover after nearly 15 years — unveiled the foldable iPhone Duo, a new Apple Watch Health Sensing System, and the $799 Apple Watch Ultra 4. The stock fell about 1% immediately after the foldable reveal and traded in a $312-318 range on the day, consistent with KeyBanc's pre-event warning that the launch could be a negative near-term catalyst as investors weigh pricing against higher input costs and margin impact. Historically Apple has shown a sell-the-news pattern around launch events before recovering over the following 30-60 days (shares have risen in the 60 days after 17 of the last 19 reveal-day events), so today's dip is more color than a fresh trend for now.",
+          "source": "MacRumors, CoinPedia, Vantage Markets",
+          "time": "10:00-13:00 PT / 19:00-22:00 CET"
+        },
+        {
+          "stars": 1,
+          "headline": "Nike exits the S&P 100 after an 18-year run, stock near a 12-year low",
+          "detail": "Nike will be removed from the S&P 100 before trading opens on September 21, ending an 18-year run in the index as the stock trades near a 12-year low. The company's market value has collapsed from roughly $264bn at its November 2021 peak to about $57bn today — an approximately 80% drawdown — and the CEO's recent sale of over 9,000 shares hasn't helped sentiment. There's no single fresh catalyst today (shares were roughly flat, -0.4%), but the index removal is a structural, passive-flow-relevant event: index funds tracking the S&P 100 will need to sell the name mechanically over the next two weeks, adding technical pressure on top of the fundamental decline.",
+          "source": "Washington Times, Fortune, Motley Fool",
+          "time": "n/a (index change effective Sept 21)"
+        },
+        {
+          "stars": 2,
+          "headline": "Copper grinds toward record highs on Chile/Peru supply strain and China demand",
+          "detail": "Copper touched $6.73/lb, up 0.55% on the day and 48.7% year-over-year, with LME cash copper near its second-highest close on record around $14,737/tonne. The driver is a genuine supply-demand squeeze rather than a single headline: Chile and Peru together supply roughly 40% of world copper but both face permitting delays and cost inflation slowing new mine output, while China's grid and energy-transition-linked infrastructure spending continues to anchor demand even as its property sector stays weak. Freeport-McMoRan and Southern Copper have been the highest-beta equity expressions of the move, both up mid-single-digit percentages this week. Silver is riding a similar dynamic, trading near $66.61/oz (+1.3%) and up nearly 62% year-over-year — the base-and-precious-metals complex is one of the cleanest higher-for-longer-inflation, tight-supply trades in the market right now, showing up in equity, futures and LME cash markets simultaneously.",
+          "source": "Rio Times, TradingEconomics, Fortune",
+          "time": "session"
+        },
+        {
+          "stars": 1,
+          "headline": "Gold stays anchored near $4,400/oz despite the Hormuz escalation",
+          "detail": "Spot gold continued to trade in the low-$4,400s through the US session, essentially unmoved even as the Jordan strike and oil's push toward $100 gave it every reason to spike on fresh haven demand. That's the same muted-reaction dynamic flagged in Europe earlier in the day, persisting into the US afternoon: positioning looks stretched after this year's huge run (gold is still well off January's $5,597 record), and steady central-bank buying (the PBoC alone added 20 tonnes in August) is providing more of a floor than a catalyst for fresh highs. The lack of follow-through is itself the signal for macro funds — a genuine geopolitical escalation that doesn't move gold tells you positioning, not headlines, is currently driving the metal.",
+          "source": "TradingEconomics, web search synthesis",
+          "time": "session"
+        },
+        {
+          "stars": 2,
+          "headline": "Credit market bifurcation widens — broad HY tight, CCC tier stressed",
+          "detail": "Broad high-yield spreads (HYG option-adjusted spread around 240bp as of early September) remain historically tight, and the HYG/LQD credit ratio has been sitting in tight, risk-on territory for over a month. But CCC-and-below OAS is running at 10.31%, the 96th percentile of its available history since 2023, showing real dispersion beneath the aggregate calm — the weakest-quality issuers are being priced for stress even as the broad index looks fine. That split matters directly for L/S credit and multi-asset books: an index-level tight-credit read would be actively misleading right now, and the CCC tier is the part of the market most exposed if the Treasury-buyback-driven rate shock persists or the Fed leans hawkish on September 16.",
+          "source": "Macrotrends, thetrading.tools",
+          "time": "as of early September, ongoing"
+        },
+        {
+          "stars": 2,
+          "headline": "CTA/systematic funds sit at record rate-sensitivity into PPI/CPI",
+          "detail": "UBS estimates CTAs now stand to gain or lose roughly $300m in P&L for every one-basis-point move in the 10-year Treasury yield — the largest sensitivity in the bank's data going back to 1990 — after the group built up short duration exposure through the recent bond selloff. BofA separately estimates that if the tape turns down further, these funds could be forced to sell up to $73bn of equities over the coming week as trend signals flip, a mechanical amplifier on top of any fundamental selling. That combination — maximum rate sensitivity plus a large potential equity-selling trigger — is exactly the setup fixed income and multi-asset desks should be watching into Thursday's PPI and Friday's CPI: a hot print that extends today's yield spike risks a two-way squeeze (bond losses plus CTA-driven equity selling) rather than a contained single-asset move.",
+          "source": "Hedgeweek, Yahoo Finance, Investing.com",
+          "time": "ongoing (positioning data as of early September)"
+        },
+        {
+          "stars": 2,
+          "headline": "Fed's September 16 decision now a coin flip; PPI Thursday and CPI Friday are the swing factor",
+          "detail": "Rate-hike odds for next week's September 16 FOMC meeting sit roughly 48-56% depending on the source, down from near-70% odds of a hold before Fed Chair Kevin Warsh's hawkish Jackson Hole remarks on August 28, but Governor Christopher Waller partially walked that back on September 3 by saying he'd support holding rates if disinflation continues and flagging that his own vote is heavily influenced by this week's inflation data. That sets up Thursday's PPI and Friday's CPI as the most consequential data prints of the month — a hot read tips the committee toward Warsh's hawkish camp and validates today's Treasury-buyback-driven yield spike, while an in-line or soft read gives Waller's hold camp the numbers it needs. No major US data was released today itself, which is why the session traded almost entirely on the buyback/auction and Iran headlines rather than fresh economic releases.",
+          "source": "Chase, CNBC, PBS News",
+          "time": "n/a (data due Thu/Fri)"
+        },
+        {
+          "stars": 1,
+          "headline": "EM equities caught between AI/commodity tailwinds and a squeezed carry trade",
+          "detail": "The iShares MSCI Emerging Markets ETF (EEM) traded around $67.49 with a 1.66% dividend yield, reflecting a market that's structurally bullish — Asian AI names and Latin American commodity exporters are cited as the drivers of a broader 2026 EM rally — but tactically squeezed by the US rates backdrop, since the 10-year sitting near 4.8-4.9% keeps global borrowing costs elevated and makes EM carry trades less attractive. That's happening precisely as the currency board shows a mixed-to-positive session for Latin American currencies like the real and Chilean peso against a directionless dollar. The read-through from the US session is that EM performance today is being driven more by the commodity complex (copper, given the Chile/Peru dynamic above) than by risk sentiment around the Iran conflict, a useful distinction for EM desks trying to separate structural allocation flows from headline-driven noise.",
+          "source": "Rio Times, Yahoo Finance",
+          "time": "session"
+        },
+        {
+          "stars": 1,
+          "headline": "Dollar index rangebound as yen strength persists on BoJ tightening bets",
+          "detail": "The DXY traded in a narrow band around 98.6-98.8, essentially directionless on the day even against a backdrop of a US yield spike that would typically be dollar-supportive, as continued yen strength — up roughly 5% against the dollar over the past month to its highest levels since early February — offsets the rate story. The move reflects growing expectations of more aggressive Bank of Japan tightening and continued unwinding of yen-funded carry trades, a slow-burn theme rather than a fresh today-specific catalyst. FX desks should note the dollar's failure to rally on today's yield spike is itself informative — it suggests the move is being read as a fiscal-credibility story (bad for the dollar) rather than a purely hawkish-Fed story, which would normally support it.",
+          "source": "TradingEconomics, Investrade",
+          "time": "session"
+        },
+        {
+          "stars": 1,
+          "headline": "M&A tape stays thin in the US session as well",
+          "detail": "No fresh large-cap US deal was announced during Wednesday's session; the only sizeable transaction in the window was WaFd Inc.'s $3.9bn reverse merger with EverBank Financial, announced the prior day (September 8), not today. Combined with Europe's similarly thin dealmaking day, it suggests corporate boards and advisors are waiting out the geopolitical and rates volatility (the Iran escalation, the buyback-driven yield spike, and the Fed decision a week out) before committing to large transactions. Flagging this plainly rather than padding it: there is no material US M&A story for today's panel.",
+          "source": "Web search (no corroborating large-cap US deal found for the date)",
+          "time": "n/a"
+        },
+        {
+          "stars": 1,
+          "headline": "2s10s curve continues to bear-steepen, consistent with a fiscal- not growth-driven selloff",
+          "detail": "The 2s10s spread sits around 40bp and has been widening, with the move driven by the long end selling off faster than the front end — a bear-steepening pattern that reflects term-premium and fiscal-credibility concerns (the buyback story above) rather than growth optimism, which would typically show up as a bull steepener with front-end cuts pulling the curve the other way. For rates desks, this distinction matters for how to trade the curve into the Fed decision: a fiscal-driven bear steepener argues for staying long the front end and short/duration-light at the long end until the buyback and auction dynamics stabilize.",
+          "source": "MacroRadar, centralbank.watch",
+          "time": "session"
+        }
+      ]
     }
   }
 }
