@@ -3,20 +3,198 @@
   "summary": "",
   "indicators": {
     "asia": [
-      {"category": "Equities", "label": "Nikkei 225", "value": "~64,600", "change": "-1%", "direction": "down"},
-      {"category": "Equities", "label": "Hang Seng", "value": "24,913", "change": "-1.43%", "direction": "down"},
-      {"category": "Equities", "label": "Kospi", "value": "7,033.92", "change": "-0.25%", "direction": "down"},
-      {"category": "Equities", "label": "ASX 200", "value": "8,819", "change": "-1%", "direction": "down"},
-      {"category": "FX", "label": "USD/JPY", "value": "153.38", "change": "-0.1%", "direction": "down"},
-      {"category": "FX", "label": "USD/CNY (PBOC fixing)", "value": "6.7766", "change": "strongest fixing since Feb 2023", "direction": "down"},
-      {"category": "FX", "label": "AUD/USD", "value": "0.7220", "change": "flat", "direction": "flat"},
-      {"category": "FX", "label": "USD/INR", "value": "95.16", "change": "+0.05%", "direction": "up"},
-      {"category": "Commodities", "label": "Gold", "value": "$4,406/oz", "change": "+0.18%", "direction": "up"},
-      {"category": "Commodities", "label": "Brent crude", "value": "$101.21", "change": "+3.4%", "direction": "up"},
-      {"category": "Commodities", "label": "Copper", "value": "$6.76/lb", "change": "-0.66%", "direction": "down"},
-      {"category": "Rates", "label": "JGB 10Y", "value": "2.93%", "change": "+5bp", "direction": "up"}
+      {
+        "category": "Equities",
+        "label": "Nikkei 225",
+        "value": "~64,600",
+        "change": "-1%",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "Hang Seng",
+        "value": "24,913",
+        "change": "-1.43%",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "Kospi",
+        "value": "7,033.92",
+        "change": "-0.25%",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "ASX 200",
+        "value": "8,819",
+        "change": "-1%",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "USD/JPY",
+        "value": "153.38",
+        "change": "-0.1%",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "USD/CNY (PBOC fixing)",
+        "value": "6.7766",
+        "change": "strongest fixing since Feb 2023",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "AUD/USD",
+        "value": "0.7220",
+        "change": "flat",
+        "direction": "flat"
+      },
+      {
+        "category": "FX",
+        "label": "USD/INR",
+        "value": "95.16",
+        "change": "+0.05%",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "Gold",
+        "value": "$4,406/oz",
+        "change": "+0.18%",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "Brent crude",
+        "value": "$101.21",
+        "change": "+3.4%",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "Copper",
+        "value": "$6.76/lb",
+        "change": "-0.66%",
+        "direction": "down"
+      },
+      {
+        "category": "Rates",
+        "label": "JGB 10Y",
+        "value": "2.93%",
+        "change": "+5bp",
+        "direction": "up"
+      }
     ],
-    "europe": [],
+    "europe": [
+      {
+        "category": "Equities",
+        "label": "FTSE 100",
+        "value": "10,637",
+        "change": "-0.6%",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "DAX",
+        "value": "~25,600",
+        "change": "-0.4%",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "CAC 40",
+        "value": "~8,280",
+        "change": "-0.2%",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "IBEX 35",
+        "value": "19,659.8",
+        "change": "-0.18%",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "STOXX 600",
+        "value": "637.73",
+        "change": "-0.5%",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "EUR/USD",
+        "value": "1.1624",
+        "change": "-0.09%",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "GBP/USD",
+        "value": "1.3542",
+        "change": "+0.03%",
+        "direction": "flat"
+      },
+      {
+        "category": "FX",
+        "label": "EUR/GBP",
+        "value": "—",
+        "change": "little changed",
+        "direction": "flat"
+      },
+      {
+        "category": "FX",
+        "label": "USD/TRY",
+        "value": "48.48",
+        "change": "+0.07%",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "USD/ZAR",
+        "value": "16.03",
+        "change": "flat/firmer",
+        "direction": "flat"
+      },
+      {
+        "category": "FX",
+        "label": "USD/PLN",
+        "value": "3.71",
+        "change": "flat",
+        "direction": "flat"
+      },
+      {
+        "category": "Commodities",
+        "label": "Gold",
+        "value": "~$4,380/oz",
+        "change": "choppy, near cycle highs",
+        "direction": "flat"
+      },
+      {
+        "category": "Commodities",
+        "label": "Brent crude",
+        "value": "$105/bbl",
+        "change": "+4.4%",
+        "direction": "up"
+      },
+      {
+        "category": "Rates",
+        "label": "Bund 10Y",
+        "value": "3.44%",
+        "change": "highest since Apr 2011",
+        "direction": "up"
+      },
+      {
+        "category": "Rates",
+        "label": "Gilt 10Y",
+        "value": "5.295%",
+        "change": "highest since Aug 2007",
+        "direction": "up"
+      }
+    ],
     "us": []
   },
   "sessions": {
@@ -132,8 +310,136 @@
       ]
     },
     "europe": {
-      "status": "pending",
-      "items": []
+      "status": "done",
+      "generated_at": "2026-09-10T18:45:00+02:00",
+      "items": [
+        {
+          "stars": 3,
+          "headline": "ECB hikes deposit rate 25bp to 2.50%, its second increase in three months, as the Iran war energy shock forces policymakers' hand",
+          "detail": "The Governing Council lifted the deposit facility rate to 2.50% (main refi to 2.65%, marginal lending to 2.90%), a move all 65 economists surveyed by Reuters had expected but one that still counts as a genuine policy event given it is only the ECB's second hike since the tightening cycle resumed. New staff projections now see headline inflation averaging 3.0% in 2026, 2.5% in 2027 and 2.1% in 2028 -- an upward revision driven almost entirely by the oil and gas shock from the widening Iran-Israel-US conflict -- while the 2026 growth forecast was nudged up to 0.9% from 0.8% on resilient labour markets. Lagarde called the hike a \"no brainer\" and flagged that risks to the inflation outlook are skewed to the upside, specifically citing the Middle East conflict and the war in Ukraine, and said inflation is now set to stay well above target for an extended period with a return to 2% not expected until toward the end of2027. Money markets responded by pricing roughly two further 25bp hikes by April 2027, a materially more hawkish path than before the meeting. For rates and multi-asset desks this is the read-through story of the day: a central bank explicitly accommodating an energy-driven inflation overshoot rather than looking through it, which is exactly the kind of geopolitically-driven policy shift that reprices duration, the euro and European risk assets simultaneously.",
+          "source": "Bloomberg, Euronews, FXStreet, Reuters",
+          "time": "14:15 / 14:45 CET (decision / press conference)"
+        },
+        {
+          "stars": 3,
+          "headline": "Brent tops $105 as Iran-US Gulf war widens to Saudi energy infrastructure, extending the multi-asset shock from the Asia session",
+          "detail": "Brent crude surged as much as 4.4% intraday to touch $105.71 -- its highest level in months and a fresh leg higher on top of the overnight move that already took the region to five-month highs -- after Iran-backed Houthi militants struck several Saudi Arabian energy facilities, temporarily suspending some operations and broadening the conflict beyond the Strait of Hormuz standoff. Iran has separately said it is ready for a more intense conflict and will keep resisting the US naval blockade, with no near-term de-escalation in sight. The move is compounding, not just repeating, the shock European desks were already trading into the ECB meeting: it is the direct mechanical driver behind today's Bund and gilt yield spikes, the euro's whipsaw, and the ECB's own upgraded inflation projections. Brent is now up nearly 14% over the past month and over 50% year-on-year, a scale of move that is starting to function as its own macro shock independent of the underlying geopolitical headlines, feeding through into shipping, freight and refining-margin pricing across the region. With gas markets also elevated, the energy channel into European inflation is now running on two fronts (oil and gas) simultaneously, which is precisely why it is being treated as a multi-asset event rather than a single-sector story.",
+          "source": "Fortune, Convex, Bloomberg",
+          "time": "through the European session"
+        },
+        {
+          "stars": 2,
+          "headline": "UK 10-year gilt yield hits 5.295%, its highest since August 2007, as the global bond selloff intensifies",
+          "detail": "Benchmark 10-year gilt yields surged to the highest level in more than 19 years, with 2-year yields up 2bp to 4.742% (highest since November 2023) and 5-year yields at their highest since September 2023, as the oil spike above $100 reinforced fears that UK inflation will stay stickier for longer. Despite the selloff, demand held up: the DMO's auction of £5bn of 4.625% May-2030 gilts drew a robust £16.2bn in bids, with the average accepted yield of 4.786% the highest since October 2023 -- a sign this is a genuine global rates repricing rather than a UK-specific funding scare. The move sits on top of a run of already-elevated long gilt yields (30-year paper hit 5.89% on September 1, a 28-year high, and a recent 30-year syndication priced at 5.8168%, the richest DMO yield since the agency was founded in 1998), keeping the prospect of tax rises at the autumn Budget firmly in play. For rates and multi-asset allocators this is now a persistent, not episodic, story: UK long-end funding costs are compounding the ECB's own hawkish signal today, and both are being driven by the same energy shock.",
+          "source": "Global Banking & Finance, TechTimes, IndexBox, Bloomberg",
+          "time": "through the session"
+        },
+        {
+          "stars": 2,
+          "headline": "German Bund 10-year yield tests its highest level since April 2011, above 3.4%, into the ECB decision",
+          "detail": "The Bund yield held around 3.44%, up roughly 28bp over the past month and 79bp year-on-year, as investors positioned for the ECB hike and, more importantly, for the hawkish guidance that followed it. With money markets now pricing two further quarter-point ECB moves by April 2027, the Bund curve is repricing a genuinely longer tightening path rather than a one-and-done hike, which is the more consequential move for duration books than the widely-telegraphed 25bp itself. The synchronized rise in Bund and gilt yields alongside the equity selloff and the euro's choppy reaction is the clearest evidence that today's price action is a single macro trade -- higher-for-longer European rates on an energy-inflation shock -- expressed across three asset classes at once, rather than three separate stories.",
+          "source": "Trading Economics, FXStreet",
+          "time": "European session, ahead of 14:15 CET decision"
+        },
+        {
+          "stars": 2,
+          "headline": "FTSE 100 slides to a seven-week low as Associated British Foods tumbles 8.2% on a weak Primark update",
+          "detail": "London's benchmark fell as much as 1.31% intraday to 10,670.06 before settling around a 0.6% decline on the day, its worst close since late July, with Associated British Foods the single biggest drag after its Q4 trading update showed Primark like-for-like sales set to decline 3% in the quarter, driven by a 4.3% drop in continental Europe that swamped a marginal 0.4% UK/Ireland gain. Jefferies called it \"a muted end to the year for Primark led by underwhelming Europe sales\" and flagged a downbeat outlook, while ABF's Sugar division guided toward the high end of its £25m-£60m adjusted operating loss range on higher gas costs and weak European sugar prices -- a direct read-through from the same energy shock driving the rest of today's tape. The broader index move was compounded by the oil-driven rate-hike worries hitting every UK cyclical, making this a case of an idiosyncratic single-name miss landing on top of an already fragile macro backdrop.",
+          "source": "Panthere Group, Investing.com, Seeking Alpha",
+          "time": "close"
+        },
+        {
+          "stars": 2,
+          "headline": "STOXX 600 falls to near two-month lows as ECB hawkishness outweighs the relief of a widely-expected hike",
+          "detail": "The pan-European STOXX 600 slid roughly 0.5% to 637.73, with Germany's DAX down about 0.4%, France's CAC 40 off 0.2%, and Spain's IBEX 35 down 0.18% to 19,659.8 -- Italy's FTSE MIB was the outlier, roughly flat to slightly positive on the day. Index-level moves were relatively contained in isolation, but the pattern (broad, moderate declines across every core market, worst in the UK and Germany) is consistent with a rates-led de-rating rather than a single-sector rotation: European equities are digesting a central bank that just raised its inflation forecasts and left the door open to two more hikes, at the same time bond yields are hitting multi-year and multi-decade highs. This is the second straight session of losses for the region after the biggest two-day selloff in two months, and index levels are now testing support built up since the summer.",
+          "source": "Yahoo Finance, Investing.com, Estrategias de Inversión, Bolsamania",
+          "time": "close, ~17:30 CET"
+        },
+        {
+          "stars": 2,
+          "headline": "EUR/USD whipsaws around the ECB decision, popping to a one-month high before fading as Lagarde's guidance is parsed as only moderately hawkish",
+          "detail": "The euro touched $1.164, its strongest level since late August, running into the ECB meeting, before slipping back to trade around $1.1624 (down about 0.09% on the day) once Lagarde's press conference was digested. The pair's round trip illustrates a classic \"sell the fact\" dynamic: the hike itself was fully priced, so the trade was always going to be about how explicitly Lagarde linked future policy to the oil shock, and a press conference read as leaving genuine two-sided optionality (hawkish inflation projections, but resilient-growth language that stopped short of pre-committing to a fixed hiking path) left the currency without a clean directional catalyst. FX desks are treating Thursday's US PPI print and Friday's US CPI as the next real test for the pair, given the Fed's own September 15-16 meeting is now only days away.",
+          "source": "DailyForex, ExchangeRates.org.uk, LiteFinance",
+          "time": "through the session, post-14:45 CET"
+        },
+        {
+          "stars": 2,
+          "headline": "Sterling holds firm near $1.355-1.356 as a hawkish BoE narrative offsets ECB-driven euro strength",
+          "detail": "GBP/USD traded in a tight range around 1.3542-1.3558, recovering from an earlier dip to 1.3530, as hawkish Bank of England commentary and firming Fed rate-hike bets pulled the pair in opposite directions and largely cancelled each other out. EUR/GBP was little changed heading into the ECB decision, with sterling's resilience notable given the gilt market is simultaneously pricing the most aggressive UK rate path in nearly two decades. The next real catalyst for the cross is Thursday's US CPI print, which will shape both the Fed's September 15-16 decision and, by extension, the relative BoE-Fed-ECB policy gap that has been driving G10 FX all week.",
+          "source": "Vantage Markets, ExchangeRates.org.uk",
+          "time": "through the session"
+        },
+        {
+          "stars": 2,
+          "headline": "Poland's NBP holds rates at 3.75%; zloty under pressure with Governor Glapinski's press conference the next catalyst",
+          "detail": "The National Bank of Poland left its policy rate unchanged at 3.75% on Wednesday with little fresh guidance in the statement, leaving markets focused on Governor Adam Glapinski's press conference at 15:00 local time today. EUR/PLN has pushed toward 4.35 as the broader risk-off mood and record European gas prices weigh on the currency, though ING and other desks see the move as likely short-lived given money markets are already pricing around 85bp of tightening -- a high bar for Glapinski to clear hawkishly, and one that could instead trigger a modest unwind back toward 4.32 if he underwhelms. The broader CEE region (Poland and the Czech Republic both pricing roughly 80bp of tightening) faces the same dynamic as the eurozone: further hawkish repricing compresses rate differentials with the ECB and adds fresh pressure on regional currencies just as they're also absorbing the energy-shock terms-of-trade hit.",
+          "source": "FXStreet, ING THINK, VT Markets",
+          "time": "NBP decision Sept 9; Glapinski presser 15:00 CET today"
+        },
+        {
+          "stars": 2,
+          "headline": "Volkswagen's surprise turnaround deal continues to underpin German auto sentiment after averting a union and Lower Saxony showdown",
+          "detail": "VW shares jumped as much as 6% earlier this week after the supervisory board struck an unanimous, last-minute agreement on the biggest restructuring in the company's 89-year history -- a further 50,000 job cuts (bringing the total to 100,000) in exchange for effectively shelving plans to split the passenger-car and components divisions into separate legal entities, and leaving open (rather than confirming closure of) the future of the Emden, Hanover, Zwickau and Neckarsulm plants. IG Metall had promised to fight any cuts with \"all our might\" just days earlier, and Lower Saxony -- VW's second-largest shareholder -- had also opposed the plan, so the unanimous board vote materially de-risks what had been shaping up as a messy, drawn-out labour confrontation. The broader European autos index rose about 1.1% on the news, and the deal remains a live reference point for how European industrials investors are pricing restructuring execution risk into year-end, particularly relevant given today's macro backdrop adds fresh input-cost (oil) and financing-cost (rates) pressure onto the same sector.",
+          "source": "Reuters (Investing.com), TimesLIVE, FMT",
+          "time": "deal struck Sept 4-7, still trading through today"
+        },
+        {
+          "stars": 2,
+          "headline": "USD/TRY grinds toward fresh multi-month highs near 48.48 as the lira's structural depreciation continues",
+          "detail": "USD/TRY traded around 48.4758, a touch above Wednesday's 48.4412 close, extending a slide that has taken the lira down roughly 1.6% over the past month and about 17.5% over the past year. The CBRT has held its policy rate restrictive (last set at 37%) with a stated 2026 disinflation path toward 13-19%, and today's oil spike is an incremental headwind for Turkey's energy-import bill and current account, adding to the currency's structural grind lower. This remains a slow, managed depreciation rather than a disorderly move, but it is a clean, ongoing FX-flow and carry-trade consideration for anyone running EM/periphery Europe currency exposure.",
+          "source": "Investing.com, TradingEconomics",
+          "time": "European session"
+        },
+        {
+          "stars": 1,
+          "headline": "South African rand steady near 16.00-16.04 as traders await mining and manufacturing data with a possible SARB hike in view",
+          "detail": "USD/ZAR traded around 16.0250, with the rand roughly flat to marginally firmer, as investors looked past a disappointing 2Q26 GDP contraction and toward upcoming domestic manufacturing, current account and mining data. South African CPI eased to 4.3% in July from 5% in June, but speculation is building around a possible 25bp SARB hike at the September 23 meeting given elevated fuel prices tied to the global oil move. Nedbank flagged that the rand is unlikely to sustainably strengthen below R16/USD while the Fed stays cyclically hawkish, framing today's stability as more a pause than a trend change.",
+          "source": "CNBC Africa, Business Recorder",
+          "time": "European/early session"
+        },
+        {
+          "stars": 1,
+          "headline": "Gold eases back from Asia-session highs to trade choppily around $4,365-4,400/oz",
+          "detail": "Spot gold gave back some of its overnight safe-haven bid, trading in a wide $4,340-$4,448 range through the day as investors weighed the ECB decision and positioned ahead of Thursday's US PPI print and Friday's CPI. With oil now carrying much of the day's geopolitical risk premium, gold's relatively muted reaction suggests a good portion of the Middle East escalation is already priced in, though futures remain not far from cycle highs and would likely re-catch a bid on any further escalation (a wider Hormuz disruption, for instance) or a more dovish Fed signal next week.",
+          "source": "Yahoo Finance, CNBC, Kitco",
+          "time": "through the session"
+        },
+        {
+          "stars": 1,
+          "headline": "European banks hold up better than the broader tape, STOXX Banks little changed near 316-318",
+          "detail": "The STOXX Europe Banks index opened around 316.44 and traded in a narrow band up to roughly 318.71, broadly resilient even as the wider STOXX 600 slid to two-month lows. Higher-for-longer ECB rate expectations are a net positive for bank net interest margins, which appears to be offsetting the usual credit-quality concerns that accompany a growth-negative energy shock -- a divergence worth flagging for anyone running financials-vs-index relative value in the current macro regime.",
+          "source": "Trading Economics, Investing.com",
+          "time": "session"
+        },
+        {
+          "stars": 1,
+          "headline": "European luxury names, led by LVMH, remain stuck near multi-year lows as a slow-burn demand story rather than a today catalyst",
+          "detail": "LVMH continues to trade near levels last seen in 2020, down roughly 33% year-to-date and about 14% year-on-year, as weak high-end consumption -- particularly in China and the US -- keeps weighing on the sector even as the rest of the market focuses on today's rates and oil-driven moves. This is unchanged, multi-week context rather than a fresh development, but it remains relevant for anyone sizing European consumer-discretionary or luxury credit exposure, especially as a weaker euro (if the ECB's hawkish turn ultimately caps EUR/USD downside) would otherwise be a modest tailwind for repatriated luxury earnings.",
+          "source": "Investing.com, ad-hoc-news, TradingEconomics",
+          "time": "week-to-date context"
+        },
+        {
+          "stars": 1,
+          "headline": "Desks flag renewed European high-yield spread-widening risk as oil re-tests the highs that drove an 80bp move in February-March",
+          "detail": "The last time the Iran conflict drove Brent to comparable levels, European high-yield credit spreads widened roughly 80bp over February and March before partially retracing; with oil now back above $100 and the ECB explicitly citing the same conflict as an upside inflation risk, credit desks are watching for a repeat pattern rather than treating today's equity-led selloff as an isolated equity story. No confirmed today-specific iTraxx Crossover print was available at the time of writing, but the setup -- a renewed energy shock landing on top of a hawkish ECB -- is the kind of combination that has previously moved European credit, not just equities and rates, and is worth flagging for L/S credit and multi-asset macro allocators.",
+          "source": "Neuberger Berman, market commentary",
+          "time": "context, session"
+        },
+        {
+          "stars": 1,
+          "headline": "European dealflow ticks along: Tata Motors/Iveco Group, Trescal/SAICA-Airvento, and EU clearance for Prologis-NBIM's Grundbesitz Spectrum deal",
+          "detail": "Tata Motors' agreed acquisition of Iveco Group (announced September 7) remains one of the region's larger cross-border industrial deals this quarter, creating a bigger combined commercial-vehicles player and continuing to be digested by European autos and industrials investors alongside this week's Volkswagen news. Elsewhere, Trescal agreed to buy SAICA and Airvento, Prologis and Norges Bank Investment Management (NBIM) received EU approval for the Grundbesitz Spectrum logistics-asset transaction, and DFDS dropped its proposed deal for Naviera Armas. None of these are today-specific market-moving catalysts on their own, but they round out a reasonably active European M&A tape heading into year-end.",
+          "source": "MLex, Business Wire wires",
+          "time": "week-to-date"
+        },
+        {
+          "stars": 1,
+          "headline": "European natural gas prices near record levels add a second energy channel to today's inflation repricing",
+          "detail": "Alongside the Brent move, European gas markets remain near cycle highs -- flagged explicitly by CEE FX analysts as a factor pressuring the zloty and koruna via import bills -- meaning today's inflation shock to the ECB's own projections is being driven by both oil and gas simultaneously rather than oil alone. This dual-channel energy shock is one reason the ECB's revised 2026 inflation forecast (3.0%, up from its prior projection) moved as much as it did, and is a detail multi-asset and macro-rates desks should keep in the loop when assessing how sticky today's hawkish repricing is likely to prove into year-end.",
+          "source": "ING THINK, VT Markets",
+          "time": "context"
+        }
+      ]
     },
     "us": {
       "status": "pending",
