@@ -1,0 +1,143 @@
+{
+  "date": "2026-09-10",
+  "summary": "",
+  "indicators": {
+    "asia": [
+      {"category": "Equities", "label": "Nikkei 225", "value": "~64,600", "change": "-1%", "direction": "down"},
+      {"category": "Equities", "label": "Hang Seng", "value": "24,913", "change": "-1.43%", "direction": "down"},
+      {"category": "Equities", "label": "Kospi", "value": "7,033.92", "change": "-0.25%", "direction": "down"},
+      {"category": "Equities", "label": "ASX 200", "value": "8,819", "change": "-1%", "direction": "down"},
+      {"category": "FX", "label": "USD/JPY", "value": "153.38", "change": "-0.1%", "direction": "down"},
+      {"category": "FX", "label": "USD/CNY (PBOC fixing)", "value": "6.7766", "change": "strongest fixing since Feb 2023", "direction": "down"},
+      {"category": "FX", "label": "AUD/USD", "value": "0.7220", "change": "flat", "direction": "flat"},
+      {"category": "FX", "label": "USD/INR", "value": "95.16", "change": "+0.05%", "direction": "up"},
+      {"category": "Commodities", "label": "Gold", "value": "$4,406/oz", "change": "+0.18%", "direction": "up"},
+      {"category": "Commodities", "label": "Brent crude", "value": "$101.21", "change": "+3.4%", "direction": "up"},
+      {"category": "Commodities", "label": "Copper", "value": "$6.76/lb", "change": "-0.66%", "direction": "down"},
+      {"category": "Rates", "label": "JGB 10Y", "value": "2.93%", "change": "+5bp", "direction": "up"}
+    ],
+    "europe": [],
+    "us": []
+  },
+  "sessions": {
+    "asia": {
+      "status": "done",
+      "generated_at": "2026-09-10T10:30:00+02:00",
+      "items": [
+        {
+          "stars": 3,
+          "headline": "Iran-US Gulf escalation drives oil to five-month highs, hitting Asian risk assets across the board",
+          "detail": "Brent crude jumped 3.4% to $101.21, its highest settlement since May, and WTI rose toward $96, after the US said it destroyed several Iranian oil tankers and Iran retaliated by hitting tankers and firing a ballistic missile toward US warships patrolling near the Strait of Hormuz. The Strait has been effectively closed to normal commercial traffic since February 28 -- tracker data showed roughly six transits on August 30 versus a normal ~85 per day -- so today's exchange of strikes reads as an escalation of an existing crisis rather than a new shock. The move fed straight into every regional equity benchmark: ASX 200 -1%, Nikkei -1%, Hang Seng -1.4%, Kospi -0.25%, alongside a bid for gold and higher regional government bond yields. It's the same complex that drove US and European markets lower for a third straight session overnight and pushed the US 10-year to 4.857%, so Asia is now trading geopolitical risk premium on top of its own central bank calendars (BOJ September 17-18, RBA September 29). Iran has signaled it will intensify attacks if US strikes on its territory continue, with no near-term resolution in sight, so desks are pricing continued energy-led volatility into next week.",
+          "source": "ABC News, CNBC, Al Jazeera",
+          "time": "through the Asia session"
+        },
+        {
+          "stars": 2,
+          "headline": "ASX 200 posts worst session since June as every sector closes red",
+          "detail": "Australia's benchmark fell about 1% to roughly 8,819, its worst session since June, with all sectors and 148 of the top 200 constituents finishing lower (versus 40 winners) as the oil spike revived inflation concerns three weeks before the RBA's September 29 decision. Roughly A$32bn of market cap was wiped by the close, after an intraday hit of as much as A$50bn. NAB is now calling for a 25bp RBA hike in September to 4.6%, while ANZ, CBA and Westpac expect the move in November -- all four majors now see at least one more hike this year with trimmed-mean inflation still running at 3.6%, above the 2-3% target band. The broad-based nature of the selloff, with no sector spared, points to a macro/rates repricing rather than an idiosyncratic story, and leaves the index at a one-month low.",
+          "source": "ABC News, Investing.com",
+          "time": "16:00 AEST (close)"
+        },
+        {
+          "stars": 2,
+          "headline": "Nikkei falls for a third straight session as yen strength compounds the oil shock",
+          "detail": "Japan's Nikkei 225 dropped roughly 1% to below 64,600, its third consecutive losing session, as a stronger yen and higher oil weighed on exporters even as BOJ policy signaling turns more hawkish. USD/JPY eased to around 153.4, near its strongest level since February, after a reported ~$99.6bn joint US-Japan intervention over the past month plus mounting bets on a BOJ hike at the September 17-18 meeting. BOJ board member Kazuyuki Masu said Thursday the bank will keep raising its policy rate with inflation running close to 2%, echoing Governor Ueda's recent hints. It's a genuine double hit for exporters -- a stronger currency compresses translated earnings while pricier crude raises input costs -- and Toyota has flagged roughly Y50bn of operating income lost for every Y1 of yen appreciation.",
+          "source": "Japan Times, Bloomberg, Sunday Guardian",
+          "time": "15:00 JST (close)"
+        },
+        {
+          "stars": 2,
+          "headline": "Hang Seng drops 1.4% as tech mega-caps and financials both retreat",
+          "detail": "Hong Kong's Hang Seng fell 361 points (-1.43%) to 24,913, with the Hang Seng Tech index down nearly 2% to 4,333 as Alibaba (-3.7%), Meituan (-2.3%), Tencent (-1.8%), JD.com (-1.6%) and Kuaishou (-2.0%) all declined. Financials were not spared either -- HSBC -1.2%, AIA -1.4%, Ping An -1.4%, HKEX -0.8% -- pointing to a broad de-risking move rather than a sector rotation. The proximate trigger was negative carry-over from Wall Street's third straight down day and the jump in US Treasury yields, which pressures the relative valuation case for long-duration Chinese growth names. It's a reminder that Hong Kong-listed China plays remain highly correlated to US rates and risk sentiment even as onshore mainland indices have held up comparatively better this week on tech-sector strength.",
+          "source": "Dim Sum Daily, Trading Economics",
+          "time": "16:00 HKT (close)"
+        },
+        {
+          "stars": 1,
+          "headline": "Mainland China equities diverge from Hong Kong, with tech still doing the heavy lifting",
+          "detail": "Earlier this week the CSI 300 rose 0.6% and the Shanghai Composite added 0.2% to around 3,941, with the chip sector up 3.4% and the CSI 5G Communication index up more than 6% (Zhongji Innolight hit its 10% daily limit), while banks (-1.5%) and insurers (-2.5%) lagged after Beijing unveiled a $54bn bank capital-injection plan. A clean, confirmed print for today's mainland close was not available at the time of writing, but the split -- tech strength offsetting financial-sector softness -- has been the dominant theme in onshore China equities all week, in contrast to the outright risk-off in Hong Kong and the rest of the region. Desks sizing China exposure should note the divergence between onshore retail-driven tech enthusiasm and the same global oil/yield shock hitting Hong Kong- and Tokyo-listed names.",
+          "source": "Business Recorder, FMT, ChinaTechNews",
+          "time": "week-to-date context"
+        },
+        {
+          "stars": 2,
+          "headline": "Kospi outperforms regional peers as SK Hynix upgrade cushions the tape",
+          "detail": "South Korea's Kospi closed down just 17.72 points (-0.25%) at 7,033.92, a comparatively muted decline versus the roughly 1% drops in Tokyo and Sydney. Bank of America reiterated a Buy rating on SK Hynix this week with a $250 price target, citing tight memory supply and robust AI-driven demand; the stock has returned nearly 77% over three months. The relative resilience suggests Korean investors are still willing to look through near-term oil and geopolitical noise as long as the AI capex and memory-pricing story stays intact, though a sustained oil shock would eventually hit Korea's import bill and terms of trade given its status as a large net energy importer.",
+          "source": "Seoul Economic Daily, Investing.com",
+          "time": "15:30 KST (close)"
+        },
+        {
+          "stars": 2,
+          "headline": "JGB 10-year yield jumps 5bp to 2.93% on hawkish BOJ signaling",
+          "detail": "The benchmark 10-year JGB yield rose 5bp to 2.93%, its highest level of the current cycle, as BOJ board member Kazuyuki Masu made the case for continued rate hikes to keep inflation anchored near 2%, adding to Governor Ueda's recent comments flagging a likely move at the September 17-18 meeting. The move puts JGB yields on a converging path with a Fed that may be cutting within the next two weeks, a dynamic that has been central to the yen's roughly 3.7% appreciation over the past month. For rates desks, the read-through is that Japan's multi-year normalization cycle is not slowing down even as global risk sentiment sours on oil -- JGBs are trading their own domestic policy story alongside the broader duration selloff seen in the US and Europe this week.",
+          "source": "Business Recorder, Trading Economics",
+          "time": "Asia session"
+        },
+        {
+          "stars": 2,
+          "headline": "PBOC fixes yuan notably weaker than market estimate, signaling pushback against rapid appreciation",
+          "detail": "The PBOC set its daily USD/CNY reference rate at 6.7766, near a 3.5-year high for the yuan, but still about 692 pips weaker than the market's 6.7074 estimate -- a gap traders read as a deliberate signal that the central bank wants to slow the pace of yuan strength rather than let it run. The yuan has been firming for weeks, helped by broad dollar softness and reduced capital-outflow pressure, but a currency that appreciates too quickly hurts export competitiveness at a moment when China is still leaning on the export channel (August exports +25% y/y, trade surplus running near $806bn on a trailing basis). This is a live fixing-mechanism story worth flagging for FX and macro funds: the PBOC's tolerance band for yuan strength appears to be getting tested, and further fixings meaningfully below market estimates would be the clearest signal yet of official pushback.",
+          "source": "InvestingLive, Business Recorder",
+          "time": "09:15 CST (fixing)"
+        },
+        {
+          "stars": 2,
+          "headline": "Indian rupee grinds toward record lows despite persistent RBI intervention",
+          "detail": "USD/INR traded around 95.16, extending a multi-week slide as the oil price spike outweighs the Reserve Bank of India's now near-daily intervention. Bankers estimate the RBI sold at least $8bn last week alone to defend the currency, with state banks seen offering dollars around 94.70-95.20 in a pattern traders describe as showing up whenever the rupee weakens rather than defending a hard line. India is one of the most oil-import-dependent large economies in Asia, so the Brent move to five-month highs is a direct terms-of-trade hit, and the RBI's shift toward persistent, smaller-scale intervention rather than sporadic large ones suggests policymakers are trying to smooth the path down rather than fight the trend outright. This is a clean FX-flow story for anyone running EM Asia currency risk.",
+          "source": "Bloomberg, Business Recorder",
+          "time": "Asia session"
+        },
+        {
+          "stars": 1,
+          "headline": "Gold holds firm near cycle highs on safe-haven demand",
+          "detail": "Gold traded around $4,406/oz, up 0.18%, continuing to draw a bid from the Middle East escalation even after pulling back roughly 22% from its January 2026 record above $5,589. Global gold ETFs added $18bn in August alone, with holdings rising 121 tonnes to a record 4,189 tonnes, underscoring that institutional demand for the hedge hasn't faded despite the drawdown from the highs. With oil now also moving on the same geopolitical driver, gold's relatively modest reaction today suggests some of the safe-haven premium is already priced in, though a further escalation (a wider Strait of Hormuz disruption, for instance) would likely reignite the bid more aggressively.",
+          "source": "Trading Economics, market wires",
+          "time": "Asia session"
+        },
+        {
+          "stars": 1,
+          "headline": "Copper eases 0.66% even as risk-off dominates the broader tape",
+          "detail": "Copper slipped to $6.76/lb, giving back a small piece of its extraordinary ~47% year-on-year gain, which has been driven primarily by AI/data-center-linked demand and tight concentrate supply rather than the macro cycle. The pullback looks more like profit-taking and risk-off spillover from the equity selloff than a change in the structural demand story, and copper remains one of the year's standout commodity performers.",
+          "source": "Trading Economics",
+          "time": "Asia session"
+        },
+        {
+          "stars": 2,
+          "headline": "Tata Motors' EUR3.82bn tender offer for Iveco Group formally opens",
+          "detail": "Tata Motors' tender offer for Italy's Iveco Group -- EUR14.10/share cash, valuing the commercial-vehicle maker at EUR3.82bn (~$4.4bn) -- opened September 7 and runs through October 26 after Italy's Consob approved the offer document. The deal is backed by Iveco's largest shareholder, Exor (the Agnelli family holding company, 27.1% stake), and follows Iveco's separate sale of its defense unit (IDV) to Italy's Leonardo for EUR1.7bn, effectively splitting Iveco into a commercial arm going to an Indian buyer and a defense arm staying European. This is a genuine cross-border industrial consolidation story with India-Europe overtones -- an Indian conglomerate taking control of a strategic European truckmaker -- relevant for anyone tracking Tata Motors credit or European industrials M&A flow.",
+          "source": "Business Recorder, BusinessToday, Archyde",
+          "time": "deal timeline (tender open through Oct 26)"
+        },
+        {
+          "stars": 2,
+          "headline": "Asia dollar-bond primary market stays busy into the volatility",
+          "detail": "At least five Asia-Pacific borrowers, including Japan Post Insurance and India's Vedanta Resources, were in the market pricing new US-dollar bonds this week, part of one of the busiest primary sessions of the year in the region as issuers rush to lock in funding ahead of any further rate moves. Asia credit spreads remain near the tight end of their range after a year of steady compression, meaning further tightening looks limited from here and returns are more likely to come from carry than continued spread compression -- a dynamic worth flagging for L/S credit and Asia fixed income allocators even though today's oil-driven equity selloff hasn't yet visibly repriced the primary market.",
+          "source": "Bloomberg, Law.asia",
+          "time": "week-to-date"
+        },
+        {
+          "stars": 1,
+          "headline": "Chinese property stocks remain under pressure from Beijing's mortgage-rule overhaul",
+          "detail": "The Hang Seng Mainland Properties index has tumbled roughly 6% and mainland real-estate names are down around 3% since Beijing's mortgage-rule policy overhaul earlier this month, a reminder that the property-sector drag on Chinese growth hasn't gone away even as headline indices are dominated by the tech rally. This remains a slow-burn structural story rather than a today-specific catalyst, but it's relevant context for anyone sizing China property or high-yield credit exposure, where the divergence between a resilient tech-led equity tape and a still-weak property complex continues to widen.",
+          "source": "SCMP, The Standard",
+          "time": "week-to-date context"
+        },
+        {
+          "stars": 1,
+          "headline": "AI chip supply chain: Samsung and TSMC double down on next-gen lithography as OpenAI deepens Samsung ties",
+          "detail": "TSMC, Samsung and ASML have committed to jointly transition the industry to larger-format High-NA EUV lithography as demand for advanced AI chips continues to ramp, while OpenAI is reported to be deepening cooperation with Samsung Electronics on next-generation chip development. This is incremental, multi-week-old news rather than a today-specific catalyst, but it underscores why Korean and Taiwanese semiconductor names have been able to shrug off some of the broader macro noise this week -- the AI capex cycle remains the dominant single-name driver for the region's largest market-cap stocks, arguably outweighing the oil/rates backdrop for that specific sector right now.",
+          "source": "industry wires",
+          "time": "week-to-date context"
+        }
+      ]
+    },
+    "europe": {
+      "status": "pending",
+      "items": []
+    },
+    "us": {
+      "status": "pending",
+      "items": []
+    }
+  }
+}
