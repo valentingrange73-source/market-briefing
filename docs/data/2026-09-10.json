@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "summary": "",
+  "summary": "Asia sold off broadly (Nikkei, Hang Seng, ASX and Kospi all down 0.25-1.4%) as the US-Iran Gulf war pushed Brent to a five-month high near $101, JGB yields to cycle highs on hawkish BOJ signaling, and the PBOC signaled pushback against rapid yuan strength. Europe extended the risk-off into the ECB's 25bp hike to 2.50% -- inflation forecasts raised on the same energy shock -- sending Bund and gilt yields to multi-year/multi-decade highs (3.44% and 5.295%) even as Brent pushed above $105 intraday on a Houthi strike on Saudi energy infrastructure. The US closed a fourth straight down session (S&P -0.58%, Dow -0.60%, Nasdaq -0.65%) as a hot August PPI (5.4% y/y) pushed Fed-hike odds for next week's FOMC to 63%, the VIX broke above 17 for the first time in a month, existing home sales fell a third straight month, and sector money rotated from AI/tech into healthcare and staples ahead of Oracle's after-hours earnings and Friday's CPI.",
   "indicators": {
     "asia": [
       {
@@ -141,7 +141,7 @@
       {
         "category": "FX",
         "label": "EUR/GBP",
-        "value": "—",
+        "value": "\u2014",
         "change": "little changed",
         "direction": "flat"
       },
@@ -195,7 +195,78 @@
         "direction": "up"
       }
     ],
-    "us": []
+    "us": [
+      {
+        "category": "Equities",
+        "label": "S&P 500",
+        "value": "7,591.70",
+        "change": "-0.58%",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "Nasdaq Composite",
+        "value": "26,081.73",
+        "change": "-0.65%",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "Dow Jones",
+        "value": "52,064.10",
+        "change": "-0.60%",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "Russell 2000",
+        "value": "~2,903",
+        "change": "-0.6%",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "Dollar Index (DXY)",
+        "value": "~99.1",
+        "change": "+0.3%, reclaimed 99",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "Gold",
+        "value": "~$4,380/oz",
+        "change": "choppy, roughly flat",
+        "direction": "flat"
+      },
+      {
+        "category": "Commodities",
+        "label": "WTI crude",
+        "value": "$96.05",
+        "change": "holding ~3% surge",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "Copper",
+        "value": "$6.76/lb",
+        "change": "-0.66%",
+        "direction": "down"
+      },
+      {
+        "category": "Rates",
+        "label": "US 10Y Treasury",
+        "value": "4.84%",
+        "change": "-2bp, still near multi-year highs",
+        "direction": "flat"
+      },
+      {
+        "category": "Rates",
+        "label": "US 2Y Treasury",
+        "value": "4.56%",
+        "change": "+11bp",
+        "direction": "up"
+      }
+    ]
   },
   "sessions": {
     "asia": {
@@ -330,7 +401,7 @@
         {
           "stars": 2,
           "headline": "UK 10-year gilt yield hits 5.295%, its highest since August 2007, as the global bond selloff intensifies",
-          "detail": "Benchmark 10-year gilt yields surged to the highest level in more than 19 years, with 2-year yields up 2bp to 4.742% (highest since November 2023) and 5-year yields at their highest since September 2023, as the oil spike above $100 reinforced fears that UK inflation will stay stickier for longer. Despite the selloff, demand held up: the DMO's auction of £5bn of 4.625% May-2030 gilts drew a robust £16.2bn in bids, with the average accepted yield of 4.786% the highest since October 2023 -- a sign this is a genuine global rates repricing rather than a UK-specific funding scare. The move sits on top of a run of already-elevated long gilt yields (30-year paper hit 5.89% on September 1, a 28-year high, and a recent 30-year syndication priced at 5.8168%, the richest DMO yield since the agency was founded in 1998), keeping the prospect of tax rises at the autumn Budget firmly in play. For rates and multi-asset allocators this is now a persistent, not episodic, story: UK long-end funding costs are compounding the ECB's own hawkish signal today, and both are being driven by the same energy shock.",
+          "detail": "Benchmark 10-year gilt yields surged to the highest level in more than 19 years, with 2-year yields up 2bp to 4.742% (highest since November 2023) and 5-year yields at their highest since September 2023, as the oil spike above $100 reinforced fears that UK inflation will stay stickier for longer. Despite the selloff, demand held up: the DMO's auction of \u00a35bn of 4.625% May-2030 gilts drew a robust \u00a316.2bn in bids, with the average accepted yield of 4.786% the highest since October 2023 -- a sign this is a genuine global rates repricing rather than a UK-specific funding scare. The move sits on top of a run of already-elevated long gilt yields (30-year paper hit 5.89% on September 1, a 28-year high, and a recent 30-year syndication priced at 5.8168%, the richest DMO yield since the agency was founded in 1998), keeping the prospect of tax rises at the autumn Budget firmly in play. For rates and multi-asset allocators this is now a persistent, not episodic, story: UK long-end funding costs are compounding the ECB's own hawkish signal today, and both are being driven by the same energy shock.",
           "source": "Global Banking & Finance, TechTimes, IndexBox, Bloomberg",
           "time": "through the session"
         },
@@ -344,7 +415,7 @@
         {
           "stars": 2,
           "headline": "FTSE 100 slides to a seven-week low as Associated British Foods tumbles 8.2% on a weak Primark update",
-          "detail": "London's benchmark fell as much as 1.31% intraday to 10,670.06 before settling around a 0.6% decline on the day, its worst close since late July, with Associated British Foods the single biggest drag after its Q4 trading update showed Primark like-for-like sales set to decline 3% in the quarter, driven by a 4.3% drop in continental Europe that swamped a marginal 0.4% UK/Ireland gain. Jefferies called it \"a muted end to the year for Primark led by underwhelming Europe sales\" and flagged a downbeat outlook, while ABF's Sugar division guided toward the high end of its £25m-£60m adjusted operating loss range on higher gas costs and weak European sugar prices -- a direct read-through from the same energy shock driving the rest of today's tape. The broader index move was compounded by the oil-driven rate-hike worries hitting every UK cyclical, making this a case of an idiosyncratic single-name miss landing on top of an already fragile macro backdrop.",
+          "detail": "London's benchmark fell as much as 1.31% intraday to 10,670.06 before settling around a 0.6% decline on the day, its worst close since late July, with Associated British Foods the single biggest drag after its Q4 trading update showed Primark like-for-like sales set to decline 3% in the quarter, driven by a 4.3% drop in continental Europe that swamped a marginal 0.4% UK/Ireland gain. Jefferies called it \"a muted end to the year for Primark led by underwhelming Europe sales\" and flagged a downbeat outlook, while ABF's Sugar division guided toward the high end of its \u00a325m-\u00a360m adjusted operating loss range on higher gas costs and weak European sugar prices -- a direct read-through from the same energy shock driving the rest of today's tape. The broader index move was compounded by the oil-driven rate-hike worries hitting every UK cyclical, making this a case of an idiosyncratic single-name miss landing on top of an already fragile macro backdrop.",
           "source": "Panthere Group, Investing.com, Seeking Alpha",
           "time": "close"
         },
@@ -352,7 +423,7 @@
           "stars": 2,
           "headline": "STOXX 600 falls to near two-month lows as ECB hawkishness outweighs the relief of a widely-expected hike",
           "detail": "The pan-European STOXX 600 slid roughly 0.5% to 637.73, with Germany's DAX down about 0.4%, France's CAC 40 off 0.2%, and Spain's IBEX 35 down 0.18% to 19,659.8 -- Italy's FTSE MIB was the outlier, roughly flat to slightly positive on the day. Index-level moves were relatively contained in isolation, but the pattern (broad, moderate declines across every core market, worst in the UK and Germany) is consistent with a rates-led de-rating rather than a single-sector rotation: European equities are digesting a central bank that just raised its inflation forecasts and left the door open to two more hikes, at the same time bond yields are hitting multi-year and multi-decade highs. This is the second straight session of losses for the region after the biggest two-day selloff in two months, and index levels are now testing support built up since the summer.",
-          "source": "Yahoo Finance, Investing.com, Estrategias de Inversión, Bolsamania",
+          "source": "Yahoo Finance, Investing.com, Estrategias de Inversi\u00f3n, Bolsamania",
           "time": "close, ~17:30 CET"
         },
         {
@@ -442,8 +513,136 @@
       ]
     },
     "us": {
-      "status": "pending",
-      "items": []
+      "status": "done",
+      "items": [
+        {
+          "stars": 3,
+          "headline": "Hot August PPI (5.4% y/y) reprices the Fed toward a hike, not a cut, at next week's FOMC -- stocks, yields and the dollar all move together",
+          "detail": "Producer prices rose 0.4% m/m in August and 5.4% y/y -- the highest 12-month PPI reading of 2026 and 0.1 point above consensus -- with energy up 4.2% (diesel alone jumped 24.1%) and core PPI up 0.3% m/m / 4.6% y/y. Fed funds futures reacted immediately: Kalshi and Polymarket contracts moved to price roughly a 63% probability of a 25bp hike at the September 16 FOMC decision versus 37% for no change, and essentially zero probability of a cut -- a dramatic shift from the 'coin flip' framing markets used just a day earlier. The print lands three weeks after Fed Chair Kevin Warsh's hawkish Jackson Hole speech, in which he flagged that 54% of PCE components were running above a 3% annualized pace and said the Fed 'may have work to do,' which had already pushed hike odds above 50/50. This is exactly the kind of data-driven policy repricing the rubric flags as a top-tier event: equities fell, the 10-year and 2-year yields diverged (2Y up sharply, curve flattening), the dollar index popped back above 99, and oil's own inflationary impulse is now feeding directly into the policy debate. Friday's CPI print is the next -- and probably decisive -- input before the Fed goes into its blackout period.",
+          "source": "CNBC, Yahoo Finance, Babypips, Kalshi/Polymarket data",
+          "time": "08:30 ET (data) / through the session"
+        },
+        {
+          "stars": 3,
+          "headline": "US-Iran Gulf war widens further -- Jordan base damaged, IAEA refers Iran to the UN Security Council, Houthis advance on Bab el-Mandeb",
+          "detail": "The conflict that has driven oil to five-month highs all week escalated on multiple fronts Thursday: US aircraft were damaged in overnight strikes on the Muwaffaq Salti air base in Jordan, President Trump said there was 'activity' at a site referred to as Pickaxe Mountain and threatened to hit Iran 'very hard,' while VP Vance, Secretary of State Rubio and other officials have reportedly warned Trump that Iran can sustain resistance longer than he expects. Separately, the IAEA's 35-member board voted to refer Iran to the UN Security Council for the first time in two decades over its failure to cooperate with uranium-enrichment inspections, adding a diplomatic escalation track on top of the military one. Yemen's Houthis are also reported closing in on full control of Yemen's Red Sea coastal cities, which would give them added leverage over the Bab el-Mandeb Strait -- a second maritime chokepoint alongside Hormuz -- and raises the risk of the energy-shipping disruption spreading beyond the Gulf. None of this is new in kind, but the breadth of fresh escalation (military, diplomatic, and a second strait now in play) is why oil held its gains through the US session rather than fading, and why cross-asset desks are still treating this as a live, multi-week risk rather than a one-off spike.",
+          "source": "Al Jazeera, ABC News, Axios, Wikipedia (2026 Iran war live coverage)",
+          "time": "through the US session"
+        },
+        {
+          "stars": 2,
+          "headline": "S&P 500, Dow and Nasdaq close lower for a fourth straight session as oil and yields keep grinding higher",
+          "detail": "The S&P 500 fell 44.66 points (-0.58%) to 7,591.70, the Dow lost roughly 0.60% to close near 52,064, and the Nasdaq Composite slid 0.65% to 26,081.73 -- the fourth consecutive down day for the major benchmarks, extending Wednesday's Bessent-buyback-driven selloff. Small caps underperformed again: the Russell 2000 was down roughly 0.6% at midday (2,903) after Wednesday's outright 1.3% drop, continuing to show the most sensitivity to the combination of higher short-end rates and slowing housing/consumer data. The proximate drivers were the same ones that have driven the tape all week -- Brent above $100 on the Iran war and Treasury yields near multi-year highs -- but Thursday added a fresh, hawkish PPI print on top, which is why the decline, while similar in magnitude to prior sessions, now carries a cleaner policy-repricing narrative rather than just geopolitical risk-off. Four straight lower closes is the longest losing streak for US equities since the spring, and desks are now explicitly framing Friday's CPI as the session that determines whether this becomes a fifth.",
+          "source": "TheStreet, Yahoo Finance, CNBC",
+          "time": "16:00 ET (close)"
+        },
+        {
+          "stars": 2,
+          "headline": "VIX breaks above 17 for the first time in a month, touching 18.17 intraday",
+          "detail": "The CBOE Volatility Index closed around 17.2-17.3, up roughly 4.5% on the day after trading as high as 18.17 intraday -- ending a run of 28 consecutive sessions closing inside the unusually calm 14-17 band. The break matters less for the absolute level (18 is still far from stress territory) than for what it signals about options positioning: a month of compressed realized and implied vol, even through an active Iran war and a hawkish ECB, had left dealers short gamma at low strikes, and Thursday's PPI-driven repricing was enough to force a real move in vol for the first time since early August. With CTA and systematic-fund equity exposure reported near 100% of capacity (see below), a sustained break above the recent VIX range is exactly the kind of trigger that could accelerate forced deleveraging if it persists into next week's FOMC.",
+          "source": "CBOE, Yahoo Finance, market data",
+          "time": "through the session"
+        },
+        {
+          "stars": 2,
+          "headline": "10-year Treasury yield holds near 4.84% while the 2-year jumps 11bp to 4.56% -- the curve bear-flattens on hawkish Fed repricing",
+          "detail": "The 10-year yield eased marginally to about 4.84% (from Wednesday's 4.857%, itself the highest level since November 2023), while the 2-year note yield jumped 11bp to 4.56%, its own highest level since November 2023. The divergence -- front-end rates rising faster than the long end -- is the classic signature of a hawkish near-term policy repricing rather than a pure term-premium or fiscal story: markets are pricing a materially higher chance of a hike at next week's FOMC, which hits the front of the curve hardest, while the long end is still being pulled by the same energy-inflation and fiscal-supply dynamics that drove this week's broader bond selloff. For rates desks, Thursday's move is the clearest evidence yet that the 'Bessent buyback backfire' story from Wednesday and today's PPI-driven Fed repricing are two distinct, partially offsetting forces on the curve, and the net effect (higher 2s, roughly flat 10s) is a modest bear-flattener into next week's decision.",
+          "source": "Trading Economics, CNBC (US10Y)",
+          "time": "through the session"
+        },
+        {
+          "stars": 2,
+          "headline": "Dollar index reclaims 99 as hot PPI outweighs early softness",
+          "detail": "The DXY dipped as low as 98.75 early in the session before rallying back through the 99.00 level and closing up roughly 0.3% near 99.1 once the hot PPI print hit the tape and hardened Fed-hike expectations. The intraday round trip mirrors the euro's own 'sell the fact' pattern around the ECB decision a day earlier -- the dollar had been drifting on rate-cut hopes tied to political pressure on the Fed (Trump has been pushing for cuts ahead of the September meeting), but a genuinely hawkish inflation surprise reasserted the short-end-rate-differential trade in the dollar's favor. This leaves the greenback firmer against both the euro and yen into Friday's CPI, which is now the swing factor for whether DXY can sustain a move back toward its recent highs or fades again on rate-cut hopes.",
+          "source": "FXStreet (Forex Today), babypips.com Financial & Forex Market Recap",
+          "time": "through the session"
+        },
+        {
+          "stars": 2,
+          "headline": "WTI holds near $96 and Brent near $101 as the US session digests a fifth-month-high oil complex",
+          "detail": "WTI crude traded around $96.05-96.68 and Brent around $101.21-101.64, both holding the bulk of Wednesday's roughly 3-3.4% surge as the Iran-US conflict keeps a geopolitical risk premium embedded in the complex. Jet fuel has been the sharpest mover in the energy chain -- up roughly 9% in the first week of September alone and about 57% above year-ago levels -- which is the direct mechanical link to the airline-sector pain flagged below (Delta and United earnings estimates have both been cut by high-teens percentages on fuel costs this quarter). With the Strait of Hormuz still running at a small fraction of normal transit volume and the conflict now also threatening the Bab el-Mandeb chokepoint via the Houthi advance, energy desks see limited near-term downside to oil barring a ceasefire, and are increasingly treating $100 Brent as a floor rather than a ceiling for as long as the conflict continues.",
+          "source": "CNBC (oil prices today), Forbes Advisor, Kavout, The Traveler",
+          "time": "through the session"
+        },
+        {
+          "stars": 2,
+          "headline": "Sector rotation out of tech and into healthcare and staples -- comm services and consumer staples the only S&P sectors to advance",
+          "detail": "Technology and materials both fell more than 1% on the day, the two worst-performing S&P sectors, while communication services and consumer staples were the only two sectors to close higher. The rotation had a clear destination: managed-care names led by Elevance Health (+4%) rallied alongside UnitedHealth, Centene and Humana as investors moved out of richly-valued AI/semis exposure and into defensive healthcare, while consumer staples held up despite weakness in individual food names. Materials was hit by the same metals softness dragging on copper and silver miners. This is a genuine within-equities rotation story rather than a simple risk-off day -- the S&P's modest headline decline masks a much sharper dispersion underneath, consistent with a market repricing rate-sensitive growth names on the hawkish PPI surprise while defensive earnings visibility gets a relative bid.",
+          "source": "The Motley Fool (Stock Market Midday), Investrade Market Review",
+          "time": "through the session"
+        },
+        {
+          "stars": 2,
+          "headline": "Meta jumps on JPMorgan upgrade to Overweight, $820 price target, as Muse AI agent reshapes the AI-competitive narrative",
+          "detail": "JPMorgan analyst Doug Anmuth upgraded Meta to Overweight from Neutral -- reversing the bank's own April 2026 downgrade, which had been driven by anxiety over Meta's capex without a clear non-advertising return -- and raised his price target to $820 from $640, about 25% upside from Wednesday's close. The upgrade cites Meta's early rollout of Muse, an AI agent product designed to execute tasks on a user's behalf, and broader access to Meta's own model API as evidence the company has meaningfully closed the gap with rivals on agentic AI. The stock rose roughly 1% on the news, a relatively muted market reaction given the scale of the target increase, likely because the broader tech tape was under pressure from the PPI-driven selloff -- but the upgrade itself is a notable sell-side shift for anyone tracking the mega-cap AI-competitive positioning debate, and comes the same evening Oracle reports results that will be read as a referendum on the broader AI-infrastructure spending cycle.",
+          "source": "Bloomberg, MarketBeat, Investing.com",
+          "time": "session"
+        },
+        {
+          "stars": 2,
+          "headline": "American Eagle Outfitters shares fall further (~12-15%) despite an EPS beat, as investors discount tariff-refund-boosted margins",
+          "detail": "American Eagle beat consensus by a wide margin (EPS of $0.79 versus $0.22 expected, revenue of $1.38bn versus $1.37bn expected) but shares extended their post-earnings slide, falling a further 12-15% as investors focused on trimmed full-year guidance and the quality of the earnings beat. A $179 million tariff-refund benefit flattered gross margins, while a 14% increase in inventory raises the risk of future markdowns, and the read-through from today's PPI print (freight costs pressured by the same oil spike) adds to the case that consumer discretionary retail margins face further headwinds into the holiday season. Aerie continued to outperform the core American Eagle banner, a divergence that has persisted across recent quarters. This is a clean example of a 'good headline, bad quality' earnings reaction that matters for anyone running consumer-discretionary long/short books, particularly with oil-driven freight-cost inflation now a live theme across the retail sector.",
+          "source": "Investing.com, StockStory, Parameter, Cryptonomist",
+          "time": "session (extending Wednesday's post-earnings move)"
+        },
+        {
+          "stars": 2,
+          "headline": "Oracle reports fiscal Q1 2027 results after the close -- the session's biggest forward-looking single-name catalyst",
+          "detail": "Oracle was scheduled to report after Thursday's close, with consensus looking for revenue of $19.13bn and EPS of $1.299, and cloud-infrastructure growth expectations in the 58-65% y/y range following management's own guidance. The stock has run up into the print (touching $163.73 in pre-market trading earlier in the week), and options markets are pricing a large move given Oracle jumped 36% in a single day after last September's report. The key numbers investors are watching are the trajectory of Oracle's $638bn remaining-performance-obligations backlog and whether cloud bookings are converting into realized revenue fast enough to justify the capex being poured into AI data-center buildout -- a read-through that matters well beyond Oracle given how central the AI-infrastructure spending cycle is to the broader mega-cap tech and semis complex. Because the print lands after Thursday's close, it is not yet reflected in today's index-level moves but will be the first item on Friday's tape alongside the CPI release.",
+          "source": "InsiderFinance, Vantage Markets, 247wallst.com, Oracle investor relations",
+          "time": "after 16:00 ET close"
+        },
+        {
+          "stars": 2,
+          "headline": "Nvidia slips roughly 1.4% as the AI/semis trade stays under pressure for a second straight session",
+          "detail": "Nvidia fell about 1.4% to roughly $218, extending Wednesday's weakness in the AI/data-center complex even as the broader semiconductor names that outperformed in Asia (SK Hynix) continue to benefit from tight memory supply. Nvidia remains the world's largest company by market cap at roughly $5.58 trillion, ahead of Apple (~$4.70tn) and Alphabet (~$4.10tn), but the stock's underperformance relative to the broader index this week is consistent with the sector-rotation story above -- investors trimming richly-valued AI exposure into a hawkish rates backdrop, ahead of Oracle's after-hours report that will be read as a direct proxy for AI-infrastructure demand.",
+          "source": "Yahoo Finance, MarketBeat, market data",
+          "time": "16:00 ET (close)"
+        },
+        {
+          "stars": 2,
+          "headline": "CTA/systematic funds sit at ~100% of equity buying capacity, leaving asymmetric downside risk into a historically weak September",
+          "detail": "Systematic and trend-following funds have rebuilt equity exposure to near-maximum capacity since July, according to flow-modeling desks, meaning that unlike in prior pullbacks this summer there is little incremental systematic buying power left to cushion a decline. Estimates put potential forced CTA selling as high as $73.7bn if equities drop further from here, versus comparatively little remaining firepower to buy dips -- a meaningfully asymmetric setup heading into a seasonally weak month. The same positioning work flags that systematic duration exposure remains unusually light, meaning the cleaner incremental trade for trend-followers may now be in bonds rather than equities. This is a live, quantifiable risk for multi-manager platforms and macro funds running CTA-replication or trend overlays: a further VIX break higher (see above) combined with this positioning imbalance is the kind of setup that has historically preceded sharp, mechanical deleveraging episodes.",
+          "source": "Citadel Securities (September Setup), Dick Capital / Substack fund-flow analysis",
+          "time": "context, week-to-date"
+        },
+        {
+          "stars": 2,
+          "headline": "Existing home sales fall for a third straight month as mortgage rates and inventory both climb",
+          "detail": "NAR's August existing-home-sales report, released Thursday, showed sales falling 2% m/m to a 3.98 million annualized rate (down 1.2% y/y), the third consecutive monthly decline after July's -1.7% and June's -2.4%. Inventory rose to 1.62 million units, pushing months-of-supply to 4.9 -- the highest reading in over a decade -- while the median price still rose 1.6% to $429,100, a combination that points to a genuinely stalling market rather than a price correction. The 30-year fixed mortgage rate was 6.67% per Freddie Mac, up from 6.54% in July, keeping affordability the binding constraint. With today's PPI print pushing Fed-hike odds higher rather than lower, there is little near-term relief in sight for mortgage rates, and the housing data adds a genuine soft-landing-versus-stagflation data point to the debate the Fed will be having at next week's meeting.",
+          "source": "HousingWire, RISMedia, GlobeNewswire (NAR release)",
+          "time": "10:00 ET (release)"
+        },
+        {
+          "stars": 1,
+          "headline": "Initial jobless claims edge down to 206k, broadly in line, underscoring a still-resilient labor market",
+          "detail": "Initial claims for the week ending September 5 came in at 206,000, down 1,000 from the prior week's revised level and close to the 205,000 consensus, with continuing claims at 1.774 million, below both the prior reading and forecast. The print offers no fresh signal on its own, but it matters as context for the PPI-driven Fed repricing above: a labor market that isn't cracking gives the Fed more latitude to lean hawkish on the inflation side of its mandate without the usual growth-scare counterweight, reinforcing rather than contradicting today's higher hike odds.",
+          "source": "Department of Labor, Trading Economics, Seoul Economic Daily",
+          "time": "08:30 ET (release)"
+        },
+        {
+          "stars": 1,
+          "headline": "Gold and copper diverge -- gold holds a choppy $4,340-4,450 range while copper eases 0.66% to $6.76/lb",
+          "detail": "Spot gold traded in a wide band through the session, last around $4,380-4,400/oz, giving back some of the overnight Asia/Europe safe-haven bid as the hawkish PPI print and firmer dollar offset the ongoing Gulf-war risk premium; gold remains roughly 22% below its January 2026 record above $5,589 despite institutional ETF holdings hitting a record 4,189 tonnes in August. Copper slipped 0.66% to $6.76/lb, extending its pullback from an extraordinary ~47% year-on-year gain, with today's move reading more as risk-off/profit-taking spillover from the broader materials-sector weakness than any change to the structural AI/data-center demand story underpinning copper all year. Silver, by contrast, continued its own separate rally, trading near $67.68/oz and up more than 60% year-on-year -- a divergence within metals worth flagging for anyone running relative-value commodity books.",
+          "source": "Trading Economics, CNBC Select, Yahoo Finance",
+          "time": "through the session"
+        },
+        {
+          "stars": 1,
+          "headline": "Defense names outperform as oil-shock beneficiaries; airlines remain under the most direct pressure",
+          "detail": "Drone and defense name AeroVironment rallied even as the broader market fell, part of a pattern this week of defense contractors benefiting from the geopolitical backdrop given contractually locked-in order backlogs that are largely insulated from day-to-day oil swings. Airlines sit at the opposite end of the same trade: jet fuel's roughly 57% year-on-year increase has already driven high-teens percentage cuts to 2026 earnings estimates at Delta, United and American, and further oil strength from the widening Gulf conflict would extend that pressure. This split -- defense up, travel-and-leisure down -- is a clean, low-noise way to see the Iran war's sector-level read-through inside the US equity market beyond the index-level headline.",
+          "source": "Kavout, The Traveler, Trading Strategy Guides",
+          "time": "session"
+        },
+        {
+          "stars": 1,
+          "headline": "US natural gas holds near two-month highs above $2.90/MMBtu on cooling demand and rising LNG exports",
+          "detail": "Henry Hub gas traded around $2.93/MMBtu, not far from its recent two-month high, as above-average Southern US temperatures through September 17 keep air-conditioning demand elevated even as Lower-48 output has risen to 112.9 bcfd and inventories sit 5.2% above the five-year seasonal average. LNG flows to major export terminals rose to 18.1 bcfd in September from 17.2 bcfd in August, adding a structural demand tailwind on top of the seasonal one. This is a second, quieter energy-inflation channel alongside the Iran-driven oil spike -- plentiful domestic supply is capping upside for now, but the combination of strong LNG demand and a hot summer tail is worth watching into the shoulder season, particularly given how directly it feeds into the same PPI energy-cost dynamics driving today's Fed repricing.",
+          "source": "EIA, Trading Economics, Natural Gas Intelligence",
+          "time": "context, week-to-date"
+        }
+      ],
+      "generated_at": "2026-09-10T23:45:00+02:00"
     }
   }
 }
