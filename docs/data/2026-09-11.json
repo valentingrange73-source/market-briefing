@@ -1,0 +1,229 @@
+{
+  "date": "2026-09-11",
+  "summary": "",
+  "indicators": {
+    "asia": [
+      {
+        "category": "Equities",
+        "label": "Nikkei 225",
+        "value": "64,011.34",
+        "change": "-1.9%",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "Hang Seng",
+        "value": "~24,691",
+        "change": "-1%",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "Kospi",
+        "value": "6,909.91",
+        "change": "-1.76%",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "ASX 200",
+        "value": "8,684",
+        "change": "-1.54%",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "CSI 300",
+        "value": "4,476.18",
+        "change": "-1.59%",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "USD/JPY",
+        "value": "153.6",
+        "change": "+0.1%",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "USD/CNY (PBOC fixing)",
+        "value": "6.7743",
+        "change": "~570 pips weaker than market estimate",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "AUD/USD",
+        "value": "0.7154",
+        "change": "-0.9%",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "USD/KRW",
+        "value": "~1,386",
+        "change": "near cycle highs",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "USD/INR",
+        "value": "~95.79",
+        "change": "rupee weaker, record-low territory",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "Gold",
+        "value": "~$4,390/oz",
+        "change": "choppy, near cycle highs",
+        "direction": "flat"
+      },
+      {
+        "category": "Commodities",
+        "label": "Brent crude",
+        "value": "$106.11",
+        "change": "-1.4% (off a $109 intraday spike)",
+        "direction": "down"
+      },
+      {
+        "category": "Commodities",
+        "label": "Copper",
+        "value": "$6.46/lb",
+        "change": "-0.07%",
+        "direction": "flat"
+      },
+      {
+        "category": "Rates",
+        "label": "JGB 10Y",
+        "value": "2.985%",
+        "change": "+7.5bp",
+        "direction": "up"
+      }
+    ],
+    "europe": [],
+    "us": []
+  },
+  "sessions": {
+    "asia": {
+      "status": "done",
+      "generated_at": "2026-09-11T10:45:00+02:00",
+      "items": [
+        {
+          "stars": 3,
+          "headline": "Iran-US Gulf war escalates further, sending oil to fresh highs and driving a broad-based Asia risk-off",
+          "detail": "Brent crude spiked as much as intraday to above $109 -- a fresh high in the current escalation -- after Iran reportedly struck ten vessels near the Strait of Hormuz in what Reuters called the largest declared wave of tit-for-tat shipping attacks since the war began, with additional blasts reported at Minab, Jask and Qeshm Island. The Strait has been effectively shut to normal commercial traffic since a US-Israeli strike campaign in late February, so today's escalation reads as an intensification of an already-live crisis rather than a fresh shock, and it landed directly on every regional equity benchmark: Nikkei -1.9%, Kospi -1.76%, Hang Seng -1%, ASX 200 -1.54%, CSI 300 -1.59%. The move also fed straight into rates, with JGB 10-year yields up 7.5bp to 2.985% and 20-year yields up 7bp to 3.82% as global bond markets sold off in sympathy with US Treasuries. Oil pared back to settle around $106.11 by mid-session as some of the risk premium unwound, but desks are treating $105-110 as the new working range for as long as the conflict continues, with Iran's negotiators showing no sign of a near-term de-escalation after July's ceasefire collapsed.",
+          "source": "Al Jazeera, ABC News, Bloomberg, Reuters",
+          "time": "through the Asia session"
+        },
+        {
+          "stars": 2,
+          "headline": "Nikkei slides 1.9% to 64,011 as yen firmness compounds an AI/semis-led selloff",
+          "detail": "Japan's Nikkei 225 fell 1,259.61 points (-1.93%) to close at 64,011.34, having been down as much as nearly 3% intraday before paring losses, with Advantest the single biggest drag given its outsized index weighting and high valuation sensitivity to AI-capex sentiment, and Tokyo Electron close behind. The move compounds an ongoing yen story: USD/JPY has spent the week grinding down from above 155 to test seven-month lows below 153 on mounting BOJ rate-hike bets and reported US-Japan intervention, before steadying around 153.6 today as the dollar found a bid on hawkish Fed repricing. A stronger yen and pricier oil are a genuine double hit for Japan's exporters -- Toyota has flagged roughly Y50bn of lost operating income for every Y1 of yen appreciation -- while the chip-equipment complex is separately digesting a second straight day of profit-taking after this week's AI-infrastructure enthusiasm cooled. Friday's US CPI print, due after the Tokyo close, is being flagged by local desks as the next swing factor for both the yen and risk appetite into next week's BOJ and FOMC meetings.",
+          "source": "News On Japan, Business Recorder, Bloomberg",
+          "time": "15:00 JST (close)"
+        },
+        {
+          "stars": 2,
+          "headline": "Kospi claws back most of a 3.3% opening plunge to close down 1.76% as chip stocks lead, but 'smart money' buys the dip",
+          "detail": "South Korea's Kospi opened 3.29% lower at 6,802.50 before recovering through the session to close at 6,909.91, down 124.01 points (-1.76%), as overnight US tech weakness and the oil/Treasury-yield spike hit the index's heavily chip-concentrated composition. Samsung Electronics fell as much as 4.65% intraday before closing down 3.53% at 259,500 won, while SK Hynix dropped as much as 4.59% before settling down 2.21% at 1,812,000 won; foreign investors were heavy net sellers, offloading roughly 912bn won of Samsung and 1.07trn won of SK Hynix combined. Notably, Seoul Economic Daily reported that the country's top 1% of traders were net buyers into the weakness, using the pullback to add to positions in both chip bellwethers -- a domestic-retail-versus-foreign-institutional divergence worth flagging for anyone tracking Korean equity flows. Samsung and SK Hynix together still make up more than 40% of the Kospi, so the index's intraday round-trip is as much a story about a violent reversal in AI/memory sentiment as it is about the broader oil-driven risk-off.",
+          "source": "Seoul Economic Daily, SBS News, Investing.com",
+          "time": "15:30 KST (close)"
+        },
+        {
+          "stars": 2,
+          "headline": "Hang Seng falls roughly 1% to ~24,691 as the Brent spike above $109 unsettles Hong Kong risk sentiment",
+          "detail": "Hong Kong's Hang Seng Index dropped around 257 points to close near 24,691, extending Thursday's 1.43% decline, as crude's intraday push through $109 -- its highest level of the current Middle East escalation -- weighed on regional risk appetite and pressured long-duration China growth names that remain highly sensitive to global yields. The decline builds on a pattern seen all week of Hong Kong-listed China plays trading in close correlation with US rates and oil, in contrast to a comparatively more resilient mainland tape earlier in the week that had been supported by tech-sector strength (CSI Cloud Computing +4%, CSI AI +2.8%). With the index now down for a second straight session, desks are watching whether the mainland's tech-led outperformance can continue to offset the oil/rates drag, or whether today's move marks a broader convergence of onshore and offshore China sentiment to the downside.",
+          "source": "Sunday Guardian, Business Recorder, Trading Economics",
+          "time": "16:00 HKT (close)"
+        },
+        {
+          "stars": 1,
+          "headline": "CSI 300 and Shanghai Composite fall 1.6-1.8%, extending the property-versus-tech divergence in mainland China",
+          "detail": "The CSI 300 closed down 1.59% at 4,476.18 and the Shanghai Composite fell 1.82% to 3,862.73, giving back the tech-led gains that had helped mainland indices outperform Hong Kong earlier in the week. The pullback tracks the same oil/yield-driven risk-off hitting the rest of the region rather than a China-specific catalyst, but it narrows the gap between onshore resilience and the broader regional selloff. Property names remain a separate, slower-burn drag: the Hang Seng Mainland Properties Index is down roughly 6% and onshore real-estate names around 3% since Beijing's mortgage-rule overhaul earlier this month, a structural overhang that continues to sit alongside the more headline-grabbing tech and AI-linked subindices. Desks sizing China beta should note that today's move compresses, but does not erase, the divergence between the country's AI/tech-driven equity enthusiasm and its still-weak property complex.",
+          "source": "MarketBeat, The Standard, Trading Economics",
+          "time": "15:00 CST (close)"
+        },
+        {
+          "stars": 2,
+          "headline": "ASX 200 drops 1.54% to 8,684 as RBA rate-hike odds for September 29 jump to 80%",
+          "detail": "Australia's benchmark fell 1.54% to 8,684, adding to Thursday's roughly 1% decline, as the oil spike revived inflation concerns just over two weeks before the RBA's next decision. Money markets are now pricing an approximately 80% probability of a 25bp hike to 4.60% on September 29, up sharply from just 17% before the July CPI print in late August, with a former RBA official flagging the move could come alongside as much as a 10% correction in home prices. NAB continues to call for the hike in September, while ANZ, CBA and Westpac see it landing in November, but all four majors now agree at least one more hike is coming this year with trimmed-mean inflation stuck at 3.6%, above the RBA's 2-3% target band. The broad-based nature of the selloff -- echoing Thursday's pattern of red across every sector -- points to a genuine macro/rates repricing rather than an idiosyncratic story, leaving the index at fresh multi-week lows.",
+          "source": "Bloomberg, Sharecafe, Hudson Financial Planning",
+          "time": "16:00 AEST (close)"
+        },
+        {
+          "stars": 2,
+          "headline": "JGB yields jump as all 52 BOJ watchers now see a September 18 hike to 1.25%, with 93% expecting a follow-up by January",
+          "detail": "The benchmark 10-year JGB yield rose 7.5bp to 2.985% and the 20-year climbed 7bp to 3.82%, tracking a global bond selloff as oil concerns pushed US Treasury yields higher overnight. A Bloomberg survey found all 52 economists polled expect the BOJ to raise its policy rate at the end of the September 17-18 meeting, most likely by 25bp to 1.25% -- a level not seen in 31 years -- with 93% expecting a further move by January (a third of those seeing it as soon as December) and none predicting back-to-back hikes in October. Reuters-polled analysts see the path continuing to 1.5% by end-March and 1.75% in Q2 2027, a genuinely multi-year normalization trajectory that is running independently of, but now compounding, the oil-driven duration selloff hitting global rates markets this week. For rates desks, the read-through is that Japan's tightening cycle shows no sign of slowing even as broader risk sentiment sours, putting JGB yields on a converging path with a Fed that markets are now pricing to hike, not cut, at its own meeting next week.",
+          "source": "Bloomberg, Business Recorder, Reuters",
+          "time": "Asia session"
+        },
+        {
+          "stars": 2,
+          "headline": "PBOC fixing keeps lagging the market by ~570 pips, a continued deliberate brake on yuan appreciation",
+          "detail": "The PBOC set today's USD/CNY reference rate at 6.7743, modestly stronger for the yuan than Thursday's 6.7766 fix but still roughly 570 pips weaker than the market's 6.7174 estimate -- a gap traders continue to read as evidence the central bank wants to slow, not stop, the currency's appreciation. This is the second straight session the fixing has landed meaningfully on the strong-dollar side of market expectations, extending the pattern flagged in Thursday's session, even as the offshore CNH spot rate has continued to grind toward its strongest levels since February 2023. The yuan's strength is being helped by broad dollar softness and reduced capital-outflow pressure, but China is still leaning on the export channel for growth (trade surplus running near $806bn on a trailing basis), so a currency appreciating too quickly would erode competitiveness at an awkward moment. FX and macro desks should keep watching the fixing-versus-estimate gap as the cleanest real-time signal of the PBOC's tolerance band being tested.",
+          "source": "FXStreet, Business Recorder",
+          "time": "09:15 CST (fixing)"
+        },
+        {
+          "stars": 2,
+          "headline": "Indian rupee grinds to ~95.79, record-low territory, despite RBI's near-daily intervention",
+          "detail": "USD/INR weakened 27 paise to around 95.79 in early trade, extending a multi-week slide as Brent's push above $108 outweighs the Reserve Bank of India's persistent defense of the currency. The RBI is estimated to have sold at least $8bn last week alone, with state banks reportedly offering dollars whenever the rupee weakens rather than defending a hard line -- a pattern consistent with smoothing a managed depreciation rather than fighting the underlying trend. India remains one of Asia's most oil-import-dependent large economies, so today's fresh leg higher in crude is a direct terms-of-trade hit, compounded by continued foreign portfolio outflows. With Brent now trading in a $105-110 range for as long as the Gulf conflict continues, desks running EM Asia FX risk see little near-term relief for the rupee absent either a ceasefire or a materially larger RBI intervention push.",
+          "source": "Business Recorder, Trading Economics",
+          "time": "Asia session"
+        },
+        {
+          "stars": 2,
+          "headline": "AUD/USD falls 0.9% to 0.7154 as hawkish RBA repricing collides with broad risk-off",
+          "detail": "The Australian dollar dropped to 0.7154, a clean, tradable single-asset move that sits at the intersection of two forces working in the same direction: a domestic rates story (RBA hike odds for September 29 now at 80%, versus 17% a month ago) that would normally support the currency, and a broader oil-driven risk-off that is instead dominating price action given AUD's status as a high-beta risk proxy. The net effect illustrates a common pattern in this kind of cross-asset shock -- a hawkish domestic repricing gets overwhelmed by a global growth/inflation scare -- and leaves the currency near its softest levels of the week even as rate-differential support should, in isolation, be building. FX desks are watching whether the RBA decision itself, when it lands on September 29, can finally decouple AUD from the oil/risk-sentiment complex that has dominated its price action this week.",
+          "source": "Trading Economics, market data",
+          "time": "Asia session"
+        },
+        {
+          "stars": 1,
+          "headline": "USD/KRW grinds toward ~1,386, near cycle highs, as chip-sector foreign outflows add to won pressure",
+          "detail": "The won continues to trade on the back foot near 1,386 per dollar, close to its recent range highs, as today's heavy foreign net selling in Samsung Electronics and SK Hynix (a combined roughly 2 trillion won) adds a portfolio-outflow channel on top of the broader dollar-firming, risk-off backdrop. With Samsung and SK Hynix together representing over 40% of the Kospi's market cap, swings in foreign positioning in those two names have an outsized, near-mechanical effect on won demand relative to most other Asian currencies. This remains a clean, quantifiable FX-flow story for anyone running Korea or broader Asia-tech currency exposure, particularly given how correlated the won has become with global AI/semiconductor sentiment this year.",
+          "source": "Seoul Economic Daily, market data",
+          "time": "Asia session"
+        },
+        {
+          "stars": 2,
+          "headline": "Asia dollar-bond primary market stays busy, led by a $3.5bn MUFG deal, as issuers rush to lock in funding",
+          "detail": "Borrowers from around the Asia-Pacific region continued to crowd into the dollar bond market this week, with more than ten issuers pricing transactions including Mitsubishi UFJ Financial Group's $3.5bn offering -- Japan's largest bank tapping the market in one of the busiest sessions of the year regionally, part of a global session that raised more than $70bn, the most since June. The rush reflects issuers seeking to lock in funding ahead of any further rate increases, with Asia credit spreads sitting near the tight end of their historical range after a year of steady compression -- healthy fundamentals and greater currency diversification in issuance are cited as support, though the tight starting point means further spread compression looks limited from here. For L/S credit and Asia fixed-income allocators, the setup argues that incremental returns are more likely to come from carry than from further tightening, a dynamic that hasn't yet been meaningfully disrupted by this week's equity-level volatility.",
+          "source": "Bloomberg",
+          "time": "week-to-date"
+        },
+        {
+          "stars": 1,
+          "headline": "Korean defense and industrial names land large overseas contracts amid the geopolitical backdrop",
+          "detail": "Samsung E&A won a $3.5bn EPC contract to build a fertilizer production facility in Saudi Arabia, while Hanwha Aerospace signed a 641.1bn won (roughly $460mn) deal to export Chunmoo multiple rocket launchers to Croatia's Ministry of Defense. Neither deal is a market-moving catalyst on its own, but both fit a pattern this year of Korean industrial and defense names picking up large overseas orders even as the broader Kospi wobbles on chip-sector volatility, echoing the way defense contractors have outperformed elsewhere in the region on contractually locked-in backlogs that are largely insulated from day-to-day macro swings. It's a useful reminder for single-name and sector-rotation desks that Korea's equity story this year isn't solely a semiconductor/AI narrative -- industrial EPC and defense-export franchises are quietly compounding their own order books alongside it.",
+          "source": "Seoul Economic Daily (Corporate Disclosures)",
+          "time": "corporate disclosures, September 11"
+        },
+        {
+          "stars": 1,
+          "headline": "Gold holds a choppy range near $4,365-4,410 as safe-haven demand tussles with a firmer dollar",
+          "detail": "Spot gold continues to trade in a wide band roughly between $4,365 and $4,410/oz, essentially the same range it has occupied since Wednesday, as the ongoing Gulf escalation's safe-haven bid is offset by a dollar that firmed on Thursday's hot PPI print and rising Fed-hike odds for next week's FOMC. Global gold ETFs pulled in $17.9bn in August alone -- the second-largest monthly intake on record -- underscoring that institutional demand for the hedge remains structurally strong even with gold roughly 22% below its January 2026 record above $5,589. With oil now carrying much of the day's fresh geopolitical risk premium, gold's relatively muted reaction suggests a large portion of the escalation is already priced in, though a further widening of the conflict would likely reignite the bid more aggressively.",
+          "source": "World Gold Council, Kobeissi Letter, market data",
+          "time": "Asia session"
+        },
+        {
+          "stars": 1,
+          "headline": "Copper eases to $6.46/lb but remains up roughly 41% year-on-year on structural AI/data-center demand",
+          "detail": "Copper slipped a further 0.07% to $6.46/lb, extending a modest pullback from its highs but still up about 41% over the past year, a run driven primarily by AI/data-center-linked demand growth and tight concentrate supply rather than the broader macro cycle. Today's softness looks more like risk-off spillover from the equity selloff than any change to the underlying structural demand story, and copper remains one of the year's standout commodity performers even after giving back some ground over the past month.",
+          "source": "Trading Economics",
+          "time": "Asia session"
+        }
+      ]
+    },
+    "europe": {
+      "status": "pending",
+      "items": []
+    },
+    "us": {
+      "status": "pending",
+      "items": []
+    }
+  }
+}
