@@ -102,7 +102,106 @@
         "direction": "up"
       }
     ],
-    "europe": [],
+    "europe": [
+      {
+        "category": "Equities",
+        "label": "Euro Stoxx 50",
+        "value": "6,327",
+        "change": "+0.9%",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "FTSE 100",
+        "value": "14,404",
+        "change": "+0.5%",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "DAX",
+        "value": "—",
+        "change": "+0.8%",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "CAC 40",
+        "value": "—",
+        "change": "+0.8%",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "IBEX 35",
+        "value": "19,659.8",
+        "change": "-0.18%",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "EUR/USD",
+        "value": "1.1615",
+        "change": "off the week's 1.1648 high, dollar bid pre-CPI",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "EUR/GBP",
+        "value": "~0.8600",
+        "change": "neutral, capped at resistance",
+        "direction": "flat"
+      },
+      {
+        "category": "FX",
+        "label": "USD/TRY",
+        "value": "48.08",
+        "change": "+0.1%",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "USD/ZAR",
+        "value": "16.15",
+        "change": "-0.3%",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "USD/PLN",
+        "value": "3.7266",
+        "change": "+0.1%",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "Gold",
+        "value": "$4,385/oz",
+        "change": "choppy pre/post-CPI",
+        "direction": "flat"
+      },
+      {
+        "category": "Commodities",
+        "label": "Brent crude",
+        "value": "~$106",
+        "change": "-3% off overnight $109.97 high",
+        "direction": "down"
+      },
+      {
+        "category": "Rates",
+        "label": "Bund 10Y",
+        "value": "3.51%",
+        "change": "+2bp, highest since Aug 2009",
+        "direction": "up"
+      },
+      {
+        "category": "Rates",
+        "label": "Gilt 10Y",
+        "value": "~5.35%",
+        "change": "easing off Thursday's 5.378% 19-yr high",
+        "direction": "down"
+      }
+    ],
     "us": []
   },
   "sessions": {
@@ -218,8 +317,115 @@
       ]
     },
     "europe": {
-      "status": "pending",
-      "items": []
+      "status": "done",
+      "generated_at": "2026-09-11T17:30:00+02:00",
+      "items": [
+        {
+          "stars": 3,
+          "headline": "Hot US core CPI sends Fed hike odds for next week to ~85%, dollar bid and Treasury yields toward 5% -- a mid-afternoon regime shift for European desks",
+          "detail": "August US CPI printed a headline 0.4% m/m (3.4% y/y) that was in line with consensus, but core CPI came in at 0.3% m/m -- a tenth above the 0.2% forecast, with 12-month core steady at 2.4% -- and that core beat was enough to push CME-tracked odds of a 25bp Fed hike at next Wednesday's FOMC to roughly 85-86%, up from just 48% a month ago and 71% ahead of Thursday's hot PPI. The release landed at 14:30 CEST, squarely inside the European afternoon session, and the reaction was immediate and cross-asset: the 10-year Treasury yield pushed to within a whisker of the psychologically important 5% level (4.95-4.96%, the highest since 2023), the dollar firmed against every major, and European government bonds sold off in sympathy on top of their own ECB-driven repricing. Kobeissi Letter flagged the m/m core print as the largest increase since May and noted markets began 2026 pricing a third Fed cut for September, a full reversal now underway as inflation \"roars on.\" For European rates and FX desks the read-through is that the transatlantic hiking cycle is now a two-central-bank story rather than an ECB-only one, tightening the correlation between Bund/Gilt and Treasury yields into next week's back-to-back FOMC and BOJ decisions.",
+          "source": "Bloomberg, CNBC, Kobeissi Letter, CME FedWatch (via 24/7 Wall St.)",
+          "time": "14:30 CEST (US CPI release)"
+        },
+        {
+          "stars": 3,
+          "headline": "Gulf war widens to a new Lebanon front and a Houthi push into the Red Sea; Brent hits a fresh $109.97 high before easing on a Monday Oman-meeting report",
+          "detail": "The Middle East conflict that has dominated Asia and European trading all week escalated further overnight and into Friday: Israeli strikes on southern Lebanon killed at least 11 people as Israel-Hezbollah clashes intensified, while Houthi forces advanced along Yemen's coast to the Hanish Islands, opening a de facto new front near the Bab el-Mandeb Strait alongside the existing US-Iran fighting around Hormuz. Brent crude spiked to $109.97 a barrel intraday -- a fresh high for the current escalation, last seen in early May -- before paring back toward $106 on reports that Gulf states and Iran will meet in Oman on Monday to discuss restoring shipping through the Strait of Hormuz, the first concrete diplomatic signal in weeks. The widening of hostilities beyond the original Hormuz theatre into Lebanon and the southern Red Sea is the key escalation risk European desks are now pricing: it raises the odds that the conflict disrupts a second major shipping corridor simultaneously, which would be a materially larger supply shock than the Hormuz blockade alone. European natural gas, defense equities and the euro all took direction from this story today, and the Oman meeting on Monday is now the single most-watched near-term catalyst for European risk assets.",
+          "source": "CNBC, Confluence Investment Management, Bloomberg Oil Market news",
+          "time": "through the European session"
+        },
+        {
+          "stars": 2,
+          "headline": "Bund yield climbs to 3.51%, a 17-year high, as ECB's hawkish Thursday hike keeps repricing through Friday's session",
+          "detail": "Germany's 10-year Bund yield rose a further 2bp to 3.51% -- its highest level since August 2009 -- extending Thursday's move after the ECB raised its deposit rate 25bp to 2.50% (main refinancing rate to 2.65%) and explicitly flagged upside inflation risk from the energy shock, with Lagarde warning the energy shock \"could intensify further\" and its pass-through to core prices and wages could be stronger than currently modeled. The ECB's own projections now see core inflation at 2.5-2.6% through 2027 and headline staying above target into H1 2027, and interest-rate futures are pricing roughly a third hike by December even though Lagarde pointedly declined to pre-commit to a path. The follow-through today shows the market treating Thursday's decision as the start of a cycle rather than a one-off: Bund yields are still climbing a full session later, a pattern consistent with a genuine repricing of the ECB's reaction function rather than a one-day knee-jerk move. For European rates desks, the setup mirrors the JGB story flagged in Asia earlier this week -- a major DM central bank hiking into a supply-side inflation shock -- and argues for continued curve-flattening pressure as front-end expectations catch up to the hawkish guidance.",
+          "source": "ING Think, FXStreet, Morningstar, ECB press conference transcript",
+          "time": "European session, extending Thursday's ECB decision"
+        },
+        {
+          "stars": 2,
+          "headline": "Gilts ease off a 19-year high near 5.38% but remain close to it as BOE hike bets build alongside the ECB and Fed",
+          "detail": "UK 10-year gilt yields eased slightly toward 5.35% on Friday after touching 5.378% on Thursday -- the highest level since 2007 -- as energy prices retreated modestly from their overnight spike, while 30-year gilts sit near 5.95% after rising 8bp on Thursday. The move continues a multi-week gilt selloff driven by the same combination hitting Bunds and Treasuries: energy-driven inflation risk from the Gulf conflict compounding an already-hawkish global rates backdrop, with UK natural gas prices at their highest since late 2022. The UK's fiscal and inflation position leaves gilts structurally more exposed to an energy shock than Bunds given Britain's higher import dependence and the lingering premium priced into long-dated UK debt since the 2022 mini-budget episode, so the 30-year's persistence near cycle highs is arguably the more telling signal than the modest pullback at the 10-year point. Rates desks running UK duration risk should note the gilt curve has now round-tripped through a full year of BOE-hike repricing in a matter of weeks, a pace that leaves limited room for error if Monday's Oman talks produce any de-escalation.",
+          "source": "Trading Economics, Bank of England data",
+          "time": "London morning"
+        },
+        {
+          "stars": 2,
+          "headline": "European equities bounce 0.5-0.9% into the weekend but are still headed for their worst week in about two months",
+          "detail": "The Euro Stoxx 50 rose 0.9% to 6,327, the DAX and CAC 40 both added roughly 0.8%, and the FTSE 100 gained just over 0.5% to close at 14,404 -- continental markets outperforming London by roughly half a point, consistent with sterling assets facing more BOE-hike-related uncertainty than the euro bloc. The pan-European STOXX 600 was up 0.4% at 638.63 by mid-morning (0837 GMT). Despite the Friday bounce, the index closed at a two-month low on Thursday after the ECB's hike and hawkish guidance, and the week overall remains the sharpest weekly decline in about two months as elevated bond yields and rate-hike fears offset any relief from oil pulling back off its highs. The divergence between a green tape today and a red week overall is the clearest single-asset-class signal in Europe right now: desks are treating today's gain as short-covering into the weekend ahead of Monday's Oman talks rather than a genuine turn, given the Bund and gilt yield backdrop hasn't actually improved.",
+          "source": "Business Recorder, Reuters (via Yahoo Finance), WTVB",
+          "time": "European close"
+        },
+        {
+          "stars": 1,
+          "headline": "FTSE MIB and IBEX 35 lag the continental bounce, both modestly lower as Italian and Spanish single names diverge",
+          "detail": "Spain's IBEX 35 fell 0.18% to 19,659.8, dragged by ACS (-4.44%), ArcelorMittal (-2.59%) and Puig (-2.18%), while gains in Solaria Energia (+1.85%) only partly offset the losses. Italy's FTSE MIB closed Thursday down 0.13% at 51,807, with Moncler (-2.93%), Avio (-2.74%) and Buzzi Unicem (-2.71%) the biggest drags against gains in Lottomatica (+4.68%) and Leonardo (+3.22%). Both indices are underperforming the DAX/CAC/Euro Stoxx 50 bounce by a full percentage point or more, a periphery-versus-core divergence that's worth flagging for anyone running dispersion or relative-value equity books in Europe, though neither move is large enough on its own to point to a distinct Italy or Spain-specific catalyst beyond idiosyncratic single-name weakness (ArcelorMittal on steel/commodity read-through, Moncler and Puig on the same luxury-demand concerns hitting LVMH and Hermes).",
+          "source": "eleconomista.es, Trading Economics, MarketScreener",
+          "time": "close"
+        },
+        {
+          "stars": 2,
+          "headline": "European banks outperform again -- Santander +1.3%, BBVA +1% -- as higher-for-longer rates keep supporting net interest margins",
+          "detail": "Spanish banks led the sector higher, with Santander up 1.3% and BBVA up 1% as the same ECB/Fed/BOE hawkish repricing that is hurting duration-sensitive names is a direct tailwind for bank net interest margins, extending a pattern that has held for European financials through most of this tightening episode. Banking stocks were flagged as among the STOXX 600's top performers today even as the broader tape digests a week of yield-curve pain, underscoring that the sector-rotation dynamic within Europe (banks/energy up, duration-sensitive luxury/tech down) mirrors the AI-versus-value rotation seen in Asia and the US this week. For single-name and sector-rotation desks, European banks remain one of the cleanest expressions of the \"higher rates for longer\" trade in the region, with Southern European banks (Santander, BBVA, Italian names) showing the most torque given their historically higher loan-to-deposit sensitivity to policy rates.",
+          "source": "Business Recorder, Investing.com",
+          "time": "0837 GMT and through the session"
+        },
+        {
+          "stars": 2,
+          "headline": "LVMH and Hermes claw back modest gains off multi-year lows, but both remain down 34-37% YTD on the luxury demand slowdown",
+          "detail": "LVMH traded around EUR409.20 in early trading, up roughly 0.7% from Thursday's multi-year-low close near EUR405.50, while Hermes rose about 0.6% to roughly EUR1,417 after closing near its 52-week low of EUR1,404 on Thursday. Both stocks remain down sharply for the year -- LVMH -37% YTD, Hermes -34% YTD -- despite double-digit revenue growth in recent results, as Q3 industry data points to a roughly 3-percentage-point slowdown in global luxury demand versus Q2, concentrated in the US, Japan and South Korea. This is a genuine sector-wide single-asset-class move with clear read-through: Moncler (-2.93% Thursday) and Puig (-2.18% today) are showing the same pattern, and the group's persistent underperformance despite still-strong reported growth numbers suggests the market is pricing a forward demand deceleration that hasn't yet shown up in the hard data -- a valuation-versus-fundamentals gap that L/S equity and consumer-sector desks should keep watching closely into the next reporting cycle.",
+          "source": "ad-hoc-news.de, Global Banking and Finance, Morningstar",
+          "time": "European morning"
+        },
+        {
+          "stars": 2,
+          "headline": "Dutch TTF gas eases 1.6-2.5% after a five-session rally, still up 12% on the week as Hormuz/Red Sea disruption keeps a floor under prices",
+          "detail": "The Dutch front-month TTF contract fell around 2.5% to roughly EUR77.60/MWh (a separate read put EU gas at EUR80.75/MWh, -1.57% on the day), pulling back from Thursday's EUR79.64 peak but still up 12.1% for the week as the Hormuz blockade and now the Red Sea/Houthi escalation continue to disrupt an estimated 20% of global LNG flows, primarily Qatari cargoes. The pullback tracks the same modest oil retracement (Brent off its $109.97 high) rather than any resolution of the underlying supply risk, and desks should treat today's dip as consistent with the broader \"priced for de-escalation talks, not yet delivered\" tone across European risk assets ahead of Monday's Oman meeting. Gas is arguably the cleanest read on how seriously the market takes the Gulf conflict's supply-chain risk to Europe specifically, given the continent's direct LNG dependence, and the fact it's still up double-digits on the week despite today's pullback signals the underlying risk premium hasn't gone anywhere.",
+          "source": "uk.advfn.com, Trading Economics",
+          "time": "European session"
+        },
+        {
+          "stars": 2,
+          "headline": "Rheinmetall falls a further ~2.8% to EUR988, extending the German defense sector's slide after Berlin's F126 naval program cancellation",
+          "detail": "Rheinmetall shares dropped to around EUR988.35 from Thursday's EUR1,016.40 close, a roughly 2.8% decline that adds to the stock's ~35% drawdown from its 52-week high of EUR2,008, as the sector continues to digest Berlin's cancellation of the F126 frigate program -- a contract that could have been worth more than EUR12 billion with Rheinmetall as likely lead contractor. The broader German/European defense complex (Hensoldt, Renk, Saab, Leonardo, BAE Systems) has been under similar pressure in recent sessions as investors increasingly question how much of Europe's announced rearmament spending will actually convert into contractor backlogs versus remaining at the announcement stage. This is a useful counter-narrative to the \"European defense as structural growth story\" thesis that dominated 2025 positioning -- procurement-program risk is proving to be a real and recurring drag even with defense budgets nominally rising across the continent, and single-name/sector desks should treat government program cancellations, not just top-line budget headlines, as the key swing factor for the group going forward.",
+          "source": "Investing.com, CNBC, ad-hoc-news.de",
+          "time": "close"
+        },
+        {
+          "stars": 1,
+          "headline": "EUR/USD softens toward 1.1615, GBP/USD falls in sympathy, EUR/GBP capped near 0.8600 ahead of the US CPI print",
+          "detail": "EUR/USD traded around 1.1615, down from the week's 1.16475 high and toward Friday's 1.1592 low, as fresh dollar demand built ahead of the US CPI release; GBP/USD moved in the same direction as EUR/USD despite the ECB decision having no direct read-through to sterling, reflecting the pair's persistently high correlation with the euro. EUR/GBP held a neutral bias with 0.8600 capping the upside, a level FXStreet flagged as the key near-term resistance. The moves are modest, single-asset-class FX flows rather than anything cross-asset-defining on their own, but they set up the more consequential post-CPI dollar strength (see the Fed-odds item above) that hit European currencies harder into the afternoon.",
+          "source": "FXStreet",
+          "time": "European morning, pre-CPI"
+        },
+        {
+          "stars": 1,
+          "headline": "EM/periphery FX mixed: Turkish lira grinds to a fresh record low near 48.08, Polish zloty little changed, South African rand modestly firmer",
+          "detail": "USD/TRY traded at 48.0803, up marginally from Thursday's 48.0338 close and continuing to press record-low territory for the lira (48.5 touched earlier this month) despite ongoing Central Bank of Turkey intervention to slow the slide; the lira is down 17.4% over the past 12 months. USD/PLN was little changed at 3.7266 versus 3.7220, while USD/ZAR eased about 0.3% to 16.15 from 16.1958, continuing the rand's slow structural firming trend (-7.8% over the past year) even as broader EM sentiment takes its cue from the Gulf conflict and the dollar's CPI-driven bid. None of these moves individually clears the bar for a standalone tradable catalyst today, but they're worth tracking as context: Turkey's currency defense is becoming a slower and more grinding story rather than a sharp devaluation event, which is itself notable for EM desks pricing intervention capacity.",
+          "source": "Trading Economics",
+          "time": "European session"
+        },
+        {
+          "stars": 1,
+          "headline": "European corporate-action flow stays active: TotalEnergies-Shell renewables deal, Airbus/Leonardo/Thales JV filing, Accel-KKR/Eleco, MPS-Generali/BPM regulatory steps",
+          "detail": "TotalEnergies completed its acquisition of Shell's entire European onshore renewables business, including a 1.2GW solar/wind portfolio (500MW operational, 3.5GW in development), with TotalEnergies simultaneously selling a 50% stake in the combined portfolio to KKR -- consistent with the sector's pattern of oil majors recycling renewables capital rather than retreating from the space entirely, even amid a windfall year for fossil-fuel trading profits. Separately, per MLex's antitrust round-up, Airbus, Leonardo and Thales are preparing to file their long-discussed space/defense joint venture to EU competition authorities, Accel-KKR is acquiring UK software company Eleco, MPS has begun the regulatory process around its stakes in Generali and BPM, and Heineken's acquisition of Stëlz is under Dutch regulatory review. None of these individually move markets, but the breadth of live European corporate-action flow -- spanning energy, aerospace/defense consolidation, financial-sector stakes and UK software M&A -- is itself a useful cross-check that deal activity hasn't frozen despite the volatile macro backdrop.",
+          "source": "ESG Today, OilPrice.com, MLex Antitrust Press Round-Up",
+          "time": "session, corporate disclosures"
+        },
+        {
+          "stars": 1,
+          "headline": "European credit stays structurally tight even as rates rise, though pockets of IT services/software paper have widened over 200bp this year",
+          "detail": "Despite the sharp rise in benchmark government yields across Germany, the UK and now the US, European credit spreads remain near the tight end of their historical range, with competition among lenders and thin net issuance reaffirming a borrower's-market dynamic in both public and private credit channels. The exception is idiosyncratic: B-rated European secondary loan spreads have widened roughly 65bp versus year-end 2025, and credits within IT services and software have widened by more than 200bp in some instances, though the broader move has proved shallow and short-lived rather than a systemic repricing. For L/S credit and multi-strategy desks, the setup argues that the base-rate move (Bund/gilt yields at multi-year highs) is a bigger risk to total-return credit portfolios right now than spread widening, since spreads themselves have barely budged outside a handful of stressed sub-sectors -- a dynamic that closely mirrors the Asia dollar-credit story flagged in Wednesday's Asia panel.",
+          "source": "Mott Capital Management, RW Baird",
+          "time": "week-to-date context"
+        },
+        {
+          "stars": 1,
+          "headline": "CTAs continue rebuilding long equity exposure into September as realized volatility declines, a background tailwind for the risk-asset bounce",
+          "detail": "Systematic trend-following strategies (CTAs) have been steadily rebuilding exposure from their July lows through late August, with the largest increases concentrated in US large- and small-cap futures as realized volatility ground lower over the summer. That positioning backdrop is relevant to today's European bounce: a systematic community that had been under-positioned into the recent Gulf-war/rates volatility provides a mechanical source of dip-buying flow on quieter sessions like today, even as the fundamental backdrop (yields, oil, geopolitics) remains unresolved. Multi-manager and macro-fund desks tracking CTA/trend positioning should note this is a slow-moving, backward-looking signal -- a renewed vol spike from either the Oman talks disappointing or a hot US CPI follow-through into next week could just as quickly reverse the rebuild.",
+          "source": "Citadel Securities market intelligence",
+          "time": "week-to-date context"
+        }
+      ]
     },
     "us": {
       "status": "pending",
