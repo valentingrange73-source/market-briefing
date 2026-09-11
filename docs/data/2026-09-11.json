@@ -1,6 +1,6 @@
 {
   "date": "2026-09-11",
-  "summary": "",
+  "summary": "Asia sold off sharply (Nikkei -1.9%, Kospi -1.8%, Hang Seng -1%) as the Iran-Israel Gulf war widened toward the Strait of Hormuz, sending Brent briefly above $109 and JGB yields up 7bp on hawkish BOJ bets. Europe extended a hawkish ECB repricing (Bund 10Y at a 17-year high of 3.51%) before a hot US core CPI print mid-afternoon pushed Fed hike odds toward 85% and Treasury yields to the cusp of 5%. US stocks reversed to close up about 1% as oil fell 2.4-2.8% on the first concrete Hormuz de-escalation talks (Oman, Monday) and Oracle's $90-95bn AI capex guidance ignited a hardware rally, even as a stagflationary UMich sentiment miss and ~90% Fed hike odds leave markets bracing for a high-stakes September 16 FOMC.",
   "indicators": {
     "asia": [
       {
@@ -202,7 +202,71 @@
         "direction": "down"
       }
     ],
-    "us": []
+    "us": [
+      {
+        "category": "Equities",
+        "label": "S&P 500",
+        "value": "7,656.98",
+        "change": "+0.9%",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "Nasdaq Composite",
+        "value": "26,333.04",
+        "change": "+1.0%",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "Dow Jones",
+        "value": "52,573.29",
+        "change": "+1.0%",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "Russell 2000",
+        "value": "2,903.94",
+        "change": "+0.4%",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "Dollar Index (DXY)",
+        "value": "~99.1",
+        "change": "+0.1%, 3rd straight up session",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "Gold",
+        "value": "~$4,385/oz",
+        "change": "roughly flat, choppy",
+        "direction": "flat"
+      },
+      {
+        "category": "Commodities",
+        "label": "WTI crude",
+        "value": "$100.05",
+        "change": "-2.4%",
+        "direction": "down"
+      },
+      {
+        "category": "Commodities",
+        "label": "Copper",
+        "value": "$6.46/lb",
+        "change": "-0.07%",
+        "direction": "flat"
+      },
+      {
+        "category": "Rates",
+        "label": "US 10Y Treasury",
+        "value": "~4.95-4.96%",
+        "change": "-1bp, cusp of 5%, highest since 2023",
+        "direction": "flat"
+      }
+    ]
   },
   "sessions": {
     "asia": {
@@ -428,8 +492,122 @@
       ]
     },
     "us": {
-      "status": "pending",
-      "items": []
+      "status": "done",
+      "generated_at": "2026-09-11T23:00:00+02:00",
+      "items": [
+        {
+          "stars": 3,
+          "headline": "Hot-but-mixed August CPI cements Fed hike odds near 90%, yet stocks rally as oil relief dominates",
+          "detail": "August CPI headline +0.4% m/m (3.4% y/y) came in line with consensus but core CPI's +0.3% m/m (a tenth above the 0.2% forecast, 12-month core holding at 2.4%) was enough, on top of Thursday's hot PPI, to push CME-tracked odds of a 25bp hike at next Wednesday's FOMC to roughly 85-90%, up from just 48% a month ago. The reaction inverted the usual playbook: rather than selling off on hawkish repricing, the S&P 500, Dow and Nasdaq all closed up roughly 0.9-1%, snapping a four-day losing streak, because a simultaneous 2.4-2.8% drop in oil on Strait-of-Hormuz diplomacy did more to calm markets than the inflation beat did to unsettle them. The 10-year Treasury yield still pushed to within a whisker of 5% (4.95-4.96%, highest since 2023) even as equities rallied, a genuine divergence between the rates and equity tapes that desks should not read as an all-clear. With markets having begun 2026 pricing a third Fed cut for September, the swing to an 85-90% probability of a hike is one of the sharpest policy repricings of the year and sets up a binary September 16 FOMC outcome the market is now treating as close to a foregone conclusion.",
+          "source": "CNBC, Bloomberg, Yahoo Finance, CME FedWatch",
+          "time": "08:30 ET (CPI release), through the close"
+        },
+        {
+          "stars": 3,
+          "headline": "Oil tumbles 2.4-2.8% on first concrete Hormuz diplomacy since the war began, pulling equities and gold with it",
+          "detail": "Brent crude settled down 2.8% at $104.61 and WTI fell 2.4% to $100.05, even as both benchmarks still posted 8-9% weekly gains, after Iranian state media confirmed Tehran will meet Gulf Cooperation Council foreign ministers and Iraq in Oman on Monday to discuss restoring shipping through the Strait of Hormuz -- the first concrete sign of de-escalation talks since the conflict intensified this week with strikes on ten vessels and a new Lebanon/Red Sea front. The drop is a genuine cross-asset relief valve: it is the single biggest reason US equities managed to rally despite a hawkish CPI beat, it took pressure off gold (which stayed range-bound near $4,385 rather than spiking further), and it is the same dynamic that pulled European gas and equities higher into Friday's close. Desks should treat Monday's Oman meeting, not the CPI print, as the more important catalyst for next week's price action -- a real de-escalation could unwind a meaningful chunk of the premium built into Brent since the conflict widened, while a disappointment would send oil right back toward the $109-110 highs touched earlier this week. Options markets are already pricing that binary risk, and cross-asset desks running oil-linked inflation hedges or energy-equity beta should size for a large gap move either direction on Monday's Asia open.",
+          "source": "CNBC, Fortune, Al Jazeera, Business Standard",
+          "time": "through the US session, ahead of Monday's Oman meeting"
+        },
+        {
+          "stars": 2,
+          "headline": "Major US indices snap four-day losing streak, but the week is still the worst since March",
+          "detail": "The S&P 500 rose 65.28 points (0.9%) to 7,656.98, the Dow gained 509.19 points (1.0%) to 52,573.29, the Nasdaq Composite added 251.31 points (1.0%) to 26,333.04, and the Russell 2000 edged up 0.4% to 2,903.94. All three large-cap benchmarks had fallen in each of the prior four sessions as oil spiked and yields climbed, so Friday's bounce is a genuine reversal, but it only partially offsets the week's damage -- the Dow is on pace for its worst weekly performance since March, driven by the same combination of energy-shock inflation risk and hawkish central-bank repricing (Fed, ECB and BOJ all moving toward tightening simultaneously) that dominated all three of this week's regional sessions. Nine of eleven S&P sectors finished higher, with breadth genuinely broad rather than concentrated in a handful of mega-caps, a constructive signal for the bounce's durability even as the underlying rates and geopolitical risks remain unresolved into the weekend.",
+          "source": "ABC News/AP wire, WTOP, TheStreet, Yahoo Finance",
+          "time": "16:00 ET (close)"
+        },
+        {
+          "stars": 2,
+          "headline": "University of Michigan sentiment craters to 47.8, a stagflationary miss the CPI-driven rally mostly ignored",
+          "detail": "The preliminary September University of Michigan consumer sentiment index fell to 47.8 from 51.7 in August, a 7.5% monthly drop that came in below every estimate in a Bloomberg survey (consensus 51.0) and leaves the index in roughly the first percentile of its historical range. The composition is the concerning part for macro desks: the Current Conditions sub-index fell a modest 1.9% to 50.9, but the Expectations sub-index collapsed 15.7% to 45.8, while year-ahead inflation expectations jumped to 4.6% from 4.0% and 5-10-year expectations also ticked up -- a combination of falling growth expectations and rising inflation expectations that is close to a textbook stagflation signal. The release landed at 10:00 ET, well after the CPI-driven rally was already underway, and equities largely shrugged it off in favor of the oil-driven relief trade, but rates desks should note it as independent confirmation that the inflation scare is bleeding into household psychology, not just backward-looking price indices -- exactly the kind of data point that makes Chair Warsh's case for hiking on September 16 easier to defend publicly.",
+          "source": "Bloomberg, ABA Banking Journal, FXStreet",
+          "time": "10:00 ET"
+        },
+        {
+          "stars": 2,
+          "headline": "Oracle's $90-95bn capex guidance ignites an AI-infrastructure hardware rally -- HPE and Dell both surge 11%, Super Micro +7%",
+          "detail": "Oracle beat fiscal Q1 2027 estimates ($1.92 EPS vs. $1.73 expected, $19.3bn revenue vs. $19.13bn expected, a 21% year-over-year jump) and raised full-year guidance after Thursday's close, but the more consequential number for equity desks was CFO Hilary Maxson's confirmation of full-year capital spending in the $90-95bn range. That guidance flows directly to the vendors that build, fill and cool AI data-center racks, and Friday's tape read it that way: Hewlett Packard Enterprise and Dell Technologies both surged roughly 11% -- Dell's move compounded by a fresh RBC outperform initiation -- while Super Micro climbed about 7%, all far outpacing the broader tech complex's sub-1% gain. Cisco Systems, which also carries AI-networking exposure, was the Dow's biggest percentage gainer at +4.1%. This is a clean, single-catalyst sector read-through story: one hyperscaler's capex commitment re-rated an entire tier of infrastructure suppliers in a single session, reinforcing the AI-capex trade's role as the dominant equity narrative of 2026 even as broader risk sentiment wobbles on rates and geopolitics.",
+          "source": "Yahoo Finance, 24/7 Wall St., Seeking Alpha, Benzinga",
+          "time": "pre-market through the close"
+        },
+        {
+          "stars": 2,
+          "headline": "Sector rotation stays growth-led -- tech, industrials and communications all gain over 1%, healthcare lags on tariff-margin pressure",
+          "detail": "Technology (XLK), Industrials (XLI) and Communication Services (XLC) each rose more than 1% Friday, while Healthcare (XLV) and Utilities (XLU) were the only two of eleven S&P sectors to close lower. Caterpillar was the single largest points contributor to the Dow's gain, adding roughly 95 points, consistent with the industrial complex's exposure to both the AI-capex buildout and a steeper yield curve that has historically supported capital-goods demand expectations. Healthcare's underperformance continues a 2026 pattern rather than a one-day story: medical-device names including Boston Scientific, Insulet, Abbott and Intuitive Surgical remain under margin pressure from tariffs (Boston Scientific alone has flagged roughly $200mn of tariff-related cost absorption), compounding a broader multiple de-rating across the sector this year on policy uncertainty. For sector-rotation and dispersion desks, today's leadership pattern -- cyclical and AI-linked complexes up, defensive and policy-exposed complexes down -- is the domestic mirror of the bank-versus-luxury and defense-versus-duration rotations flagged in Europe's session earlier today.",
+          "source": "Investrade, MarketBeat, Robinhood Research",
+          "time": "through the close"
+        },
+        {
+          "stars": 2,
+          "headline": "VIX holds above 17 for a second straight session, its first sustained close above that level in 28 trading days",
+          "detail": "The CBOE Volatility Index closed near 17.89 on Thursday -- its first close above 17 in 28 sessions -- and traded in a similar 17-19 range Friday, even as the S&P 500 itself rallied on the day. That combination (equities up, VIX still elevated) is a classic sign of a market that remains hedged rather than complacent: desks are paying up for downside protection into next week's FOMC and Monday's Oman meeting even while riding the oil-relief bounce higher. September and October are seasonally the most VIX-prone months of the year, and with the MOVE index (Treasury-market volatility) also running near multi-year highs alongside a live geopolitical binary event and a genuinely uncertain Fed decision, options desks and vol-targeting/risk-parity strategies should expect continued whipsaw in realized vol regardless of which way spot indices trend into the FOMC.",
+          "source": "CNBC, Vantage Markets, MacroRadar",
+          "time": "through the week, into Friday's close"
+        },
+        {
+          "stars": 2,
+          "headline": "10-year Treasury yield sits on the cusp of 5% for a second session, 30-year holds above 5%, as the hawkish Fed/ECB/BOJ triad compounds",
+          "detail": "The 10-year Treasury yield eased marginally to around 4.95-4.96% Friday after touching its highest level since 2023 (and closest approach to 2007's levels) on Thursday, while the 30-year continues to trade above 5%. The move extends a global rates story that has now run in parallel across three central banks this week -- the ECB hiked Thursday and flagged more to come, all 52 economists in a Bloomberg survey expect a BOJ hike to 1.25% on September 18, and CME-implied odds of a Fed hike on September 16 are near 85-90% -- meaning duration is being squeezed from every major DM curve simultaneously rather than as an isolated US story. For rates desks, the setup argues that a 'buy the CPI dip in duration' trade is unlikely to work cleanly this cycle: even a benign core print would still leave yields anchored by the ECB and BOJ legs of the story, and only a genuine Fed dovish surprise on September 16 -- which the market is currently assigning low odds -- would meaningfully unwind the move.",
+          "source": "Bloomberg, Federal Reserve H.15, Trading Economics",
+          "time": "through the session"
+        },
+        {
+          "stars": 2,
+          "headline": "US high-yield spreads stay near multi-cycle tights even as base rates surge, mirroring the pattern flagged in Europe and Asia this week",
+          "detail": "US high-yield option-adjusted spreads remain compressed near the 320bp area (a separate BofA/Fed series shows OAS around 266bp), close to the tight end of the post-2008 range, even as Treasury yields have pushed to cycle highs across the curve this week. Default rates remain subdued at roughly 3.5% trailing-12-month, near the long-run median, and demand for yield continues to outstrip net new issuance, keeping compensation for credit risk historically thin. The read-through for L/S credit and multi-strategy desks is now consistent across all three of today's sessions globally: the real portfolio risk sitting in credit books right now is duration/rate risk from the base-rate move, not spread-widening risk, since spreads themselves have barely budged outside isolated pockets (European IT-services/software paper being the one exception flagged this week). Total-return credit strategies running meaningful duration into a week that saw three hawkish central-bank repricings land almost simultaneously should expect that dynamic to be the dominant driver of near-term credit fund performance, not idiosyncratic credit events.",
+          "source": "Trading Economics/Fed data, Convex, Macrotrends",
+          "time": "week-to-date context"
+        },
+        {
+          "stars": 2,
+          "headline": "Near-5% Treasury yields squeeze the LatAm carry trade -- peso and Chilean peso slip, Brazilian real bucks the trend on election polling",
+          "detail": "A firmer dollar and Treasury yields near 5% made the carry trade less generous for holders of the Mexican peso, Brazilian real and Chilean peso heading into Friday, with LatAm currencies entering the region's session against a backdrop of soft US equity futures, an elevated VIX and a stronger greenback. Mexico and Chile's currencies slipped through the week on that dynamic, though the Brazilian real was a notable exception, strengthening toward roughly 5.09/USD -- an over-three-week high -- on new polling showing President Lula and Senator Flavio Bolsonaro in a technical tie for a potential October presidential runoff, an idiosyncratic domestic catalyst overriding the broader dollar-strength headwind. For EM desks, this is the clean read-through from the US session's yield spike into risk-sensitive currencies: DM rate differentials are now wide enough to actively compress EM carry, and only strong idiosyncratic (typically political) catalysts can counteract that pull, as the real showed today.",
+          "source": "Rio Times, Trading Economics",
+          "time": "US/LatAm session"
+        },
+        {
+          "stars": 2,
+          "headline": "Fed Chair Warsh faces a 'put up or shut up' moment into September 16 after a second straight hot inflation print",
+          "detail": "Bloomberg and CNBC both framed Friday's CPI release as a defining test for Fed Chair Kevin Warsh, who has spent recent weeks -- including his hawkish Jackson Hole remarks on August 28 -- warning that underlying inflation trends have not improved sufficiently, while pointedly declining to pre-commit to a specific rate path. With back-to-back hot PPI (Thursday) and now a hotter-than-expected core CPI print, combined with President Trump publicly turning up pressure on Warsh earlier this month to act, the Chair now has limited room to hold rates steady on September 16 without appearing to have talked tough and then backed down -- a credibility dynamic markets are pricing via the jump in hike odds to 85-90%. The political overlay matters for rates and FX desks specifically because it raises the bar for what would constitute a dovish surprise: even a Fed that holds rates steady next week would likely need to pair that decision with unusually hawkish forward guidance to avoid a credibility-driven selloff in the dollar and front-end yields.",
+          "source": "Bloomberg, CNBC",
+          "time": "through the session, ahead of September 16 FOMC"
+        },
+        {
+          "stars": 1,
+          "headline": "Gold holds a choppy, roughly flat range near $4,359-4,390 as CPI relief and Fed-hike odds offset each other",
+          "detail": "Spot gold traded in a tight band around $4,385/oz through the session -- essentially unchanged versus Thursday and still well inside the $4,365-4,410 range that has held since midweek -- as two offsetting forces left the metal directionless: falling oil and easing geopolitical risk premium argued for a pullback, while rising Fed-hike odds (above 90% by some measures) and a firmer dollar argued the same way, offset in turn by safe-haven demand from an unresolved Gulf conflict. Gold remains roughly 22% below its January 2026 record above $5,589, and with global ETF inflows still running at near-record pace in August ($17.9bn), the structural bid from institutional allocators looks intact even as short-term price action stays rangebound into the weekend's Oman-meeting catalyst.",
+          "source": "USAGold, Yahoo Finance, World Gold Council",
+          "time": "through the session"
+        },
+        {
+          "stars": 1,
+          "headline": "Silver outperforms gold, +0.78% to $64.04/oz; copper flat at $6.46/lb, still up ~41% year-on-year on AI/data-center demand",
+          "detail": "Silver rose to $64.04/oz, a modest outperformance versus gold's flat session, continuing its role as the higher-beta precious metal in a week of otherwise muted metals price action. Copper eased a further 0.07% to $6.46/lb, essentially flat on the day and extending a mild pullback from its highs, but the metal remains up roughly 41% over the trailing year on structural AI/data-center-linked demand growth and tight concentrate supply -- a run that today's Oracle-driven hardware rally (HPE, Dell and Super Micro all surging on AI capex guidance) is a reminder is still very much intact as a multi-quarter theme, even though copper itself didn't participate in Friday's equity-side enthusiasm.",
+          "source": "Trading Economics",
+          "time": "through the session"
+        },
+        {
+          "stars": 1,
+          "headline": "Corporate-action flow stays active into the weekend: Enel's $760mn US solar/wind purchase, a potential $2bn Altera IPO",
+          "detail": "Enel agreed to acquire the Faraday and Skyhawk solar plants from Excelsior for $760mn, a mid-sized but notable US renewables transaction that continues the pattern (also seen in Europe's TotalEnergies-Shell deal earlier this week) of utilities and majors consolidating operating renewable assets even amid a strong year for fossil-fuel trading profits. Separately, Silver Lake-backed semiconductor/IP firm Altera is reportedly preparing a potential $2bn IPO, and Frazier Life Sciences raised more than $1.1bn for a new public healthcare fund -- both signals that primary-market and IPO-window activity remains open despite this week's volatility, a useful cross-check for desks tracking whether the rates/geopolitical shock has frozen capital-markets issuance (it has not).",
+          "source": "Intellizence, deal-tracking wires",
+          "time": "session, corporate disclosures"
+        },
+        {
+          "stars": 1,
+          "headline": "Bank stocks keep drawing a steepening-curve bid; JPMorgan approaches $1 trillion market cap",
+          "detail": "US financials continued to benefit from the same higher-for-longer, steeper-curve dynamic flagged in Europe's Santander/BBVA outperformance earlier today, with net-interest-margin tailwinds from elevated short- and long-end rates supporting the sector even as duration-sensitive names struggled elsewhere in the market. JPMorgan Chase is closing in on a $1 trillion market capitalization, a threshold that would formalize its position as the world's most valuable bank, while Goldman Sachs options markets are pricing a notably wide ~6% implied earnings move versus JPMorgan's more modest ~4.4%, reflecting relatively higher uncertainty around Goldman's capital-markets-linked revenue mix heading into its next report. For single-name financials desks, the domestic bank trade remains one of the cleanest, least-contested expressions of the global hawkish-central-bank rotation running through all three of today's sessions.",
+          "source": "MarketBeat, market data",
+          "time": "through the session"
+        },
+        {
+          "stars": 1,
+          "headline": "Market breadth and flow data flag a historically unusual year for equity resilience even as positioning turns more cautious",
+          "detail": "The Kobeissi Letter flagged that 2026 is on track to be the only calendar year in at least 30 years with zero 80%+ NYSE downside-volume days -- sessions where at least 80% of trading volume comes from declining stocks -- versus 49 such days in 2008, 33 in 2022 and a 1997-to-date average of 21, underscoring how orderly this year's pullbacks (including this week's oil/rates-driven wobble) have been relative to prior stress episodes. That resilience sits alongside a more cautious flow picture: US equity funds recorded roughly $32bn of net outflows over the past reported week, with US large-cap funds alone posting a record $40bn weekly outflow, suggesting institutional de-risking is happening quietly through fund flows even as index-level price action stays remarkably orderly. For multi-manager and macro-fund desks, the divergence between calm realized-volatility/breadth metrics and heavier outflow data is worth tracking as a potential coiled-spring setup heading into a week with both an FOMC decision and a live geopolitical binary event.",
+          "source": "The Kobeissi Letter",
+          "time": "week-to-date"
+        }
+      ]
     }
   }
 }
