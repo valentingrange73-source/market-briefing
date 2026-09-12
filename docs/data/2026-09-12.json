@@ -214,6 +214,78 @@
         "change": "near 14-yr high, +85bp vs Bund",
         "direction": "up"
       }
+    ],
+    "us": [
+      {
+        "category": "Equities",
+        "label": "S&P 500",
+        "value": "7,656.98",
+        "change": "+0.9% (Fri close)",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "Nasdaq Composite",
+        "value": "26,333.04",
+        "change": "+1.0% (Fri close)",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "Dow Jones",
+        "value": "52,573.29",
+        "change": "+1.0% (Fri close)",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "Russell 2000",
+        "value": "2,903.94",
+        "change": "+0.4% (Fri close)",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "Dollar Index (DXY)",
+        "value": "~99.1",
+        "change": "+0.1%, third straight up session",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "Gold",
+        "value": "~$4,385/oz",
+        "change": "roughly flat, choppy",
+        "direction": "flat"
+      },
+      {
+        "category": "Commodities",
+        "label": "WTI crude",
+        "value": "$100.05",
+        "change": "-2.4% (Fri)",
+        "direction": "down"
+      },
+      {
+        "category": "Commodities",
+        "label": "Copper",
+        "value": "$6.46/lb",
+        "change": "little changed, +~41% y/y",
+        "direction": "flat"
+      },
+      {
+        "category": "Rates",
+        "label": "US 10Y Treasury",
+        "value": "~4.95-4.96%",
+        "change": "cusp of 5%, highest since 2023",
+        "direction": "up"
+      },
+      {
+        "category": "Rates",
+        "label": "US 2Y Treasury",
+        "value": "~4.63%",
+        "change": "little changed",
+        "direction": "flat"
+      }
     ]
   },
   "sessions": {
@@ -419,8 +491,130 @@
       ]
     },
     "us": {
-      "status": "pending",
-      "items": []
+      "status": "done",
+      "items": [
+        {
+          "stars": 3,
+          "headline": "Houthi forces seize Perim Island, opening a second oil chokepoint at Bab el-Mandeb alongside Hormuz right into Fed week",
+          "detail": "Iran-aligned Houthi forces completed their weekend advance by taking Perim Island in the Bab el-Mandeb Strait on Friday, hours after seizing the Red Sea port of Mocha and the Hanish islands, giving Tehran-aligned forces effective leverage over a second major oil artery in addition to the already-disrupted Strait of Hormuz. US desks read this as the single biggest swing factor for Monday's New York open: a genuine two-chokepoint risk would argue for crude re-testing last week's highs above $109 regardless of Monday's separate Oman talks on Hormuz, complicating the inflation backdrop the Fed already has to weigh three days before its September 16 decision. Analysts cited by NPR and CNBC say the offensive carries direct Revolutionary Guard coordination, explicitly framed as opening a front against US interests rather than a purely local Yemeni civil-war development. The read-through for fixed income is direct: a fresh oil-driven inflation impulse lands on top of Friday's already-hot core CPI, tightening the vice on Chair Warsh's rate call and reinforcing the bid in the front end of the Treasury curve seen into the weekend. Options desks are said to be pricing a binary gap risk into Monday's cash equity and crude open, with the scope of any de-escalation from the separate Oman meeting doing little to resolve the Bab el-Mandeb front specifically.",
+          "source": "NPR, CNBC, Reuters, Jerusalem Post",
+          "time": "Friday Sept 11, developing into the weekend"
+        },
+        {
+          "stars": 2,
+          "headline": "Treasury Secretary Bessent to unveil a major bank sanction Monday, escalating 'Operation Economic Outcast' against Iran-linked financial flows",
+          "detail": "Treasury Secretary Scott Bessent said Thursday the administration will name and sanction a large, as-yet-unidentified bank on Monday as part of its intensifying campaign to choke off Iran's access to dollar-clearing and correspondent-banking channels; the announcement was originally slated for Friday but pushed to Monday around 9/11 anniversary commemorations. It follows sanctions already placed this month on Egyptian bank branches in Dubai linked to roughly $1.8bn in alleged Iran-tied flows and the shuttering of Turkey's 30th-largest bank, so the pattern suggests the Monday target is unlikely to be a marginal player. For multi-asset desks, sanctions actions against systemically-linked banks carry genuine counterparty and correspondent-banking risk that can move EM local-currency and offshore-dollar-funding markets quickly and without warning, distinct from the slower-moving Hormuz/Hormuz-diplomacy storyline. Combined with the Saudi tanker-tracking data showing crude exports at a roughly nine-year low near 3 million b/d in August, the financial and physical pressure campaigns against Iran are now running on parallel, reinforcing tracks heading into next week.",
+          "source": "Reuters, Bloomberg, US Treasury statements",
+          "time": "announced Thursday, action planned for Monday Sept 14"
+        },
+        {
+          "stars": 2,
+          "headline": "Wall Street snaps a four-session losing streak Friday as an oil-driven relief rally outweighs a hotter-than-expected core CPI",
+          "detail": "The S&P 500 closed up roughly 0.9% at 7,656.98, the Nasdaq Composite gained about 1.0% to 26,333.04, the Dow added roughly 1.0% to 52,573.29 and the Russell 2000 lagged with a 0.4% gain to 2,903.94, with nine of eleven S&P sectors higher and advancers outpacing decliners by roughly 2-to-1. The rally came even though August core CPI printed +0.3% m/m, a tenth above consensus, because a 2.4-2.8% intraday drop in oil on the first concrete Hormuz de-escalation talks in weeks did more to calm markets than the inflation beat did to unsettle them -- an inversion of the usual playbook that desks should not read as an all-clear given the 10-year yield still pushed to the cusp of 5% the same day. Despite Friday's bounce, the week was still the worst for US equities since March, underscoring that the underlying volatility regime -- Middle East escalation, a hawkish Fed/ECB/BOJ triad, and a stagflationary University of Michigan sentiment reading of 47.8 released the same morning -- has not actually eased, only paused. Breadth held up better than the index-level swings would suggest, consistent with the unusually low incidence of high-conviction downside-volume days flagged elsewhere this year.",
+          "source": "CNBC, Bloomberg, Yahoo Finance, BLS",
+          "time": "Friday Sept 11, 08:30 ET (CPI) through the 16:00 ET close"
+        },
+        {
+          "stars": 2,
+          "headline": "CME-implied Fed hike odds for Sept 16 sit near 60%, but Kalshi and Polymarket price closer to a coin flip -- a real derivatives-vs-prediction-market split",
+          "detail": "Fed funds futures tracked by CME FedWatch put the odds of a 25bp hike at Wednesday's meeting (to a 3.75-4.00% target range from the current 3.50-3.75%) in the high-50s to mid-60s percent range as of Friday, up from roughly 48% just a month ago on the back of a hot PPI print, Chair Warsh's hawkish Jackson Hole remarks, a firm jobs report and Friday's core CPI beat. Prediction markets Kalshi and Polymarket, however, price the same outcome closer to 48-49%, a genuine and unusually wide divergence between rates-derivatives-implied probability and crowd-sourced betting markets that macro funds and multi-strategy desks are flagging as a signal of how contested this meeting's outcome really is beneath the surface consensus. The gap matters for positioning: futures-based hedges will be sized very differently than a trader taking the prediction-market view at face value, and a genuine 50/50 outcome raises the odds of an outsized rates and dollar move regardless of which way the committee goes. Some officials have reportedly told reporters the CPI report itself \"could swing them either way,\" reinforcing that Wednesday's Summary of Economic Projections and dot plot may matter as much as the rate decision itself.",
+          "source": "CME Group, Kalshi, Polymarket, Reuters",
+          "time": "as of Friday Sept 11, ahead of Wed Sept 16 FOMC"
+        },
+        {
+          "stars": 2,
+          "headline": "This week's 10-year and 30-year Treasury auctions clear at multi-cycle-high yields as supply meets a market repricing toward a hike, not a cut",
+          "detail": "Tuesday's 10-year note auction tailed at a 4.834% high yield with a 2.71 bid-to-cover and 79.2% indirect (largely foreign) bidder participation, while Wednesday's 30-year bond auction cleared at 5.308%, up sharply from the prior 30-year auction's 5.216%. Both results land against a backdrop where markets began 2026 pricing a third Fed rate cut for September and are now pricing a hike instead, one of the sharpest policy repricings of the year, so auction demand is being tested precisely as duration becomes structurally less attractive. The indirect-bidder share held up reasonably well by historical standards, suggesting foreign demand has not collapsed even as yields grind toward cycle highs, but the sequential deterioration in the 30-year stop-out is the kind of soft-tail signal that curve and duration desks watch closely heading into a week that adds an FOMC decision on top of already-heavy supply.",
+          "source": "TreasuryDirect/Fiscal Data, Committee for a Responsible Federal Budget",
+          "time": "10Y auction Tue Sept 9; 30Y auction Wed Sept 10"
+        },
+        {
+          "stars": 2,
+          "headline": "US-China 10-year yield gap widens to a record ~317-324bp as Fed-hike repricing collides with China's deflationary rate structure",
+          "detail": "The spread between US and Chinese 10-year government bond yields hit a record near 317bp on Wednesday's data (Bloomberg) and was cited as wide as 324bp by weekend commentary, with the US 10-year near 4.85-4.96% against a Chinese 10-year still anchored near 1.68% as Beijing continues to fight domestic deflationary pressure rather than inflation. A widening rate differential of this size is a textbook driver of capital outflow pressure and yuan weakness, and it directly reinforces Friday's PBOC fixing, which came in roughly 570 pips weaker than market estimates (see Asia panel) -- the currency and rates stories are the same trade viewed from two sides of the Pacific. For EM and macro-fund desks, a persistent gap this wide raises the bar for the PBOC to keep managing a gradual, rather than disorderly, yuan depreciation, especially if Wednesday's FOMC delivers the hike markets are increasingly pricing.",
+          "source": "Bloomberg, The Kobeissi Letter",
+          "time": "spread as of Sept 9-10, referenced through the weekend"
+        },
+        {
+          "stars": 2,
+          "headline": "DeepSeek's memory-lean V4.1 Flash model hits Samsung and SK Hynix hard in Seoul, but US suppliers Micron and SanDisk hold up far better",
+          "detail": "DeepSeek's Wednesday release of V4.1 Flash, a 552-billion-parameter model claiming roughly 75% less HBM and 87.5% less SSD storage requirement than its predecessor, drove Samsung Electronics and SK Hynix shares down more than 3% in Friday's Seoul session on fears that leaner inference architectures could crimp the AI-driven memory-demand super-cycle (see Asia panel for the full Seoul reaction). The US read-through was notably more muted: Micron and SanDisk were reported to have held up considerably better than their Korean peers through Friday's session, suggesting US investors are for now treating the efficiency claim as a Korean-supplier-concentration story rather than a broad indictment of memory demand. That divergence is itself a tradable signal -- if the efficiency claims hold up under scrutiny, the gap between Korean and US memory-name performance should close; if they don't, Friday's muted US reaction will look like the correct call. Options and pairs desks running long-US/short-Korea memory exposure have a live catalyst to watch into next week.",
+          "source": "Reuters, Bloomberg, Yonhap",
+          "time": "model released Wednesday Sept 9; US reaction through Friday's close"
+        },
+        {
+          "stars": 2,
+          "headline": "Dell surges more than 10% on an RBC Outperform initiation tied to AI-server demand, extending the hardware complex's post-Oracle rally",
+          "detail": "Dell Technologies jumped over 10% Friday after RBC Capital Markets initiated coverage at Outperform, citing AI-server backlog strength, building on the hardware-sector momentum that Oracle's Wednesday fiscal Q1 2027 print (cloud infrastructure revenue +93% y/y) had already ignited earlier in the week alongside HPE and Super Micro. Oracle's own stock reaction has been messier and worth flagging rather than smoothing over: some accounts describe an intraday pop on the cloud-growth beat, while others note an aftermarket pullback tied to margin concerns from the scale of the capex commitment, and the two framings are hard to fully reconcile from Friday's reporting. The net effect for hardware and AI-infrastructure allocators is that the capex-driven rally is broadening beyond the original mega-cap hyperscalers into second-tier server and storage names, which is generally read as a sign of conviction rather than late-cycle exhaustion, but the muddled Oracle tape is a reminder that not every name in the trade is re-rating cleanly.",
+          "source": "RBC Capital Markets, Bloomberg, CNBC",
+          "time": "Friday Sept 11 session"
+        },
+        {
+          "stars": 2,
+          "headline": "US high-yield and investment-grade spreads sit near multi-cycle tights even as Treasury yields surge toward 5% -- a credit-vs-rates divergence desks keep flagging",
+          "detail": "HYG's option-adjusted spread was running near 247bp with a 7.38% yield-to-maturity as of Wednesday, close to 12-month highs in price terms, while broader investment-grade spreads sit near 90bp -- both readings consistent with a credit market pricing very little near-term default or recession risk even as the 10-year yield sits on the cusp of 5% and the 30-year holds above 5%. This is the same pattern flagged in Europe and Asia this week: base rates spiking on hawkish central-bank repricing while credit spreads stay compressed, a divergence that leaves L/S credit and multi-strategy desks debating whether spreads are underpricing a genuine oil-driven stagflation risk or whether the rates move is simply a policy-path repricing that credit is right to treat as orthogonal to fundamentals. The HYG/LQD ratio was flagged in one dataset as more than two standard deviations rich to its one-year average, reinforcing that credit positioning, not just index-level equity beta, is where the crowding risk may actually sit heading into FOMC week.",
+          "source": "ICE BofA indices (via aggregator), Bloomberg",
+          "time": "spreads as of Wednesday Sept 9, referenced into Friday's close"
+        },
+        {
+          "stars": 2,
+          "headline": "VIX crushes to 15.84 at Friday's close, an 11% one-day drop that fully reverses Thursday's push above 17",
+          "detail": "The VIX fell about two points, or roughly 11%, to close at 15.84 on Friday, unwinding Thursday's spike above 17 -- the index's first sustained close above that level in 28 trading days -- as the oil-driven equity relief rally took the edge off the week's earlier volatility scare. The round-trip in under 48 hours is itself notable: a vol spike that fails to hold above a multi-week threshold for even two full sessions suggests options markets are treating this week's Middle East and inflation shocks as manageable rather than regime-changing, at least for now, even as bond yields tell a more persistently stressed story. Vol-selling and dispersion desks should note that the speed of the reversal leaves relatively little cushion if Monday's Oman talks or the Bessent sanctions announcement disappoint, since implied vol has already round-tripped most of the way back to pre-shock levels heading into a week that still contains a live FOMC decision.",
+          "source": "Cboe, MacroRadar, Bloomberg",
+          "time": "Thursday spike above 17; Friday close 15.84"
+        },
+        {
+          "stars": 2,
+          "headline": "Apple and Alphabet each add roughly 1.5-1.8% Friday while Nvidia holds a $218-222 range, keeping the 'Magnificent Seven' rally concentrated rather than broad",
+          "detail": "Apple gained about 1.75% and Alphabet rose in a 1.5-1.8% range Friday, both participating in the broader relief rally, while Nvidia traded in a roughly $218-222 intraday band and closed near $218, essentially flat on the day. Microsoft, Amazon, Tesla and Meta did not register standout Friday-specific moves in available reporting, leaving the mega-cap complex's participation in Friday's bounce concentrated in Apple, Alphabet and the broader hardware/AI-infrastructure names (Dell, HPE, Super Micro) rather than spread evenly across the group. For index desks, a rally led by a narrower slice of mega-caps plus second-tier hardware names, rather than the full Magnificent Seven complex moving in lockstep, is worth tracking as a breadth signal distinct from the encouraging 2-to-1 sector-level advance/decline ratio cited elsewhere in Friday's tape.",
+          "source": "Zacks, Nasdaq, Bloomberg",
+          "time": "Friday Sept 11 close"
+        },
+        {
+          "stars": 1,
+          "headline": "Energy remains 2026's best-performing S&P sector even as Friday's oil pullback trims the week's gains",
+          "detail": "The energy sector (XLE) is running roughly 32% higher year-to-date, by far the best-performing S&P 500 sector of 2026, powered by the Iran-conflict and Hormuz/Red Sea disruption premium built into crude since the US-Israeli strikes began; Exxon Mobil and Chevron together account for roughly 35% of the fund's weighting. Friday's 2.4-2.8% pullback in oil on Hormuz diplomacy news trimmed some of the week's gains but did little to dent the broader 2026 re-rating, and the fresh Perim Island escalation (see above) argues the sector's premium is more likely to be reinforced than unwound heading into Monday.",
+          "source": "Bloomberg, sector-fund data",
+          "time": "year-to-date context through Friday Sept 11"
+        },
+        {
+          "stars": 1,
+          "headline": "Airlines bounce on oil relief, but a roughly $4bn fuel-cost margin squeeze estimate hangs over the sector into the holidays",
+          "detail": "American Airlines and peers traded higher Friday as crude eased back below $100/bbl intraday, offering some relief given jet fuel makes up roughly a quarter of airline operating costs. But with oil still up 8-9% on the week and Bloomberg noting Thursday that crude above $100 was \"dashing hopes\" for cheaper holiday-season airfares, one industry estimate pegs the sector-wide margin hit from sustained elevated fuel costs near $4bn if prices hold near current levels -- a reminder that Friday's bounce is relief within a still-adverse cost backdrop, not a reversal of it.",
+          "source": "Bloomberg, OilPrice.com",
+          "time": "Friday Sept 11 session"
+        },
+        {
+          "stars": 1,
+          "headline": "EM equity and FX proxies hold up better than the rates story would suggest -- EEM near $67, FXI still one of the year's stronger EM ETFs",
+          "detail": "EEM traded around the $67 handle Friday, within its recent range and still well above its 52-week low near $51.82, while FXI remains up roughly 34% over the trailing year, helped by the continued Chinese tech buyback wave flagged in Friday's Asia session (Tencent alone has repurchased nearly HK$50bn in 2026). That relative EM resilience sits awkwardly next to the record US-China yield gap and the PBOC's weak yuan fixing (see above), suggesting equity and FX/rates markets are, for now, telling somewhat different stories about China-linked risk -- a divergence multi-asset and macro desks should keep on the watchlist rather than assume will resolve smoothly.",
+          "source": "Bloomberg, ETF.com",
+          "time": "Friday Sept 11 levels"
+        },
+        {
+          "stars": 1,
+          "headline": "Gold and silver hold a choppy range as CPI-driven Fed-hike bets offset safe-haven demand; copper steady near $6.46/lb with tariff-policy noise in the background",
+          "detail": "Gold spent Friday in a roughly $4,360-4,390/oz range, essentially flat on net as the hotter core CPI print (bullish for hike odds, bearish for gold) offset safe-haven flows from the widening Middle East conflict (bullish for gold). Silver outperformed, adding about 0.8% to roughly $64/oz. Copper held near $6.46/lb, still up about 41% year-on-year on AI/data-center demand, after an earlier sharp single-session drop tied to reports the US may drop planned tariffs on refined-metal imports -- a reminder that copper's 2026 rally has as much to do with US trade policy uncertainty as with underlying demand.",
+          "source": "Kitco, TradingEconomics",
+          "time": "Friday Sept 11 into the weekend"
+        },
+        {
+          "stars": 1,
+          "headline": "Regional-bank and building-materials M&A stays active: WaFd's $3.9bn EverBank reverse merger and CRH shareholders' approval of the Arcosa deal",
+          "detail": "WaFd Inc. and EverBank Financial Corp advanced a roughly $3.9bn reverse-merger structure this week, part of a broader wave of regional-bank consolidation that a steepening yield curve and higher-for-longer rates have made more economically attractive for acquirers. Separately, CRH shareholders formally approved CRH's acquisition of Arcosa at a special meeting, clearing the way for a larger combined aggregates-and-infrastructure platform. Neither deal is large enough to move index levels on its own, but both fit the pattern of steady deal flow continuing even through a volatile macro backdrop, consistent with the active corporate-action tape (Enel's US solar/wind purchase, the prospective Altera IPO) already flagged earlier in the week.",
+          "source": "Reuters, PR Newswire",
+          "time": "week of Sept 8-11"
+        },
+        {
+          "stars": 1,
+          "headline": "Coming week's calendar is dominated by Wednesday's FOMC decision and dot plot, with retail sales and Empire State manufacturing also due",
+          "detail": "The marquee event for the week of September 14-18 is Wednesday September 16's FOMC decision at 2:00pm ET, accompanied by the Summary of Economic Projections and dot plot under Fed Chair Kevin Warsh's first high-stakes meeting since his May confirmation. Retail sales and the Empire State manufacturing survey are also on the September calendar, though this weekend's search window could not confirm their exact date within the Sept 14-18 window -- desks should check a live economic calendar directly once the week's official schedule firms up. With both August CPI and PPI already released the prior week, the FOMC decision itself, rather than fresh inflation data, is the dominant scheduled catalyst heading into Monday's open.",
+          "source": "CME Group, FedRateCalc, Federal Reserve",
+          "time": "week of Sept 14-18, decision Wed Sept 16 14:00 ET"
+        }
+      ],
+      "generated_at": "2026-09-12T18:45:00+02:00"
     }
-  }
+  },
+  "summary": "Friday closed a rough week red across Asia and mixed-to-firm in Europe/US, all under the same shadow: an escalating Iran-Houthi conflict (Hormuz plus a new Bab el-Mandeb front via Perim Island) that kept an energy-inflation premium alive into a hawkish ECB hike to 2.50% and a hotter-than-expected US core CPI print. US equities nonetheless rallied on oil relief, snapping a four-session losing streak, even as Bund, gilt and Treasury yields pushed to multi-year highs (10Y near 5%, gilts near a 19-year high, Bunds near a 2011 high) and Fed-hike odds for Wednesday's FOMC climbed toward 60%. Monday's Oman talks on Hormuz, a fresh US bank-sanction announcement, and the September 16 Fed decision under new Chair Warsh are next week's pivotal catalysts, with credit spreads still oddly calm despite the cross-asset stress building in rates, oil and FX."
 }
