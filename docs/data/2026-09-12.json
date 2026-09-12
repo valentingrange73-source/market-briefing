@@ -100,6 +100,120 @@
         "change": "+7bp (Fri)",
         "direction": "up"
       }
+    ],
+    "europe": [
+      {
+        "category": "Equities",
+        "label": "DAX",
+        "value": "25,569",
+        "change": "+0.82%",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "CAC 40",
+        "value": "—",
+        "change": "+0.5%",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "IBEX 35",
+        "value": "~19,802",
+        "change": "+0.72%",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "FTSE MIB",
+        "value": "—",
+        "change": "+0.57%",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "FTSE 100",
+        "value": "—",
+        "change": "+0.43%",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "EUR/USD",
+        "value": "~1.16",
+        "change": "softer",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "GBP/USD",
+        "value": "1.352",
+        "change": "+0.06%",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "EUR/GBP",
+        "value": "~0.8600",
+        "change": "capped at 0.86",
+        "direction": "flat"
+      },
+      {
+        "category": "FX",
+        "label": "USD/TRY",
+        "value": "~48.55",
+        "change": "record low lira",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "USD/ZAR",
+        "value": "16.14",
+        "change": "little changed",
+        "direction": "flat"
+      },
+      {
+        "category": "FX",
+        "label": "USD/PLN",
+        "value": "3.727",
+        "change": "little changed",
+        "direction": "flat"
+      },
+      {
+        "category": "Commodities",
+        "label": "Gold",
+        "value": "~$4,348/oz",
+        "change": "+0.8%",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "Brent crude",
+        "value": "$104.61",
+        "change": "-2.8% (Fri)",
+        "direction": "down"
+      },
+      {
+        "category": "Rates",
+        "label": "Bund 10Y",
+        "value": "~3.40-3.45%",
+        "change": "highest since 2011",
+        "direction": "up"
+      },
+      {
+        "category": "Rates",
+        "label": "Gilt 10Y",
+        "value": "5.295%",
+        "change": "highest since Aug 2007",
+        "direction": "up"
+      },
+      {
+        "category": "Rates",
+        "label": "OAT 10Y",
+        "value": "~4.31%",
+        "change": "near 14-yr high, +85bp vs Bund",
+        "direction": "up"
+      }
     ]
   },
   "sessions": {
@@ -194,8 +308,115 @@
       ]
     },
     "europe": {
-      "status": "pending",
-      "items": []
+      "status": "done",
+      "generated_at": "2026-09-12T14:30:00+02:00",
+      "items": [
+        {
+          "stars": 3,
+          "headline": "ECB delivers a hawkish 25bp hike to 2.50%, its second of the year, as Iran-war energy inflation forces policy back into tightening mode",
+          "detail": "The European Central Bank raised its deposit rate a quarter point to 2.50% (main refi to 2.65%) on Thursday, the second hike since the US-Israeli war on Iran began reshaping the energy-price backdrop, after euro-area headline inflation accelerated to 3.3% y/y in August -- its highest since September 2023 -- with energy inflation alone running near 14.3%. President Lagarde called the move a 'no-brainer' and delivered a markedly more hawkish tone than the hike itself implied, explicitly declining to rule out an October follow-up; markets responded by pricing roughly a 90% chance of a third hike this year and a deposit rate near 2.70-2.75% by December. Crucially, the ECB simultaneously lifted its growth projections for this year and next, judging the euro-area economy resilient enough to absorb the energy shock without recession, while keeping its inflation forecast above the 2% target through 2027 on a €82/MWh gas-price assumption. This is the textbook 3-star, cross-asset event: it repriced the entire euro rates curve, split equities along rate-sensitivity lines (banks up, long-duration tech down), pushed Bund yields to multi-year highs, and is the reason STOXX 600 fell to a two-month low on the announcement before partially recovering Friday. Desks should treat Monday's Iran-GCC talks in Oman on Hormuz shipping (see Asia panel) as the next swing factor for whether the ECB's tightening path steepens further or the energy-inflation premise starts to unwind.",
+          "source": "Bloomberg, CNBC, Reuters (via Yahoo Finance), Rio Times Europe Intelligence Brief",
+          "time": "decision 14:15 CET Thursday Sept 10; repriced through Friday's session"
+        },
+        {
+          "stars": 2,
+          "headline": "German Bund 10-year yield presses toward its highest since 2011 as ECB tightening bets build",
+          "detail": "The German 10-year Bund yield has pushed up toward roughly 3.4-3.45%, a level not seen since 2011, as Thursday's ECB hike and Lagarde's hawkish commentary reinforced expectations for at least one more move this year. The move reflects a straightforward repricing mechanism: with the ECB's own forecasts keeping inflation above target through 2027, the market is demanding materially more term premium across the curve, and the sell-off has been broad-based across German, French and peripheral government debt. For rates desks, the level matters less than the trajectory -- a 3.4%+ Bund with the ECB still explicitly leaving the door open to October action reduces the odds of a near-term consolidation in European duration, and increases the odds that credit spread widening (high-yield and subordinated bank debt in particular) becomes the next transmission channel if growth data disappoints even slightly.",
+          "source": "Trading Economics, Bloomberg ECB coverage",
+          "time": "into Friday's close"
+        },
+        {
+          "stars": 2,
+          "headline": "UK 10-year gilt yield hits its highest since August 2007 at 5.295% as BoE hike bets compound with the ECB move",
+          "detail": "The UK 10-year gilt yield struck 5.295% on Thursday, the highest print since August 2007, extending a UK-specific bond sell-off that predates but has now been amplified by the ECB's hawkish hike. Stronger-than-expected UK GDP data released Friday added to the case for further Bank of England tightening, with sterling stabilizing near $1.352 (GBP/USD +0.06%) as traders digested both the domestic growth beat and the region-wide rates repricing. The UK 30-year gilt yield has meanwhile held around 5.93%, underscoring that the move is a genuine curve-wide phenomenon rather than a front-end-only story. This is a clear, tradable single-asset-class move (>5bp, multi-day) that matters beyond gilts specifically -- UK mortgage and corporate borrowing costs, and by extension UK housing and credit-sensitive equities, all reprice off this benchmark, and the level is now firmly in territory last associated with the 2007-08 pre-crisis period.",
+          "source": "Global Banking & Finance, Trading Economics, FX.co",
+          "time": "yield struck 09:30 GMT Thursday; GDP data and sterling reaction Friday"
+        },
+        {
+          "stars": 2,
+          "headline": "French OAT-Bund spread grinds toward 85bp as fiscal and political risk keeps a premium on French debt",
+          "detail": "France's 10-year OAT yield has climbed to roughly 4.31%, its highest in around 14 years, pushing the OAT/Bund spread out to about 85 basis points as of early September -- up sharply from roughly 55bp at the start of the year. The move is being driven by investor skepticism that Paris can deliver material fiscal consolidation given the political backdrop, with markets openly discussing scenarios around a possible change of government or policy priorities next year and a 2026 debt-service bill approaching €65bn, now the state's single largest budget line. Layered on top of the ECB's hawkish pivot, French sovereign risk is the periphery-adjacent story euro rates and credit desks are watching most closely -- a spread that was tight and stable earlier in the year is now trending wider on a slope that, if it continues, starts to bleed into French bank funding costs and OAT-linked derivatives positioning.",
+          "source": "CNBC, Ideal-Investisseur, Amundi Research Center, Cointribune",
+          "time": "spread as of early September, trending into this week"
+        },
+        {
+          "stars": 2,
+          "headline": "STOXX 600 rebounds 0.3% Friday to 637.60 but still on track for its worst week since April after Thursday's ECB-driven two-month low",
+          "detail": "The pan-European STOXX 600 fell to a two-month low on Thursday (roughly -0.5%) as the ECB's hawkish hike hit rate-sensitive names, then recovered 0.3% to 637.60 on Friday as investors reassessed the growth-upgrade half of the ECB's message. Even with Friday's bounce, the index is on course for its steepest weekly decline since April, as elevated bond yields and lingering worry about further hikes offset otherwise resilient earnings momentum heading into key US CPI data later Friday. The pattern -- a policy-driven air pocket followed by a partial, unconvincing recovery -- is the signature of a market still working out whether the ECB's hawkish tone or its growth upgrade is the more important signal, and leaves the index vulnerable to a retest of the Thursday lows if Monday's Hormuz talks in Oman disappoint or US CPI surprises to the upside.",
+          "source": "Reuters (via Yahoo Finance/Business Recorder), CoinCentral",
+          "time": "Thursday low, Friday +0.3% close to 637.60"
+        },
+        {
+          "stars": 2,
+          "headline": "DAX closes Friday +0.82% at 25,569 but the tape splits sharply: Infineon and Siemens lead, Rheinmetall and BASF lag",
+          "detail": "Germany's DAX added 207 points (+0.82%) to close at 25,569 on Friday, but the composition of the move is more informative than the headline: Infineon (+4.78%), Siemens (+2.73%) and Deutsche Telekom (+2.55%) led, while Rheinmetall (-3.05%), BASF (-2.83%) and Henkel (-1.71%) were the weakest performers. Rheinmetall's slide extends a pullback that began after JPMorgan placed the stock on a Negative Catalyst Watch earlier in the week, even as the company continues to report strong order momentum (including a fresh US Marine Corps unmanned-ground-vehicle order) -- a case of positioning and valuation risk outweighing fundamentals for now. BASF's weakness is consistent with the broader energy-cost squeeze German chemicals face as gas prices push toward 2023 highs on the Iran-war LNG disruption (see below), while Infineon and Siemens' gains suggest capex-cycle and AI-infrastructure exposure is still finding buyers even in a rate-hostile tape. For single-name and sector-rotation desks, this dispersion -- not the index headline -- is the more durable signal out of Frankfurt today.",
+          "source": "Trading Economics, ad-hoc-news.de (Rheinmetall coverage)",
+          "time": "Friday close"
+        },
+        {
+          "stars": 2,
+          "headline": "European bank stocks outperform post-ECB as higher rates flow straight to net interest margin: Santander, SocGen, Deutsche Bank all higher",
+          "detail": "Banking stocks were the clearest beneficiaries of Thursday's ECB hike, with Banco Santander adding roughly 0.7%, Societe Generale gaining around 1.6%, and Deutsche Bank rising 1.3%, even as the broader STOXX 600 fell to a two-month low the same session. Santander's strength is being reinforced by a sizeable ongoing share buyback and, separately, by the EU's clearance of its Ebury cross-border payments deal, giving the stock a company-specific tailwind layered on top of the sector-wide rate story. The mechanism is straightforward and well understood by desks: a steeper, higher policy rate path widens net interest margin for European lenders faster than it raises their funding or credit-loss costs in the near term, which is why bank equities have decoupled positively from the broader index even as rate-sensitive growth and tech names (SAP, ASML) sold off in the same session. This dispersion is a clean, tradable expression of the ECB story for anyone running European financials versus the broader index.",
+          "source": "Yahoo Finance, ad-hoc-news.de",
+          "time": "Thursday's ECB-decision session, extending into Friday"
+        },
+        {
+          "stars": 2,
+          "headline": "SAP extends its slide toward multi-month lows as a trimmed profit outlook and a Santander downgrade overshadow strong cloud growth",
+          "detail": "SAP shares fell a further 2.8% to €177.82 on Thursday, roughly 24% below their 52-week high of €242 set last October, as the stock absorbed both a Santander downgrade and lingering digestion of a trimmed full-year non-IFRS operating profit guidance range of €11.8-12.2bn. The disconnect is notable: SAP's Current Cloud Backlog rose 26% currency-adjusted to €22.9bn last quarter with cloud revenue up 24%, yet the market is choosing to price the guidance trim and valuation concerns over the underlying growth story, a pattern reinforced by a cluster of freshly published security notes that added to sentiment pressure. Combined with ASML's roughly 1.1% decline in the same ECB-hike session, SAP's weakness underlines how European rate-sensitive, long-duration tech names are bearing a disproportionate share of the pain from the hawkish repricing even as the broader software/cloud fundamentals hold up -- a valuation-versus-fundamentals split worth tracking into next week's price action.",
+          "source": "ad-hoc-news.de, TradingEconomics",
+          "time": "Thursday session, into Friday"
+        },
+        {
+          "stars": 2,
+          "headline": "Dutch TTF gas pushes toward €73-74/MWh, its highest since early 2023, as the Iran war chokes LNG flows into a critical restocking window",
+          "detail": "The Dutch TTF benchmark, Europe's reference gas price, has climbed to roughly €73-74/MWh, a level last seen in early 2023, as the ongoing US-Israeli war on Iran keeps the Strait of Hormuz -- which normally carries about a fifth of global LNG trade -- effectively shut, and the Houthi advance to Bab el-Mandeb (flagged in the Asia panel) raises the prospect of a second chokepoint. The timing is unusually painful: European utilities are in the middle of their pre-winter storage-refill season, meaning any sustained LNG shortfall shows up directly in spot gas prices rather than being smoothed by inventory buffers. This is the direct commodity-market read-through of the same Iran-war narrative driving the ECB's inflation forecasts (the central bank's own projections assume €82/MWh gas), and it is the mechanism linking the geopolitical story in the Middle East to European household heating bills, industrial input costs (see BASF above) and, ultimately, the ECB's reaction function into October.",
+          "source": "Bloomberg, Euronews, NaturalNews.com",
+          "time": "week-to-date, into Friday"
+        },
+        {
+          "stars": 2,
+          "headline": "Turkish lira grinds to a fresh record low near 48.5/USD as the central bank holds its policy rate at 37% for a fifth straight meeting",
+          "detail": "The Central Bank of the Republic of Turkey (CBRT) held its benchmark rate at 37% for a fifth consecutive decision, in line with expectations, even as it acknowledged that surging energy prices tied to the Iran-US war are adding fresh inflationary risk on top of an underlying disinflation trend the bank says has continued since June. The lira nonetheless slipped to a fresh record low near 48.5 per dollar, consistent with the CBRT's policy of continuing to manage a slow, controlled devaluation rather than defending a hard level, while policymakers downplayed any imminent return to the one-week repo auctions suspended since March -- keeping banks reliant on the more expensive overnight facility. For EM and CEEMEA FX desks, the read is that Turkey's currency-management framework remains intact and the market has grown largely desensitized to the headline devaluation pace, but the Iran-war energy channel is now a live upside risk to the CBRT's own disinflation narrative that bears watching alongside the broader European energy story.",
+          "source": "Trading Economics, ING THINK CEEMEA FX Outlook",
+          "time": "CBRT decision this week; lira weakness ongoing into Friday"
+        },
+        {
+          "stars": 1,
+          "headline": "Tata Motors' €3.8bn tender offer for Iveco clears its final hurdle, tender window runs to October 26",
+          "detail": "Tata Motors' acceptance window for its €3.8bn (€14.10/share cash) tender offer for Italy's Iveco Group opened September 7 and runs through October 26, after Italy's Consob cleared the offer on September 3 following ECB approval on September 1 -- the last major regulatory box left to tick. The deal creates a combined global commercial-vehicle group with roughly €22bn in annual revenue spanning Europe, Asia and Latin America, and settlement for accepting shareholders is pencilled in for October 30 (with a possible reopened window in early November). It is a straightforward large-cap corporate-action story for European autos/industrials desks to track through the acceptance period rather than a fresh catalyst today, but worth flagging given the size and the read-through for European truck-sector consolidation.",
+          "source": "Business Recorder, BusinessToday, TradeFlock",
+          "time": "tender window Sept 7-Oct 26"
+        },
+        {
+          "stars": 1,
+          "headline": "Gold ticks up toward $4,348-4,362/oz as the ECB hike and a firm dollar offset safe-haven demand",
+          "detail": "Spot gold gained roughly 0.8% to around $4,348/oz, a continuation of the choppy $4,350-4,410 range that has held through the week, as a firmer dollar into next week's FOMC and the ECB's own hawkish hike offset the safe-haven bid that would otherwise come from an unresolved Middle East conflict. The metal remains well below its January 2026 record above $5,589, even as institutional demand (per the Asia panel, near-record August ETF inflows) stays structurally supportive underneath the range. Nothing here breaks the pattern flagged in the Asia session -- gold is waiting on Monday's Oman talks and next week's FOMC/BOJ decisions to pick a direction.",
+          "source": "JM Bullion, USAGold, 150currency.com",
+          "time": "into Friday/Saturday"
+        },
+        {
+          "stars": 1,
+          "headline": "EUR/USD softens toward $1.16 and GBP/USD firms to $1.352 as the dollar holds a bid ahead of US CPI",
+          "detail": "The euro slipped modestly toward $1.16 on Friday even after the ECB's hawkish hike, as the dollar stayed broadly supported ahead of the US CPI print due later in the session -- a reminder that Fed-versus-ECB path expectations, not the ECB decision alone, are driving the pair near-term. Sterling, by contrast, firmed to around $1.352 (+0.06%) on the back of stronger-than-expected UK GDP data and the accompanying lift in gilt yields and BoE hike bets, while EUR/GBP has struggled to clear resistance near 0.8600. None of this is a fresh directional break, but the divergence between a soft euro and a firm pound on the same day both central banks are in tightening mode is a useful cross-currency signal for G10 FX desks running EUR/GBP or relative-rate trades into next week.",
+          "source": "FXStreet, Trading Economics, FX.co",
+          "time": "Friday session"
+        },
+        {
+          "stars": 1,
+          "headline": "SNB seen holding at 0% on September 25 despite August inflation doubling and strong Swiss growth",
+          "detail": "Economists surveyed by Reuters expect the Swiss National Bank to hold its policy rate at 0% at its September 25 meeting and through the rest of 2026, even though Swiss inflation doubled in August and quarterly growth hit its fastest pace in nearly five years -- a combination that would typically raise hike odds. The franc has traded near $0.81, its softest since August 19, and the SNB has signaled greater readiness to intervene in FX markets if needed, with Middle East-driven safe-haven flows a wildcard that could still push the franc stronger regardless of the rate decision. This is pure context for now -- no near-term SNB move is priced -- but it is one more data point on how differently European central banks are responding to the same energy-inflation shock the ECB and BoE are actively fighting.",
+          "source": "Reuters (via Yahoo Finance), Trading Economics",
+          "time": "ahead of Sept 25 SNB meeting"
+        },
+        {
+          "stars": 1,
+          "headline": "Eurozone Q2 GDP confirmed at +0.6% q/q, underpinning the ECB's decision to raise growth forecasts alongside Thursday's hike",
+          "detail": "Eurostat's second read confirmed euro-area GDP grew 0.6% q/q in Q2 2026 (1.0% y/y), with industrial production data through the summer also holding up better than feared given the scale of the energy shock from the Iran war. This resilience is precisely why the ECB felt able to hike rates while simultaneously lifting its growth projections on Thursday -- the central bank's message is that the euro-area economy can absorb higher energy costs and higher rates at the same time, at least for now. It's an in-line, no-surprise data point with no standalone market reaction, but it is the macro underpinning for this week's entire ECB-hawkish-hike narrative and worth holding in mind against next week's incoming data.",
+          "source": "Eurostat Euro Indicators, MacroMicro",
+          "time": "released this week, referenced in Thursday's ECB projections"
+        }
+      ]
     },
     "us": {
       "status": "pending",
