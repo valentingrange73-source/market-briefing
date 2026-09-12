@@ -1,0 +1,205 @@
+{
+  "date": "2026-09-12",
+  "indicators": {
+    "asia": [
+      {
+        "category": "Equities",
+        "label": "Nikkei 225",
+        "value": "64,011.34",
+        "change": "-1.9% (Fri close)",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "Hang Seng",
+        "value": "~24,691",
+        "change": "-1% (Fri close)",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "CSI 300",
+        "value": "4,476.18",
+        "change": "-1.59% (Fri close)",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "Kospi",
+        "value": "6,909.91",
+        "change": "-1.76% (Fri close)",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "ASX 200",
+        "value": "8,684",
+        "change": "-1.54% (Fri close)",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "USD/JPY",
+        "value": "153.7",
+        "change": "~flat, Friday's close",
+        "direction": "flat"
+      },
+      {
+        "category": "FX",
+        "label": "USD/CNY (PBOC fixing)",
+        "value": "6.7743",
+        "change": "Friday's fixing, ~570 pips weak of market estimate",
+        "direction": "flat"
+      },
+      {
+        "category": "FX",
+        "label": "AUD/USD",
+        "value": "0.7154",
+        "change": "-0.9% (Fri close)",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "USD/KRW",
+        "value": "~1,386",
+        "change": "near cycle highs (Fri)",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "USD/INR",
+        "value": "~95.7-95.8",
+        "change": "rupee near record-low territory (Fri)",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "Gold",
+        "value": "~$4,355/oz",
+        "change": "choppy, roughly flat over the weekend",
+        "direction": "flat"
+      },
+      {
+        "category": "Commodities",
+        "label": "Brent crude",
+        "value": "$104.61",
+        "change": "-2.8% (Fri close)",
+        "direction": "down"
+      },
+      {
+        "category": "Commodities",
+        "label": "Copper",
+        "value": "$6.46/lb",
+        "change": "roughly flat",
+        "direction": "flat"
+      },
+      {
+        "category": "Rates",
+        "label": "JGB 10Y",
+        "value": "2.99%",
+        "change": "+7bp (Fri)",
+        "direction": "up"
+      }
+    ]
+  },
+  "sessions": {
+    "asia": {
+      "status": "done",
+      "generated_at": "2026-09-12T12:15:00+02:00",
+      "items": [
+        {
+          "stars": 3,
+          "headline": "Iran, GCC foreign ministers and Iraq to meet in Oman Monday in a bid to fully reopen the Strait of Hormuz",
+          "detail": "Iran's Foreign Ministry confirmed it will meet Gulf Cooperation Council foreign ministers and Iraq's counterpart in Oman on Monday, framed as an effort to 'promote better understanding among the countries of the region' after Iran and Oman spent weeks negotiating a temporary shipping lane, mine-clearing operation and short-term management plan for the Strait, through which roughly one-fifth of world oil supply normally flows. The Strait has been effectively disrupted since US-Israeli strikes on Iran began in late February, and Friday's news was the first concrete diplomatic signal markets have had in weeks: Brent pulled back from an intraday high above $109.97 to settle down 2.8% at $104.61, and WTI fell 2.4% to $100.05, even as both still posted 8-9% weekly gains. Desks should treat Monday's outcome, not any single data print, as the dominant catalyst for Asia's reopen -- options markets are already pricing a binary gap move, with a genuine de-escalation capable of unwinding a meaningful chunk of the premium built into crude since the conflict widened, while a disappointment would likely send oil straight back toward the $109-110 highs touched last week. The meeting's scope is limited to Hormuz specifically, so even a successful outcome would leave the separate, and currently worsening, Red Sea/Bab el-Mandeb front (see below) unresolved.",
+          "source": "Al Jazeera, CBS News, CNBC, Reuters",
+          "time": "confirmed Friday, meeting Monday"
+        },
+        {
+          "stars": 3,
+          "headline": "Houthi forces seize Yemen's Red Sea port of Mocha and reach the Hanish islands and Perim, opening a second maritime chokepoint risk",
+          "detail": "Iran-aligned Houthi forces captured the Red Sea port city of Mocha after fierce fighting forced Yemeni government troops to retreat south toward Dhubab, then pushed on to seize the strategic Hanish archipelago and, by Friday, reached Perim island commanding the Bab el-Mandeb Strait itself -- the narrow chokepoint between Yemen and Djibouti that a large share of Suez-bound shipping and LNG cargoes must transit. This is described as the sharpest escalation along Yemen's western coast since a UN-brokered truce largely halted major hostilities in 2022, and it matters for markets because it opens a second potential shipping chokepoint distinct from, and geographically separate from, the Strait of Hormuz that Monday's Oman talks are meant to address. An estimated 20% of global LNG flows, mostly Qatari cargoes, are already being disrupted via Hormuz; a Houthi-controlled Bab el-Mandeb would threaten a second major artery simultaneously, which is a materially larger tail risk than either chokepoint alone. War-risk insurance, tanker rerouting costs and European gas prices (Dutch TTF already up 12% on the week per Friday's European session) are the most direct read-throughs, and this front is not covered by Monday's Hormuz-focused meeting, meaning it could keep a floor under crude even if the Oman talks succeed.",
+          "source": "ABC News (Australia), CGTN, NewsCord, Business Standard",
+          "time": "over the weekend, culminating Sept 11"
+        },
+        {
+          "stars": 2,
+          "headline": "DeepSeek's ultra-lean V4.1 Flash model is the real story behind Friday's Samsung/SK Hynix selloff, not just macro risk-off",
+          "detail": "DeepSeek unveiled its V4.1 Flash model on September 10, priced as low as $0.15 per million tokens, built around an architecture that cuts key-value cache to just 890 bytes per token -- a quarter of its predecessor's HBM footprint and an eighth of its SSD writes. The announcement triggered a direct, identifiable sell-off: Samsung Electronics fell 3.5% and SK Hynix 2.2% in Seoul on Friday, while Micron and SK Hynix's US ADRs dropped more than 5% in New York, all clearly attributable to the model release rather than the oil/Treasury-yield backdrop that Friday's initial wire coverage emphasized for the Kospi's broader 1.76% decline. The debate splitting desks: bulls argue this is an architecture-specific KV-cache optimization rather than proof of a durable drop in aggregate HBM demand, since SK Hynix's and Samsung's already-committed capacity expansions could still run 12-24 months ahead of any generalized efficiency-driven demand slowdown; bears note that if rival labs replicate the technique, planned HBM capacity adds could meaningfully outrun realized demand. This is the key swing factor for whether Samsung, SK Hynix and the won stabilize or extend Friday's losses when Seoul reopens Monday.",
+          "source": "Bloomberg, Seeking Alpha, ZeroHedge, BigGo Finance",
+          "time": "model unveiled Sept 10, priced into Friday's Seoul close"
+        },
+        {
+          "stars": 2,
+          "headline": "China's CSRC quietly rejects mandatory convertible bonds as a developer-restructuring tool, complicating Country Garden's $13bn plan",
+          "detail": "The China Securities Regulatory Commission has declined to accept registration for a swathe of mandatory convertible bonds (MCBs), a debt-to-equity instrument that had become a key mechanism in major property developers' restructuring negotiations with foreign creditors. Country Garden -- partway through issuing up to $13bn of MCBs as part of restructuring $14.1bn of offshore debt in one of China's largest-ever corporate workouts -- was informed weeks ago that its own filing had been rejected on the grounds that it is a 'discredited entity' following prior defaults and regulatory violations. The move effectively removes, or at minimum weakens, one of the tools that had kept several major developers out of the liquidation that befell China Evergrande in 2024, and it lands the same week Bloomberg reported China Vanke was drawing up its own debt-restructuring plan at regulators' request after missing a quarterly interest payment. For Asia credit and distressed-debt desks, the read-through is that Beijing's tolerance for creative offshore-restructuring instruments may be narrowing even as it keeps nudging developers toward faster resolutions -- a dynamic that could resurface stress in China property-linked dollar credit that had otherwise been overshadowed this week by the equity-level AI/tech rally.",
+          "source": "Bloomberg, The Edge Malaysia, Propmodo",
+          "time": "regulatory decision surfaced Sept 9"
+        },
+        {
+          "stars": 2,
+          "headline": "TSMC's August sales jump 53.3% y/y as AI chip demand keeps outstripping supply; 2026 capex raised to $60-64bn",
+          "detail": "Taiwan Semiconductor Manufacturing Co. reported August revenue of NT$514.8bn ($16.3bn), up 53.3% year-on-year and accelerating sharply from 36.0% growth in Q2 2026 and 20.4% in Q4 2025, prompting the company to raise full-year 2026 guidance to growth slightly above 40% in USD terms. TSMC also lifted its 2026 capital-expenditure budget to a range of $60-64bn and disclosed a cumulative $265bn planned investment in its Arizona fabs, underscoring how far the foundry/logic side of the AI buildout remains from any capacity ceiling. The news capped a week in which Semicon Taiwan, one of the world's largest chip trade shows, brought together TSMC, ASE, MediaTek, Unimicron and Foxconn -- Taiwan's so-called 'Five Tigers' -- on a joint panel discussing the island's AI ecosystem. The contrast with the DeepSeek-driven memory story above is the useful trade here: logic/foundry capacity looks structurally undersupplied even as fresh doubts emerge about memory demand, a bifurcation that single-name and sector-rotation desks running Asia semis exposure should track closely into next week.",
+          "source": "Bloomberg, 24/7 Wall St., Yahoo Finance",
+          "time": "August sales reported Sept 10"
+        },
+        {
+          "stars": 2,
+          "headline": "India's Sensex and Nifty extend to a fifth straight losing week as oil, Middle East risk and outflows compound",
+          "detail": "India's Sensex closed Friday at 74,781.76, down 120.83 points, while the Nifty 50 ended at 23,398.10, down 79.25 points -- both benchmarks falling more than 2% for the week (Nifty roughly -2.7%, Sensex roughly -2.9%), extending their losing streak to five consecutive weeks. The drivers are the same complex hitting the rest of the region: rising crude is a direct terms-of-trade hit for oil-import-dependent India, escalating Middle East risk is keeping foreign investors defensive, and continued portfolio outflows are compounding the rupee's own slide toward record-low territory near 95.7-95.8/USD despite persistent RBI intervention. This is a genuinely multi-week trend rather than a single-day risk-off wobble, and EM Asia equity and FX desks should treat it as a structural derating in progress rather than noise -- with Monday's Oman-meeting outcome on Hormuz shipping as the next obvious swing factor for whether the losing streak extends to six.",
+          "source": "India TV News, 5paisa, Business News This Week",
+          "time": "week ending Friday, Sept 11 close"
+        },
+        {
+          "stars": 2,
+          "headline": "Chinese tech buybacks keep outrunning the Hang Seng Tech selloff -- Tencent's 2026 repurchases reach HK$49.95bn",
+          "detail": "Tencent's cumulative share buybacks for 2026 reached HK$49.954bn as of September 11, equivalent to roughly 1.02% of its total share capital, part of a broader wave that also includes Alibaba's $4.1bn buyback program and repurchases from Meituan and Xiaomi, all aimed at shoring up investor confidence in Chinese mega-cap tech. Reporting flagged Tencent's own stock down a comparatively modest 1.8% this month against a roughly 10% slump in the Hang Seng Tech Index over the same window -- a divergence that argues large-cap buybacks are doing real, measurable work cushioning individual names against a sector-wide risk-off, rather than sentiment alone driving the gap. For desks running China-tech dispersion or benchmarking single names against the broader index, the buyback-versus-index gap is a live, quantifiable signal worth tracking alongside this week's other China storyline -- AI/cloud-linked equity strength (CSI Cloud Computing, CSI AI) sitting uneasily against renewed property-credit stress (see the Country Garden item above).",
+          "source": "Bloomberg, South China Morning Post, Yahoo Finance",
+          "time": "as of Sept 11"
+        },
+        {
+          "stars": 1,
+          "headline": "China's August CPI holds at 0.8% y/y, PPI beats at 3.8% as factory-gate deflation continues to fade",
+          "detail": "China's August CPI rose 0.8% year-on-year, up from July's six-month low of 0.5% and in line with consensus, with the month-on-month print at 0.4% versus 0.3% expected; core CPI (ex food and energy) climbed 1.0%, edging up from July's 0.9%. The producer price index rose 3.8% y/y, beating the 3.6% forecast and extending a rebound from a prolonged stretch of factory-gate deflation, with NBS statisticians citing volatile global commodity prices, seasonal food costs, and firmer high-tech, electronics and machinery demand. Neither print triggered a notable market reaction, but the PPI beat is an incremental positive for Chinese industrial margins and adds one more modest data point to the PBOC's calculus alongside the currency-fixing management story (yuan strength being deliberately slowed) flagged in Thursday and Friday's sessions.",
+          "source": "CNBC, Vantage Markets, EconoTimes",
+          "time": "released Sept 9"
+        },
+        {
+          "stars": 1,
+          "headline": "Bitcoin drifts back toward $77k after a failed Friday retest of $80k, a quiet crypto backdrop into FOMC week",
+          "detail": "Bitcoin rallied to roughly $79,500-79,700 intraday Friday before the move was rejected, falling back into the $77,000-77,500 range heading into the weekend. With US spot ETFs closed and traditional-market catalysts absent on Saturday, price action looks set for a quieter consolidation phase barring crypto-native flow shocks. The failed retest is nonetheless a useful sentiment gauge for multi-asset and macro-fund desks treating crypto as a read on speculative risk appetite heading into a week stacked with event risk -- the FOMC on September 16, the BOJ on September 18, and Monday's binary Oman-meeting outcome -- a lot for a market that couldn't hold a bounce even before any of it lands.",
+          "source": "CaptainAltcoin, CoinDCX, market data",
+          "time": "into the weekend"
+        },
+        {
+          "stars": 1,
+          "headline": "Gold holds a quiet $4,350-4,365 range as the dollar/safe-haven tug-of-war persists into the weekend",
+          "detail": "Spot gold trades around $4,348-4,362/oz in early Saturday quotes, essentially a continuation of the $4,365-4,410 band that has held since midweek and modestly softer than Friday's roughly $4,385 late reading. The metal remains caught between a firmer dollar on elevated Fed-hike odds into next week's FOMC and safe-haven demand from an unresolved, and in places widening, Middle East conflict. Gold is still roughly 22% below its January 2026 record above $5,589, even as global ETF inflows ran at a near-record $17.9bn in August, underscoring that the structural institutional bid remains intact beneath the currently rangebound spot price. Monday's Oman-meeting outcome and next week's FOMC/BOJ decisions are the likeliest catalysts to finally break the range.",
+          "source": "JM Bullion, World Gold Council, USAGold",
+          "time": "early Sept 12 quote"
+        },
+        {
+          "stars": 1,
+          "headline": "Copper holds near $6.46-6.47/lb as Chinese buyers use the pullback to restock inventory",
+          "detail": "Copper trades around $6.46-6.47/lb, essentially flat over the past session and continuing a mild pullback from its highs, but still up roughly 41% over the trailing year on structural AI/data-center-linked demand growth. With Chinese buyers representing an estimated 60% of global copper demand, reporting points to buyers using the lower prices to replenish inventories rather than to fund a construction recovery -- grids and EVs, not property, remain the dominant Chinese demand driver. The metal's resilience even amid this week's broader equity risk-off reinforces copper's ongoing decoupling from the property-driven China growth narrative in favor of the electrification/AI-buildout one.",
+          "source": "Trading Economics, Rio Times, IEA commentary",
+          "time": "into the weekend"
+        },
+        {
+          "stars": 1,
+          "headline": "Iron ore holds near $99-100/tonne even as Chinese crude steel output falls to its weakest July since 2017",
+          "detail": "The 62%-Fe benchmark delivered into China has held near a nine-week high around $99.57/tonne after touching just under $100 in early September, even though China's crude steel output fell 3.6% y/y to 76.93mt in July -- the weakest July reading since 2017. The apparent contradiction resolves once imports are considered: China imported 736.84mt of iron ore in the first seven months of 2026, up 6% y/y, but mills appear to be restocking to rebuild inventory buffers rather than to feed a construction recovery, meaning the current price floor is cost- and freight-driven rather than demand-driven. For Australian mining-equity exposure (BHP, Rio Tinto, Fortescue all have direct read-through via the ASX 200), the setup argues the price band is more fragile than it looks, with a decisive break above $100 requiring an actual improvement in Chinese downstream demand rather than just restocking flow.",
+          "source": "Rio Times, Trading Economics, DiscoveryAlert",
+          "time": "week-to-date context, into the weekend"
+        }
+      ]
+    },
+    "europe": {
+      "status": "pending",
+      "items": []
+    },
+    "us": {
+      "status": "pending",
+      "items": []
+    }
+  }
+}
