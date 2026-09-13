@@ -235,6 +235,85 @@
         "change": "highest since late 2023",
         "direction": "up"
       }
+    ],
+    "us": [
+      {
+        "category": "Equities",
+        "label": "S&P 500",
+        "value": "7,656.98",
+        "change": "+0.9% (Fri close)",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "Nasdaq Composite",
+        "value": "26,333.04",
+        "change": "+1.0% (Fri close)",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "Dow Jones",
+        "value": "52,573.29",
+        "change": "+1.0% (Fri close)",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "Russell 2000",
+        "value": "2,903.94",
+        "change": "+0.4% (Fri close)",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "Dollar Index (DXY)",
+        "value": "99.09",
+        "change": "+0.05% (Fri close)",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "Gold",
+        "value": "~$4,385/oz",
+        "change": "choppy, no clean settle print (Fri)",
+        "direction": "flat"
+      },
+      {
+        "category": "Commodities",
+        "label": "WTI crude",
+        "value": "$100.05",
+        "change": "-2.4% (Fri), still ~+9% on the week",
+        "direction": "down"
+      },
+      {
+        "category": "Commodities",
+        "label": "Copper",
+        "value": "$6.47/lb",
+        "change": "roughly flat (Fri)",
+        "direction": "flat"
+      },
+      {
+        "category": "Rates",
+        "label": "US 10Y Treasury",
+        "value": "~4.96%",
+        "change": "cusp of 5%, highest since 2023",
+        "direction": "up"
+      },
+      {
+        "category": "Rates",
+        "label": "US 2Y Treasury",
+        "value": "4.63%",
+        "change": "little changed",
+        "direction": "flat"
+      },
+      {
+        "category": "Rates",
+        "label": "US 30Y Treasury",
+        "value": "5.36%",
+        "change": "near multi-decade highs",
+        "direction": "up"
+      }
     ]
   },
   "sessions": {
@@ -475,8 +554,137 @@
       ]
     },
     "us": {
-      "status": "pending",
-      "items": []
+      "status": "done",
+      "generated_at": "2026-09-13T19:30:00+02:00",
+      "items": [
+        {
+          "stars": 3,
+          "headline": "University of Michigan sentiment craters to 47.8, second-lowest on record, as inflation expectations jump to 4.6%",
+          "detail": "The preliminary September University of Michigan consumer sentiment index collapsed to 47.8 from August's 51.7, badly missing the roughly 51.0 consensus and landing just above May's record-low 44.8. Both sub-indices fell hard: current conditions slid to 50.9 and the forward-looking expectations gauge dropped to 45.8, with households citing rising fuel prices and escalating tariff and trade tensions as the main drags. The inflation-expectations components moved the wrong way for a Fed three days from a decision: one-year expectations jumped to 4.6%, the highest since June, and five-year expectations rose to 3.4%. That combination -- crumbling confidence alongside rising inflation expectations -- is the closest thing to a stagflationary signal markets have gotten all month, and it complicates the calculus for a Fed that is already leaning toward a hike on sticky core inflation. Rates desks flagged the print as reinforcing rather than offsetting Friday's hot core CPI, since a hike into weakening sentiment raises growth-scare risk heading into next week's FOMC. The read did not stop Friday's equity rally, but it adds a genuine two-sided risk into Wednesday's decision that wasn't priced a month ago.",
+          "source": "University of Michigan Surveys of Consumers, InvestingLive, Seeking Alpha",
+          "time": "10:00 ET Friday"
+        },
+        {
+          "stars": 3,
+          "headline": "August core CPI runs hot at +0.3% m/m, pushing Fed-hike odds for Wednesday sharply higher across every venue",
+          "detail": "August headline CPI printed in line at +0.4% m/m (3.4% y/y), but core CPI rose 0.3% m/m against a 0.2% consensus, keeping the year-on-year core rate near 2.4-2.45% and extending a run of stickier-than-hoped inflation heading into the September 15-16 FOMC meeting. The report is the last major inflation data point before new Chair Kevin Warsh's committee votes, and it landed just after his hawkish Jackson Hole remarks that financial conditions 'do not appear restrictive enough.' CME FedWatch pricing for a 25bp hike jumped as high as 90% in the immediate aftermath from roughly 72% the day before, while prediction markets such as Kalshi moved into a similar 59-81% range depending on the snapshot -- a wide dispersion that itself tells desks positioning is unsettled. The move matters beyond rates: a hike delivered against decelerating consumer sentiment and a labor market still described as tight (initial claims at 206k) would be the first hike of this cycle, a genuine regime change after eighteen months of cut expectations. Equities shrugged off the print Friday only because oil fell in tandem, but the CPI-driven repricing is now the dominant cross-asset driver into next week, touching rates, FX, credit and equity vol simultaneously. Governor Waller's public preference to hold suggests a split committee, raising the odds of a contentious dot plot alongside the decision itself.",
+          "source": "Bureau of Labor Statistics, CNBC, TheStreet, CME FedWatch, Kalshi",
+          "time": "08:30 ET Friday"
+        },
+        {
+          "stars": 2,
+          "headline": "Wall Street snaps a four-session losing streak as an oil-driven relief rally outruns the hot CPI print",
+          "detail": "The S&P 500 rose 0.86% to 7,656.98, the Nasdaq Composite gained 0.96% to 26,333.04 and the Dow added 0.98% to 52,573.29, while the Russell 2000 lagged with a 0.45% gain to 2,903.94 -- enough to end a four-day losing skid but not enough to erase the week's losses outright. The rally's real driver wasn't the in-line headline CPI so much as a nearly 3% intraday drop in WTI crude on reports that Iran and Gulf states would meet in Oman to discuss an interim Hormuz shipping arrangement, which took some of the edge off inflation-shock fears even as core CPI ran hot. The VIX crushed roughly 11% to close near 15.8, unwinding a mid-week spike toward 17.8 that had accompanied the bond selloff and oil spike -- a sign vol sellers reasserted themselves quickly once oil turned over. Cyclical and growth sectors led: technology, industrials and discretionary all outperformed, while defensives (utilities, health care) lagged, consistent with a risk-on rotation rather than a broad-based melt-up. The gap between a hawkish rates story and a risk-on equity tape is the thing desks kept flagging into the weekend -- it is not obviously sustainable if oil reverses higher again on any breakdown in Monday's Oman talks.",
+          "source": "Bloomberg, CNBC, TheStreet, Yahoo Finance",
+          "time": "16:00 ET Friday (close)"
+        },
+        {
+          "stars": 2,
+          "headline": "Bessent pushes Monday's Iran-linked bank sanction back from Friday, timing it instead to the 9/11 anniversary",
+          "detail": "Treasury Secretary Bessent confirmed the administration will name and sanction an as-yet-unidentified large bank on Monday as the next escalation of 'Operation Economic Outcast' against Iran-linked financial flows, having deliberately held the announcement back from Friday out of deference to 9/11 anniversary ceremonies. No institution has been confirmed; social-media chatter floated a large regional or foreign bank as a guess, but that remains unverified speculation rather than fact. The delay itself is notable for markets: it stacks a genuine credit-market catalyst onto a Monday session that already carries the Oman Hormuz talks and lands just 48 hours before the FOMC decision, concentrating three distinct risk events into 72 hours. If the named institution turns out to be a systemically significant bank with material dollar-funding or correspondent-banking ties, desks expect a real reaction in bank CDS and cross-currency basis, not just an equity headline. The lack of clarity on the target is itself keeping some credit and rates desks cautious about adding risk into the weekend close.",
+          "source": "Reuters, CNBC, Seeking Alpha, Newsquawk",
+          "time": "Friday, ahead of Monday's announcement"
+        },
+        {
+          "stars": 2,
+          "headline": "Oracle's AI-cloud beat reignites the hyperscaler capex trade, though the stock's own reaction split across desks",
+          "detail": "Oracle's fiscal Q1 results beat cleanly on both lines -- adjusted EPS of $1.92 versus roughly $1.74-1.75 expected, and revenue of $19.3-19.35bn against a $19.13-19.14bn consensus -- with cloud infrastructure revenue more than doubling year-on-year (roughly +121%) to $7.4bn and total cloud revenue up about 62% to $11.6bn. Management flagged GPU utilization near 98% across more than 300,000 deployed GPUs and raised full-year guidance to at least $90bn in revenue and $8.10 in non-GAAP EPS, reinforcing the AI-infrastructure demand story that has driven the hardware and hyperscaler complex all year. The stock's own reaction on the day is genuinely contested across sources -- some describe an intraday pop of as much as 6% that faded, others a swing to a small decline by the close -- so the earnings beat itself is the reliable takeaway, not the exact tape reaction. The result lands alongside a roughly $125bn debt load that some credit desks continue to flag as the offsetting risk to the growth story, a tension that is becoming a recurring feature of the AI-capex trade across the hyperscaler cohort. Read-through was constructive for the broader AI-infrastructure basket (Dell, networking names) into the weekend.",
+          "source": "Bloomberg, CNBC",
+          "time": "Thursday after the close / Friday session reaction"
+        },
+        {
+          "stars": 2,
+          "headline": "Nvidia reported in talks to put up to $10bn into Anthropic's IPO, extending the chipmaker's circular AI-investment strategy",
+          "detail": "Bloomberg reported Friday that Nvidia is in discussions to invest as much as $10bn into Anthropic's upcoming IPO, the latest in a string of large strategic stakes Nvidia has taken in AI labs and infrastructure buyers that ultimately spend much of that capital on Nvidia's own chips. The structure echoes similar arrangements already disclosed elsewhere in the AI complex, including Broadcom's recently confirmed multi-year infrastructure commitments from Anthropic, OpenAI and Meta, and it keeps alive the debate over how much of the sector's reported capex growth is genuinely incremental demand versus circular, vendor-financed spending. For equity desks, the read-through is that Nvidia's balance sheet is becoming a de facto financing arm for the AI ecosystem it sells into, which supports near-term revenue visibility but raises the stakes if any single large customer's funding or commercial trajectory disappoints. The story adds another data point to the concentration debate around the 'Magnificent Seven,' which even after a strong 2026 for AI-linked capex remains a mixed cohort -- the group as a whole is now roughly 33.9% of S&P 500 market cap but is actually underperforming the index year-to-date, with Apple's gains offsetting Tesla's roughly 21% decline.",
+          "source": "Bloomberg",
+          "time": "Friday"
+        },
+        {
+          "stars": 2,
+          "headline": "10-year and 30-year Treasury auctions clear at multi-cycle-high yields with still-solid demand into a hawkish Fed repricing",
+          "detail": "This week's 10-year note auction (Sept 9) tailed at a 4.834% high yield with a 2.71 bid-to-cover and 79.2% indirect participation, while Thursday's 30-year bond auction cleared at 5.308% -- both consistent with a broader multi-year-high-yield backdrop rather than signaling auction-specific stress, since cover ratios and indirect bidder participation held up despite the elevated yields. The 10-year cash yield itself touched roughly 4.99% intraweek -- its highest since October 2023 and within a whisker of the psychologically important 5% level -- before easing back to around 4.96% by Friday's close as oil rolled over and eased some of the inflation-premium pressure that had been building. The move is a function of two things landing together: sticky core CPI reinforcing a near-term Fed hike, and crude's spike above $100 earlier in the week raising medium-term inflation-expectations risk. Solid auction demand at these levels is the detail desks are watching most closely -- it suggests real-money and foreign demand for duration hasn't broken down even as the curve reprices toward a hiking cycle, a meaningfully different signal than a weak, tailing auction would send. The 2-year yield, at 4.63%, has moved far less than the long end, consistent with a market pricing a single hike rather than a sustained tightening campaign.",
+          "source": "US Treasury, Investing.com, Federal Reserve H.15, Bloomberg",
+          "time": "Sept 9-10 auctions; yields as of Friday close"
+        },
+        {
+          "stars": 2,
+          "headline": "Cyclicals lead, defensives lag as Friday's rally rotates squarely toward risk",
+          "detail": "Sector performance Friday showed a clean risk-on signature: technology (XLK, +1.32%) and industrials (XLI, +1.07%) led, consumer discretionary (XLY) added roughly 0.9%, and financials were higher by a more modest 0.2-0.7% depending on the source. Consumer staples (XLP, +0.35%) and energy (XLE, +0.32%) posted smaller gains, while the defensive complex underperformed outright -- utilities (XLU) fell 0.31% and health care (XLV) slipped 0.18%, the only two sectors in the red. That pattern -- growth and cyclicals up, bond-proxies and defensives down -- is consistent with a market reading the oil-driven relief rally as a genuine risk-on signal rather than a defensive rotation into safety, even with a Fed decision and hot core CPI in the background. It is also a reminder that energy's relative underperformance Friday (despite still being 2026's best-performing S&P sector year-to-date) reflects the day's oil pullback specifically, not a change in the sector's multi-month leadership. Desks noted the rotation is somewhat at odds with the rates story -- utilities and REITs would normally be expected to suffer more, and defensives to hold up better, if the dominant narrative were 'yields spike on hawkish Fed,' suggesting oil, not rates, was the marginal price-setter Friday.",
+          "source": "Aggregated sector ETF data (Yahoo Finance, stockanalysis.com)",
+          "time": "Friday close"
+        },
+        {
+          "stars": 2,
+          "headline": "High-yield spreads sit near multi-cycle tights even as Treasury yields surge toward 5% -- a divergence desks keep flagging",
+          "detail": "The ICE BofA US High Yield Option-Adjusted Spread was roughly 270bp as of Sept 10, in the richest decile of its historical range against a long-run median closer to 450bp, while investment-grade OAS sat near 80-81bp and BBB around 99-100bp -- all comfortably tight even as the Treasury curve reprices toward its highest yields since 2023 (10-year) and 2007-adjacent levels (30-year). That combination is unusual: a genuine hawkish repricing of Fed policy would typically be expected to widen credit spreads on growth and refinancing-cost concerns, but HY/IG ratios remain close to their long-run average, implying credit investors are treating the rates move as a policy-normalization story rather than a growth or default-risk story. Some desks flagged mild widening over the trailing 30 days (AA credit +13% wider, HY +3% wider) as an early crack, but absolute spread levels remain historically rich. The divergence is exactly the kind of cross-asset tension that tends to resolve via a credit catch-down rather than a rates catch-up if the Fed hike Wednesday proves more hawkish than priced, which is why credit desks are treating spread levels with more caution than the headline tightness suggests they should.",
+          "source": "ICE BofA/FRED (BAMLH0A0HYM2), Convex Trade",
+          "time": "As of Sept 10 close"
+        },
+        {
+          "stars": 2,
+          "headline": "September IG issuance on pace for $175-250bn, but the post-Labor Day primary rush is the weakest since 2020",
+          "detail": "Dealer estimates for September investment-grade issuance range from $175bn to $250bn, with credit portfolio managers reportedly saying even the top of that range 'is not really an issue' to absorb -- a striking statement given year-to-date IG issuance through August already ran nearly 30% ahead of last year at $1,899.8bn, and August alone saw $130-145bn against a historical seasonal average closer to $95bn. Set against that backdrop, the actual post-Labor Day issuance rush -- historically one of the year's heaviest windows as issuers rush to lock in funding before quarter-end and any Fed-related volatility -- came in as the weakest since 2020, a genuine surprise given how tight spreads remain and how much dealer capacity had been flagged as available. The mismatch between 'spreads are tight and demand is deep' and 'issuers aren't showing up in the volume dealers expected' is worth watching heading into next week: it could reflect issuers waiting out FOMC uncertainty before pricing deals, which would set up a large catch-up wave immediately after Wednesday's decision regardless of its outcome.",
+          "source": "Bloomberg, market issuance trackers",
+          "time": "Week of Sept 8-12"
+        },
+        {
+          "stars": 2,
+          "headline": "Goldman flags CTA positioning in US equities at the 100th percentile -- systematic flow is 'maxed out' heading into a seasonally weak month",
+          "detail": "Goldman Sachs' flow desk described trend-following CTA positioning in US equities as sitting at the 100th percentile of its historical range, with the strategy having already bought an estimated $12.6bn of US equities in recent sessions -- meaning there is structurally little incremental systematic buying capacity left to support the tape from here, independent of any fundamental catalyst. Separately, BofA's Systematic Flows Monitor showed CTAs, vol-control and risk-parity strategies had rebuilt exposure off July's lows, concentrated in the S&P 500 and Russell 2000 with Nasdaq exposure roughly flat, but flagged a meaningfully asymmetric skew: in a severe down-market scenario systematic strategies could be forced sellers of as much as $126bn of global equities, versus only about $35bn of prospective buying if markets simply stayed flat over the following week. That asymmetry is a real consideration heading into a week with a live Fed decision, a bank sanction, and the Oman Hormuz talks all landing within days of each other -- any one of those turning into a genuine risk-off catalyst would hit a systematic-flow backdrop that is already positioned for de-risking rather than further buying, amplifying any equity drawdown mechanically rather than fundamentally.",
+          "source": "Goldman Sachs (via market commentary), BofA Systematic Flows Monitor, Hedgeye",
+          "time": "Early September positioning data"
+        },
+        {
+          "stars": 2,
+          "headline": "Record 112% pension funding ratios are quietly driving mechanical de-glide flows out of equities and into duration",
+          "detail": "The top 100 US corporate pension plans are now estimated at roughly 112% funded, the highest level since 2001, a milestone that historically triggers a wave of mechanical 'de-glide' rebalancing as plan sponsors lock in the funding surplus by systematically reducing equity exposure and adding duration. Citadel Securities' research desk flagged this as a structural, not panic-driven, source of selling pressure into quarter-end -- distinct from, and potentially additive to, any Fed-related volatility -- and separately noted that duration remains 'unusually under-owned' by systematic accounts even as CTA equity exposure has rebuilt to multi-year highs. The combination is a genuine cross-current for fixed income: a Fed that may hike Wednesday is pushing yields higher in the near term, but a large, non-discretionary pension bid for duration is building underneath that could cap how far the sell-off in long bonds actually runs. For multi-asset and pension-fund allocators specifically, this is one of the more important structural flows to track into year-end, since it operates independently of the Fed's actual decision.",
+          "source": "Citadel Securities ('September Setup: The Asymmetry Has Changed')",
+          "time": "September 2026 positioning research"
+        },
+        {
+          "stars": 2,
+          "headline": "Shanghai and Shenzhen slide to multi-week lows as US yields and oil price weigh on Asian risk appetite",
+          "detail": "China's Shanghai Composite fell 1.18% to a two-week low of 3,888.1 and the Shenzhen Component dropped 1.08% to a one-month low of 13,471.3 in Friday's session, with commentary tying the move directly to rising US Treasury yields and higher oil prices rather than domestic Chinese catalysts -- a textbook US-session read-through into Asian risk assets. Broader EM currency commentary echoed the same mechanism: EM FX moves this week were described as driven 'less by local data and more by the dollar's global gains' on repriced Fed-hike odds, even though several asset managers continue to argue EM currencies are fundamentally cheap against an expensive dollar on a medium-term view. The read for multi-asset desks is that the US rates story is now the dominant marginal driver of EM risk sentiment, overriding EM-specific fundamentals in the near term -- consistent with the US-China 10-year yield gap widening toward a record ~317-324bp as Fed-hike repricing collides with China's deflationary rate structure. That gap is itself a mechanical headwind for the yuan and a reason the PBOC has kept its daily fixing well above market levels to slow depreciation.",
+          "source": "China Asset Management/Trading Economics/SCMP, Rio Times Online",
+          "time": "Friday session, Shanghai/Shenzhen close"
+        },
+        {
+          "stars": 2,
+          "headline": "Consumer-facing guidance cuts pile up: Tyson Foods, Lululemon and Oxford Industries all trim FY26 outlooks",
+          "detail": "Three separate large/mid-cap consumer names cut full-year guidance in the days around Friday's session: Tyson Foods lowered adjusted operating income guidance to $1.85-2.05bn (from $2.1-2.3bn) and cut revenue growth guidance to 1.5-2.0% (from 2.5-3.5%) on beef-cost pressure; Lululemon cut its FY26 sales outlook to $10.35-10.50bn (from $11.0-11.5bn) despite beating Q2 EPS estimates, sending shares down more than 17% pre-market on the guidance cut alone; and Oxford Industries lowered both sales guidance (to $1.43-1.47bn from $1.48-1.51bn) and EPS guidance (to $1.60-2.00 from $2.30-2.70) on weakness at its Lilly Pulitzer brand. None of these are mega-cap names individually, but the clustering across food, athletic apparel and specialty retail in the same window points to a genuine margin-pressure and demand-softening theme building in US consumer-facing companies even as headline consumer sentiment is also deteriorating sharply -- a consistent, cross-checked signal rather than an isolated company story. Desks are treating the pattern as an early tell for back-to-school and holiday-season retail commentary over the coming weeks.",
+          "source": "Company guidance releases, Yahoo Finance, CNBC",
+          "time": "Week of Sept 8-12"
+        },
+        {
+          "stars": 2,
+          "headline": "Three catalysts stack into 72 hours: Monday's Oman Hormuz talks, Bessent's bank sanction, then Wednesday's FOMC decision",
+          "detail": "The coming week concentrates an unusual amount of risk into a short window. Monday brings both the Oman-hosted talks between Iran and Gulf states on a possible interim Hormuz shipping arrangement and Bessent's delayed announcement naming a large bank for Iran-related sanctions; Tuesday and Wednesday bring the FOMC meeting itself, with the rate decision and a fresh dot plot due at 2:00pm ET Wednesday under new Chair Kevin Warsh, whose hawkish Jackson Hole remarks did much of the work in repricing hike odds this week. Retail sales and Empire State manufacturing data round out the week's calendar and will be read as final inputs into the Fed's growth assessment even though they land too late to change Wednesday's decision itself. The sequencing matters for positioning: a friendly outcome on the Oman talks Monday could extend Friday's oil-driven relief rally into the FOMC, while a disappointing outcome (or a systemically significant bank being named in the sanction) could reintroduce the inflation and credit risk that this week's rally papered over just as the Fed delivers what markets now see as a genuine coin-flip-to-favored hike. Desks describe positioning into the print as unusually two-sided given the range of Fed-odds estimates (48-90% depending on venue) still on the table three days out.",
+          "source": "Federal Reserve calendar, Reuters, CNBC",
+          "time": "Week ahead: Mon Sept 14 - Wed Sept 16"
+        },
+        {
+          "stars": 1,
+          "headline": "Adobe slides roughly 2% on guidance that met but didn't beat expectations",
+          "detail": "Adobe shares fell about 2% after the company guided current-quarter adjusted EPS to $6.30-6.35 (versus $6.32 consensus) and revenue to $6.80-6.85bn (versus $6.85bn consensus) -- numbers that were essentially in line rather than disappointing, but which the market treated as a letdown given how much of Adobe's valuation still rests on a clear AI-monetization beat-and-raise story. The move is a useful contrast to Oracle's reaction the same week: pure in-line guidance from a software name with an unresolved AI-monetization debate gets sold, while genuine AI-infrastructure beats still get bought, suggesting the market's bar for 'AI winner' status keeps rising rather than staying flat.",
+          "source": "Company guidance release, market coverage",
+          "time": "Friday session"
+        },
+        {
+          "stars": 1,
+          "headline": "Constellation Energy buys Shell's RISEC power plant for $715mn, expanding its New England merchant generation footprint",
+          "detail": "Constellation Energy agreed to acquire Shell's RISEC power plant for $715mn, adding to its merchant generation capacity in the ISO New England market. The deal is modest in size relative to the AI-driven power-demand narrative that has lifted independent power producers all year, but it fits a broader pattern of utilities and IPPs consolidating generation assets to capture rising data-center and AI-driven electricity demand across the Northeast.",
+          "source": "Company announcement, insightfulaccountant.com",
+          "time": "Week of Sept 8-12"
+        },
+        {
+          "stars": 1,
+          "headline": "Washington avoids a shutdown into December as new tariff phases take effect on Canada and pharma",
+          "detail": "The House passed a short-term funding bill (370-48) to keep the government funded into early December, following Senate passage, avoiding a third shutdown of 2026 at the September 30 fiscal year-end. Separately, Canada's retaliatory tariffs (15%/25%/50% across more than 700 US products) took effect September 8 in response to earlier US Section 232/338 actions, while a 100% Section 232 tariff on patented and branded pharmaceuticals (reduced to 20% for firms with an approved US onshoring plan) is phasing in, effective for listed companies since July 31 and for everyone else from September 29. Neither story moved markets directly Friday, but both remain background inputs to the inflation-expectations and trade-policy uncertainty that showed up explicitly in Friday's UMich sentiment print.",
+          "source": "ABC7/Wikipedia, Wiley Tariff Tracker, Cal Chamber Trade Update",
+          "time": "Week of Sept 8-12"
+        }
+      ]
     }
-  }
+  },
+  "summary": "Friday's actual session (Sept 11) rallied on an oil-driven relief bid -- S&P/Nasdaq/Dow all +~1%, snapping a four-day skid -- even as core CPI ran hot and UMich sentiment cratered to its second-lowest reading ever, a genuinely two-sided setup heading into the Fed. That US backdrop met a hawkish global policy trifecta building over the weekend: the ECB delivered a hawkish hike to 2.50% with European sovereign yields at multi-decade highs, the BOJ looks set to hike Sept 17-18, and the Fed goes into its Sept 15-16 meeting under new Chair Warsh leaning toward the cycle's first hike, all while the Hormuz/Bab el-Mandeb energy shock intensified (Houthis now hold Yemen's entire Red Sea coast, Saudi's Petroline pipeline shut after a drone strike). The week ahead compresses three catalysts into 72 hours -- Monday's Oman Hormuz talks and Bessent's delayed bank-sanction announcement, then Wednesday's FOMC decision -- with credit spreads still near multi-cycle tights and both CTA and pension flows flagged as structurally stretched heading into the decision."
 }
