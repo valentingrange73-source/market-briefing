@@ -100,6 +100,141 @@
         "change": "+5bp, BOJ hike near-certain Sept 17-18",
         "direction": "up"
       }
+    ],
+    "europe": [
+      {
+        "category": "Equities",
+        "label": "Euro Stoxx 50",
+        "value": "6,327",
+        "change": "+0.91% (Fri close)",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "FTSE 100",
+        "value": "14,404",
+        "change": "+0.5% (Fri close)",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "DAX",
+        "value": "25,569",
+        "change": "+0.82% (Fri close)",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "CAC 40",
+        "value": "8,179.77",
+        "change": "+0.28% (Fri close)",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "IBEX 35",
+        "value": "19,812.60",
+        "change": "+0.78% (Fri close)",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "FTSE MIB",
+        "value": "52,138.94",
+        "change": "+0.64% (Fri close)",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "EUR/USD",
+        "value": "1.1597",
+        "change": "-0.11% (Fri close)",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "GBP/USD",
+        "value": "1.3510",
+        "change": "+0.08% (Fri close)",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "EUR/GBP",
+        "value": "~0.8585",
+        "change": "implied, euro softer vs sterling",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "USD/TRY",
+        "value": "48.5546",
+        "change": "record low, -17% YTD",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "USD/ZAR",
+        "value": "~16.04",
+        "change": "rand near strongest since March",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "USD/PLN",
+        "value": "~3.72",
+        "change": "roughly flat, tight 2-week range",
+        "direction": "flat"
+      },
+      {
+        "category": "Commodities",
+        "label": "Gold",
+        "value": "$4,348/oz",
+        "change": "+0.8% (Fri settle)",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "Brent crude",
+        "value": "$104.42",
+        "change": "-2.98% (Fri), still +8% on the week",
+        "direction": "down"
+      },
+      {
+        "category": "Rates",
+        "label": "Bund 10Y",
+        "value": "3.51%",
+        "change": "+1bp, highest since 2011",
+        "direction": "up"
+      },
+      {
+        "category": "Rates",
+        "label": "Gilt 10Y",
+        "value": "5.38%",
+        "change": "highest since 2007",
+        "direction": "up"
+      },
+      {
+        "category": "Rates",
+        "label": "Gilt 30Y",
+        "value": "5.95%",
+        "change": "highest since 1998",
+        "direction": "up"
+      },
+      {
+        "category": "Rates",
+        "label": "OAT 10Y",
+        "value": "4.31%",
+        "change": "multi-decade high on ECB + political overhang",
+        "direction": "up"
+      },
+      {
+        "category": "Rates",
+        "label": "BTP 10Y",
+        "value": "4.29%",
+        "change": "highest since late 2023",
+        "direction": "up"
+      }
     ]
   },
   "sessions": {
@@ -222,8 +357,122 @@
       ]
     },
     "europe": {
-      "status": "pending",
-      "items": []
+      "status": "done",
+      "generated_at": "2026-09-13T18:05:37+02:00",
+      "items": [
+        {
+          "stars": 3,
+          "headline": "ECB delivers a hawkish 25bp hike to 2.50% deposit rate; Lagarde calls it a \"no-brainer\" as energy-driven inflation refuses to fade",
+          "detail": "The European Central Bank raised all three key policy rates by 25 basis points Thursday, taking the deposit rate to 2.50% from 2.25%, the main refinancing rate to 2.65% and the marginal lending rate correspondingly higher -- the second hike of 2026 and a decision Lagarde described in the press conference as a \"no-brainer\" given the inflation backdrop. Annual headline inflation is running near its fastest pace in roughly three years at 3%, well above target, and the ECB kept its 2026 forecast unchanged at 3.0% while revising 2027 and 2028 up to 2.5% and 2.1% respectively -- an explicit acknowledgment that the energy shock from the Hormuz/Bab el-Mandeb disruption has pushed the return to target further out. Lagarde stressed the Council is \"not pre-committing to any rate path\" and will proceed meeting-by-meeting, but derivatives markets are nonetheless pricing further tightening, with some readings implying as much as three additional hikes by March 2027. The decision hit European equities immediately -- the STOXX 600 gave back opening gains to slide 0.4% to near two-month lows Thursday, with the FTSE 100 down 0.6%, the DAX down 0.4% and the CAC 40 down 0.2% -- before Friday's oil pullback let indices recover. For rates and multi-asset desks, this is the clearest textbook case this year of a central bank moving to defend its credibility against an imported, geopolitically-driven inflation shock rather than a demand-side one, which is precisely why the guidance stayed so noncommittal even as the hike itself was unanimous and, per Lagarde, straightforward.",
+          "source": "Reuters, Bloomberg, EBC Financial Group, Yahoo Finance, ECB press conference",
+          "time": "decision and press conference Thursday Sept 10, referenced through the weekend"
+        },
+        {
+          "stars": 3,
+          "headline": "European sovereign curve reprices to multi-decade highs across four countries at once -- Bund 3.51%, Gilt 30Y 5.95%, OAT 4.31%, BTP 4.29%",
+          "detail": "The eurozone and UK government bond complex sold off in lockstep this week, with Germany's 10-year Bund yield closing Friday at 3.51% (+1bp on the day), its cheapest price since 2011, while UK 10-year gilts touched 5.378% Thursday -- the highest since 2007 -- and 20- and 30-year gilts reached 5.895% and 5.948%, both levels last seen in 1998. France's 10-year OAT is trading near 4.31%, up from roughly 3.60% in June, reflecting both the ECB's hawkish tone and a lingering political-instability premium after months of budget deadlock in Paris, while Italy's 10-year BTP sits close behind at 4.29%. This is a genuinely cross-market event rather than a single-country story: every major European sovereign curve is repricing simultaneously off the same two inputs -- the ECB's hawkish hike and oil holding above $100/bbl for three consecutive sessions -- which is the textbook definition of a shock that moves more than one asset class at once. The UK dimension carries an extra layer because rising gilt yields mechanically shrink Chancellor Healey's fiscal headroom ahead of the October 28 budget (see below), while in France the yield move compounds a debt-service bill already running near €65bn for 2026, the government's single largest expenditure line. For rates desks, the read-through is that duration risk in Europe is currently being driven almost entirely by an exogenous energy shock rather than domestic growth or core-inflation dynamics, which makes it unusually difficult to hedge with conventional curve-steepener or -flattener positioning.",
+          "source": "FXStreet, Euronews, TradingEconomics, Bloomberg-sourced coverage",
+          "time": "yields as of Friday Sept 11 close, referenced through the weekend"
+        },
+        {
+          "stars": 3,
+          "headline": "Hormuz/Bab el-Mandeb shock feeds directly into European inflation via gas: TTF near €80/MWh, EU weighing a price cap",
+          "detail": "Dutch TTF front-month gas fell to €79.52/MWh Friday from above €81 Thursday, but remains close to its highest level since December 2022, as the Strait of Hormuz disruption and competition for non-Qatari LNG cargoes keep European wholesale gas prices elevated even though Europe sources only around 8% of its LNG directly from the Gulf. The exposure is highly uneven across the bloc: Italy draws roughly a third of its LNG from Qatar, with Poland (25%) and Belgium (16%) also disproportionately exposed, meaning the inflation and current-account impact of the crisis will land unevenly across member states rather than uniformly. The European Commission has begun exploring a potential price cap on gas as a policy response, a step that would directly intervene in the TTF benchmark that underpins most European gas and power contracts -- a genuinely multi-asset transmission channel, since gas prices feed into power costs, industrial input costs, and ultimately the same eurozone inflation print that just forced the ECB's hand above. Storage sites are running around 67% full, below the historical seasonal norm, which limits Europe's buffer heading into winter demand season and raises the stakes on whether Monday's Oman-hosted Hormuz talks (see the Asia panel) produce anything more than symbolic de-escalation. For European rates and inflation-linked desks, this is the direct mechanical link between the Middle East chokepoint story and Thursday's ECB decision -- not a parallel narrative but the same trade expressed through a different instrument.",
+          "source": "TradingEconomics, Bruegel, Intereconomics, TRENDS Group",
+          "time": "TTF pricing as of Friday Sept 11; EU policy discussion ongoing into the week"
+        },
+        {
+          "stars": 2,
+          "headline": "Volkswagen's supervisory board approves its most sweeping restructuring in 89 years -- 50,000 job cuts, half the model lineup gone",
+          "detail": "Volkswagen's supervisory board signed off on a transformation plan September 3 that will cut up to 50,000 jobs across the group and halve its vehicle offerings, the most extensive restructuring in the company's 89-year history, as management responds to US tariffs, softer China demand and aggressive Chinese EV competition. The plan explicitly averted a harder confrontation with unions and Lower Saxony, VW's second-largest shareholder, by reaching a negotiated agreement rather than forcing the issue through an extraordinary general meeting -- a governance outcome that matters as much as the restructuring itself, since it removes a near-term event-risk overhang for the stock. VW shares jumped 5.7% on the news, the top gainer in the DAX that session, as the market read the deal as credible cost-out delivered without the reputational and execution risk of a prolonged labor standoff. The plan also includes exploring alternatives for four German plants that will eventually run out of models over the next decade, a structural signal that Germany's auto-manufacturing base is shrinking in absolute terms, not just being made more efficient. For European autos and industrial desks, VW's move is the highest-profile test case so far of whether legacy European carmakers can restructure their way through the EV transition and Chinese competitive pressure without a full-blown labor crisis, and the market's initial verdict was clearly positive.",
+          "source": "CNBC, CNN, The Business Standard",
+          "time": "board approval Sept 3, stock reaction same session"
+        },
+        {
+          "stars": 2,
+          "headline": "European banks extend their two-year bull run as higher rates and buybacks offset Commerzbank-UniCredit merger noise",
+          "detail": "Banco Santander shares are trading higher into the weekend, supported by a sizeable buyback program and the favorable net-interest-margin backdrop from the ECB's Thursday hike, with the stock among the leaders in Friday's IBEX 35 rebound. The broader sector narrative remains constructive: European banks are in the midst of a two-year bull run built on record profits, with the rate complex now adding a fresh tailwind on top of already-strong capital return programs. UniCredit is the one pocket of volatility, easing on Borsa Italiana as takeover discussions around Commerzbank intensify -- a story that has run for months without resolution and continues to inject M&A-driven noise into an otherwise-clean rates-tailwind trade for the sector. Deutsche Bank has separately been flagged as technically overbought after a strong run, a reminder that positioning risk is building even within a fundamentally supported sector. For desks running European financials, the mechanical read is straightforward -- every 25bp of ECB tightening widens net interest margins for a sector that spent the better part of the last decade under negative rates -- but the Commerzbank overhang means single-name dispersion within the sector is now as important as the macro tailwind itself.",
+          "source": "Ad-Hoc News, S&P Global, International Finance",
+          "time": "as of Friday Sept 11 close, referenced through the weekend"
+        },
+        {
+          "stars": 2,
+          "headline": "European luxury stocks split down the middle: HSBC cuts LVMH and Burberry to hold just as BofA reiterates buy",
+          "detail": "LVMH shares are down roughly 37% year-to-date and Hermes down about 34%, both lagging the rest of the luxury sector after years of slowing sales and cautious spending from wealthy shoppers, particularly in China. HSBC downgraded LVMH and Burberry to hold this week, arguing the back half of 2026 looks harder to navigate for soft-luxury names specifically, while Bank of America maintained buy ratings across LVMH, Hermes and Richemont, framing the current weakness as a gradual, non-linear recovery rather than a structural decline -- a genuine analyst split on a sector that has been one of Europe's biggest single-stock underperformers this year. The divergence matters because it is playing out just as China's August activity data (retail sales, industrial production, fixed-asset investment, due Tuesday per the Asia panel) will be read in part as a signal for exactly the Chinese luxury-demand recovery the bull case depends on. HSBC separately upgraded both LVMH and Kering to buy in a subsequent note, adding to the whiplash in sell-side positioning on the sector within the same week. For European consumer-discretionary desks, luxury remains the cleanest read on China-exposed European earnings sensitivity, and the scale of the YTD drawdown means Monday's open carries real two-way risk depending on how the sector digests the conflicting calls.",
+          "source": "Bloomberg, BigGo Finance, iTiger",
+          "time": "HSBC and BofA notes published through the week of Sept 8-12"
+        },
+        {
+          "stars": 2,
+          "headline": "Stellantis commits over €1bn to a new French van plant, underpinning its turnaround narrative against a deep valuation discount",
+          "detail": "Stellantis stock rose after reports of a more than €1bn investment in a new van manufacturing plant in France, a concrete capital commitment that gives some substance to management's turnaround plans after a difficult stretch for the stock. The New York-listed shares closed around $5.28 on September 10, far below the average analyst price target near $8.50 -- an implied upside of roughly 61% that underscores just how skeptical the market remains about execution even as individual investment announcements like this one land positively. The move follows a weaker session on Borsa Italiana on September 8, when Stellantis fell 2.8% amid broader softness across the Italian automotive segment, so Friday's gain is best read as a partial recovery within a still-troubled stock rather than a trend reversal. The contrast with Volkswagen above is instructive for the sector: VW is cutting capacity and headcount at scale while Stellantis is simultaneously announcing fresh European manufacturing investment, illustrating how differently individual legacy automakers are choosing to fight the same competitive and tariff pressures. For autos desks, the wide gap between Stellantis's share price and consensus target price makes it one of the highest-beta ways to trade sentiment on whether Europe's auto restructuring wave is being priced correctly.",
+          "source": "Ad-Hoc News",
+          "time": "investment reported Sept 10-11, prior weakness Sept 8"
+        },
+        {
+          "stars": 2,
+          "headline": "German manufacturing PMI jumps to 54.3 in August, strongest production growth since January 2022, on defense and data-center demand",
+          "detail": "The final S&P Global German manufacturing PMI rose to 54.3 in August from 52.2 in July, driving the strongest production growth in more than four and a half years as new orders rose for a third consecutive month. Firms specifically cited defense spending, data-center build-outs and stockpiling as the drivers of demand -- a demand mix that says as much about Europe's rearmament and AI-infrastructure build cycle as it does about a conventional industrial recovery. The reading sits in sharp contrast to July's actual industrial production print, which fell 1.1% month-on-month on a calendar-adjusted basis with manufacturing output down 2.3%, meaning the PMI's forward-looking order books are currently telling a materially more optimistic story than the backward-looking hard data. For German equities and the broader DAX, this divergence is worth tracking closely into next week: if the order-book strength implied by the PMI starts showing up in actual production figures, it would be a genuine positive catalyst for German industrials at a moment when the ECB's hiking cycle is otherwise tightening financial conditions across the euro area.",
+          "source": "TradingEconomics, GuruTrade, France24",
+          "time": "PMI released early September, industrial production data released Sept 7"
+        },
+        {
+          "stars": 2,
+          "headline": "UK gilt rout shrinks Chancellor Healey's fiscal headroom from £26bn to roughly £13.8bn ahead of the October 28 budget",
+          "detail": "The global bond sell-off that pushed UK 30-year gilt yields to their highest since 1998 (5.948%) and 10-year yields to their highest since 2007 (5.378%) is doing direct damage to the government's fiscal arithmetic: rising debt-service costs are estimated to have cut Chancellor John Healey's headroom against his fiscal rules from around £26bn to roughly £13.8bn ahead of his first budget on October 28. Market commentary has increasingly framed this as \"the bond market writing the budget\" -- with every basis point of further gilt-yield increase mechanically narrowing the space for either spending commitments or tax cuts the government might otherwise want to make. UK 10-year gilts briefly dipped below 5.35% on Friday as the broader energy-price rally paused ahead of the weekend, but markets have now nearly fully priced a Bank of England rate hike in November plus three more by mid-2027, meaning the near-term trajectory for UK borrowing costs points higher rather than lower into the budget date. This sits alongside a genuinely resilient growth print -- UK GDP grew 0.4% in the three months to July, beating expectations on services strength even as production and construction both contracted -- so the UK's policy dilemma next month is a comparatively strong real economy set against a bond market that is actively constraining fiscal choices. For rates and UK macro desks, gilts are now trading as much on budget-headroom arithmetic as on BoE policy expectations, a dynamic that will only intensify as October 28 approaches.",
+          "source": "Options Trading Report, TradingEconomics, ONS, IFS",
+          "time": "yields as of Friday Sept 11; budget scheduled Oct 28"
+        },
+        {
+          "stars": 2,
+          "headline": "TotalEnergies agrees to buy Shell's European onshore renewables business as the two majors' strategies diverge",
+          "detail": "TotalEnergies is acquiring Shell's entire European onshore renewables portfolio, a transaction that crystallizes the diverging strategic paths of Europe's two largest integrated energy majors: Shell continues to pare back renewable-asset ownership to refocus on core oil and gas, while TotalEnergies is consolidating exactly the kind of European clean-power assets Shell is exiting. The deal comes as both companies -- along with BP, Repsol and Eni -- are sitting on a substantial windfall from elevated oil prices, with combined Q1 2026 profits across the five majors up 43% year-on-year to $21.7bn, reflecting the same Hormuz/Bab el-Mandeb-driven price strength detailed elsewhere in this panel. TotalEnergies shares have been trading near the upper end of their recent range, supported by both the oil-price windfall and a Moderate Buy analyst consensus with an $87.14 price target. For European energy and utilities desks, the transaction is a useful read on capital allocation priorities at a moment when the sector is generating exceptional cash flow from the fossil-fuel side of the business -- Shell is using its share to concentrate on core hydrocarbons, while TotalEnergies is using its share to buy cheap renewables assets from a strategic seller, a genuinely contrarian bet on the direction of European energy policy.",
+          "source": "Axios, Global Witness, Yahoo Finance",
+          "time": "deal reported Aug 3, oil-major earnings context from Q1 2026"
+        },
+        {
+          "stars": 2,
+          "headline": "iTraxx Main set to underperform US investment-grade credit as oil nears $100 and European geopolitical risk stays elevated",
+          "detail": "Credit strategists are flagging that the iTraxx Main index (European investment-grade CDS) is likely to continue underperforming the US CDX IG benchmark as crude approaches $100/bbl, with the compression between the two spreads over recent months now expected to reverse into renewed widening. Positioning data shows real money reducing exposure into the move: iTraxx Main Series 45 saw a $3.8bn net reduction in long positions in the week to August 28, while iTraxx Crossover Series 45 (the high-yield gauge, 75 sub-investment-grade names) saw roughly $1.5bn of short-position covering over the same week -- both consistent with credit desks de-risking ahead of exactly the kind of sovereign-yield and energy-price volatility that materialized this week. The mechanism is straightforward: European corporate credit spreads are priced partly off the same energy-cost and growth-sensitivity factors driving the sovereign curve moves detailed above, so a Bund/gilt/OAT selloff this synchronized tends to widen corporate spreads in sympathy, particularly in energy-intensive and consumer-facing sectors. For credit desks, the wider point is that European IG and crossover spreads are not yet pricing anything close to the stress implied by 15-to-28-year highs in sovereign yields, which argues for the relative-value trade (short iTraxx Main vs CDX IG) continuing to work as long as the energy shock stays live.",
+          "source": "Macrostream, S&P Dow Jones Indices",
+          "time": "positioning data as of week ended Aug 28, spread commentary through mid-September"
+        },
+        {
+          "stars": 2,
+          "headline": "Turkish lira grinds to a fresh record low past 48.5/USD while the South African rand strengthens toward 16/USD ahead of a live SARB hike debate",
+          "detail": "USD/TRY closed at 48.5546 on September 11, extending a gradual depreciation path that has cost the lira about 17% year-to-date, as the Central Bank of Turkiye continues managing the decline through FX interventions rather than defending a hard level, in an explicit effort to limit exchange-rate pass-through to inflation while supporting disinflation. The contrast with South Africa is sharp: USD/ZAR has strengthened toward roughly 16.0-16.1, near its best level since March, helped by a softer dollar and firmer prices for gold and platinum-group metals, even as petrol and diesel prices rise sharply from the same Middle East-driven oil strength hitting every other EM currency in this panel. The SARB has held rates through April and July despite the oil shock, but speculation is building for a 25bp hike at its September 23 meeting -- a decision that would mark a genuine policy pivot after months of resistance. For EM and frontier-market desks, these are two structurally different stories wearing the same \"oil shock\" label: Turkey is absorbing the hit through currency depreciation by design, while South Africa is debating whether to absorb it through higher rates instead, and the SARB's September 23 decision is the more genuine near-term catalyst of the two.",
+          "source": "TradingEconomics, Disruption Banking",
+          "time": "USD/TRY as of Sept 11; USD/ZAR as of Sept 8; SARB meeting Sept 23"
+        },
+        {
+          "stars": 1,
+          "headline": "CEE currencies diverge as the Hungarian forint holds its carry-trade crown and Czech/Polish outlooks soften",
+          "detail": "The Hungarian forint remains the standout carry performer within the CEE-3 currency bloc heading into the autumn, supported by the region's most attractive policy-rate differential even as the Magyar Nemzeti Bank continues a gradual easing cycle. The Czech koruna's advantage is narrowing, however: the Czech real interest rate has averaged 1.8% this year against a negative eurozone real rate, but an expected pickup in Czech headline inflation is set to compress that real-yield gap toward zero early next year, while Poland's National Bank edges closer to potential rate cuts of its own. USD/PLN has traded in a tight 3.70-3.74 range over the past two weeks, essentially flat, reflecting a region that is broadly tied to Germany's industrial cycle and therefore exposed to the same soft patch flagged in the German industrial-production data above. For EM Europe desks, the region's currencies are behaving as a pure function of relative central-bank policy paths right now rather than any independent risk premium, which keeps volatility comparatively low but leaves little room for surprise upside without a genuine German growth inflection.",
+          "source": "ING Think, TradingPedia",
+          "time": "context through the week of Sept 8-12"
+        },
+        {
+          "stars": 1,
+          "headline": "European defense stocks stall, with Rheinmetall roughly 20% off its highs after 2025's rearmament rally",
+          "detail": "Rheinmetall, Germany's largest pure-play defense contractor, is trading around 20% below the peak it reached last year, part of a broader defense-sector index that has essentially flatlined since mid-January in its weakest start to a year since 2021. Safran, the more diversified aerospace-and-defense name with exposure through engines, avionics and sensors, continues to see analyst support for mid-teens revenue growth in 2026, but the sector overall trades on rich multiples built on continued European rearmament spending that investors are now questioning the pace of. This matters for the panel's broader theme because defense names had been one of the few European sectors trading on a structural, non-energy-shock narrative, and their stalling momentum this year suggests that story is maturing rather than accelerating even as the Middle East conflict keeps geopolitical risk generally elevated. For European industrials desks, the gap between Rheinmetall's pullback and Safran's continued analyst support is a useful dispersion trade within a sector that the market had treated as a single macro bet for most of the past two years.",
+          "source": "Bloomberg, Morningstar Europe, Gainify",
+          "time": "context through early-to-mid September"
+        },
+        {
+          "stars": 1,
+          "headline": "UK GDP grows 0.4% in the three months to July, services-led, ahead of a data-heavy run into the October budget",
+          "detail": "UK real GDP expanded 0.4% in the three months to July 2026, matching the prior rolling-quarter reading, with services output up 0.6% more than offsetting a 0.5% contraction in both production and construction output. On a monthly basis GDP grew 0.4% in July after 0.3% in June, a run of prints that the OBR's earlier 1.1% full-year 2026 growth forecast still looks broadly consistent with, even as gilt-market stress (detailed above) complicates the fiscal side of the picture. The sectoral split -- resilient services, weak production and construction -- is a familiar pattern for the UK economy this cycle and offers Chancellor Healey a genuinely mixed backdrop heading into October 28: growth data solid enough to avoid a recession narrative, but not so strong as to organically close the fiscal gap the bond market has opened up. No new data is scheduled to materially move this picture before the budget itself, so the July GDP print will likely remain the reference point for growth-versus-fiscal-headroom debates through the rest of September.",
+          "source": "ONS, House of Commons Library",
+          "time": "GDP data released covering July 2026, published in early September"
+        },
+        {
+          "stars": 1,
+          "headline": "Calendar: ECB speakers ratify October hike pricing this week as eurozone industrial production and a central-bank-heavy fortnight loom",
+          "detail": "Commentary flagged multiple ECB Governing Council members using speaking engagements this week to reinforce market pricing for further tightening into October, consistent with Lagarde's own refusal Thursday to rule out additional hikes despite the \"meeting-by-meeting\" framing. Eurozone industrial production data is due in the coming days and will be read as a cross-check against the diverging German signals above (strong August PMI orders versus weak July hard production data), with any material miss likely to sharpen the debate over how much further the ECB can realistically tighten without tipping growth. The broader calendar is unusually dense: Wednesday's FOMC decision, the BOJ's September 17-18 meeting and South Africa's September 23 SARB decision all sit within the same fortnight as this week's ECB follow-through, meaning European rates desks are effectively trading four separate central-bank reaction functions in quick succession. For multi-asset desks, the practical takeaway is that European rate-vol pricing into month-end should stay elevated regardless of the next single data point, simply because so much event risk is now stacked within such a short window.",
+          "source": "FXStreet, ECB weekly calendar",
+          "time": "week of Sept 14-19, with FOMC Sept 16 and BOJ Sept 17-18 as the immediate bookends"
+        }
+      ]
     },
     "us": {
       "status": "pending",
