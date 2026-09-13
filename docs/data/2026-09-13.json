@@ -1,10 +1,225 @@
 {
   "date": "2026-09-13",
-  "indicators": {},
+  "indicators": {
+    "asia": [
+      {
+        "category": "Equities",
+        "label": "Nikkei 225",
+        "value": "64,011.34",
+        "change": "-1.93% (Fri close)",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "Hang Seng",
+        "value": "24,805.63",
+        "change": "-0.60% (Fri close)",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "Shanghai Composite",
+        "value": "~3,888",
+        "change": "-1.2% (Fri close, two-week low)",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "Kospi",
+        "value": "6,909.91",
+        "change": "-1.76% (Fri close)",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "ASX 200",
+        "value": "8,741.20",
+        "change": "-0.89% (Fri close)",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "USD/JPY",
+        "value": "~153.7",
+        "change": "yen near its strongest since February on BOJ hike bets",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "USD/CNH",
+        "value": "~6.71",
+        "change": "yuan pressing multi-year highs; PBOC fix set well above market to slow gains",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "AUD/USD",
+        "value": "0.7154",
+        "change": "-0.9% (Fri close)",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "USD/KRW",
+        "value": "~1,340",
+        "change": "little changed on the week, Kospi extending its AI-driven rally",
+        "direction": "flat"
+      },
+      {
+        "category": "FX",
+        "label": "USD/INR",
+        "value": "95.44",
+        "change": "rupee near multi-month lows, five-plus week losing streak",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "Gold",
+        "value": "$4,348/oz",
+        "change": "+0.8% (Fri settle)",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "Brent crude",
+        "value": "$104.42",
+        "change": "-2.98% (Fri), still +8% on the week",
+        "direction": "down"
+      },
+      {
+        "category": "Commodities",
+        "label": "Copper",
+        "value": "$6.47/lb",
+        "change": "roughly flat (Fri)",
+        "direction": "flat"
+      },
+      {
+        "category": "Rates",
+        "label": "JGB 10Y",
+        "value": "~2.93%",
+        "change": "+5bp, BOJ hike near-certain Sept 17-18",
+        "direction": "up"
+      }
+    ]
+  },
   "sessions": {
     "asia": {
-      "status": "pending",
-      "items": []
+      "status": "done",
+      "generated_at": "2026-09-13T10:13:35+02:00",
+      "items": [
+        {
+          "stars": 3,
+          "headline": "Bahrain refuses to join Monday's Oman-hosted Hormuz talks with Iran, and an Iranian official downplays odds of a signed deal",
+          "detail": "Bahrain's foreign ministry said Saturday it \"will not be a party to any collective meeting that includes Iran\" until diplomatic relations, severed in 2016, are restored, breaking ranks just two days before Iran's foreign minister is due to meet the rest of the GCC plus Iraq in Salalah, Oman on Monday to negotiate reopening the Strait of Hormuz. Bahrain says any deal must apply \"without discrimination, fees or permits\" to all six GCC states, not a partial arrangement brokered without it -- a stance that complicates what was already shaping up as a limited outcome. Separately, an Iranian official told Reuters no signed agreement is expected to emerge from Monday's session itself; the more realistic outcome under discussion is a joint Oman-Iran shipping route through the strait that would then be notified to the International Maritime Organization, far short of a full reopening. This matters because IMF PortWatch data show only 6 transits through Hormuz on September 6 versus an 85-per-day pre-crisis baseline, so the strait remains effectively closed regardless of Monday's diplomacy. Options markets have been pricing a binary gap risk into Monday's oil open; Bahrain's abstention and the lowered deal expectations argue the more likely outcome is a partial, symbolic step rather than the clean de-escalation catalyst that had been pulling Brent back from its highs.",
+          "source": "Al Jazeera, Business Recorder, Arab News, Eurasia Review, Reuters (via Jerusalem Post)",
+          "time": "Bahrain statement Saturday Sept 12; meeting Monday Sept 14"
+        },
+        {
+          "stars": 3,
+          "headline": "Houthi forces now hold Yemen's entire Red Sea coastline as Yemeni government troops counterattack near Mocha",
+          "detail": "Iran-aligned Houthi forces have completed their weekend offensive, controlling Mocha, the Hanish Islands and Perim Island -- the landmass commanding both shipping channels of the Bab el-Mandeb Strait -- after Yemeni government forces were pushed out of Perim and lost the town of Dhubab as well. Yemen's government said Saturday and Sunday it struck Houthi fighters and vehicles along the Mocha-Dhubab road, roughly 11km from Mocha, in an attempt to claw back the port, with the broader offensive now estimated to have killed more than 500 people since it began. Bab el-Mandeb is geographically distinct from the Strait of Hormuz that Monday's Oman talks address, so a Houthi-controlled strait opens a second, unaddressed maritime risk even if the Hormuz diplomacy succeeds -- roughly 20% of global LNG flows already run through Hormuz, and a large share of Suez-bound container and tanker traffic would need to reroute around the Cape of Good Hope if Bab el-Mandeb becomes unusable. War-risk insurance premiums for transits through the strait, which had already risen from 0.3% to roughly 0.5% of hull value by late July, are reported to have surged further since the renewed Houthi advance, with the sharpest increases hitting Saudi-linked vessels and southern Red Sea ports like Jizan. For desks pricing tail risk in crude, LNG and dry-bulk freight, this is the more durable of the two chokepoint stories precisely because it sits outside the scope of any deal Monday's meeting could produce.",
+          "source": "Al Jazeera, NPR, NBC News, France24, Euronews, TASS",
+          "time": "seizures through Sept 10-11, counter-strikes reported Sept 12-13"
+        },
+        {
+          "stars": 3,
+          "headline": "Saudi Arabia shuts its East-West Petroline pipeline after a drone attack, knocking out its main Hormuz bypass route",
+          "detail": "Saudi Arabia's Energy Ministry confirmed Friday that its East-West pipeline -- which normally carries 4-5 million barrels per day of crude from the Eastern Province to the Red Sea port of Yanbu, bypassing the Strait of Hormuz entirely -- was shut down after a drone attack the ministry attributed to Iran-backed Iraqi militias, with injuries reported at the site. The pipeline is Saudi Arabia's single most important piece of infrastructure for keeping crude exports flowing without transiting Hormuz, so its loss is arguably a bigger near-term supply risk than the Hormuz closure itself, since Saudi Arabia has spent the last several months routing an increasing share of exports through exactly this line. The timing compounds the Bab el-Mandeb escalation above: with both the primary Gulf chokepoint and now a major bypass route degraded within the same 72-hour window, the physical routes available to move Gulf crude to market are narrowing simultaneously from multiple directions rather than just one. Saudi tanker-tracking data already showed crude exports near a roughly nine-year low close to 3 million b/d in August even before this attack, so the pipeline outage adds a fresh, acute supply constraint on top of an already-stressed export base. Crude desks should treat this alongside Monday's Oman talks as a second, independent swing factor for the Asia reopen -- a genuine supply-side shock that a successful Hormuz negotiation would do nothing to reverse.",
+          "source": "CNN, CNBC, NBC News, Japan Times",
+          "time": "attack and shutdown confirmed Friday Sept 11, reported into the weekend"
+        },
+        {
+          "stars": 3,
+          "headline": "BOJ hike to 1.25% is near-consensus for Sept 17-18, with yen, JGB yields and Nikkei exporters already pricing it in tandem",
+          "detail": "Economists surveyed ahead of the Bank of Japan's September 17-18 meeting overwhelmingly expect a 25bp hike to 1.25% from the current 0.75%, with OIS markets pricing roughly 75bp of cumulative tightening by April 2027 -- a central-bank-anticipation story already moving three asset classes at once rather than waiting for the decision itself. The yen has appreciated toward 153/dollar from around 156 a week earlier, its strongest level since February, helped by the hike bets, unwinding carry trades and reported capital repatriation ahead of Japan's fiscal half-year close; it is up more than 3% month-to-date. Japan's 10-year JGB yield has climbed in step, pushing toward roughly 2.93% from about 2.88% earlier in the week, as the rates market prices a steeper tightening path than it was a month ago. The other side of the ledger is exporter equities: the Nikkei fell 1.93% Friday to 64,011.34 and the broader TOPIX dropped 1.83% over the week, with yen strength squeezing the export-heavy names that dominate the index alongside the DeepSeek-driven memory-chip weakness flagged below. The genuine swing factor into next week, per multiple previews, is not whether the BOJ hikes -- that is close to fully priced -- but the language policymakers use in the accompanying statement and press conference; a notably hawkish tone risks pushing USD/JPY toward 150 and adding further pressure to exporters already absorbing Monday's cross-currents from Hormuz and Bab el-Mandeb.",
+          "source": "Japan Times, Investing.com, Trading Economics, Bloomberg",
+          "time": "meeting Sept 17-18; yen/JGB moves through the week into the weekend"
+        },
+        {
+          "stars": 2,
+          "headline": "VLCC tanker rates on the Middle East-to-China route hit an all-time high near $800,000/day",
+          "detail": "Very Large Crude Carrier rates for the benchmark Middle East Gulf-to-China route have hit roughly $800,000 per day, an all-time high that has more than doubled over the past two months, according to Kobeissi Letter's Saturday update citing shipbroker data; Worldscale is quoted near 450 (about $11.50/bbl) for Gulf of Oman-to-China cargoes. Fearnleys, the Norwegian shipbroker, noted in its week-ended-Sept-9 report that the VLCC positions list is now so tight that a breach of Worldscale 400 on Fujairah-to-East runs \"wouldn't be too surprising\" -- language that understates just how compressed available tonnage has become as owners reroute around the Hormuz and Bab el-Mandeb risk simultaneously. West Africa-to-Asia VLCC rates are separately reported at records too, evidence the freight squeeze is a genuinely global phenomenon rather than confined to Gulf-origin cargoes. For desks running energy-transport equities, tanker owners are capturing a direct, quantifiable windfall from the same crisis hurting refiners and consumers elsewhere in the complex -- freight cost inflation on this scale ultimately shows up as a wedge between landed crude cost in Asia and the benchmark futures price, worth tracking separately from the Brent/WTI headline number.",
+          "source": "Kobeissi Letter, Fearnleys shipping report",
+          "time": "rates as of week ended Sept 9, cited through Saturday Sept 12"
+        },
+        {
+          "stars": 2,
+          "headline": "Bessent confirms Monday's bank sanction will be timed to 9/11, extending Operation Economic Outcast against Iran-linked flows",
+          "detail": "Treasury Secretary Scott Bessent said the large, still-unnamed bank the administration plans to sanction Monday will be announced specifically \"to honor the memory of our fallen citizens on 9/11\" -- explaining the shift from Friday's original target date -- as part of Operation Economic Outcast, the campaign launched August 24 that has already covered roughly 60 entities, vessels and individuals. It follows this month's sanctions on Dubai branches of Egypt's second-largest bank over an alleged $1.8bn in Iran-linked transfers and the shuttering of Turkey's 30th-largest bank, a pattern suggesting Monday's target is a bank with real correspondent-banking or dollar-clearing significance rather than a marginal player. For multi-asset and EM desks, sanctions against a systemically-linked institution carry the kind of fast-moving counterparty and dollar-funding risk that can move EM local-currency and offshore-dollar markets without warning, distinct from the slower Hormuz-diplomacy track running in parallel. Combined with the VLCC freight squeeze and the Saudi pipeline outage above, the financial and physical pressure campaigns against Iran are now compounding on multiple fronts simultaneously heading into Monday's session.",
+          "source": "CNBC, Traders Agency, Washington Post",
+          "time": "confirmed Thursday/Friday, action planned Monday Sept 14"
+        },
+        {
+          "stars": 2,
+          "headline": "BRICS-plus summit in New Delhi lands a consensus declaration urging restraint, papering over an Iran-UAE rift",
+          "detail": "Leaders of the ten full BRICS members plus Saudi Arabia adopted a unanimous \"New Delhi Declaration\" over the weekend that, without naming any country directly, calls for restraint and voices \"serious concern over deliberate attacks\" on civilian infrastructure and nuclear facilities -- language clearly aimed at the Iran-Israel-US conflict even though it stops short of assigning blame. Reporting indicates the Iran-UAE relationship was the main sticking point requiring closed-door negotiation before the text could be finalized, underscoring how difficult it has become even for a bloc built around non-Western solidarity to hold a unified line on the war. Indian Prime Minister Modi held a separate bilateral meeting with Iranian President Pezeshkian, who told reporters Friday that Iran \"will not surrender\" and reiterated that the Middle East does not need the US acting as \"regional policeman\" -- rhetoric that argues against a quick negotiated end to the conflict regardless of what Monday's Oman meeting specifically produces. For macro and EM desks, the summit itself does not move markets directly, but it is a useful gauge of how little diplomatic convergence exists even among nations with an economic interest in de-escalation, reinforcing the case for treating the current oil and freight risk premium as sticky rather than about to unwind.",
+          "source": "Japan Times, Outlook India, Organiser, PM India official release, CNBC",
+          "time": "summit Sept 12-13, declaration and bilateral meeting over the weekend"
+        },
+        {
+          "stars": 2,
+          "headline": "Brent slides 2.98% Friday to $104.42 on Oman-meeting hopes, but EIA and IEA outlooks pull in opposite directions",
+          "detail": "Brent crude fell 2.98% Friday to settle at $104.42/bbl, its sharpest single-session drop since the Iran war began reshaping the oil market, as Iran's announcement of Monday's Oman meeting gave traders their first concrete de-escalation signal in weeks; even with the pullback, Brent is still up more than 8% on the week and had briefly traded above $109 intraday. The move sits alongside two conflicting demand/supply signals released the same week: the EIA raised its 2027 US crude production forecast to 14.3 million barrels/day, arguing non-OPEC supply growth will eventually cap the geopolitical premium, while the IEA cut its 2026 global demand outlook by a further 2.5 million b/d, a bearish read on the macro backdrop even as physical supply is being disrupted in real time. WTI fell in step to $99.99, back below the psychologically important $100 level after briefly clearing it earlier in the week. The net effect is a market pricing two things at once -- a large, real, physical supply risk premium from Hormuz/Bab el-Mandeb/the Saudi pipeline outage, and a medium-term bearish supply-and-demand outlook from the major forecasting agencies -- which is why Friday's pullback looks more like profit-taking into Monday's binary risk than a genuine change in the underlying risk assessment.",
+          "source": "Investing.com, EIA, IEA",
+          "time": "Friday Sept 11 session"
+        },
+        {
+          "stars": 2,
+          "headline": "DeepSeek to retire V4-Pro Sept 14, auto-routing users to the memory-lean V4.1 Flash that hit Samsung and SK Hynix Friday",
+          "detail": "DeepSeek confirmed its V4-Pro model will be retired starting Monday September 14, with existing traffic automatically rerouted to V4.1 Flash, the architecture unveiled September 10 that cuts HBM requirements by roughly 75% and SSD storage needs by 87.5% versus its predecessor. The retirement announcement effectively forces adoption of the leaner model rather than leaving it as an optional lower-cost tier, which matters for Friday's Samsung/SK Hynix selloff (both fell more than 3% in Seoul) because it removes the \"this is just one pricing option\" counter-argument -- if DeepSeek itself is moving its default traffic to the memory-lean architecture, that is a stronger signal about where inference economics are heading industry-wide. The context is a Korean memory sector that had been recovering: Goldman Sachs said just two days earlier that \"the worst may be over\" for memory stocks, and SK Hynix, SanDisk and Micron all rose on that call, making Friday's reversal a real round-trip in sentiment within the same week. Retail investors are reported to have sold more than $10bn of Samsung and SK Hynix stock this month even as Samsung has separately committed to as much as $80bn in 2026 shareholder returns, so Monday's Seoul reopen is a genuine test of whether the DeepSeek efficiency story or the buyback/capex-cycle story wins out for now.",
+          "source": "Bloomberg, Yahoo Finance, ZeroHedge, BigGo Finance",
+          "time": "retirement effective Sept 14; Friday's Seoul reaction Sept 11"
+        },
+        {
+          "stars": 2,
+          "headline": "India's Sensex and rupee slip toward multi-month lows as the losing streak extends into the weekend",
+          "detail": "India's Sensex closed Friday down 0.2% at 74,872, near a three-month low, while the rupee weakened to 95.44/USD, extending a run of pressure that has been building for more than a month on elevated crude prices, geopolitical risk and sustained foreign portfolio outflows. Metals and financials led Friday's declines while technology names provided some cushion, a sector pattern consistent with India's position as a large net oil importer directly exposed to the Hormuz/Bab el-Mandeb/Saudi-pipeline supply squeeze described elsewhere in this panel -- every dollar of sustained crude strength is a direct terms-of-trade hit that shows up first in the currency and then in import-sensitive equities. No fresh RBI policy action was identified over the weekend, leaving Monday's Oman-meeting outcome as the most direct near-term lever for whether the oil-driven pressure on Indian assets eases or compounds into next week. This is a genuinely multi-week trend rather than single-day noise, and EM Asia desks should keep treating it as a structural derating in progress tied to the region's energy-import exposure rather than a domestic Indian story.",
+          "source": "Reuters-sourced coverage, market data",
+          "time": "Friday Sept 11 close"
+        },
+        {
+          "stars": 2,
+          "headline": "Fed-hike odds for Wednesday diverge sharply across providers -- 56% by one read, 66% by another -- three days before the decision",
+          "detail": "Pricing for a 25bp hike at Wednesday's FOMC meeting shows real inconsistency across sources citing CME FedWatch-style methodology, with some readings near 56% and others closer to 66%, a wider-than-usual spread for a meeting just three trading days away that likely reflects different capture times against a fast-moving data flow rather than a single stable consensus. Fed Chair Warsh's Jackson Hole remarks -- that underlying inflation trends \"have not meaningfully improved,\" that the Fed has \"work to do,\" and that inflation should be the \"predominant focus\" over labor-market risk -- have been the dominant hawkish anchor for the higher-probability estimates, but some economists are pushing back publicly that \"the economy doesn't have quite as much momentum as Warsh suggested,\" creating genuine two-sided risk into Wednesday. For desks running rates or vol exposure into the meeting, a probability spread this wide across supposedly comparable data sources is itself a signal worth flagging -- it argues for sizing hedges off a range rather than a single point estimate. Asia rates and FX desks have direct exposure through the US-China yield differential (a record roughly 317-324bp as of last week) and its knock-on effect on yuan management, so Wednesday's outcome carries a wider range of plausible Asia-session reactions than the calendar entry alone would suggest.",
+          "source": "CME Group-style aggregators, Jackson Hole remarks coverage",
+          "time": "as of the weekend ahead of Wed Sept 16 FOMC"
+        },
+        {
+          "stars": 1,
+          "headline": "TSMC's record NT$514.8bn August sales (+53.3% y/y) keep the logic/foundry AI story running well ahead of the memory-chip wobble",
+          "detail": "Taiwan Semiconductor Manufacturing Co. reported August revenue of NT$514.81bn (roughly $16.35bn), up 53.3% year-on-year and 10.1% month-on-month, the first month ever above NT$500bn and the fourth consecutive monthly record, with year-on-year growth accelerating sharply from 20.4% in Q4 2025 to 36.0% in Q2 2026 to this figure -- a trajectory driven by advanced-node capacity for AI accelerators. The contrast with this week's DeepSeek-driven memory story above is the cleanest single trade in the semiconductor complex right now: logic/foundry capacity remains structurally undersupplied by TSMC's own numbers even as fresh doubts emerge about HBM/memory demand growth from architectural efficiency gains. No new weekend-specific commentary has emerged since Thursday's release, but the scale of the beat means it will likely stay a reference point for how Asia semis desks frame Monday's Samsung/SK Hynix reopen against the broader AI-capex cycle.",
+          "source": "CNBC, Yahoo Finance",
+          "time": "August sales reported Sept 10, referenced into the weekend"
+        },
+        {
+          "stars": 1,
+          "headline": "RBA holds a rare governor panel Monday, three weeks ahead of its Sept 28-29 rate decision",
+          "detail": "The Reserve Bank of Australia has scheduled a \"board member panel\" event for Monday at 12:30pm AEST featuring Governor Michele Bullock, Deputy Governor Hauser and three assistant governors, a public-communication format distinct from a rate decision -- the next actual RBA meeting is not until September 28-29, outside this coming week's calendar. Australian equities and the Aussie dollar closed Friday under pressure regardless (ASX 200 -0.89% to 8,741.20, AUD/USD -0.9% to 0.7154) as part of the broader regional risk-off tone into the weekend, so Monday's panel is a genuine calendar item to watch for language on the RBA's reaction function rather than a policy catalyst in itself. Given the density of central-bank event risk already stacked into this week (BOJ Sept 17-18, FOMC Sept 16), any unscripted comments from Bullock or Hauser that stray toward near-term policy guidance would carry outsized weight purely because markets are primed to parse every central-bank utterance this week for directional signal.",
+          "source": "RBA calendar, market data",
+          "time": "panel Monday Sept 14, 12:30pm AEST"
+        },
+        {
+          "stars": 1,
+          "headline": "China's August activity data (retail sales, industrial output, fixed-asset investment) due Tuesday, the week's main regional data print",
+          "detail": "China is scheduled to release its August retail sales, industrial production and fixed-asset investment figures on Tuesday September 15, the standard timing for this data cluster and the most significant scheduled Asia-Pacific economic release of the week outside the BOJ and FOMC meetings. No specific consensus forecasts were available in this weekend's search window, but the release follows last week's CPI (0.8% y/y) and PPI (3.8% y/y, beating forecast) prints, both of which suggested factory-gate deflation continuing to fade even as consumer inflation stays subdued. Given the CSRC's recent tightening around property-developer restructuring tools and the ongoing PBOC yuan-management story, Tuesday's activity data will be read as much for what it implies about the PBOC's room to ease as for the headline growth signal itself -- a weak retail sales print in particular would sharpen the debate over whether Beijing needs a more forceful stimulus response heading into year-end.",
+          "source": "Standard NBS release calendar, prior week's CPI/PPI context",
+          "time": "due Tuesday Sept 15"
+        },
+        {
+          "stars": 1,
+          "headline": "Gold and silver hold steady over the weekend; commentary argues the dollar and real yields, not geopolitics, are now the driver",
+          "detail": "Spot gold settled Friday at $4,348/oz, up 0.77% on the day and clawing back part of Thursday's 1.8% slide, while silver added 1.46% to $64.39/oz -- both metals essentially holding the $4,340-4,365 gold range and low-$60s silver range that has persisted through the week. One weekend commentary piece explicitly argued that the dollar and real Treasury yields, rather than the escalating Middle East conflict, are the dominant driver of metals price action right now, a notable framing given how much of this week's other coverage has leaned on the geopolitical narrative to explain cross-asset moves. Gold remains roughly 22% below its January 2026 record above $5,589 even as institutional demand stays structurally supportive (near-record August ETF inflows), reinforcing that the metal is rangebound by conflicting forces -- safe-haven bid against a firm dollar and elevated real yields into next week's FOMC -- rather than lacking a catalyst. Monday's Oman talks and Wednesday's FOMC decision remain the two most likely events to finally break the range in either direction.",
+          "source": "Rio Times, JM Bullion",
+          "time": "Friday Sept 11 settle, referenced through the weekend"
+        },
+        {
+          "stars": 1,
+          "headline": "Crypto drifts quietly into the weekend: Bitcoin last near $76,500 Friday, Ether holding the low-$2,500s",
+          "detail": "Bitcoin opened Friday at $76,535.95, down 2.2% from Thursday, with no confirmed print available for the actual weekend session in this search window; Ethereum was trading around $2,521-2,539 as of early Sunday, up roughly 2.8% over 24 hours by one reading. A September 9 commentary piece framed the ongoing Middle East escalation as actively \"keeping a lid on crypto,\" consistent with a market that has failed to sustain any bounce attempt even before this week's stacked central-bank event risk (FOMC Wednesday, BOJ Sept 17-18) lands. With traditional-market catalysts largely absent over the weekend and US spot ETF trading closed, crypto's muted, rangebound behavior is a reasonable read on broader speculative risk appetite heading into a week that has plenty of scheduled reasons for that appetite to move sharply in either direction.",
+          "source": "Market data aggregators, Yahoo Finance",
+          "time": "into the weekend, as of Sunday Sept 13"
+        }
+      ]
     },
     "europe": {
       "status": "pending",
