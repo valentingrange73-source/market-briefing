@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-13",
+  "indicators": {},
+  "sessions": {
+    "asia": {
+      "status": "pending",
+      "items": []
+    },
+    "europe": {
+      "status": "pending",
+      "items": []
+    },
+    "us": {
+      "status": "pending",
+      "items": []
+    }
+  }
+}
