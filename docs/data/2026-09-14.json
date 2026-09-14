@@ -100,6 +100,113 @@
         "change": "-0.5bp, steady into BOJ meeting",
         "direction": "flat"
       }
+    ],
+    "europe": [
+      {
+        "category": "Equities",
+        "label": "Euro Stoxx 50",
+        "value": "6,263",
+        "change": "-0.98%",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "FTSE 100",
+        "value": "10,708.76",
+        "change": "+0.55%",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "DAX",
+        "value": "~25,400",
+        "change": "-0.45%",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "CAC 40",
+        "value": "~8,140",
+        "change": "-0.48%",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "IBEX 35",
+        "value": "19,704",
+        "change": "-0.67%",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "EUR/USD",
+        "value": "~1.16",
+        "change": "near weakest in over a week",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "GBP/USD",
+        "value": "~1.3514",
+        "change": "soft, volatile week ahead",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "USD/TRY",
+        "value": "48.08",
+        "change": "fresh record low for lira",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "USD/ZAR",
+        "value": "16.24",
+        "change": "+0.82%, rand pressured by oil",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "USD/PLN",
+        "value": "3.71",
+        "change": "little changed, zloty soft on risk-off",
+        "direction": "flat"
+      },
+      {
+        "category": "Commodities",
+        "label": "Gold",
+        "value": "$4,332/oz",
+        "change": "-0.8%, hawkish Fed bets offset haven bid",
+        "direction": "down"
+      },
+      {
+        "category": "Commodities",
+        "label": "Brent crude",
+        "value": "~$107.5",
+        "change": "+3%, 4-month high",
+        "direction": "up"
+      },
+      {
+        "category": "Rates",
+        "label": "Bund 10Y",
+        "value": "above 3.5%",
+        "change": "highest since 2009",
+        "direction": "up"
+      },
+      {
+        "category": "Rates",
+        "label": "Gilt 30Y",
+        "value": "5.94%",
+        "change": "+3bp, near 1998 highs",
+        "direction": "up"
+      },
+      {
+        "category": "Rates",
+        "label": "OAT 10Y",
+        "value": "4.28%",
+        "change": "highest since Nov 2008",
+        "direction": "up"
+      }
     ]
   },
   "sessions": {
@@ -236,8 +343,115 @@
       ]
     },
     "europe": {
-      "status": "pending",
-      "items": []
+      "status": "done",
+      "generated_at": "2026-09-14T18:05:32+02:00",
+      "items": [
+        {
+          "stars": 3,
+          "headline": "Saudi pipeline stays shut and Houthis tighten Bab el-Mandeb, pushing Brent ~3% higher and European gas to a 3.5-year high -- a genuine cross-asset energy shock",
+          "detail": "Brent crude rose roughly 3% toward $107-108/barrel Monday, its highest in about four months, as Saudi Arabia's 5m b/d East-West pipeline (the main Hormuz bypass to the Red Sea) remained shut following last week's drone attacks and satellite imagery confirmed serious pump-station damage, while Houthi forces pushed onto Yemen's Hanish Islands to extend their grip on the separate Bab el-Mandeb chokepoint. Dutch TTF gas futures jumped about 5% to roughly EUR84/MWh, the highest level since the depths of the December 2022 energy crisis, as Europe's LNG-import-dependent utilities price in curtailed Gulf cargoes on top of still-below-average storage levels heading into winter. This is a genuinely cross-asset move for European desks specifically: energy-heavy FTSE 100 (BP +1.4%, Shell +1.0%, TotalEnergies also higher) decoupled positively from the broader Stoxx 600 complex, while oil-importer currencies and rate-sensitive sectors absorbed the hit, and European sovereign curves cheapened further on the inflation implications just as the ECB's own hike take effect this week. Utilities, chemicals and industrials with direct gas exposure (BASF, air-liquide-type names) are the desks to watch for the next leg of repricing if TTF continues climbing into the October storage-refill deadline.",
+          "source": "KSAT, Maritime Executive, Al Jazeera, Parameter, Yahoo Finance",
+          "time": "Brent and TTF moves through Monday Sept 14 session"
+        },
+        {
+          "stars": 3,
+          "headline": "Amodei/Altman/Musk AI-slowdown call hits European tech and semis in the same session as the oil shock, knocking Stoxx 600 flat and dragging DAX, CAC and Euro Stoxx 50 into the red",
+          "detail": "The same AI-safety warnings that hit Asian chipmakers overnight (Anthropic's Dario Amodei publishing 'We Must Pace the Frontier', backed publicly by Sam Altman and Elon Musk, alongside Altman's confirmation that OpenAI will skip a 2026 IPO) carried straight through into the European session, with technology the worst-performing Stoxx sector, down roughly 2% and Nvidia-linked suppliers such as ASML and chip-equipment names among the heaviest drags. The Euro Stoxx 50 closed down 0.98% at 6,263 and the Stoxx Europe 600 essentially flat, with DAX (-0.45%), CAC 40 (-0.48%), IBEX 35 (-0.67%) and FTSE MIB (-0.57%) all lower while the FTSE 100 alone rose 0.55% to 10,708.76, insulated by its heavy energy and healthcare weighting and light tech exposure. This is the clearest illustration this session of why index composition is driving dispersion across Europe: any desk running a pan-European beta book needs to recognize that today's single-day return spread between London and the continental bourses is a sector-composition effect (oil-and-defensives-heavy FTSE vs tech/luxury-heavy DAX and CAC) rather than a country-risk divergence, and that spread should compress if oil gives back gains or AI sentiment stabilizes.",
+          "source": "Yahoo Finance, Schwab, ADVFN, Bolsamania, Trading Economics",
+          "time": "session close Monday Sept 14"
+        },
+        {
+          "stars": 2,
+          "headline": "Bund 10Y breaks above 3.5% for the first time since 2009 as Gilt 30Y nears 6% (1998 levels) and OAT 10Y sits at 4.28%, a synchronized European sovereign selloff into a stacked central-bank week",
+          "detail": "Germany's 10-year Bund yield pushed above 3.5% Monday, its highest since August 2009, extending a climb that took it through 3.4% (a level last seen in April 2011) just two weeks ago -- a rapid, roughly 10bp-plus move driven by the same oil- and gas-led inflation repricing hitting the Fed and BOJ narratives in Asia, now compounded by the ECB's own hawkish turn. UK 30-year Gilt yields rose a further 3bp to 5.94%, within striking distance of the 6% threshold last touched in 1998, even as the 10-year dipped slightly toward 5.3% on a pause in the energy rally; France's 10-year OAT sits at 4.28%, its highest since November 2008, with the OAT-Bund spread still elevated around 85bp on unresolved fiscal risk ahead of the September 30 draft 2027 budget bill. For rates desks, the read-through is that this is not an isolated German or UK story but a synchronized eurozone-plus-UK sovereign repricing running in parallel with US Treasuries closing in on 5% -- exactly the kind of cross-market, multi-curve move that argues for treating this week's FOMC (Wed), BOE (Thu) and the ECB's own Sept 16 rate-effective date as a single connected event risk rather than three separate national stories.",
+          "source": "Trading Economics, CNBC, Amundi Research Center",
+          "time": "yield levels as of Monday Sept 14 close"
+        },
+        {
+          "stars": 2,
+          "headline": "Euro Stoxx Banks index falls 1.2% to 318.14 as ECB's 25bp hike to 2.50% deposit rate (effective Sept 16) sharpens the net-interest-margin debate",
+          "detail": "The Euro Stoxx Banks index (SX7E) fell about 1.23% to 318.14 Monday, underperforming the broader Stoxx 600, even though the ECB's Governing Council decision from September 10 -- raising the deposit, refi and marginal lending rates by 25bp each to 2.50%, 2.65% and 2.90% respectively, effective September 16 -- is nominally NIM-supportive for the sector. The ECB explicitly cited Middle East-driven inflation pressure persisting 'well above target for an extended period' as justification, with money markets now leaning toward two further hikes by December; CaixaBank and Banca Generali both traded lower in early dealing as investors weighed valuation stretch after a strong 2026 run (SX7E is still up 19.2% year-to-date and 34.9% over 12 months) against today's broader risk-off tone. The pattern -- banks lagging on a day when higher rates should structurally help them -- is consistent with a session where macro/geopolitical risk-off is dominating sector-specific rate tailwinds, and is worth tracking against Wednesday's FOMC and Thursday's BOE for whether the NIM narrative reasserts itself once this week's event risk clears.",
+          "source": "Trading Economics (SX7E), Securities.io, ad-hoc-news.de",
+          "time": "SX7E as of 3:23pm CET Monday Sept 14; ECB decision Sept 10, effective Sept 16"
+        },
+        {
+          "stars": 2,
+          "headline": "European luxury rallies on HSBC upgrades: LVMH +3.8%, Kering +4.6%, Richemont and Swatch also higher, while Hermès falls on a rare downgrade",
+          "detail": "LVMH shares climbed as much as 3.8% to their highest level since May and Kering gained up to 4.6% to a three-month high after HSBC upgraded both from Hold to Buy, with Richemont and Swatch Group also up 2% and 2.5% respectively on the same broad re-rating of the sector; Hermès moved the other way, falling after HSBC cut it from Buy to Hold on a view that its sales growth will not accelerate through the second half. Analysts are pointing to a modest but genuine 2026-2027 sales recovery thesis built on improving Chinese consumer engagement even as US demand stays soft, a notable divergence from the risk-off tone dominating the rest of the session's equity tape. For desks running European consumer-discretionary or luxury-basket exposure, today's dispersion -- LVMH/Kering up sharply, Hermès down -- is a reminder that single-name analyst re-ratings are still capable of overriding the macro narrative within a sector, and the CAC 40's relative underperformance today (-0.48%) masks a luxury complex that actually had a strong session in aggregate.",
+          "source": "MarketScreener, iTiger",
+          "time": "Monday Sept 14 session"
+        },
+        {
+          "stars": 2,
+          "headline": "Novo Nordisk falls 2.6% on Morgan Stanley downgrade and GLP-1 competitive concerns, alongside news of a corporate rebrand to simply 'Novo'",
+          "detail": "Novo Nordisk shares fell 2.6% to EUR37.05 in Frankfurt trading after a Morgan Stanley downgrade flagged intensifying GLP-1 competitive risk, a continuation of the pressure the stock has faced through 2026 as rivals' obesity-drug pipelines mature and pricing dynamics in the US market shift. Separately, the company is preparing to formally shorten its corporate name to 'Novo' alongside a logo and tagline refresh, with confirmation expected later this week -- a housekeeping item but one that comes at a sensitive moment for investor sentiment given the stock's underperformance. For European pharma and healthcare-sector desks, Novo's weakness is a useful single-name counterpoint to the FTSE 100's outperformance today: London's healthcare weighting (GSK, AstraZeneca) has been a relative tailwind even as Denmark's largest company by market cap continues to de-rate on competitive rather than macro grounds.",
+          "source": "ad-hoc-news.de, Yahoo Finance",
+          "time": "share move into Monday Sept 14 (Frankfurt-listed ADR pricing)"
+        },
+        {
+          "stars": 2,
+          "headline": "Mercedes-Benz gains as Bernstein and Morgan Stanley lift targets to EUR56-59, while Stellantis faces a fresh downgrade -- European autos show a genuine dispersion story",
+          "detail": "Mercedes-Benz Group rose on Xetra after Morgan Stanley raised its price target to EUR59 (from a lower prior level) and Bernstein issued a similarly constructive update, both citing a strengthening premium-segment product pipeline; Stellantis moved the other way on a fresh sell-side downgrade the same session. This continues a theme that has run through 2026: Volkswagen and Stellantis have generally been favored for volume and profit growth this year even as BMW, Mercedes and Porsche were seen struggling to defend margins, yet today's single-session moves show that pipeline-specific catalysts can override the broader group-level narrative on any given day. Autos remain a useful bellwether for European industrial-cycle and China-demand sentiment; today's dispersion argues for stock-picking within the sector rather than treating it as a single beta trade, particularly with Tuesday's Chinese activity data (industrial production, retail sales) likely to move sentiment on China-exposed names like BMW and Porsche further.",
+          "source": "ad-hoc-news.de, Automotive News",
+          "time": "Monday Sept 14 session"
+        },
+        {
+          "stars": 2,
+          "headline": "Turkish lira hits a fresh record low near 48.1/USD as CBRT holds its policy rate at 37% for a fourth straight meeting, maintaining controlled disinflationary devaluation",
+          "detail": "USD/TRY traded around 48.08, a fresh record low, extending a 17.5% depreciation over the past 12 months even as the pace of decline (roughly 1.7% over the past month) remains deliberately gradual -- the Central Bank of the Republic of Turkey has held its one-week repo rate at 37% for a fourth consecutive decision, using FX intervention and other tools to manage the pass-through of currency weakness into Turkey's still-elevated 28.6% headline inflation rate. This is a continuation of Ankara's now-familiar controlled-devaluation playbook rather than a fresh policy signal, but it is happening against a backdrop of broader EM currency pressure this week (South African rand, Polish zloty both softer) tied to the global oil spike and hawkish G4 central-bank repricing, which raises the risk that Turkey's carefully managed glide path could come under more disorderly pressure if Brent's advance persists. Turkey rates and FX desks should watch the CBRT's tolerance for faster depreciation if imported energy costs keep climbing, since the current 37% policy rate assumes a specific, gradual devaluation trajectory that a sharper oil-driven import bill could strain.",
+          "source": "Trading Economics, OFX",
+          "time": "as of Monday Sept 14"
+        },
+        {
+          "stars": 2,
+          "headline": "South African rand weakens toward 16.24/USD (+0.82%) as oil-driven import costs compound a Q2 GDP contraction and a fragile inflation picture",
+          "detail": "USD/ZAR rose 0.82% to around 16.24 Monday as the renewed Middle East supply disruption pushed Brent higher, directly pressuring South Africa's terms of trade as a net energy importer; this follows Q2 GDP data showing the economy contracted 0.2%, ending six straight quarters of expansion, with the escalating Middle East conflict cited as a direct drag on energy-intensive mining and manufacturing output. South African CPI inflation had eased to 4.3% in July from 5% in June, but that moderation is now flagged as likely temporary given domestic fuel-price adjustments working through in August and September on the back of the global oil rally. For EM and Africa-focused macro desks, the rand's move today is a clean, quantifiable transmission channel from the Middle East oil shock into a G20 EM currency already dealing with a fragile growth and inflation mix, and argues for treating South Africa as one of the more exposed EM oil-importer stories alongside Turkey and India this week.",
+          "source": "Business Recorder, CNBC Africa",
+          "time": "Monday Sept 14 session"
+        },
+        {
+          "stars": 2,
+          "headline": "CEE FX diverges: Polish zloty and Hungarian forint soften on broad risk-off while the Czech koruna holds up as the region's relative defensive play",
+          "detail": "Central and Eastern European currencies traded with a mixed-to-soft bias Monday, with USD/PLN little changed around 3.71 but broader commentary flagging renewed pressure on the zloty from the geopolitical risk-off mood, while the Hungarian forint remains constrained by the National Bank of Hungary's ongoing easing cycle -- a genuinely different policy stance from most regional peers. The Czech koruna is being flagged by sell-side FX strategists as the strongest near-term CEE performer, supported by a more hawkish Czech National Bank policy backdrop and its traditional role as the region's defensive currency during risk-off episodes. Regional fiscal plans due in October, which will keep eurozone-entry timelines for CEE economies in the spotlight, add a medium-term overlay to today's tactical FX moves. For desks running CEE local-currency exposure, today's dispersion (koruna resilient, zloty and forint softer) underlines that the region is not trading as a single EM-Europe block right now -- domestic policy divergence (CNB tightening vs MNB easing) is doing more to explain relative currency performance than the shared Middle East risk-off backdrop.",
+          "source": "ING THINK, VT Markets, Commerzbank via FXStreet",
+          "time": "as of Monday Sept 14"
+        },
+        {
+          "stars": 1,
+          "headline": "UK CPI holds at 2.9% with BOE seen standing pat Sept 17 despite an energy-driven inflation path that Bank projections see peaking near 3.2% in Q4",
+          "detail": "UK headline CPI inflation was last reported at 2.9% for July, up from 2.6% in June, with the Bank of England's own central projection showing inflation peaking around 3.2% in Q4 2026 as the Middle East conflict feeds through into energy costs. The Monetary Policy Committee left Bank Rate unchanged at 3.75% at its July 30 meeting on a 6-3 vote (three members favoring a 25bp hike), and sell-side desks including ING now expect the Committee to hold again at Thursday September 17's meeting on the view that inflation pressure remains concentrated in energy rather than broadening into services or wages. This sits in some tension with today's Gilt curve action (30-year yields pushing toward 6%, a 1998-era level) which suggests the bond market is pricing a somewhat more hawkish medium-term path than the BOE's own guidance implies -- a gap worth watching into Thursday's decision and accompanying minutes.",
+          "source": "House of Commons Library, Bank of England, ING",
+          "time": "context through Monday Sept 14; BOE decision due Thu Sept 17"
+        },
+        {
+          "stars": 1,
+          "headline": "Eurozone construction activity remains in contraction, dragged by declining French and German output",
+          "detail": "The eurozone construction PMI stayed below the 50 no-change threshold in the latest reading, with the contraction attributed mainly to declining activity in France and Germany, the bloc's two largest construction markets. This is a low-intensity data point relative to today's dominant oil and AI-safety narratives, but it adds to a picture of underlying softness in eurozone domestic demand that sits awkwardly alongside the ECB's freshly hawkish stance and rising Bund yields -- a central bank tightening into a construction sector that is still contracting is a combination credit and rates desks watching French and German corporate exposure should keep on the radar, particularly given the OAT/Bund spread context described above.",
+          "source": "iTiger (Eurozone PMI wrap)",
+          "time": "Monday Sept 14 release"
+        },
+        {
+          "stars": 1,
+          "headline": "ECB's Cipollone speaks in Brussels as the Governing Council's hawkish September turn continues to be digested",
+          "detail": "ECB Executive Board member Piero Cipollone was scheduled to speak at an event at the House of the Euro in Brussels Monday, one of several ECB communications this week following the September 10 rate decision and ahead of the rate change's September 16 effective date. With no fresh policy signal expected from a routine speaking engagement, the market's attention stays on the broader hawkish repricing already visible in Bund and OAT yields; any deviation from the Governing Council's established line on further hikes being conditional on energy prices would be the notable risk to today's otherwise low-key calendar item.",
+          "source": "Investinglive, Tickmill",
+          "time": "Monday Sept 14"
+        },
+        {
+          "stars": 1,
+          "headline": "Gold slips to around $4,332/oz (-0.8%) as hawkish Fed bets continue to outweigh Middle East safe-haven demand",
+          "detail": "Spot gold eased roughly 0.8% to around $4,332-4,344/oz Monday, extending Friday's softer close, even as the Saudi pipeline and Bab el-Mandeb escalation described elsewhere in this panel would typically be expected to support haven demand. The metal's inability to catch a bid on today's geopolitical news is consistent with the pattern flagged in the Asia session -- rising real yields and building conviction around this week's Fed, BOE and (already-delivered) ECB hikes are currently the dominant driver of precious-metals pricing rather than geopolitical risk premia, a dynamic worth flagging for any desk running gold as a pure geopolitical hedge right now rather than a rates-sensitive asset.",
+          "source": "Yahoo Finance",
+          "time": "pricing through Monday Sept 14"
+        },
+        {
+          "stars": 1,
+          "headline": "Fed hike for Wednesday now seen as the base case by an 85%+ majority of economists, with a second hike possible by Q1 2027",
+          "detail": "A Reuters poll now shows roughly 85% of economists expecting a 25bp Fed hike to 3.75-4.00% at Wednesday's FOMC meeting, alongside CME-style futures pricing near 87%, a sharp reversal from two weeks ago when a majority still expected a hold; hot August PPI (+5.4% y/y), a stronger-than-expected payrolls report and Brent's advance above $107 are cited as the drivers of the flip. Wednesday's meeting also delivers the quarterly Summary of Economic Projections and dot plot alongside the rate decision and Chair Warsh's press conference. For European desks, Wednesday's outcome is the week's dominant single catalyst for EUR/USD, Bund-Treasury spread trades and any cross-Atlantic rates relative-value positioning, and today's European bond selloff should be read partly as pre-positioning for a hawkish outcome.",
+          "source": "Investing.com/Reuters, CBS News, Achiever FX",
+          "time": "polling and pricing as of Monday Sept 14, ahead of Wed Sept 16 FOMC"
+        }
+      ]
     },
     "us": {
       "status": "pending",
