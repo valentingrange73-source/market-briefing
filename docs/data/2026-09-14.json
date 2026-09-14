@@ -207,6 +207,78 @@
         "change": "highest since Nov 2008",
         "direction": "up"
       }
+    ],
+    "us": [
+      {
+        "category": "Equities",
+        "label": "S&P 500",
+        "value": "7,619.98",
+        "change": "-0.48%",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "Nasdaq Composite",
+        "value": "26,186.41",
+        "change": "-0.56%",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "Dow Jones",
+        "value": "52,421.20",
+        "change": "-0.29%",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "Russell 2000",
+        "value": "2,892",
+        "change": "-0.40%",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "Dollar Index (DXY)",
+        "value": "~99.44",
+        "change": "+0.32%",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "Gold",
+        "value": "~$4,332/oz",
+        "change": "-0.8%",
+        "direction": "down"
+      },
+      {
+        "category": "Commodities",
+        "label": "WTI crude",
+        "value": "~$102.5",
+        "change": "+2.5%, 4-month high (intraday high $104.28, +4.2%)",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "Copper",
+        "value": "$6.28/lb",
+        "change": "-2.9%",
+        "direction": "down"
+      },
+      {
+        "category": "Rates",
+        "label": "US 10Y Treasury",
+        "value": "~4.96-4.98%",
+        "change": "briefly topped 5% intraday (highest since Oct 2023), settled little changed",
+        "direction": "up"
+      },
+      {
+        "category": "Rates",
+        "label": "US 2Y Treasury",
+        "value": "4.658%",
+        "change": "+1bp",
+        "direction": "up"
+      }
     ]
   },
   "sessions": {
@@ -454,8 +526,144 @@
       ]
     },
     "us": {
-      "status": "pending",
-      "items": []
+      "status": "done",
+      "generated_at": "2026-09-14T23:15:00+02:00",
+      "items": [
+        {
+          "stars": 3,
+          "headline": "Brent surge to four-month highs on stalled Saudi pipeline and postponed Hormuz talks pulls US equities, Treasury yields and the dollar together in one session",
+          "detail": "Brent crude extended its advance toward $107-109 a barrel Monday, Saudi Arabia's 5m b/d East-West pipeline still offline after last week's drone strikes and this weekend's confirmed pump-station damage, while Oman's announcement that Hormuz de-escalation talks had been postponed removed the one diplomatic catalyst markets had been pricing for a reprieve. WTI followed, printing as high as $104.28 intraday (+4.2%) before settling near $102.5 (+2.5%), its highest close in four months. The move fed directly into US rates: the 10-year Treasury yield spiked toward 5% intraday -- its highest since October 2023 -- on the read-through from sustained energy-driven inflation into the Fed's Wednesday decision, while the dollar index firmed 0.3% to ~99.44 as haven and yield-differential flows both favored the greenback. US equities absorbed the move poorly: the S&P 500 closed down 0.48% at 7,619.98, the Dow fell 0.29% to 52,421.20, and only energy and communication services finished green among the eleven S&P sectors. This is the clearest cross-asset print of the session -- equities, rates, FX and commodities all moving on the same underlying supply-disruption catalyst within the same few hours -- and desks should treat Wednesday's FOMC as now doing double duty: deciding on the well-priced 25bp hike itself, and signaling how much further energy-driven inflation the Committee is willing to tolerate before the dot plot moves.",
+          "source": "Yahoo Finance, Bloomberg, CNBC, TheStreet, AP",
+          "time": "session close 4:00pm ET Monday Sept 14"
+        },
+        {
+          "stars": 3,
+          "headline": "Amodei/Altman/Musk AI-slowdown call plus confirmed OpenAI IPO delay to 2027 sends chip stocks sharply lower on Wall Street -- Intel -7%, AMD -6%, Nvidia -3%",
+          "detail": "The same AI-safety warning that rattled Asian and European chipmakers overnight carried straight through into the US session: Intel fell as much as 7% to around $95.96, AMD dropped 6% to roughly $486.80, and Nvidia slipped about 3% to near $212.50, with Marvell and Hewlett Packard Enterprise also pulling back. The proximate trigger stacked two related but distinct pieces of news -- Anthropic CEO Dario Amodei's Saturday essay arguing frontier AI development needs to be paced for safety reasons (publicly backed by Sam Altman, Elon Musk and Google DeepMind's Demis Hassabis), and Altman's separate September 12 confirmation that OpenAI will not pursue a 2026 IPO, instead targeting 2027 given elevated volatility in AI valuations and the aftermath of SpaceX's post-IPO share pullback. Notably, Amodei explicitly ruled out halting training or technical progress outright, and Anthropic itself disclosed a commitment to deploy AMD's MI450 GPUs the same week -- a reminder that the 'slowdown' framing is about pacing and safety testing, not a capex freeze, which argues against reading today's selloff as the start of a structural AI-capex unwind. The Nasdaq Composite closed down 0.56% at 26,186.41, meaningfully less than the chip-specific moves would suggest, indicating broad index resilience even as the AI-infrastructure complex specifically absorbed the hit. For desks running semiconductor or AI-capex beta, today's dispersion between headline index moves and single-name chip declines argues for distinguishing genuine capex-pacing risk (still largely unconfirmed in hard data) from a sentiment-driven derating that could reverse quickly if Wednesday's Fed decision or subsequent AI-sector newsflow stabilizes.",
+          "source": "Yahoo Finance, Fast Company, 24/7 Wall St., Proactive Investors, Benzinga",
+          "time": "premarket through close, Monday Sept 14"
+        },
+        {
+          "stars": 3,
+          "headline": "US 10-year Treasury yield briefly tops 5% for the first time since October 2023 before reversing, as 30-year mortgage rates clear 7%",
+          "detail": "The 10-year Treasury yield spiked as high as 5.01% intraday Monday -- its first print above 5% since October 2023 -- before buyers emerged and the yield eased back to close in the 4.96-4.98% range, essentially flat to marginally higher on the day. The intraday breach reflects the collision of Brent's energy-driven inflation impulse with an already-hawkish Fed repricing: futures markets now assign roughly 88-90% odds to a 25bp hike at Wednesday's FOMC meeting, up sharply from about one-in-three odds before Fed Chair Warsh's late-August Jackson Hole remarks that underlying inflation trends 'have not meaningfully improved.' The 2-year yield, more directly Fed-sensitive, rose about 1bp to 4.658%, leaving the 2s10s spread little changed near 34bp and still solidly positive. The real-economy transmission was immediate: the 30-year fixed mortgage rate crossed 7% last week for the first time since May 2025 and held near 6.89-7.07% across surveys Monday, adding roughly $185/month to payments on a typical $350,000 mortgage versus levels seen earlier this year. For rates desks, today's intraday-5%-then-reverse pattern is itself the signal worth trading around: the reversal shows real demand still exists at that yield level, but the fact that 5% was tested at all just two days before a Fed decision that also delivers a fresh Summary of Economic Projections raises the stakes on Wednesday's dot plot materially higher than a standard hike would otherwise carry.",
+          "source": "Bloomberg, CNBC, eciks.org, Yahoo Finance real estate desk",
+          "time": "intraday spike and reversal through Monday Sept 14 close; mortgage rate context as of Sept 10-14"
+        },
+        {
+          "stars": 2,
+          "headline": "SoftBank's Tuesday $25.9bn bridge-loan repayment becomes the market's cleanest test of AI-financing leverage risk after Monday's OpenAI IPO-delay shock",
+          "detail": "SoftBank Group is set to repay the full remaining $25.9bn balance on its $40bn OpenAI-related bridge loan on Tuesday, September 15 -- months ahead of the facility's original March 2027 maturity -- a day after Monday's Asia-session news that OpenAI will not IPO in 2026 knocked SoftBank shares down 11.4%, their worst session in nearly three months. SoftBank has separately signaled plans for a junk-bond sale of up to $20bn to refinance the OpenAI-related financing onto longer-term debt, converting what had been a bridge facility into structural leverage against an unlisted, harder-to-value stake now facing a longer liquidity horizon. US credit desks with AI-financing or SoftBank-linked exposure should watch execution of both the Tuesday repayment and the subsequent high-yield issuance closely: smooth funding despite Monday's equity move would support a 'sentiment, not solvency' read, while any sign of investor pushback on the junk-bond terms would escalate this from a single-name equity story into a genuine AI-financing credit event with wider read-through for the leveraged-loan and private-credit vehicles that have financed the broader AI buildout. This is the kind of dated, quantifiable balance-sheet test that gives Monday's diffuse AI-sentiment selloff a hard data point to be judged against within 24 hours.",
+          "source": "Bloomberg, Spokesman-Review, PANews, Parameter",
+          "time": "repayment due Tuesday Sept 15; context reported through Monday Sept 14"
+        },
+        {
+          "stars": 2,
+          "headline": "Anthropic reportedly targeting a year-end IPO at up to $2.3 trillion valuation, a direct contrast to OpenAI's confirmed delay to 2027",
+          "detail": "Even as OpenAI's Sam Altman confirmed the company will skip a 2026 listing, reporting Monday indicated Anthropic -- whose CEO Dario Amodei authored the weekend's AI-pacing essay -- is pursuing a public listing before year-end at a valuation that could reach $2.3 trillion, which would make it one of the largest IPOs in history if it prices anywhere near that level. The juxtaposition is notable for positioning within the frontier-AI complex: Anthropic advancing toward a listing while simultaneously publishing the industry's most prominent safety-pacing call undercuts any simple reading of today's chip-sector selloff as a broad AI-capex retreat, and instead suggests capital-markets access and safety positioning are being pursued as parallel, not competing, priorities at the two largest frontier labs. For equity capital markets desks, an Anthropic listing at that scale would be a landmark test of investor appetite for foundation-model pure-plays at a moment when SpaceX's post-IPO pullback and OpenAI's own delay have both been cited as cautionary evidence -- a successful, well-subscribed Anthropic IPO would be the strongest available signal that today's chip-stock weakness reflects sector rotation rather than a genuine AI-investment air pocket.",
+          "source": "androidheadlines.com, NAI 500, Yahoo Finance",
+          "time": "reported through Monday Sept 14"
+        },
+        {
+          "stars": 2,
+          "headline": "Adobe shares stay under pressure even after a beat-and-raise Q3 print, as investors question whether AI-first ARR growth converts to durable revenue",
+          "detail": "Adobe reported fiscal Q3 revenue of $6.76bn (+13% y/y) and non-GAAP EPS of $6.13 versus $6.08 expected on September 10, with ending ARR of $27.5bn (+11.2%) and AI-first ARR more than doubling to above $650m; management raised FY26 revenue guidance to $26.576-26.626bn and EPS guidance to $24.45-24.50. Despite the beat and raise, the stock extended its post-earnings decline into Monday's session -- down roughly 2.3% in the days following the report -- as investors weighed the modest scale of the beat against a cautious near-term outlook and questions about whether AI-driven engagement is translating into durable, monetizable revenue growth rather than freemium-tier expansion. The muted-to-negative reaction to genuinely good headline numbers is a useful read-through for software and SaaS desks more broadly: in a week dominated by AI-pacing anxiety and a hawkish Fed setup, even names delivering on AI monetization metrics are struggling to get credit for it, which argues for treating this earnings season's software prints as necessary but not sufficient catalysts for a sustained bounce in the group.",
+          "source": "Investing.com, Yahoo Finance, SEC filing (Adobe 8-K)",
+          "time": "earnings reported Sept 10; share weakness extending through Monday Sept 14"
+        },
+        {
+          "stars": 2,
+          "headline": "Exxon and Chevron push toward fresh highs as Brent's rally to four-month highs delivers a direct, quantifiable windfall to US energy majors",
+          "detail": "ExxonMobil traded near $165-169 Monday, up roughly 40% year-to-date, while Chevron has gained about 44% YTD, both names tracking Brent's advance from the low-$60s earlier in the year to the low-$100s now as the Middle East supply disruption persists; Valero, Marathon Petroleum, Cenovus, Shell and Devon were also flagged among the session's most-watched energy names. Energy was one of only two S&P sectors (alongside communication services) to close higher Monday, a direct mechanical consequence of the same pipeline and chokepoint disruptions pressuring equities and rates elsewhere in this panel. For desks running energy-sector or integrated-major exposure, the read-through is straightforward but worth stating plainly: every incremental dollar of sustained Brent strength from the Hormuz/Bab el-Mandeb/Saudi-pipeline complex is flowing close to one-for-one into upstream and integrated producer cash flow, making US energy equities one of the few genuine long-side expressions of a geopolitical risk premium that is otherwise a broad-based drag on risk assets.",
+          "source": "MarketBeat, Yahoo Finance, ad-hoc-news.de, vantagemarkets.com",
+          "time": "session Monday Sept 14"
+        },
+        {
+          "stars": 2,
+          "headline": "Healthcare is the session's worst-performing S&P sector, down more than 3.5%, as only energy and communication services finish green",
+          "detail": "US healthcare stocks fell more than 3.5% Monday, the sharpest sector decline on a day when just two of eleven S&P sectors -- energy and communication services -- closed higher, underscoring how narrow today's few pockets of strength were against a broadly risk-off tape. The sector's 2026 has already been a difficult one on policy grounds, with Most-Favored-Nation drug-pricing proposals threatening to benchmark US list prices against lower international levels; sell-side estimates have flagged potential large-cap pharma earnings hits of 9-10% over the next few years if that policy fully materializes, a structural overhang that today's session added a fresh cyclical leg to. The combination of policy risk and today's broad de-risking (itself driven by the oil shock and AI-sentiment hit rather than anything healthcare-specific) makes the sector a useful barometer for how much of Monday's selloff was genuinely indiscriminate: a sector with no direct exposure to oil, chips or AI infrastructure still posted the day's worst sector return, consistent with a broad risk-off unwind rather than a narrowly targeted rotation.",
+          "source": "Investrade Market Review, Robinhood Learn, sector wraps",
+          "time": "session close Monday Sept 14"
+        },
+        {
+          "stars": 2,
+          "headline": "Fed-hike odds for Wednesday firm to roughly 88-90% as VIX jumps 11% to ~17.6, setting up the week's dominant catalyst",
+          "detail": "Futures-implied odds of a 25bp Fed hike at Wednesday's FOMC meeting rose to around 88-90% Monday, up from roughly one-in-three before Fed Chair Warsh's late-August Jackson Hole remarks and further reinforced by today's energy-driven inflation impulse; the meeting also delivers a fresh Summary of Economic Projections and dot plot alongside the rate decision and Warsh's press conference. The CBOE Volatility Index jumped about 11% to near 17.62, still a moderate absolute level but a meaningful one-day repricing that reflects genuine two-sided uncertainty into a meeting most desks had treated as a formality just weeks ago. Options and vol desks should note that a VIX move of this magnitude ahead of a near-fully-priced hike suggests the market is positioning more for dot-plot and press-conference risk than for the decision itself -- consistent with the pattern seen in Asia and Europe sessions, where hike-odds dispersion across prediction-market venues (Polymarket, Kalshi) ranged unusually widely from 49% to 90% just three days out. With Thursday's BOE and BOJ decisions stacked immediately behind Wednesday's Fed, this week's central-bank calendar is about as dense as it gets, and today's vol pickup is the clearest single signal that the market is bracing for that density rather than treating each decision in isolation.",
+          "source": "Kiplinger, CME Group-style aggregators, Yahoo Finance",
+          "time": "pricing and VIX level as of Monday Sept 14, ahead of Wed Sept 16 FOMC"
+        },
+        {
+          "stars": 2,
+          "headline": "Copper extends its slide to $6.28/lb (-2.9%) as White House tariff reconsideration and softer China demand signals compound",
+          "detail": "Copper fell further in US trading to around $6.28/lb, down roughly 2.9% on the day and continuing a decline that began last week when the White House signaled it may reconsider planned Section 232 tariffs on refined copper imports -- removing a scarcity premium that had been supporting prices as the administration weighs affordability concerns ahead of November's midterms against the goal of encouraging domestic mining. The move compounds a separate demand-side worry flagged earlier in the global session: signs of softening Chinese consumption, which accounts for roughly 60% of global refined copper demand, with Tuesday's Chinese industrial-production and retail-sales data now a more consequential near-term catalyst for the metal than it might otherwise have been. Commerce Secretary Lutnick's original mandate had been to recommend a tariff rising from 15% (effective January 2027) to 30% by 2028, so today's price action reflects a genuine policy-uncertainty discount rather than a resolved outcome -- for base-metals and mining-equity desks, copper's price action this week is now a three-way bet across US tariff policy, Chinese demand data, and the base-case multi-year supply-shortage narrative that had been supporting price targets as recently as last month.",
+          "source": "Trading Economics, U.S. News, MINING.com, Investing.com/Reuters",
+          "time": "price as of Monday Sept 14"
+        },
+        {
+          "stars": 2,
+          "headline": "Gold and silver both slide as hawkish Fed bets keep overpowering Middle East safe-haven demand -- gold to ~$4,332, silver to ~$63.22",
+          "detail": "Spot gold eased to around $4,332-4,344/oz Monday (-0.8%) and silver fell more sharply to roughly $63.22/oz (-2.1%), both metals unable to catch a bid despite the day's escalating Middle East risk (Saudi pipeline still down, Houthis advancing on Bab el-Mandeb) that would typically be expected to support havens. The pattern, consistent across the Asia, Europe and now US sessions, confirms that rising real yields and building Fed-hike conviction are currently the dominant driver of precious-metals pricing rather than geopolitical risk premia -- a dynamic that matters for any desk running gold or silver as a pure geopolitical hedge right now, since that hedge has effectively not been paying off through three consecutive trading sessions of genuine escalation. Silver's sharper decline than gold's is notable given silver's larger industrial-demand component, which makes it more directly exposed to the same softening-growth narrative pressuring copper; separately, net cash across the top 10 silver miners is reported to have hit a record ~$4.2bn in Q2 2026, more than double Q3 2025 levels, suggesting the miners themselves are using the 2026 rally to build balance-sheet flexibility even as the metal corrects today. Gold remains roughly 22% below its January 2026 record above $5,589, with Wednesday's FOMC decision the most likely catalyst to break the current range in either direction.",
+          "source": "USAGOLD, Yahoo Finance, riotimesonline.com",
+          "time": "pricing through Monday Sept 14"
+        },
+        {
+          "stars": 2,
+          "headline": "Emerging-market assets shrug off the oil shock and hawkish Fed repricing -- EM equities up ~23% YTD, currencies near record highs",
+          "detail": "A Bloomberg analysis (Gokoluk/Laca) published into Monday's session argues emerging markets have defied war, $100 oil and rising Treasury yields all year, with EM equities up roughly 23% year-to-date -- more than double the S&P 500's advance -- and a gauge of EM currencies trading near record highs even as Friday's hot US inflation print reinforced the case for Wednesday's Fed hike. Money managers cited in the piece rest their bull case on improved policy credibility across many EM central banks and strong corporate earnings, with the critical caveat being limited risk of a significant dollar rebound, which has historically been the primary transmission channel for EM pain; today's 0.3% DXY gain to ~99.44 is real but still well short of the kind of dollar surge that would validate EM bears. This sits in tension with the session's other EM data points -- the Turkish lira's fresh record low near 48.1/USD, the South African rand's slide past 16.2 on oil-driven import costs, and Friday's broader EM bond-market wobble -- suggesting the 'EM resilience' thesis currently holds at the aggregate/index level while individual oil-importing, current-account-deficit economies (Turkey, South Africa, India) continue to underperform on a country-specific basis. For EM desks, today's read is to distinguish the index-level growth-and-earnings story from the country-specific terms-of-trade stories playing out in FX.",
+          "source": "Bloomberg (Gokoluk/Laca), Business Mirror",
+          "time": "published Sept 13, referenced through Monday Sept 14 session"
+        },
+        {
+          "stars": 2,
+          "headline": "Russell 2000 underperforms large caps, -0.40% to 2,892, as small caps absorb the rate-sensitivity hit ahead of Wednesday's Fed decision",
+          "detail": "The Russell 2000 fell 11.70 points (-0.40%) to close at 2,892 Monday, a smaller headline decline than the chip-stock-driven Nasdaq weakness but one that reflects small-caps' structurally higher sensitivity to the day's Treasury-yield spike given their greater reliance on floating-rate and shorter-duration financing. With the 10-year yield having briefly tested 5% intraday and the Fed hike now priced at 88-90% for Wednesday, small-cap balance sheets -- generally more leveraged and less able to term out debt at fixed rates than large caps -- are the more direct read on the real-economy cost-of-capital implications of this week's rate path than the mega-cap-dominated S&P and Nasdaq headlines. Small-cap financials, which make up close to a fifth of Russell 2000 weight, are a specific area to watch here: higher-for-longer short rates are generally NIM-supportive for regional banks (several -- Citizens Financial, East West Bancorp, Wintrust -- are trading near highs on 2026 earnings-growth expectations), so a further small-cap derating driven purely by discount-rate mechanics rather than credit-quality concerns would be a genuine dispersion opportunity within the index.",
+          "source": "Yahoo Finance, Investrade Market Review, AP wire",
+          "time": "session close Monday Sept 14"
+        },
+        {
+          "stars": 2,
+          "headline": "30-year mortgage rate holds above 7% for a second straight week, its highest sustained level since May 2025, as housing affordability strain builds",
+          "detail": "The average 30-year fixed mortgage rate crossed 7% last Thursday for the first time since May 2025, printing as high as 7.07% per Mortgage News Daily, and held in the high-6%-to-7%-plus range across surveys through Monday -- Money's tracker showed 6.89% as of Sept 13 while other methodologies stayed above 7%, a spread reflecting differing survey timing and methodology rather than a genuine directional disagreement. On a typical $350,000 mortgage, the move from a 6.25% to a 7.05% rate adds roughly $185 to the monthly payment, a real and immediate affordability hit landing directly on prospective homebuyers just as the broader rate complex (10-year Treasury briefly testing 5%) signals no near-term relief. For desks running homebuilder or mortgage-REIT exposure, this is the clearest real-economy transmission channel from today's Treasury-yield spike -- distinct from, but reinforcing, the Fed-hike-odds story elsewhere in this panel -- and argues for treating housing-sensitive equities as a structurally short-duration-adjacent trade into Wednesday's FOMC rather than a pure rate-cut-optionality play.",
+          "source": "Yahoo Finance real estate desk, UPI, CNBC, Money.com",
+          "time": "rate crossed 7% Thursday Sept 10; held through Monday Sept 14"
+        },
+        {
+          "stars": 2,
+          "headline": "CLARITY Act cloture vote set for Tuesday keeps Bitcoin rangebound near $77,000 into a stacked regulatory and central-bank week",
+          "detail": "The Senate is scheduled to hold a cloture vote Tuesday, September 15 on the CLARITY Act, the crypto market-structure bill that would need 60 votes to end debate and proceed toward a final vote; Coinbase CEO Brian Armstrong has publicly predicted passage, noting Majority Leader Thune would not have scheduled the vote if he doubted the outcome. Bitcoin traded in a tight $76,800-$79,300 range Monday, essentially flat to modestly higher, with the muted reaction consistent with a market that has struggled to sustain directional conviction through weeks of Middle East escalation and AI-sector volatility without translating either into a decisive crypto move. With Wednesday's FOMC, Thursday's BOE and BOJ decisions, and now Tuesday's cloture vote all stacked into a single week, crypto desks are effectively positioning for four distinct catalysts in four trading days -- a genuine setup for a volatility breakout in either direction once the regulatory outcome and the rate-path signals are both known, rather than the drift seen through today's session specifically.",
+          "source": "Yahoo Finance, riotimesonline.com, Motley Fool, Bitget Academy",
+          "time": "cloture vote scheduled Tuesday Sept 15; BTC pricing through Monday Sept 14"
+        },
+        {
+          "stars": 1,
+          "headline": "US high-yield spreads hold near 260bp and keep tightening despite the day's volatility, a sign credit fundamentals remain decoupled from today's equity/rates stress",
+          "detail": "The Bloomberg US High Yield 2% Issuer Capped Index option-adjusted spread sat near 260bp Monday, with high yield posting a positive return over the recent period as spreads tightened even as CCC-rated credits underperformed within the complex -- a pattern consistent with a market still discriminating on credit quality rather than de-risking broadly. This is a useful counterpoint to today's equity and rates volatility: a genuine credit-market stress event would typically show spreads widening in sympathy with a 10-year yield spike toward 5% and an 11% VIX move, and the absence of that widening argues the current selloff is being read by credit investors as a rates-and-sentiment event rather than a fundamental deterioration in corporate credit quality. L/S credit and multi-strategy desks should treat today's spread stability as the base case remaining intact -- worth monitoring closely into Wednesday's FOMC, since a genuinely hawkish surprise (rather than the well-priced 25bp hike) would be the more likely trigger for spreads to finally catch up to the moves already visible in equities and rates.",
+          "source": "FRED (BAMLH0A0HYM2), Nuveen fixed income commentary",
+          "time": "spread level as of Monday Sept 14"
+        },
+        {
+          "stars": 1,
+          "headline": "Treasury curve holds a normal, modestly positive shape (2s10s ~34bp) even as absolute yields spike, with Fed's Waller still publicly leaning toward a hold",
+          "detail": "Despite the 10-year's brief intraday test of 5%, the 2s10s Treasury spread stayed little changed near 34bp Monday (2-year at 4.658%, 10-year in the high-4.9% range), meaning today's move was a broad-based upward shift in the level of yields rather than a curve-inversion or flattening event -- a distinction that matters for desks pricing recession risk, since a normal positive curve continues to argue against near-term recession fears even as absolute borrowing costs rise sharply. This sits in some tension with Fed Governor Christopher Waller's early-September comments indicating he was leaning toward supporting a hold at this week's meeting absent inflation surprises -- a position increasingly at odds with both market pricing (88-90% odds of a hike) and Chair Warsh's more hawkish Jackson Hole framing, setting up a genuinely live internal debate for Wednesday's vote rather than a unanimous decision. Rates desks should watch the dissent count on Wednesday specifically: a divided vote alongside a hawkish dot plot would be a materially different signal than a unanimous hike delivered with dovish forward guidance, even though both outcomes currently round to '25bp hike' in headline terms.",
+          "source": "CNBC, Federal Reserve Board speeches archive, FRED (DGS2)",
+          "time": "yield levels and Waller context as of Monday Sept 14, ahead of Wed Sept 16 FOMC"
+        },
+        {
+          "stars": 1,
+          "headline": "Private-credit and infrastructure fund closes continue apace -- Carlyle closes $2.3bn Infrastructure Credit Fund II, Hines/Rialto close $1.1bn US office credit partnership",
+          "detail": "Carlyle announced the close of its Infrastructure Credit Fund II at $2.3bn Monday, while Hines and Rialto Capital separately closed a $1.1bn US office-credit partnership, both landing on a day when public-market volatility (the AI-chip selloff, the oil-driven rates spike) was otherwise dominating headlines. Neither closing is itself a market-moving event, but both are data points for multi-manager and fund-selection desks tracking where institutional capital continues to commit despite -- or arguably because of -- elevated public-market volatility: infrastructure credit and distressed/transitional office credit are both strategies that benefit from dislocation and higher base rates, and today's fund closes suggest LP demand for that exposure remains intact even as the public rates complex reprices sharply higher. For desks doing manager due diligence or GP-stake allocation work, the read-through is that private-credit fundraising has not yet shown any visible chilling effect from this week's public-market volatility, worth revisiting if Wednesday's FOMC outcome proves more disruptive than currently priced.",
+          "source": "PR Newswire, Businesswire fund-close wires",
+          "time": "closes announced Monday Sept 14"
+        },
+        {
+          "stars": 1,
+          "headline": "Bitcoin drifts in a tight range near $77-79k, still down ~12% on the year even after a recent five-day rally, as crypto awaits this week's stacked catalysts",
+          "detail": "Bitcoin traded between roughly $76,800 and $79,300 across venues Monday, a continuation of the rangebound pattern seen through recent weeks of geopolitical and AI-sector volatility; despite a roughly 22% rally over the prior five trading days, Bitcoin remains down about 12% year-to-date, underscoring how far the 2026 drawdown had run before the recent bounce. Ethereum's move was not independently confirmed in today's research window. With Tuesday's CLARITY Act cloture vote, Wednesday's FOMC, and Thursday's BOE/BOJ decisions all landing in the same week, crypto's muted Monday session looks more like pre-positioning than a settled market view -- consistent with the pattern flagged in both the Asia and Europe panels earlier today, where crypto failed to produce either a safe-haven bid or a sharp risk-off selloff despite genuine escalation in both the Middle East and AI-sector newsflow.",
+          "source": "CoinDesk, Coinbase, riotimesonline.com, cryptonomist.ch",
+          "time": "pricing through Monday morning-afternoon Sept 14"
+        }
+      ]
     }
-  }
+  },
+  "summary": "Global markets ran on two engines all day: a widening Middle East energy shock (Hormuz talks postponed, Saudi's East-West pipeline still shut, Houthis pushing into the Red Sea) that drove Brent to four-month highs and pushed Bund, Gilt and Treasury yields to multi-decade or multi-year extremes -- the US 10-year briefly topped 5% for the first time since 2023 and 30-year mortgages cleared 7%. An AI-safety pacing call from Amodei, Altman and Musk, paired with OpenAI's confirmed IPO delay to 2027 (even as Anthropic reportedly pushes toward its own year-end listing near $2.3 trillion), hit chipmakers and AI-linked names from Seoul and Frankfurt through Wall Street, with SoftBank's 11% plunge and its Tuesday $25.9bn bridge-loan repayment the sharpest single read on AI-financing leverage risk. Equities closed lower in all three sessions (Kospi -3.3%, Euro Stoxx 50 -1.0%, S&P 500 -0.5%) while EM assets and US credit spreads stayed comparatively resilient, leaving Wednesday's FOMC (~88-90% priced for a hike), Thursday's BOE and BOJ, and Tuesday's China activity data and CLARITY Act vote as the week's next flashpoints."
 }
