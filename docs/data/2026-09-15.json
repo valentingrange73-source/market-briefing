@@ -1,5 +1,6 @@
 {
   "date": "2026-09-15",
+  "summary": "Markets traded on a single register across all three sessions: the Bab el-Mandeb/Hormuz chokepoint crisis kept Brent above $107 and pressured oil-importer Asia and LatAm currencies, while a Fed-hike repricing (72%→86-94% odds since last week) drove the US 10-year to 5.04% -- its highest since 2007 -- lifted the dollar for a fourth straight day, and capped gold despite the geopolitical backdrop. A Bank of America investment-banking-fee warning triggered a genuine cross-continent financials selloff (UBS -4.2% in Europe, Goldman Sachs -4% and Morgan Stanley -3% in the US), even as UK gilt yields hit their highest since 2007 on oil-driven BoE hike bets and Japan's JGB 10-year touched a 1996 high on Takaichi's unfunded tax-cut plan. All eyes now turn to Wednesday's FOMC decision and dot plot, followed by Thursday's BOJ and BoE meetings -- a rare stacked central-bank week that leaves equities, credit and EM currencies positioned for a sharp two-sided reaction.",
   "indicators": {
     "asia": [
       {
@@ -227,6 +228,78 @@
         "value": "~4.19%",
         "change": "spread to Bund near decade highs (~85bp)",
         "direction": "up"
+      }
+    ],
+    "us": [
+      {
+        "category": "Equities",
+        "label": "S&P 500",
+        "value": "7,585.73",
+        "change": "-0.45%",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "Nasdaq Composite",
+        "value": "25,981.57",
+        "change": "-0.78%",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "Dow Jones",
+        "value": "52,093.11",
+        "change": "-0.63% (-328.09 pts)",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "Russell 2000",
+        "value": "—",
+        "change": "down, small caps underperformed",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "Dollar Index (DXY)",
+        "value": "~99.7",
+        "change": "+0.2%, 4th straight up day",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "Gold",
+        "value": "~$4,315/oz",
+        "change": "softer, lowest in weeks",
+        "direction": "down"
+      },
+      {
+        "category": "Commodities",
+        "label": "WTI crude",
+        "value": "~$103-105",
+        "change": "+~4%, tracking Brent above $107",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "Copper",
+        "value": "$6.31/lb",
+        "change": "roughly flat, -0.1%",
+        "direction": "flat"
+      },
+      {
+        "category": "Rates",
+        "label": "US 10Y Treasury yield",
+        "value": "5.04%",
+        "change": "+~4bp, highest since 2007",
+        "direction": "up"
+      },
+      {
+        "category": "Rates",
+        "label": "US 2Y Treasury yield",
+        "value": "~4.67%",
+        "change": "little changed",
+        "direction": "flat"
       }
     ]
   },
@@ -496,8 +569,115 @@
       ]
     },
     "us": {
-      "status": "pending",
-      "items": []
+      "status": "done",
+      "generated_at": "2026-09-15T22:30:00+02:00",
+      "items": [
+        {
+          "stars": 3,
+          "headline": "Fed-hike pricing surges to 86-94% as the FOMC opens its two-day meeting, driving a genuinely cross-asset repricing into Wednesday's decision",
+          "detail": "The two-day FOMC meeting kicked off Tuesday with fed funds futures now pricing roughly an 86-94% probability of a 25bp hike to 3.75-4.00% -- up from about 67-72% just a week ago -- after Goldman Sachs, JPMorgan, HSBC and Deutsche Bank all reversed prior hold calls to align on a hike, citing hotter-than-expected August CPI/PPI prints and oil prices back above $100 a barrel. The repricing showed up simultaneously across every major asset class rather than in a single market: the S&P 500, Nasdaq and Dow all fell for a second straight session, the 10-year Treasury yield pushed to 5.04% (highest since 2007), the dollar index rose for a fourth consecutive day, and gold slipped even as Middle East tensions escalated, since higher-for-longer real rates and a firmer dollar are now the dominant cross-asset driver overwhelming the geopolitical haven bid. This would be the Fed's first hike since 2023 and lands alongside a Summary of Economic Projections update, so Wednesday's dot plot carries as much signal as the rate decision itself; Fed Chair Kevin Warsh's hawkish Jackson Hole framing ('more work to do' on inflation) is now running well ahead of Governor Christopher Waller's more dovish lean toward a hold, leaving genuine two-sided risk into the announcement despite the market's heavy hike pricing. With positioning now this stretched toward a hike, a hold or a hike paired with dovish dots would be the far larger shock to cross-asset pricing than the hike itself.",
+          "source": "TheStreet, CNBC, Reuters/TradingView, Chase, Kiplinger",
+          "time": "pricing and forecast shifts through Tuesday Sept 15; FOMC decision due Wednesday Sept 16 2pm ET"
+        },
+        {
+          "stars": 2,
+          "headline": "S&P 500, Nasdaq and Dow close lower for a second straight session as the 10-year Treasury yield hits its highest since 2007",
+          "detail": "The S&P 500 fell 0.45% to 7,585.73, the Nasdaq Composite dropped 0.78% to 25,981.57 and the Dow Jones Industrial Average lost 328.09 points (-0.63%) to 52,093.11, extending Monday's AI-safety-driven selloff into a second session as the FOMC meeting began. The proximate driver was the bond market: the 10-year Treasury yield rose as much as 4bp intraday to 5.041%, its highest level since 2007 and above its 2023 cycle peak, as investors demanded more compensation for holding duration into a hike that would be the Fed's first since 2023. Small caps underperformed the large-cap averages, with the Russell 2000 closing lower on the day, consistent with the rate-sensitive segment of the market being squeezed hardest by the yield spike. Losses were meaningfully cushioned by a pocket of AI-adjacent strength -- Coherent added nearly 2%, AMD gained about 2% and Qualcomm advanced more than 4% -- showing the tape is now bifurcated between AI-safety-exposed names still working off Monday's Amodei-driven selloff and semiconductor names seen as more insulated. With the Fed decision landing Wednesday afternoon, today's session reads as pure positioning ahead of the catalyst rather than a fresh macro shock.",
+          "source": "CNBC, TheStreet",
+          "time": "session close Tuesday Sept 15, 4pm ET"
+        },
+        {
+          "stars": 2,
+          "headline": "Bank of America's investment-banking fee warning triggers a broad financials selloff -- Goldman Sachs -4%, Morgan Stanley -3%",
+          "detail": "Bank of America CEO Brian Moynihan told the Barclays Global Financial Services Conference that Q3 investment-banking fees would fall more than 10% year-over-year to a range of $1.6-1.8bn, below Wall Street's roughly $2bn consensus, while trading revenue stays roughly flat -- comments he characterized as reflecting broader industry softness ('the market generally in investment banking is down 10%') rather than a BofA-specific problem. The warning, first delivered Monday, continued to hit the sector Tuesday: Goldman Sachs fell about 4% and Morgan Stanley about 3% -- both far more IB/capital-markets-fee-dependent than BofA itself -- while JPMorgan Chase (-1.71%) and Wells Fargo (-1.75%) posted smaller declines consistent with their larger deposit-funded, less fee-dependent business mix. The selloff is a direct read-through match to Europe's own session, where UBS fell 4.2% -- also on outsized IB/advisory exposure -- making this a genuine same-day, cross-continent sector repricing rather than a US-specific event. BofA did flag offsetting strength in net interest income (tracking the top end of its 6-8% 2026 guidance) and wealth-management fees (+10-15% at Merrill), so the dispersion within the sector is as important as the headline decline: pure fee-driven investment banks are being penalized far more than diversified, deposit-heavy franchises. For desks running bank-sector beta or basis trades, the equity de-rating has so far outpaced any comparable widening in bank credit spreads, arguing this is a fee-outlook repricing rather than a credit-quality event -- worth revisiting once other banks comment or Q3 IB-fee data firms up in October.",
+          "source": "CNBC, Benzinga, GuruFocus, Vantage Markets, qz.com",
+          "time": "Moynihan remarks Monday Sept 14; sector selloff continued Tuesday Sept 15"
+        },
+        {
+          "stars": 2,
+          "headline": "Energy majors rally as WTI pushes toward $103-105 and Brent holds above $107 on the deepening Hormuz/Bab el-Mandeb crisis",
+          "detail": "ExxonMobil rose 2.54% to $169.27 and Chevron gained 2.62% to $217.73 as US crude benchmarks extended their advance on the same twin-chokepoint disruption flagged across today's Asia and Europe panels -- the near-total collapse of Bab el-Mandeb tanker traffic following the Houthis' capture of the Hanish Islands, a fresh tanker strike near Hormuz, and the still-shut Saudi East-West pipeline. WTI traded in a wide $103-105 range intraday (up roughly 4% on some readings) while Brent held above $107, a four-month high, with both majors' equity gains running directly counter to the broader S&P 500's 0.45% decline -- a clean sector-divergence trade for desks running energy versus broad-market exposure. ExxonMobil is now up 31% year-to-date and Chevron 29%, the best performers among the oil majors, aided further by Chevron's recent Hess acquisition and a new Venezuelan-oil position taken within days of a US reserve deal. With no diplomatic track currently active on either strait, the setup that has driven today's energy outperformance -- durable physical disruption feeding directly into equity multiples -- looks likely to persist into Wednesday's FOMC rather than resolve on its own, though a genuinely dovish Fed surprise could still pressure the sector via the dollar/rate channel even if crude itself doesn't reverse.",
+          "source": "Yahoo Finance, Benzinga, GoMarkets",
+          "time": "session Tuesday Sept 15"
+        },
+        {
+          "stars": 2,
+          "headline": "Dollar index climbs to ~99.7 for a fourth straight session, pressuring EM FX including the Mexican peso and Brazilian real",
+          "detail": "The ICE US Dollar Index traded around 99.65-99.8 in early sessions, up roughly 0.15-0.3% on the day and extending a four-session winning streak as Fed rate-hike bets (now 86-94% for a Wednesday move) and Middle East-driven risk aversion both supported the greenback simultaneously. The dollar's advance fed directly into broad EM-FX softness that ran through all three of today's sessions -- the Mexican peso and Brazilian real both softened against the dollar heading into the New York open, joining the Turkish lira (fresh record low), the South African rand and Polish zloty (both softer) and Asia's rupee and won flagged earlier in the day. This is a single global dollar-strength/Fed-repricing story rather than a collection of country-specific catalysts, and it is the same dynamic capping gold's ability to catch a safe-haven bid despite the ongoing Hormuz/Bab el-Mandeb escalation. For FX and EM desks, further broad dollar strength into Wednesday's decision looks like the more probable path barring a dovish surprise, given how heavily the hike is now priced across rates, FX and gold simultaneously.",
+          "source": "FXStreet, Wise/exchange-rate data",
+          "time": "session Tuesday Sept 15, ahead of Wed Sept 16 FOMC"
+        },
+        {
+          "stars": 2,
+          "headline": "Investment-grade and high-yield credit spreads hold near cycle tights even as equities and bank stocks wobble pre-FOMC",
+          "detail": "US investment-grade OAS remained around 80bp (81bp broad IG, 100bp for BBBs) and high-yield OAS held near roughly 265-270bp as of the latest readings -- both sitting close to multi-decade tight levels, with IG spreads in particular drawing comparisons to the February 2007 cycle tight. The resilience is notable set against today's equity and bank-sector weakness (S&P -0.45%, Goldman Sachs -4%, Morgan Stanley -3%) and mirrors the same spread/equity divergence flagged in this morning's Asia panel for the JACI index: a genuine risk-off credit event would typically show spreads widening in sympathy with falling bank equities, and their continued tightness argues credit investors are treating the pre-FOMC equity wobble as a rate-duration story rather than a credit-quality one. Credit strategists are increasingly debating whether current spread levels reflect a structural, yield-seeking allocator bid from multi-manager and insurance-linked capital that persists across cycles, or late-cycle complacency that leaves L/S credit and fund-selection desks exposed if Wednesday's Fed outcome (or fallout from the BofA-led bank selloff) triggers a genuine repricing. For desks running credit-equity basis or dispersion trades, the gap between today's equity-market stress and unmoved spreads is the more interesting signal than either market in isolation.",
+          "source": "Convex, FRED (BAMLC0A0CM, BAMLH0A0HYM2)",
+          "time": "spread levels as of latest readings, cited Tuesday Sept 15"
+        },
+        {
+          "stars": 2,
+          "headline": "The Baldwin Group agrees to a $7.7bn take-private by Michael Dell's family office and Sequence Holdings",
+          "detail": "The Baldwin Group, an independent US insurance distribution and risk-management firm, entered a definitive merger agreement Monday to go private in a $7.7bn cash deal led by Sequence Holdings and DFO Management, the family office of Dell Technologies founder Michael Dell; shareholders will receive $32.50 per share, a 9.61% premium to Baldwin's last close. Sequence, a service-economy-focused holding company that uses its proprietary Atlas platform to modernize acquired businesses' operations, is positioning Baldwin as a platform investment in insurance distribution -- a sector that has drawn sustained PE and family-office interest for its recurring, largely rate-insensitive commission revenue, a contrast to today's rate-driven stress in bank equities. Eligible Baldwin employees can roll a portion of their equity into the newly private company, and the deal is expected to close in Q1 2027, subject to customary approvals. For desks tracking insurance-brokerage M&A and PE take-private flow, the deal continues a active year for the sub-sector and adds another large, definitively-priced comparable for remaining public insurance distributors.",
+          "source": "Axios, BusinessWire, InsideArbitrage, TheInsurer",
+          "time": "deal announced Monday Sept 14, reported through Tuesday Sept 15"
+        },
+        {
+          "stars": 2,
+          "headline": "CLARITY Act crypto market-structure bill fails its Senate cloture vote, effectively dead for 2026",
+          "detail": "The Senate voted at 2:15pm ET Tuesday on a motion to proceed to the Digital Asset Market CLARITY Act (H.R. 3633), which would have split US crypto regulatory authority between the CFTC (for 'digital commodities' like Bitcoin) and SEC (for 'digital securities'); the procedural cloture motion needed 60 votes and failed, with several Democrats who had been negotiating on the bill -- including Gillibrand, Warner, Booker, Warnock, Gallego, Alsobrooks and Cortez Masto -- ultimately voting against it after an ethics-package add-on became a sticking point. Failure means the bill is effectively dead for the remainder of 2026, with midterm-year politics making a fresh comprehensive push unlikely before 2029 at the earliest -- a meaningful setback for an industry that had been counting on a defined market-structure framework to unlock more institutional participation. Bitcoin, which had opened Tuesday around $78,180 (+1.8% from Monday), slid through the session toward roughly $76,900-77,700 as the vote outcome became clear and crypto more broadly de-risked heading into Wednesday's FOMC decision -- a second dated catalyst now resolved with a negative outcome for the asset class in the same week. For crypto and digital-asset desks, the failure removes a near-term regulatory-clarity catalyst and leaves the FOMC as the sole remaining scheduled driver for the rest of the week.",
+          "source": "Coingape, Coinpedia, CryptoTimes, Yahoo Finance",
+          "time": "cloture vote 2:15pm ET Tuesday Sept 15"
+        },
+        {
+          "stars": 1,
+          "headline": "Empire State Manufacturing Index misses consensus (7.6 vs. 14.75 expected) but prices-paid jumps to a fresh multi-year high",
+          "detail": "The New York Fed's Empire State Manufacturing Survey headline general-business-conditions index fell thirteen points to 7.6 in September, well below the 14.75 consensus, though it remained in expansionary territory. Beneath the miss, the report carried a clear inflationary undertone that matters more for Wednesday's Fed decision than the headline: the prices-paid sub-index rose five points to 63.1, edging above its recent four-year high from May, while prices-received also rose five points to 28.1, and firms reported lengthening delivery times and worsening supply availability. Employment increased at a solid pace and the average workweek lengthened, and the future-business-conditions index held an optimistic 29.0, suggesting firms expect the current softening to be temporary. For rates desks, a headline miss paired with rising cost-pressure sub-indices is a genuinely two-sided signal into the FOMC -- consistent with the broader theme running through today's session of an economy where inflation readings, not growth data, are driving the Fed's hand.",
+          "source": "FXStreet, New York Fed",
+          "time": "released 8:30am ET Tuesday Sept 15"
+        },
+        {
+          "stars": 1,
+          "headline": "Gold slips to around $4,315/oz, its lowest in weeks, as dollar and rate moves continue to dominate over the Middle East haven bid",
+          "detail": "Spot and futures gold traded lower through the US session -- December futures opened around $4,340 and spot slipped toward roughly $4,315 -- continuing the softer tone flagged in both the Asia (~$4,298) and Europe (~$4,286) panels earlier today, as the fourth straight day of dollar strength and 86-94% Fed-hike odds kept outweighing the safe-haven demand that the ongoing Hormuz/Bab el-Mandeb chokepoint crisis would typically generate. The metal remains roughly 22% below its January 2026 record above $5,589, reinforcing a pattern that has held for several sessions now: gold is trading as a rates/dollar asset rather than a geopolitical hedge at the moment. Wednesday's FOMC decision and dot plot remain the most likely catalyst to break gold out of its current range, in either direction, with a dovish surprise the more probable trigger for a reversal given how one-sided current positioning already is.",
+          "source": "Yahoo Finance, MINING.com (continuity from Asia/Europe panels)",
+          "time": "US session Tuesday Sept 15"
+        },
+        {
+          "stars": 1,
+          "headline": "Broadcom edges up 0.48% as shares stabilize following Monday's AI-slowdown-fear selloff",
+          "detail": "Broadcom shares closed at $371.46, up 0.48% on a $362.00-$371.40 intraday range, a modest recovery after last week's roughly 4% drop tied to AI-capex-slowdown fears despite the company's record $29.6bn Q3 revenue print and its reiterated $230bn AI-chip-revenue target for fiscal 2028. The stabilization sits alongside continued strength in its expanded custom-silicon relationship with Apple and broader gains in AI-adjacent names (Coherent, AMD, Qualcomm) that helped cushion the Nasdaq's decline today, suggesting the market is starting to differentiate between AI-safety-policy risk (the Amodei/Altman-driven selloff still weighing on OpenAI-linked names) and AI-hardware-demand risk, which looks comparatively contained for now. No company-specific news accompanied today's move; the stock trades ex-dividend ($0.65) on September 21.",
+          "source": "TradingView, Investing.com, stockanalysis.com",
+          "time": "session close Tuesday Sept 15"
+        },
+        {
+          "stars": 1,
+          "headline": "Russell 2000 and small caps underperform large-cap benchmarks as the rate-sensitive segment absorbs the bulk of today's yield spike",
+          "detail": "Small-cap equities closed lower and underperformed the S&P 500 and Dow on the session, consistent with the Russell 2000's greater sensitivity to financing costs and floating-rate debt exposure as the 10-year Treasury yield pushed to its highest since 2007 and short-term borrowing costs stayed elevated into the Fed decision. The move is in line with rather than a sharp break from the broader pattern seen through the week -- small caps have lagged large caps through the run-up to Wednesday's FOMC, and today's session offers no fresh small-cap-specific catalyst beyond the same rate and risk-sentiment backdrop weighing on the broader tape. Desks running small-cap-versus-large-cap dispersion should treat today's underperformance as a continuation trade rather than a new signal, with Wednesday's dot plot the more likely catalyst for a decisive move in either direction given small caps' outsized rate sensitivity.",
+          "source": "Yahoo Finance, Robinhood market data",
+          "time": "session close Tuesday Sept 15"
+        },
+        {
+          "stars": 2,
+          "headline": "Treasury curve steepens further as the 2s10s spread widens to ~34bp on a hike-now, cut-later repricing",
+          "detail": "The 2-year Treasury yield held around 4.67% while the 10-year pushed to 5.04%, leaving the 2s10s spread near 34bp -- wider than in recent sessions -- as the front end stays anchored near the current 3.50-3.75% policy range while the long end reprices for both a near-term hike and the persistent oil-driven inflation risk that has pushed UK gilts and German Bunds higher in yield today as well. The pattern is a genuine steepening rather than a parallel shift, consistent with a market pricing a Fed that hikes into an energy-driven inflation shock now but is still expected to face a slower growth/rate-cut path further out -- a curve shape that matters directly for bank net-interest-margin trades, where a steeper curve is typically a tailwind even as today's BofA-driven fee-warning selloff dominates bank-stock headlines. For rates desks, the widening spread into Wednesday's SEP-accompanied decision is worth tracking independently of the outright yield levels, since the dot plot's signal about the pace of any subsequent moves will likely matter more for curve shape than for the front end alone.",
+          "source": "TradingEconomics, FRED (T10Y2Y)",
+          "time": "levels as of Tuesday Sept 15 session"
+        },
+        {
+          "stars": 1,
+          "headline": "EM equities and dollar-sensitive currencies stay on the back foot into the FOMC, extending the theme from Asia and Europe",
+          "detail": "The MSCI Emerging Markets index and the iShares MSCI Emerging Markets ETF (EEM) traded softer during the US session as the dollar's fourth straight up day continued to weigh on EM risk assets broadly, extending the same pressure seen in Asia's rupee/won weakness and Europe's lira/rand/zloty softness earlier today. LatAm currencies bore the brunt during US hours specifically, with the Mexican peso and Brazilian real both giving up ground against the dollar as the region's FX desks positioned into Wednesday's decision; the Colombian peso was a rare regional outlier holding steadier. With EM assets now pricing a US hike this heavily across a full 24-hour cycle spanning all three of today's sessions, a dovish surprise from the Fed would likely trigger the sharpest relief rally of the week across EM equities and currencies simultaneously, given how one-directionally positioning has built up.",
+          "source": "Investing.com, RioTimes (LatAm Pre-Open)",
+          "time": "US session Tuesday Sept 15"
+        },
+        {
+          "stars": 1,
+          "headline": "Copper holds near $6.31/lb, essentially flat, as the session offers no fresh catalyst beyond continuity from Asia and Europe",
+          "detail": "Copper traded around $6.31 per pound, down roughly 0.1% and essentially unchanged from the levels flagged in today's Asia and Europe panels, extending last week's pullback from record highs after reports the US is reconsidering planned import tariffs on refined copper products. With no US-specific copper news in today's session and China's own demand signal already digested in this morning's Asia panel, the metal remains within its broader 2026 range as the market continues to weigh a longer-term supply-constraint narrative against a wobblier near-term China demand pulse -- a holding pattern likely to persist until Wednesday's Fed outcome clarifies the dollar and rates backdrop that has been the more immediate driver of metals pricing this week.",
+          "source": "MarketBeat, Trading Economics (continuity from Asia/Europe panels)",
+          "time": "US session Tuesday Sept 15"
+        }
+      ]
     }
   }
 }
