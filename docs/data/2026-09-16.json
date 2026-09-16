@@ -106,8 +106,122 @@
       ]
     },
     "europe": {
-      "status": "pending",
-      "items": []
+      "status": "done",
+      "generated_at": "2026-09-16T18:04:42+02:00",
+      "items": [
+        {
+          "stars": 3,
+          "headline": "European risk assets grind higher into tonight's FOMC, snapping a two-day losing streak, with the whole session really just a positioning exercise for 20:00 CEST",
+          "detail": "The Euro Stoxx 50 rose roughly 0.5% and the broader Stoxx 600 added about 0.2-0.3% by midday London time, halting Monday-Tuesday's slide as oil eased off its highs and banks found a bid ahead of the Federal Reserve's decision at 2:00pm ET (20:00 CEST), followed by new chair Kevin Warsh's press conference thirty minutes later. CME FedWatch pricing sat around 92% for a quarter-point hike, so -- exactly as in Asia's session twelve hours earlier -- the real variable for European desks isn't whether the Fed moves but how hawkish Warsh sounds on the dot plot and the path from here. That framing kept the session's tone as a slow melt-up rather than a directional bet: DAX, CAC 40 and FTSE 100 all posted modest gains, gilts and bunds stayed heavy, and EUR/USD drifted to a one-month low near 1.1538 as the dollar held its pre-Fed bid. European rates desks are additionally staring down their own stacked week -- last week's ECB hike takes effect today and the Bank of England is digesting a hotter-than-expected August CPI print -- so a hawkish Fed surprise tonight would compound onto an already-tightening regional backdrop rather than arrive in isolation. Multi-asset and macro funds have been running historically light pre-FOMC risk into this meeting given how much is already priced, which raises the odds of an outsized reaction either way once Warsh starts speaking.",
+          "source": "Bloomberg, MarketScreener European Midday Briefing, Euronews, Investing.com/Reuters",
+          "time": "European morning into midday, through ~15:00 UTC; FOMC decision due 18:00 UTC / 20:00 CEST"
+        },
+        {
+          "stars": 3,
+          "headline": "Bund yield tops 3.5% (highest since June 2009) and Gilt yield nears 5.4% (highest since 2007) as three hawkish central banks collide with an energy shock in the same week",
+          "detail": "Germany's 10-year Bund yield pushed above 3.5% for the first time since June 2009, having climbed more than 16bp last week alone -- the biggest weekly jump since the Iran war began in earnest -- while the UK's 10-year Gilt yield sits near 5.4%, its highest since August 2007. Both moves are being driven by the same mechanism: energy-driven inflation feeding into policy expectations just as the ECB, the Bank of England and the Fed are all in tightening or hawkish-hold postures simultaneously, a genuinely rare cross-central-bank alignment. Markets are now pricing roughly four Bank of England hikes by mid-2027, a dramatic repricing from where BoE expectations sat before oil broke back above $100, and gilts are additionally carrying a standalone UK fiscal-credibility discount on top of the global energy-inflation story. This is precisely the kind of move that touches every desk at once: rates funds are repositioning duration, FX is picking up the real-yield divergence (sterling and the euro both firmer against funding currencies even as they're soft versus the dollar), and equity risk premia are being recalculated against a genuinely higher discount rate across the region. Life insurers and other natural long-duration buyers have reportedly been slow to step back in at these levels, leaving both markets thinner and more prone to air-pockets than the yield levels alone would suggest. This is the single most important cross-asset story out of Europe this week outside of the Fed itself.",
+          "source": "TradingEconomics, CNBC, thetrading.tools",
+          "time": "Ongoing through the European session, levels as of ~15:00 UTC"
+        },
+        {
+          "stars": 3,
+          "headline": "Saudi's East-West pipeline crisis escalates further: Yanbu's YASREF refinery reportedly struck again, September cargoes cancelled, one European lifter told no Saudi crude until November",
+          "detail": "The chokepoint crisis that's been repricing oil, gas and shipping risk since the September 10-11 drone strikes deepened today, with Kobeissi Letter reporting Yanbu loadings suspended, September cargoes cancelled outright, and at least one European lifter told there would be no Saudi cargoes at all until November. The YASREF refinery at Yanbu -- a 400kbd Aramco-Sinopec joint venture and one of the Red Sea's largest diesel exporters -- was reportedly hit by fresh strikes, compounding the East-West pipeline's original shutdown (Saudi Arabia had been rerouting roughly 5 million barrels/day through that pipeline specifically to bypass the still-effectively-closed Strait of Hormuz). Brent held above $107 through the session, still far above the roughly $72 level that prevailed before the Iran war began in February, while Dutch TTF gas settled near €80.97/MWh, up 4.1% over the past week and roughly 30% over the past month, with European storage still around 68% of capacity versus the seasonal norm. This is a genuine cross-asset European story: it's showing up directly in the energy-major equity complex (Shell, BP, TotalEnergies all among today's gainers), in credit (European HY spreads are being flagged for energy-sensitivity), in rates (it's a direct input to the ECB and BoE's hawkish guidance), and in the corporate cost base for anything diesel- or gas-intensive across the continent. With no active diplomatic track on either the Hormuz or Red Sea disruptions and now a second wave of strikes on the alternative export route, desks are treating this as a durable stagflationary shock rather than a one-day headline.",
+          "source": "Kobeissi Letter, FDD, CNBC, Al Jazeera",
+          "time": "Reported through the European session, ~08:00-15:00 UTC"
+        },
+        {
+          "stars": 2,
+          "headline": "UK August CPI accelerates to 3.1% from 2.9%, fuel and airfares the main drivers, keeping a November BoE hike squarely in play",
+          "detail": "UK headline inflation rose to 3.1% year-on-year in August from July's 2.9%, in line with the Reuters poll consensus, with the ONS citing higher motor fuel prices as the largest single upward contributor and a 6.2% month-on-month jump in air fares adding further pressure. Economists broadly read the print as offering the Bank of England some near-term relief -- core and services inflation held steady, and Oxford Economics' Andrew Goodwin noted there's no evidence yet of second-round wage effects -- but the same commentary flagged that the scale of the external (energy) price shock is becoming large enough that it may force the MPC's hand regardless. Markets still expect the Bank to hold its base rate at 3.75% at its next meeting but are increasingly pricing a hike as soon as November, a view reinforced by the Gilt curve's push toward 5.4% on the long end. The BoE's own prior forecast had CPI peaking near 3.2% in Q4, a level that now looks at risk of being exceeded given oil and gas trending the wrong way since that forecast was published. For rates and gilt desks this keeps a genuinely two-sided setup into year-end: a November hike would validate the current yield backup, while a hold paired with hawkish forward guidance risks an even sharper gilt selloff if inflation keeps running hot.",
+          "source": "Irish Times, MoneyWeek, ONS via multiple outlets",
+          "time": "Released 07:00 UTC (08:00 BST)"
+        },
+        {
+          "stars": 2,
+          "headline": "European banks rebound sharply after Tuesday's rout, with JPMorgan's bullish Q3 trading and IB revenue forecast the trigger",
+          "detail": "Bank shares led the Stoxx 600's gains today, a sharp reversal from Tuesday's three-month-low session in which UBS fell 4.2%, Deutsche Bank dropped 1.2%, UniCredit slid 2.3% and Standard Chartered lost 2.1% as surging energy prices and elevated European gas benchmarks drove bets on further ECB hikes. The catalyst for today's snapback was JPMorgan forecasting gains in third-quarter trading and investment-banking revenue across the sector, a read-through that matters well beyond JPMorgan itself since European banks' capital-markets and trading divisions tend to move in step with their US peers' guidance. The rebound is happening even as the underlying driver of Tuesday's selloff -- rate and inflation risk from the energy shock -- hasn't actually reversed, which suggests today's move is more a re-rating of trading-revenue expectations than a change of view on the macro backdrop banks are operating in. Higher-for-longer policy rates are a genuine net positive for bank net interest margins even as they pressure loan growth and credit quality elsewhere, so the sector's whipsaw this week is a useful illustration of how the same rate shock cuts both ways for financials. Miners were the other standout sector today, tracking the rise in gold.",
+          "source": "Bloomberg, Yahoo Finance/AOL wire",
+          "time": "European morning session, through ~10:30 UTC"
+        },
+        {
+          "stars": 2,
+          "headline": "Gold rallies 1.1% to $4,338/oz even as European equities also gain -- a signal that pre-Fed hedging, not risk-off, is driving the bid",
+          "detail": "Spot gold rose roughly 1.07% to $4,338.22/oz, a move that stands out because it's happening alongside gains in European equities and a firmer dollar-adjacent tone -- normally gold and simultaneous equity strength don't pair well, which points to genuine two-way positioning ahead of tonight's Fed decision rather than a classic risk-off flow. Miners were correspondingly among the Stoxx 600's best-performing sub-sector today, a straightforward read-through from the metal's move. The rally is also notable set against Asia's session twelve hours earlier, where gold had actually been slipping on dollar firmness and rising real yields into the same FOMC event -- the reversal over the European day suggests positioning shifted meaningfully through the session, possibly as European accounts added geopolitical-risk hedges given the still-unresolved Red Sea/Hormuz chokepoint crisis and the fresh Yanbu refinery strikes reported today. For macro and multi-asset allocators, gold's failure to sell off despite a firm-dollar, pre-hike backdrop is a tell that a meaningful chunk of the market is still short geopolitical and inflation risk premium, leaving room for a sharper catch-up move if tonight's Fed outcome comes in dovish relative to the 92%-priced hike.",
+          "source": "TradingEconomics",
+          "time": "European session, levels as of ~15:00 UTC"
+        },
+        {
+          "stars": 2,
+          "headline": "LVMH falls out of Europe's top-10 listed companies for the first time since 2017 as HSBC downgrades LVMH and Burberry to Hold on a grim China outlook",
+          "detail": "LVMH's market cap slipped to around €201bn ($232bn), pushing Europe's former largest listed company out of the region's top 10 for the first time in nine years; the stock closed at €415.30 on September 11 and remains more than 17% below its 2023 highs above €500, having fallen roughly 33% year-to-date. HSBC cut both LVMH and Burberry to Hold, arguing the second half of 2026 looks harder to navigate for European luxury names broadly, with LVMH's China sales down roughly 30% year-on-year in July cited as the central concern. This is a genuine sector-wide derating rather than an LVMH-specific story: Chinese consumer demand has been the swing factor for the entire European luxury complex for several years, and a 30% single-market sales decline at the bellwether name is the kind of print that resets multiples across Kering, Richemont, Burberry and the rest of the group. For multi-asset and thematic equity funds, the move also has index-level consequences given how heavily luxury names were weighted in CAC 40 and Stoxx 600 performance through the 2020s boom -- their absence as a growth driver is part of why the CAC 40 has been Europe's weakest major large-cap index for three straight years running.",
+          "source": "Bloomberg",
+          "time": "Reported through the session; price reference September 11-15"
+        },
+        {
+          "stars": 2,
+          "headline": "Novo Nordisk -- rebranded simply 'Novo' -- gets a Deutsche Bank Sell rating; stock down 15% year-to-date despite the oral Wegovy launch",
+          "detail": "Deutsche Bank cut Novo (formerly Novo Nordisk) to Sell on September 15, adding to a rough 2026 for the Danish GLP-1 giant, whose shares are down roughly 15% year-to-date even after the company's oral version of obesity drug Wegovy launched successfully. The company's decision to shorten its name to 'Novo' alongside a stated push for a culture reset underscores how much competitive and pricing pressure has built in the GLP-1 category since Eli Lilly's rival drugs began taking share and US pricing/rebate dynamics turned tougher for the sector. This matters beyond the single name: Novo has been one of the largest weights in European large-cap indices over the past three years, and its derating -- alongside LVMH's -- is a second example today of a formerly dominant European mega-cap growth story losing its premium, a pattern equity long-short and index funds are watching closely given how concentrated European index returns had become in a handful of these names. Novartis, Roche and Sanofi did not have comparable single-stock catalysts today, making Novo's downgrade the standalone pharma story of the session.",
+          "source": "StockTitan, The Daily Upside",
+          "time": "Downgrade dated September 15, reaction continuing into today's session"
+        },
+        {
+          "stars": 2,
+          "headline": "French OAT-Bund spread holds near 85bp, pricing in a persistent political-risk premium ahead of the 2027 presidential race",
+          "detail": "The French 10-year OAT continues to trade around 85bp over the German Bund (OAT yield roughly 4.19% versus Bund's move above 3.5% today), a spread that analysts estimate embeds close to 25bp of standalone political-risk premium tied to France's budget impasse and the approaching 2027 presidential election. Unlike the Bund/Gilt selloff, which is a shared energy-inflation story, the French premium is idiosyncratic and has kept the CAC 40 as Europe's weakest major large-cap index for a third consecutive year, underperforming the Stoxx 600 by roughly 6.8 percentage points in 2026 alone. Strategists flagged the final months of this year and the first quarter of 2027 as the likeliest window for the next volatility spike in OATs, as budget negotiations and the presidential campaign calendar start to overlap more directly. For fund selection and multi-management desks this is a standing basis-risk item: France-heavy European mandates continue to carry a structural drag relative to broader Stoxx 600 exposure, and today's broader Bund selloff means the euro-area 'risk-free' benchmark itself is also moving against French paper from the other direction.",
+          "source": "Ideal-investisseur.fr, OMFIF, Amundi Research Center",
+          "time": "Levels as of the European session; spread data through September 4-16"
+        },
+        {
+          "stars": 2,
+          "headline": "European high-yield credit spreads (OAS ~270bp) flagged as vulnerable to the energy shock, with L/S credit desks watching for further widening",
+          "detail": "European high-yield spreads were measured at roughly 270bp over benchmark as of September 10, and asset managers including Neuberger Berman have specifically flagged Europe's greater sensitivity to energy costs -- relative to the US -- as a reason credit spreads there face more pressure if oil and gas stay elevated. The read is straightforward: European corporates carry a heavier energy-cost pass-through than US peers given the region's reliance on imported gas, so a durable TTF/Brent shock (as today's fresh Yanbu strikes suggest this one will be) flows more directly into margins and default risk for lower-rated issuers. Spreads had already widened roughly 80bp over February-March during an earlier bout of Iran-war-driven volatility, and the current setup -- oil back above $100, gas up 30% over the trailing month, and three central banks tightening simultaneously -- has the same ingredients. This is explicitly the kind of item L/S credit and multi-asset macro funds are positioned around: energy-sensitive high-yield issuers (industrials, chemicals, building materials) are the natural short candidates in this scenario, while the sector's resilience so far this week suggests positioning hasn't fully caught up to the risk.",
+          "source": "Convex, Neuberger Berman Fixed Income Outlook",
+          "time": "Spread reference September 10, commentary ongoing through today's session"
+        },
+        {
+          "stars": 2,
+          "headline": "Energy majors Shell, BP and TotalEnergies among today's biggest Stoxx 600 gainers as Brent holds above $107",
+          "detail": "The region's integrated energy majors continued to outperform as crude stayed elevated on the Saudi pipeline crisis, extending a run that's already seen the sector's combined quarterly profits hit their highest levels since 2022 earlier this year on the back of oil-and-gas price volatility. Shell, BP and TotalEnergies had already rewarded shareholders with a combined $10bn in buybacks and dividends in Q1 alone, and today's price action -- energy stocks up while broader European equities are only modestly higher -- is a direct, mechanical read-through from the Yanbu/East-West pipeline disruption reported earlier in the session. This is a clean example of the chokepoint crisis being priced across asset classes simultaneously within Europe's own equity market: the same headline that's pushing TTF gas up 30% over the month and keeping Bund/Gilt yields elevated is also the reason energy-major equities are outperforming, even as the cost side of that same story squeezes energy-intensive industrials and consumer names elsewhere in the index. Trading desks continue to earn outsized profits from the volatility itself on top of the higher realized price level.",
+          "source": "Investing.com, Offshore Energy, Yahoo Finance",
+          "time": "European session, through ~15:00 UTC"
+        },
+        {
+          "stars": 1,
+          "headline": "Poland's central bank holds at 3.75% for a fifth straight meeting as inflation accelerates to 3.4%, its highest since mid-2025",
+          "detail": "The National Bank of Poland kept its reference rate unchanged at 3.75%, in line with consensus, even as headline inflation climbed to 3.4% -- just below the top of the NBP's 2.5%±1 target band -- with Middle East-driven energy costs the main upward driver, mirroring the same energy-inflation dynamic playing out across the eurozone and UK. The zloty and Hungarian forint both strengthened against the euro over the past week despite the hold, suggesting CEE currency markets are for now reading the region's central banks as adequately ahead of the inflation curve rather than falling behind it, a contrast with the more urgent repricing happening in Bund/Gilt space. This is a low-urgency but relevant context item for CEE-focused macro and EM funds: Poland's steady-as-she-goes posture, held for a fifth consecutive meeting, stands out against the ECB's and BoE's more hawkish recent moves and is worth tracking as a relative-value signal within the region.",
+          "source": "FXStreet, ING Think CEE weekly",
+          "time": "Decision Wednesday; CEE data flow through the session"
+        },
+        {
+          "stars": 1,
+          "headline": "Turkey's central bank expected to hold at 37% on Thursday; lira grinds to fresh weakness near 48.66/dollar",
+          "detail": "USD/TRY traded in a 48.54-48.70 range today, with the lira continuing its slow structural depreciation -- down roughly 1.5% over the past month and close to 18% over the past year -- ahead of Thursday's Central Bank of Turkey decision, where consensus expects a hold at 37%. The steady grind lower in the lira despite a nominally very high policy rate underscores how far behind the real-yield curve Turkish assets still sit relative to the rest of the region, even as most of Europe is now dealing with the opposite problem of central banks tightening into an energy shock. This is a calendar-forward item rather than a today-specific catalyst, but it's worth flagging for EM and periphery-Europe desks ahead of tomorrow's decision, particularly given how correlated Turkish asset moves have become with the broader Middle East risk narrative dominating the rest of this week's cross-asset flows.",
+          "source": "TradingEconomics, FXStreet",
+          "time": "Ahead of Thursday's CBT decision; lira levels through the European session"
+        },
+        {
+          "stars": 1,
+          "headline": "EU proposes Canada as the bloc's first-ever 'associate member' days after Trump's 50% tariff on $20bn of Canadian goods",
+          "detail": "European Commission President von der Leyen floated Canada as the EU's first associate member, framing it as part of a push to 'tighten cooperation with like-minded democracies,' in a move that lands just days after the US imposed 50% tariffs on $20bn of Canadian exports. The proposal is more geopolitical signaling than an immediate market catalyst, but it fits a broader 2026 pattern of trade and alliance realignment away from the US that's been a slow-burn theme for FX and cross-border capital-flow desks all year, alongside the dollar's mixed performance despite nominally hawkish Fed positioning. No immediate price action was tied to the announcement, but multi-asset and thematic funds tracking de-dollarization and Western alliance-realignment trades flagged it as a data point worth filing alongside similar moves this year.",
+          "source": "Kobeissi Letter (via Naked Capitalism roundup)",
+          "time": "Reported during the European session"
+        },
+        {
+          "stars": 1,
+          "headline": "FTSE MIB and IBEX continue to lag core Europe, still nursing this week's earlier slide as periphery underperforms",
+          "detail": "Italy's FTSE MIB and Spain's IBEX remain below their levels from earlier this month -- MIB down 0.5% and IBEX down 0.2% as of Tuesday's close -- underperforming the core Stoxx 600/DAX/CAC complex through this week's volatility, consistent with periphery Europe's tendency to see relatively larger beta to the region's bank-heavy, rate-sensitive index composition during episodes like this week's Bund/Gilt selloff. The underperformance is modest in absolute terms and not a standalone catalyst, but it's a useful cross-check for European equity allocators on how unevenly this week's oil-and-rates shock is being absorbed across the region's major indices, with Milan and Madrid trailing Frankfurt, Paris and London's more resilient tone into the Fed decision.",
+          "source": "TradingEconomics",
+          "time": "Levels as of Tuesday September 15 close, carried into today's assessment"
+        },
+        {
+          "stars": 1,
+          "headline": "EUR/USD drifts to a one-month low near 1.1538 as dollar firmness dominates the pre-Fed FX tape across the region",
+          "detail": "The euro eased to around 1.1538-1.1540, its weakest level in roughly a month, while EUR/GBP firmed slightly to 0.8561 and USD/ZAR held near 15.95 -- a broadly consistent, low-volatility pre-FOMC FX tape across Europe's major and EM-adjacent crosses. None of today's individual FX moves are large enough to be a standalone catalyst, but the pattern -- euro soft against the dollar even as European bond yields back up sharply -- is itself informative: it suggests the dollar's pre-Fed bid is currently dominating over the region's own hawkish rates repricing, a dynamic that would likely reverse quickly if tonight's Fed outcome comes in dovish relative to the 92%-priced hike. FX and macro desks are treating today's session largely as the calm before a potentially sharp repricing once Warsh's press conference gets underway.",
+          "source": "ECB reference rates, Xe, Investing.com",
+          "time": "European session, levels through ~15:00 UTC"
+        }
+      ]
     },
     "us": {
       "status": "pending",
@@ -192,6 +306,106 @@
         "value": "$104.68",
         "change": "-1.1%, easing off 4-month highs",
         "direction": "down"
+      }
+    ],
+    "europe": [
+      {
+        "category": "Equities",
+        "label": "Euro Stoxx 50",
+        "value": "—",
+        "change": "+0.5% (midday)",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "FTSE 100",
+        "value": "10,687.95",
+        "change": "+0.28%",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "DAX",
+        "value": "~25,490",
+        "change": "+0.3%, halts two-day slide",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "CAC 40",
+        "value": "—",
+        "change": "modest gains",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "EUR/USD",
+        "value": "1.1538",
+        "change": "-0.03%, ~1-month low",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "EUR/GBP",
+        "value": "0.8561",
+        "change": "+0.10%",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "USD/TRY",
+        "value": "~48.66",
+        "change": "range 48.54-48.70, lira -17.8% y/y",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "USD/ZAR",
+        "value": "15.9512",
+        "change": "-0.19%, rand firmer",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "USD/PLN",
+        "value": "—",
+        "change": "zloty firmer after NBP hold at 3.75%",
+        "direction": "down"
+      },
+      {
+        "category": "Commodities",
+        "label": "Gold",
+        "value": "$4,338.22/oz",
+        "change": "+1.07%",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "Brent Crude",
+        "value": "$107.77",
+        "change": "-0.9%, easing off week's highs",
+        "direction": "down"
+      },
+      {
+        "category": "Rates",
+        "label": "Bund 10Y",
+        "value": ">3.5%",
+        "change": "highest since June 2009",
+        "direction": "up"
+      },
+      {
+        "category": "Rates",
+        "label": "Gilt 10Y",
+        "value": "~5.4%",
+        "change": "highest since Aug 2007",
+        "direction": "up"
+      },
+      {
+        "category": "Rates",
+        "label": "OAT 10Y",
+        "value": "~4.19%",
+        "change": "spread to Bund ~85bp",
+        "direction": "up"
       }
     ]
   }
