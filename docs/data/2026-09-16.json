@@ -1,0 +1,198 @@
+{
+  "date": "2026-09-16",
+  "sessions": {
+    "asia": {
+      "status": "done",
+      "generated_at": "2026-09-16T10:14:43+02:00",
+      "items": [
+        {
+          "stars": 3,
+          "headline": "Asia trades the whole session in the shadow of tonight's FOMC decision, with a hike now the base case",
+          "detail": "Every desk in the region spent Wednesday positioning ahead of the Federal Reserve's 2pm ET decision rather than reacting to it, since the announcement lands hours after Tokyo, Seoul, Hong Kong and Sydney have already closed. Pricing going into the meeting sat around 58% for a hike today and roughly 70% for a follow-through move in October, with attention increasingly shifting from whether the Fed moves to how hawkish new chair Kevin Warsh sounds in the press conference and dot plot. That framing kept the dollar index firm (+0.05% to 99.53) and gold soft even as oil stayed elevated on the Middle East chokepoint crisis -- a classic pre-FOMC risk-off-without-selling-equities session. The stakes are compounded for Asia specifically: a hawkish outcome tightens financial conditions just as the region heads into its own stacked central-bank week, with the BOJ meeting Friday September 18 and priced at roughly 75% for a quarter-point hike. Cross-asset positioning was visible in Kospi and Nikkei options flow and in the muted, pre-decision moves in AUD and KRW, both of which are among the most rate-sensitive currencies in the region. A hawkish surprise tonight would hit Asia's open on Thursday hardest given the region's currencies and equities are already carrying elevated real-yield and oil-cost burdens.",
+          "source": "AP wire (via KSAT/WUSA9), Kobeissi Letter, DeItaone/Walter Bloomberg",
+          "time": "Ahead of 2:00pm ET (18:00 UTC) FOMC decision; framing carried through the Asia session to ~09:00 UTC"
+        },
+        {
+          "stars": 2,
+          "headline": "Nikkei 225 rises 0.7% to 63,923 as chip and SoftBank rebound offsets a wider-than-expected trade deficit",
+          "detail": "The Nikkei climbed 0.7% to 63,923.00, extending Tuesday's recovery as AI-linked names found a bid even though Ministry of Finance data showed Japan's August trade deficit widening to JPY1,105.6bn from JPY294.1bn a year earlier and missing the JPY1,052.6bn consensus -- the fourth straight monthly deficit. Imports are running hot on both the weak yen and elevated energy costs tied to the Middle East disruption, while export growth, though still solid, isn't keeping pace. The equity market shrugged the miss off because the same weak-yen dynamic that inflates the import bill is also propping up exporter earnings and because SoftBank's rebound from Monday's Altman-IPO-comment selloff gave the index a heavier-weighted lift than the trade data could offset. USD/JPY firmed toward 154.6-155.4, adding a second consecutive session of yen weakness into the FOMC decision. Desks are treating the trade data as noise relative to Friday's BOJ meeting, where hike odds are now priced near 75%, a far bigger swing factor for both the currency and exporter equity complex over the next 48 hours.",
+          "source": "AP wire, Japan Ministry of Finance trade statistics, News On Japan",
+          "time": "Tokyo close, ~06:00 UTC"
+        },
+        {
+          "stars": 2,
+          "headline": "Kospi surges 1.4% to 6,717.97 as Samsung and SK Hynix refuse to repeat Monday's AI-fear selloff",
+          "detail": "South Korea's benchmark jumped 1.4% to close at 6,717.97, a sharp reversal from Monday's 3.26% rout that had been driven by a wave of AI-demand-slowdown selling in Samsung Electronics (-4.05%) and SK Hynix (-6.35%). By late morning Samsung was up 0.7% and SK Hynix up 1.82%, and the gains built through the session as investors concluded that memory-chip scarcity conditions undercut the bear case for a sharp near-term drop in AI-related chip demand -- effectively, Seoul declined to sell the same fear twice without fresh evidence that orders or data-center deployments were actually slowing. That decoupling from Wall Street's own overnight chip weakness is notable and will be watched by macro and L/S funds positioned around the AI-capex trade, since Korea's chip names are typically a high-beta proxy for the same Nasdaq semiconductor complex that sold off into Monday's close. USD/KRW nonetheless firmed slightly (+0.59% to ~1,371), suggesting the equity rally was domestically/sector driven rather than a broad risk-on FX move, consistent with dollar firmness ahead of the Fed. The move leaves Kospi still below the record levels seen earlier in the year but confirms chip-stock volatility, not a structural derating, is driving the swings.",
+          "source": "TradingEconomics, invezz.com, Seoul Economic Daily",
+          "time": "Seoul close, ~06:30 UTC"
+        },
+        {
+          "stars": 2,
+          "headline": "China chip complex extends its rally on Beijing's five-year electronics plan; Hang Seng +0.2%, Shanghai Composite +0.7%",
+          "detail": "Mainland and Hong Kong equities built on Tuesday's gains after the Ministry of Industry and Information Technology and NDRC jointly unveiled a five-year (2026-2030) plan for the electronic-information manufacturing sector, targeting advanced logic nodes (7nm/5nm yield optimization), memory expansion at YMTC and CXMT including a push into HBM, and wider adoption of open-standard RISC-V architecture to cut reliance on Western IP. The plan sets an industry revenue target above RMB30 trillion by 2030 for firms above the reporting threshold. Chip-adjacent names extended Tuesday's reaction: Cambricon Technologies +4.2%, Moore Threads +1.4%, NAURA Technology (semiconductor equipment) +2.6%, while SMIC was little changed and Hua Hong added 0.3%. The Shanghai Composite closed up 0.7% to 3,891.60 and Hang Seng added 0.2% to 24,715.18, both modest on the index level because property and financials lagged the tech-led gains -- a rotation pattern that's been persistent for weeks as capital moves from old-economy sectors into AI/semiconductor names tied to the national self-sufficiency push. For multi-asset and thematic funds, the policy signal reinforces China as a structural long in domestic semiconductor equipment and memory even as the broader property/credit overhang keeps headline index gains capped.",
+          "source": "Investing.com, Xinhua, China.org.cn, Global Times",
+          "time": "Shanghai/HK close, 07:00-08:00 UTC"
+        },
+        {
+          "stars": 1,
+          "headline": "ASX 200 edges up 0.2% to ~8,690, a tentative bounce off an 11-week low",
+          "detail": "Australia's benchmark rose roughly 0.2% to around 8,690 points, a modest rebound after Tuesday's 1.05% slide to an 11-week low of 8,657.1 that had been driven by rising oil prices feeding domestic inflation fears. The bounce lacked a single strong catalyst and looks mostly like pre-FOMC consolidation rather than a fresh risk-on signal, with breadth reported as roughly even to slightly negative intraday. Miners and energy names remain a swing factor given the elevated Brent/WTI complex, while rate-sensitive sectors stayed cautious given RBA policy is itself hostage to the same oil-driven inflation dynamics affecting the Fed and BOJ calculus this week. No major AU/NZ data printed in the Asia window today beyond New Zealand's Tuesday current account (-NZ$14.583bn, -3.2% of GDP), which is stale relative to today's price action. This is a low-conviction, low-information session for the ASX ahead of the FOMC outcome.",
+          "source": "Motley Fool Australia, ABC News",
+          "time": "Sydney close, ~06:00 UTC"
+        },
+        {
+          "stars": 2,
+          "headline": "JGB yields hold near three-decade highs as BOJ hike odds firm to ~75% for Friday's meeting",
+          "detail": "Japan's 10-year government bond yield remains pinned in the high-2%/low-3% range that has repeatedly touched its highest levels since the mid-1990s over the past week, with the move driven by the combination of Takaichi's unfunded consumption-tax-cut plan (a roughly JPY5 trillion revenue shortfall with no stated financing mechanism) and rising global yields into the FOMC. Markets are now pricing roughly 75% odds the BOJ hikes a quarter point at Friday's meeting and about 60% odds of a further move by December, a meaningful firming from where BOJ pricing sat just a week ago. For rates desks this is a genuinely two-sided setup: a hike validates the yield backup and could finally offer the yen some support after a second straight day of weakness toward 155, while a hold -- especially if paired with dovish framing given the fiscal-policy uncertainty -- risks another leg of JGB selling as the market reprices the BOJ as behind the fiscal-slippage curve. Japanese life insurers and megabanks, the natural domestic buyers of long JGBs, have reportedly been slow to step in at these levels, leaving the market thinner and more volatile around the event. This is the single most important rates catalyst for the region this week outside of the Fed itself.",
+          "source": "TradingEconomics, Japan.co.jp",
+          "time": "Tokyo session, through ~06:00 UTC"
+        },
+        {
+          "stars": 3,
+          "headline": "Oil eases from four-month highs but the Bab el-Mandeb/Hormuz chokepoint crisis remains unresolved, still a cross-asset driver",
+          "detail": "Crude pulled back roughly 1.1% to around $104.68 after Brent's push above $107 earlier in the week, but the retreat looks like profit-taking into the Fed decision rather than a resolution of the underlying disruption -- both the Bab el-Mandeb and Hormuz chokepoints remain effectively impaired following the Houthis' capture of the Hanish Islands and the weekend tanker strike off Qeshm Island, and Saudi Arabia's East-West pipeline is still shut. This is precisely the kind of story that touches multiple asset classes at once: oil-importing Asia currencies (rupee, won, rupiah) continue to carry a terms-of-trade drag; Japan's trade deficit data released today is a direct symptom; and gold's inability to catch a safe-haven bid despite the escalation (see below) signals that dollar and real-yield dynamics into the FOMC are currently dominating over geopolitical risk premia in precious metals. War-risk insurance premia for Red Sea and Gulf transits remain near record levels according to shipping-data providers, and with no active diplomatic track on either strait, the physical disruption looks durable into next week regardless of tonight's Fed outcome. Multi-asset and macro funds are treating this as a slow-burn stagflationary input for the region rather than a one-day headline trade.",
+          "source": "TradingEconomics, EIA, Al Jazeera (carryover), IranWarLive",
+          "time": "Asia session pricing through ~08:00 UTC"
+        },
+        {
+          "stars": 2,
+          "headline": "Gold slips further (~$4,283-4,292/oz) as dollar firmness and pre-Fed real yields dominate over Middle East risk",
+          "detail": "Spot gold eased roughly 0.15-0.20% to the $4,283-4,292/oz area even as the Bab el-Mandeb/Hormuz crisis remains live and Brent holds above $104, a divergence that's widened noticeably through September. The proximate driver is the dollar index's 0.05% firming to 99.53 and rising real yields into tonight's hike-priced FOMC decision -- classic pre-event positioning where safe-haven demand for the metal is being outweighed by the opportunity cost of holding a non-yielding asset as US rates head higher. This is a meaningful signal for macro and multi-asset allocators: gold's failure to rally on a live geopolitical chokepoint crisis suggests positioning is unusually short-vol into the Fed and that any dovish surprise tonight (a hold, or a hike paired with dovish guidance) could trigger an outsized catch-up rally given how much geopolitical risk premium currently sits un-priced in the metal. Conversely, a hawkish hike-and-hold-the-line outcome risks pushing gold toward its next support zone even with oil elevated. Asian physical demand (China, India) has been a limited offset so far this week.",
+          "source": "TradingEconomics, AP wire",
+          "time": "Asia morning session, ~01:00-08:00 UTC"
+        },
+        {
+          "stars": 2,
+          "headline": "Japan's AI-hardware complex stays volatile: SoftBank rebound, Kioxia/Advantest/Tokyo Electron whipsaw continues",
+          "detail": "The Japanese AI-hardware names that have been swinging double digits for weeks remain the single biggest source of single-stock volatility on the Nikkei. SoftBank Group, which plunged 10.7% Monday after OpenAI CEO Sam Altman said the ChatGPT maker would not pursue an IPO, staged enough of a rebound Tuesday into Wednesday to become one of the Nikkei's biggest positive contributors today. Kioxia (memory/HBM, a direct AI-server demand proxy), Advantest (AI chip test equipment) and Tokyo Electron (semiconductor manufacturing equipment) remain highly sensitive to both US tech sentiment and global bond yields, and continued to trade with elevated intraday ranges even on an otherwise unremarkable index day. The pattern -- sharp AI-sentiment-driven drawdowns followed by equally sharp mean-reversion rallies -- mirrors what played out in Kospi's chip complex overnight and suggests positioning across the region's AI-hardware supply chain is now thin enough that headline-driven flows (an executive comment, a hyperscaler capex data point) can move single names 5-10% intraday. CTAs and systematic funds tracking realized vol in this basket have flagged it as one of the highest-vol clusters in Asia equities currently.",
+          "source": "News On Japan, TradingView/Invezz",
+          "time": "Tokyo session, ~00:00-06:00 UTC"
+        },
+        {
+          "stars": 2,
+          "headline": "JPMorgan cuts Alibaba, Tencent and SK Hynix to Underweight on looming data-center bond supply wave; Asia HG spreads still tight at 92bp",
+          "detail": "JPMorgan downgraded Alibaba, Tencent and SK Hynix to Underweight, citing an estimated $95bn of prospective data-center-related bond issuance that could alter technicals across Asian investment-grade credit even as the underlying fundamentals for the megacap tech/chip names stay only marginally weaker. This is a genuine positioning call rather than a fundamental credit-quality downgrade: the concern is supply/technical indigestion in a market that has been grinding tighter, with the JACI (JPMorgan Asia Credit Index) high-grade spread sitting at 92bp, in 3bp week-over-week even before the note. China Cinda was separately flagged Underweight on valuations that already price in government support. For Asia credit and L/S credit funds this is a relevant technical signal heading into what could be a heavy new-issue calendar from the region's largest tech balance sheets, and it sits alongside -- but is distinct from -- the equity-side AI-capex debate playing out in the same names' share prices this week. Desks are watching primary market response over the next two weeks as the first real test of whether the downgrade thesis has teeth.",
+          "source": "Macrostream (Asia Credit Weekly), Bloomberg",
+          "time": "Reported during Asia session"
+        },
+        {
+          "stars": 1,
+          "headline": "China 10-year government bond yield grinds toward 1.68%, near its lowest since mid-2025",
+          "detail": "Chinese sovereign yields continue to drift lower, with the 10-year around 1.68%, as banks increasingly rotate into government debt amid weak mortgage and consumer-loan demand -- a direct read-through from Tuesday's soft August retail sales print (+0.4% y/y, missing the 0.8% consensus) and the ongoing property-sector drag on credit growth. The move is consistent with a broader disinflationary, weak-domestic-demand backdrop in China that contrasts with the inflation-driven hiking cycles underway in the US and soon potentially Japan, underscoring how divergent Asia's two largest economies' rate cycles have become. This is a low-urgency but structurally important context item for macro and multi-asset allocators positioning across the region's rates complex, since it reinforces China as a duration-friendly, low-yield anchor even as JGB and US Treasury yields back up elsewhere in the region.",
+          "source": "TradingEconomics",
+          "time": "Ongoing through Asia session"
+        },
+        {
+          "stars": 1,
+          "headline": "Indian equities head into Wednesday under pressure after a sharp Tuesday reversal; Fed decision the swing factor",
+          "detail": "The Sensex fell 777.94 points (-1.04%) to 74,003.82 and the Nifty 50 dropped 279.50 points (-1.19%) to 23,118.60 on Tuesday as an early rally collapsed under the weight of surging crude, rising global bond yields and hardening Fed-hike expectations -- the same cross-asset pressures hitting the rest of the region. Local commentary going into Wednesday's session (published ahead of the open) flagged further downside risk with the Fed decision as the dominant swing factor for the day, consistent with the muted, wait-and-see tone across the rest of Asia. USD/INR held around 95.95, close to flat but still elevated versus its Q2 levels, with the rupee having recovered somewhat off its May record low near 96.84 thanks to RBI intervention and a package of capital-account reforms; the RBI has reportedly been a persistent seller of dollars over the past several weeks to smooth volatility rather than defend a specific level. Oil-importer dynamics remain the dominant multi-week theme for both Indian equities and the currency.",
+          "source": "Goodreturns, Business Standard, Brecorder",
+          "time": "Tuesday close (Sept 15) carrying into Wednesday's open"
+        },
+        {
+          "stars": 1,
+          "headline": "ASEAN FX stays polarized: ringgit near multi-week lows, peso soft, baht firmer",
+          "detail": "Malaysia's ringgit weakened toward 4.0685 per dollar, close to its weakest level since mid-August, while the Philippine peso eased slightly to around 62.43 and the Thai baht ticked firmer -- a continuation of the 2026 pattern where Malaysia and Thailand have broadly outperformed Indonesia and the Philippines on relative political and fiscal stability. The moves are modest in isolation but matter for regional FX and EM-Asia funds tracking the dispersion trade within ASEAN currencies, which has been one of the more persistent relative-value themes in the region this year. None of today's moves are large enough to be a standalone catalyst, but they're consistent with the broader dollar-firm, pre-FOMC tone seen across USD/JPY, AUD/USD and USD/INR today.",
+          "source": "Nikkei Asia, Business Recorder",
+          "time": "Asia session"
+        },
+        {
+          "stars": 1,
+          "headline": "TSMC trades ex-dividend today; Taiwan's chip-heavy TAIEX stays a high-beta proxy for the AI-capex debate",
+          "detail": "Taiwan Semiconductor Manufacturing Co. went ex-dividend today for its $1.114 per-ADR cash payout, a routine but relevant date for index and options desks given TSMC alone accounts for more than 40% of the TAIEX's total market value. The stock has been trading in a wide band (roughly $412-$422 in recent sessions) as it tracks the same AI-hardware sentiment swings buffeting SK Hynix, Samsung and the Japanese equipment names elsewhere in the region -- TSMC remains the single most important read-through name for the entire Asia semiconductor supply chain heading into its next earnings update. No major standalone TAIEX headline today; the index continues to trade as a derivative of the broader Asia AI-capex narrative rather than on domestic catalysts.",
+          "source": "Investing.com, CNBC quotes",
+          "time": "Ex-dividend date Sept 16; Taipei session"
+        }
+      ]
+    },
+    "europe": {
+      "status": "pending",
+      "items": []
+    },
+    "us": {
+      "status": "pending",
+      "items": []
+    }
+  },
+  "indicators": {
+    "asia": [
+      {
+        "category": "Equities",
+        "label": "Nikkei 225",
+        "value": "63,923",
+        "change": "+0.7%, chip/SoftBank rebound offsets wider trade deficit",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "Hang Seng",
+        "value": "24,715",
+        "change": "+0.2%",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "Shanghai Composite",
+        "value": "3,891.60",
+        "change": "+0.7%, chip-policy rally",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "Kospi",
+        "value": "6,717.97",
+        "change": "+1.4%, Samsung/SK Hynix rebound",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "ASX 200",
+        "value": "~8,690",
+        "change": "+0.2%, bounce off 11-week low",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "USD/JPY",
+        "value": "~154.6-155.4",
+        "change": "+0.17%, yen weaker 2nd session",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "AUD/USD",
+        "value": "0.7130",
+        "change": "-0.03%",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "USD/KRW",
+        "value": "~1,371",
+        "change": "+0.59%, won softer despite equity rally",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "USD/INR",
+        "value": "95.95",
+        "change": "+0.12%, rupee near flat",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "Gold",
+        "value": "~$4,288/oz",
+        "change": "-0.15% to -0.20%, dollar/real yields weigh",
+        "direction": "down"
+      },
+      {
+        "category": "Commodities",
+        "label": "WTI Crude",
+        "value": "$104.68",
+        "change": "-1.1%, easing off 4-month highs",
+        "direction": "down"
+      }
+    ]
+  }
+}
