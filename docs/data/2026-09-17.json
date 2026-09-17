@@ -245,8 +245,108 @@
       ]
     },
     "us": {
-      "status": "pending",
-      "items": []
+      "status": "done",
+      "generated_at": "2026-09-18T00:15:00+02:00",
+      "items": [
+        {
+          "stars": 3,
+          "headline": "Wall Street claws back Wednesday's Fed-hike selloff -- S&P 500, Nasdaq, Dow and Russell 2000 all higher as falling oil and a jobless-claims beat drive a broad cross-asset relief rally",
+          "detail": "A day after the Dow fell 631 points (-1.21%) and the S&P 500 dropped 0.45% on the Fed's first rate hike since 2023 (25bp to 3.75%-4.00%) and Chair Kevin Warsh's hawkish press conference, Thursday's session reversed course hard: the S&P 500 and Dow both closed higher (sources put the S&P's gain anywhere from roughly +0.6% to +1.1%, landing near 7,600-7,640), the Nasdaq Composite jumped about 1.69% to 26,418.30, the Dow added about 0.61% to 51,778.04, and the Russell 2000 rose 0.55% to 2,874.63. The rebound was a genuinely multi-asset move: Treasury yields eased back from their Fed-day peak, the dollar stayed firm rather than extending its post-Fed spike, oil fell for a second straight session, and the VIX drifted back toward the upper teens from Wednesday's spike. The mechanism matters for positioning -- this reads as markets treating Wednesday's decision as fully priced and 'the event risk is behind us' rather than as the start of a sustained repricing, though the Kobeissi Letter's historical framing (S&P down -4% on average over the six weeks following the first hike of a cycle across 7 episodes since 1988, before recovering) is a reminder that first-hike rallies have often given back gains before the six-month mark.",
+          "source": "CNBC, Bloomberg, TheStreet, Trading Economics",
+          "time": "US cash session, ~13:30-20:00 UTC"
+        },
+        {
+          "stars": 3,
+          "headline": "Fed Chair Warsh's record-short 30-minute press conference and a 4.1% median dot for 2026-2027 keep rates, the dollar and credit conditions structurally tighter into year-end",
+          "detail": "Wednesday's FOMC decision passed 12-0, and Warsh -- in the shortest post-meeting press conference since the Fed began holding them regularly in 2011 -- gave markets almost nothing in the way of forward guidance beyond reiterating that 'the plain fact is inflation is too high, and has been for too long,' explicitly rejecting the idea that this summer's inflation prints show meaningfully improved underlying trends. The Summary of Economic Projections' median dot moved to 4.1% for both 2026 and 2027, up from a June meeting where only 9 of 18 participants saw any hike this year at all, and this week's dot plot showed 16 of 18 officials pencilling in at least one more increase before year-end. That guidance is the reason today's equity rebound has not been accompanied by a comparable snap-back in rates or the dollar -- both remain structurally higher than their pre-Fed levels even as the initial equity shock fades -- and it is the direct read-through into everything from mortgage rates (30-year fixed near 7.01%, elevated) to the still-firm dollar index weighing on gold and EM currencies. Cross-asset desks are treating the hawkish dot plot, not the hike itself, as the more consequential signal for Q4 positioning.",
+          "source": "CNBC, Yahoo Finance, PIMCO, Bloomberg",
+          "time": "Press conference Wed Sept 16 ~18:30 UTC; read-through through Thursday's session"
+        },
+        {
+          "stars": 2,
+          "headline": "Jobless claims fall to 196,000, well below forecast, and Philly Fed manufacturing beats sharply -- labor market resilience complicates the Fed's hawkish case",
+          "detail": "Initial jobless claims totaled 196,000 for the week, 11,000 below the 207,000 consensus forecast and down from the prior week's revised 206,000, while continuing claims fell to 1.73 million, also below both the prior week and forecast. The Philadelphia Fed's manufacturing diffusion index fell to 37.8 in September from August's 47.4, but that pullback was far smaller than the 30.5 economists expected, meaning the index still signals expansion. Taken together, the two prints argue the labor market and regional manufacturing activity remain more resilient than a hawkish Fed's tightening bias might suggest, which is a double-edged signal for rates markets: strong labor data reduces near-term recession risk (supportive for credit and equities) but also removes one of the arguments the doves could use to push back against further hikes, reinforcing rather than undercutting Warsh's inflation-focused framing.",
+          "source": "Bloomberg, Investing.com, RTTNews",
+          "time": "8:30 ET claims release, 8:30 ET Philly Fed release (~12:30 UTC)"
+        },
+        {
+          "stars": 2,
+          "headline": "University of Michigan consumer sentiment craters to 47.8, weakest since May's record low, as fuel prices and trade tensions hit expectations",
+          "detail": "The preliminary University of Michigan consumer sentiment index fell 3.9 points to 47.8 in September, well below the 51.0 consensus and down 7.3 points year-over-year, marking the second straight monthly decline and the weakest reading since May's record low. The expectations sub-index led the drop, down 5.7 points to 45.8, as survey respondents flagged a resurgence in fuel prices (consistent with the Middle East-driven oil moves dominating this week's newsflow) and escalating trade tensions as the key drags on their outlook for personal finances and business conditions. Notably, the index diverges sharply from the LSEG/Ipsos Primary Consumer Sentiment Index, which actually rose 1.1 points to 50.5 this month on stronger current-conditions and investment sub-indices -- a genuine split between the two most-watched sentiment gauges that leaves desks without a single clean read on the US consumer heading into Q4, right as retailers like Next (flagged in the European session) are reporting resilient spending.",
+          "source": "University of Michigan/Reuters, ABA Banking Journal, Ipsos",
+          "time": "10:00 ET preliminary release (~14:00 UTC)"
+        },
+        {
+          "stars": 2,
+          "headline": "Treasury yields ease back from the Fed-day spike -- 10-year around 4.94%, still well above pre-hike levels as the curve digests the hawkish dot plot",
+          "detail": "The 10-year Treasury yield eased about 8bp to roughly 4.94% on Thursday, pulling back from levels that had approached 5% in the immediate aftermath of Wednesday's hike, while the 2-year -- more directly tied to near-term Fed policy -- held near 4.39%. The pullback in long-end yields alongside a hawkish dot plot is a genuine two-way signal: it suggests the bond market views Wednesday's move as having priced in most of the near-term tightening path already, even as the Fed's own guidance points to more hikes before year-end. For curve and duration desks, the setup -- yields easing on the day even as the policy path gets more hawkish -- is best read as a 'sell the rumor, buy the fact' dynamic following an event that had been well-flagged since Jackson Hole, rather than a genuine dovish repricing.",
+          "source": "CNBC (Treasury yields move lower after Fed kicks off hiking cycle), Trading Economics",
+          "time": "US Treasury cash session, through ~20:00 UTC"
+        },
+        {
+          "stars": 2,
+          "headline": "Energy stocks lag the broader rally as oil extends its slide on progress restoring Saudi Arabia's damaged East-West pipeline",
+          "detail": "The Energy Select Sector SPDR (XLE) underperformed the broader market's rebound as WTI held near $102 and Brent near $103-106, both extending Wednesday's roughly 3.2% drop -- the sharpest one-day oil decline since early August -- after Saudi Arabia signalled it could restore about half of the drone-damaged East-West pipeline's capacity within days and reach full operations within six weeks. The pipeline normally carries up to 4mb/d of crude export capacity via the Red Sea, bypassing the Strait of Hormuz entirely, so the faster-than-feared repair timeline is easing the acute supply-risk premium that had been embedded in oil prices since last week's drone strike. For US energy-sector positioning, the read-through is straightforward but important: a genuine de-escalation in the chokepoint-crisis narrative removes one of the few tailwinds oil-major and E&P equities had been enjoying this month, even as the underlying Iran-linked conflict and Houthi control of Red Sea shipping lanes near Bab al-Mandeb remain unresolved.",
+          "source": "Bloomberg, CNBC, StockTitan sector data",
+          "time": "US cash session"
+        },
+        {
+          "stars": 2,
+          "headline": "Nasdaq leads the rebound as AI mega-caps carry the tape -- Nvidia holds the world's largest market cap at $5.58 trillion, Magnificent Seven now 33.9% of the S&P 500",
+          "detail": "Technology was the standout sector in Thursday's rebound, with the Nasdaq Composite's 1.69% gain well ahead of the Dow and Russell 2000, as the AI-capex trade continued to anchor index-level performance. Nvidia remains the world's largest company by market cap at roughly $5.58 trillion, ahead of Apple ($4.70tn), Alphabet ($4.10tn), Microsoft ($3.71tn) and Amazon ($2.78tn), with the Magnificent Seven now accounting for 33.9% of the S&P 500's total weight and Nvidia alone contributing an outsized 7.9% impact to index moves. The concentration matters directly for today's rebound mechanics: a Nasdaq-led bounce this pronounced is arithmetically dependent on mega-cap tech performance, meaning the breadth of today's 'broad' rally is narrower than the index-level numbers alone suggest. Separately, Nvidia's roughly $12.9bn acquisition of Hugging Face -- confirmed earlier this month and its largest deal on record -- continues to shape the AI-platform-consolidation narrative underpinning sector sentiment, even though it is not a fresh today-specific catalyst.",
+          "source": "AlphaSense, Motley Fool, Yahoo Finance",
+          "time": "US cash session"
+        },
+        {
+          "stars": 2,
+          "headline": "Financials underperform (XLF -1.6%) even as JPMorgan and Goldman Sachs guide to a strong Q3 for trading and investment-banking revenue",
+          "detail": "The Financials Select Sector SPDR fell about 1.6% on the day, a notable laggard versus the broader rebound, even as the fundamental backdrop for the largest banks looks constructive: JPMorgan has forecast gains in third-quarter trading and investment-banking revenue, and Goldman Sachs CEO David Solomon has flagged the bank's deals backlog at its highest level in five years. The apparent disconnect -- weak sector price action against strong forward guidance -- is consistent with the broader post-Fed positioning story: higher-for-longer rates are a net interest margin tailwind for banks in theory, but the hawkish dot plot also raises credit-risk and loan-growth concerns that can outweigh the NIM benefit in the near term, and today's -1.6% move suggests investors are leaning toward the latter read for now. This mirrors the pattern seen in the European session, where a JPMorgan-driven bid in European bank stocks reversed only part of Tuesday's broader Stoxx Banks decline -- underscoring that bank-sector performance globally is being driven by a genuine push-pull between rate tailwinds and credit-risk concerns rather than a clean directional call.",
+          "source": "CNBC, Yahoo Finance, sector ETF data",
+          "time": "US cash session"
+        },
+        {
+          "stars": 2,
+          "headline": "Lennar misses on Q3 EPS and revenue as homebuilders absorb weaker demand, guiding to 22,000-23,000 deliveries",
+          "detail": "Homebuilder Lennar reported Q3 EPS of $1.23, below the $1.29 estimate, with revenue down 8.67% year-over-year to $8.05bn against an $8.31bn estimate. The company guided to 22,000-23,000 home deliveries, an average sales price of $370,000-$380,000, and 19,500-20,500 new orders. The miss lands the same day as the housing starts report, which showed headline starts falling 2.6% to a 1.275 million annualized pace even as single-family starts (the segment Lennar and other large public builders are most exposed to) jumped 7.6% to 918,000 units -- a genuine divergence that suggests builder-level demand is bifurcated, with larger, better-capitalized public builders like Lennar facing margin pressure from incentives and rate buydowns even as underlying single-family construction activity picks up. With 30-year mortgage rates still elevated near 7.01% in the wake of the Fed's hike, the read-through for the broader homebuilder complex into Q4 is one of volume holding up better than profitability.",
+          "source": "Company earnings release via Yahoo Finance/Investing.com, Census Bureau housing starts data",
+          "time": "Pre-market earnings release; housing starts at 8:30 ET (~12:30 UTC)"
+        },
+        {
+          "stars": 2,
+          "headline": "Brazil's central bank delivers a fifth straight rate cut to 13.75% even as the Fed hikes -- a clean policy-divergence trade for EM/multi-asset desks",
+          "detail": "Banco Central do Brasil cut the Selic rate to 13.75% on Wednesday, its fifth consecutive reduction, even as the Fed moved in the opposite direction with its first hike since 2023. The divergence has not dented the real, which held resilient near 5.16 per dollar, reflecting Brazil's still-deeply-positive inflation-adjusted policy rate (one of the world's highest in real terms) and an improving trade balance that continues to draw carry-trade flows despite the broader dollar-strength backdrop weighing on most other EM currencies today. The Ibovespa has gained roughly 21.85% over the past twelve months, underscoring the carry-trade appeal that is currently insulating Brazil from the kind of EM stress showing up elsewhere (Turkish lira at a fresh record low, South African rand near a one-week low, as flagged in the European session). For multi-asset and EM-focused desks, Brazil is today's clearest example of a high-carry EM economy successfully decoupling its currency and equity performance from the Fed's tightening cycle, at least for now.",
+          "source": "Central bank statements via search aggregation, Bloomberg EM coverage",
+          "time": "BCB decision Wednesday evening BRT; read-through through Thursday's US/LatAm overlap session"
+        },
+        {
+          "stars": 1,
+          "headline": "Trip.com beats and rises 3% on strong Q2 results -- a constructive China-consumer read-through via a Nasdaq-listed ADR",
+          "detail": "Trip.com Group reported second-quarter fiscal 2026 adjusted earnings of $1.07 per share, beating the Zacks consensus estimate of 98 cents, with shares gaining about 3% on the day. As one of the most liquid US-listed proxies for Chinese consumer and travel demand, the beat is a modestly constructive counterpoint to the more cautious Hong Kong and mainland China equity tone flagged in Thursday's Asia session (Hang Seng -1.1% to -1.2%, Shanghai Composite -0.4%), suggesting outbound travel and discretionary spending among Chinese consumers is holding up better than sentiment in rate-sensitive HK financials and property names would imply.",
+          "source": "Zacks via Yahoo Finance",
+          "time": "Pre-market earnings release"
+        },
+        {
+          "stars": 1,
+          "headline": "Credit spreads stay near historically tight levels -- HY OAS around 270-276bp, IG around 80-81bp -- leaving limited compensation for risk",
+          "detail": "The ICE BofA US High Yield Index option-adjusted spread was tracked at roughly 270-276bp through mid-September, in the richest decile of its history versus a long-run median closer to 450bp, while broad investment-grade OAS sits near 80-81bp (tighter for AA issuers, wider for BBB). The setup leaves credit allocators with little room for error: spreads this tight already price in a fairly benign default and growth outlook, so a hawkish Fed that raises the bar for continued disinflation without yet showing up in weaker labor or manufacturing data (today's claims and Philly Fed beats notwithstanding) is a genuine risk factor for spread widening if the growth data eventually catches down to the hawkish rate path, rather than a today-specific catalyst.",
+          "source": "FRED (BAMLH0A0HYM2), Convex, MacroMicro",
+          "time": "Trailing data through mid-September, context for Thursday's session"
+        },
+        {
+          "stars": 1,
+          "headline": "VIX eases back toward the upper teens after Wednesday's Fed-day spike, tracking the equity rebound",
+          "detail": "The CBOE Volatility Index, which had pushed into the high-17s intraday around Wednesday's FOMC decision, settled back toward that same upper-teens range Thursday (last close near 17.20-17.71) as equities rebounded and the initial post-Fed uncertainty faded. The move is unremarkable in isolation but confirms the broader session narrative: today's rally is being read by options markets as a genuine de-risking of Fed-decision event risk rather than the start of a new volatility regime, consistent with rates and the dollar also stabilizing rather than extending their Wednesday moves.",
+          "source": "CNBC, Yahoo Finance VIX data",
+          "time": "US cash session"
+        },
+        {
+          "stars": 1,
+          "headline": "Dollar index holds near a seven-week high, keeping gold pinned below $4,350 and adding to pressure on weaker EM currencies",
+          "detail": "The dollar index traded near 100.1, up about 0.75% and holding close to its highest level in roughly seven weeks following Wednesday's hike, continuing to weigh on gold (last near $4,346, down about 0.94% on the day and holding near six-week lows) and on the weaker end of the EM currency complex -- consistent with the Turkish lira's fresh record low and the South African rand's one-week low flagged in the European session. Copper was the notable exception to dollar-strength headwinds, firming toward $6.51-6.59 per pound on COMEX (up roughly 2.4%-2.5%), continuing the Chinese-demand restocking signal (Yangshan premium at a near four-year high) flagged out of Thursday's Asia session -- a reminder that industrial-metals demand fundamentals are, for now, outweighing the generic dollar-strength drag that is otherwise dominating cross-asset FX and precious-metals price action today.",
+          "source": "Barchart, Investing.com, Metalcharts",
+          "time": "US cash session"
+        }
+      ]
     }
   },
   "indicators": {
@@ -456,6 +556,79 @@
         "change": "-12bp post-BoE",
         "direction": "down"
       }
+    ],
+    "us": [
+      {
+        "category": "Equities",
+        "label": "S&P 500",
+        "value": "~7,600-7,640",
+        "change": "+0.6% to +1.1% (sources vary)",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "Nasdaq Composite",
+        "value": "26,418.30",
+        "change": "+1.69%",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "Dow Jones",
+        "value": "51,778.04",
+        "change": "+0.61%",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "Russell 2000",
+        "value": "2,874.63",
+        "change": "+0.55%",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "Dollar Index (DXY)",
+        "value": "~100.1",
+        "change": "+0.75%, near 7-week high",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "Gold",
+        "value": "~$4,346/oz",
+        "change": "-0.94%, near 6-week low",
+        "direction": "down"
+      },
+      {
+        "category": "Commodities",
+        "label": "WTI Crude",
+        "value": "~$102/bbl",
+        "change": "-0.2%, extending Wed's -3.2% drop",
+        "direction": "down"
+      },
+      {
+        "category": "Commodities",
+        "label": "Copper",
+        "value": "~$6.51-6.59/lb (COMEX)",
+        "change": "+2.4% to +2.5%",
+        "direction": "up"
+      },
+      {
+        "category": "Rates",
+        "label": "US 10Y Treasury",
+        "value": "~4.94%",
+        "change": "-8bp, easing off Fed-day peak",
+        "direction": "down"
+      },
+      {
+        "category": "Rates",
+        "label": "US 2Y Treasury",
+        "value": "~4.39%",
+        "change": "little changed",
+        "direction": "flat"
+      }
     ]
-  }
+  },
+  "summary": "The day was framed start to finish by the Fed's first rate hike since 2023 -- 25bp to 3.75%-4.00%, delivered Wednesday with a hawkish dot plot and Chair Warsh's record-short press conference -- which sent the dollar and Treasury yields higher through Asia's session, pushed UK gilts to near-GFC-era highs before a BoE hold-with-hawkish-dissent and a gilt-sales pause triggered a sharp reversal, and gave way Thursday to a broad US equity rebound as oil extended its slide on progress restoring Saudi Arabia's damaged pipeline. Central-bank divergence was the throughline across all three sessions: the HKMA mechanically matched the Fed via its peg, the BOJ is close to a lock for its own hike Friday, and Brazil cut for a fifth straight meeting even as the Fed tightened, while credit and vol stayed historically calm (US HY spreads near decile-tight levels, VIX back in the upper teens) despite the rates and FX volatility underneath. Company-specific stress remained concentrated rather than systemic -- Bilfinger (-24% on a guidance cut) and Raiffeisen (-9% on sanctions-evasion allegations) in Europe, Lennar's earnings miss in the US -- while the unresolved Red Sea/Hormuz chokepoint crisis and Friday's BOJ decision remain the key swing factors heading into the new week."
 }
