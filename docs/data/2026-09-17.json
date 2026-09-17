@@ -127,8 +127,122 @@
       ]
     },
     "europe": {
-      "status": "pending",
-      "items": []
+      "status": "done",
+      "generated_at": "2026-09-17T18:05:37+02:00",
+      "items": [
+        {
+          "stars": 3,
+          "headline": "BoE holds at 3.75% in a 6-3 split vote as gilts whipsaw from near-GFC-era highs to a sharp post-decision rally, sterling extends its slide",
+          "detail": "The Bank of England's Monetary Policy Committee voted 6-3 to hold Bank Rate at 3.75%, with the three dissenters pushing for an immediate 25bp hike to 4.00% on the back of inflation running well above the 2% target. Going into the decision, gilts had already sold off hard on the combination of energy-driven inflation risk and fiscal anxiety ahead of Chancellor Healey's October 28 Budget: the 30-year yield touched 5.89% intraday, its highest since 1998, and the 10-year briefly traded near 5.25%, a level last seen around the global financial crisis. The decision itself triggered a sharp reversal -- the 10-year fell about 8bp to roughly 5.22% and the 30-year dropped nearly 12bp to about 5.74% -- as the BoE also announced it would pause gilt sales for six months and halt long-dated gilt sales entirely, laying out a multi-year plan to offload its remaining ~£488bn QE portfolio by 2034 rather than dumping duration into an already-stressed market. Sterling did not get the same relief: GBP/USD extended its post-Fed slide to around 1.3381 (-0.23%) as markets read the hold-with-hawkish-dissent outcome as delaying rather than removing tightening, with money markets now pricing an 80% probability of a November hike. For fixed income and rates desks this is the clearest cross-asset event of the European session -- a policy decision that moved gilts, sterling and the technical supply picture simultaneously, with direct read-through into the fiscal-headroom debate ahead of the Budget.",
+          "source": "CNBC, Investing.com, FXStreet, BigGo Finance",
+          "time": "BoE decision ~11:00 UTC / noon London; gilt reaction through the London morning-afternoon"
+        },
+        {
+          "stars": 3,
+          "headline": "European equities rally broadly as Fed-hike relief meets a genuine oil-driven inflation reprieve -- Stoxx 600 +0.4%, DAX and CAC both +0.6%, periphery outperforms",
+          "detail": "The pan-European Stoxx 600 added about 0.4%, with the Euro Stoxx 50 up 0.57% to 6,272, Germany's DAX up roughly 0.6%, France's CAC 40 up 0.62% to 8,141, Spain's IBEX 35 up 0.44% to 19,721 and Italy's FTSE MIB up 0.32% to 52,080 -- a genuinely broad-based advance rather than a narrow single-sector pop. Two distinct forces are compounding: first, the Fed's Wednesday hike was largely priced in, so Thursday's session reads as relief that the decision is behind markets; second, and more important for Europe specifically, Brent crude fell to around $102-104 (down roughly 2.1%-2.7% over two sessions) after Saudi Arabia signalled it could restore part of the drone-damaged East-West pipeline's capacity within days and full operations within about six weeks, directly easing the energy-cost input that has been driving European inflation fears all month. The dollar hit a seven-week high on the belt of the Fed decision, which is providing an additional earnings-translation tailwind for European exporters. Desks are also citing unconfirmed Middle East de-escalation chatter as adding to the risk-on tone, though nothing concrete has been confirmed through official channels. The combination of falling energy costs, a resolved Fed decision and a firmer dollar is the dominant cross-asset narrative of the European session, touching equities, currencies, rates and commodities all at once.",
+          "source": "Euronews, Investing.com, Estrategias de Inversión, Bolsamania",
+          "time": "European cash session, ~07:00-16:00 UTC"
+        },
+        {
+          "stars": 2,
+          "headline": "Bilfinger craters 24% after slashing 2026 guidance and unveiling a 1,500-job restructuring, blaming Middle East-driven client caution",
+          "detail": "German industrial services group Bilfinger fell more than 24% by mid-morning after cutting its 2026 revenue guidance to €5.3bn-€5.7bn from €5.4bn-€5.9bn and slashing its EBITA margin target to 3.2%-3.6% from 5.8%-6.2% (4.6%-5.0% adjusted for one-offs). Management pointed to a sudden, marked increase in customer caution during Q3 that hit both new contract awards and drawdowns under existing framework agreements, tying the pullback directly to the prolonged Middle East conflict weighing on client capex decisions across the industrial and energy-services complex the company serves. The board approved a restructuring programme dubbed 'Agile' that could affect up to 1,500 positions worldwide, requiring about €75m in one-off Q4 provisions against an expected €75m in annual savings once fully phased in from 2028. The move is a useful read-through for industrial-services and engineering names with Gulf-region exposure: it suggests the Middle East conflict is now showing up as a genuine demand-destruction story in European corporate earnings, not just a commodity-price and risk-sentiment overlay.",
+          "source": "Investing.com, ad-hoc-news.de",
+          "time": "Frankfurt open, ~07:00-07:30 UTC"
+        },
+        {
+          "stars": 2,
+          "headline": "Raiffeisen Bank International slides as much as 9% after Grizzly Research alleges $1.2bn in Russia sanctions-evasion trade",
+          "detail": "Short-seller Grizzly Research published a report disclosing a short position in Raiffeisen Bank International and alleging the Vienna-based lender's Russian subsidiary was a central conduit for circumventing Western sanctions, citing customs records purportedly linking roughly $1.19bn in sanctioned goods trade to the bank. The report also flagged RBI's 2023 sale of Belarusian lender Priorbank to an Abu Dhabi shell company at around 60% below book value, characterising the deal as bearing hallmarks of sanctions circumvention. RBI shares fell as much as 9% on the day; the bank pushed back publicly, saying its compliance systems have been repeatedly reviewed since the start of the full-scale invasion and that the report contains factually wrong and misleading statements. This is a genuine single-name credibility event for one of the largest Austrian/CEE-exposed banks -- RBI has been the most closely watched Western lender still operating at scale in Russia -- and the allegations, if they gain regulatory traction, carry read-through risk for the broader CEE banking complex's Russia-exposure disclosures.",
+          "source": "CNBC, MarketScreener, Investing.com",
+          "time": "Vienna trade, through the London morning session"
+        },
+        {
+          "stars": 2,
+          "headline": "Next raises profit guidance for a fourth time this year, shares jump over 3% on a strong UK consumer read",
+          "detail": "UK retailer Next lifted its full-year 2026-27 pre-tax profit guidance by £12m to £1.255bn, the fourth upgrade this year, after first-half profit before tax rose 10.5% year-on-year to £569m on total full-price sales up 7.7%, aided by strong summer weather. Full-year EPS guidance was raised to 820.8p from 812.9p, implying roughly 10% annual EPS growth. Shares rose about 3.2% in early London trading. Management flagged a slowdown in expected second-half full-price sales growth to 5.8% from the first half's 7.7% pace, though that is still above the company's previous full-year forecast of 5.0%, so the guide is a genuine upgrade rather than merely a beat-and-hold. As one of the most closely watched UK consumer bellwethers, the repeated upgrade cadence is a useful counterpoint to the gilt-market fiscal-stress narrative dominating UK headlines today -- it suggests the domestic consumer has, so far, been resilient to the higher-for-longer rate backdrop and pre-Budget uncertainty.",
+          "source": "Reuters via Investing.com, AskTraders",
+          "time": "London open, ~07:00 UTC"
+        },
+        {
+          "stars": 2,
+          "headline": "European bank stocks catch a post-Fed bid, reversing Tuesday's 1.3% Stoxx Banks slide, as JPMorgan's Q3 trading guidance sets a constructive read-through",
+          "detail": "Bank shares outperformed across the region Thursday after JPMorgan forecast gains in third-quarter trading and investment-banking revenue, providing a constructive read-through for European lenders with sizeable capital-markets franchises. The move reverses part of Tuesday's roughly 1.3% decline in the Stoxx Europe Banks index, which had come as investors reassessed the balance between higher-for-longer rates (a net interest margin tailwind) against slowing loan growth, rising credit risk and a tougher macro backdrop. The sector remains a genuine swing factor for the broader European indices given its heavy index weighting, and today's bid sits alongside -- and is partly offset by -- the idiosyncratic Raiffeisen sell-off, underlining that bank-sector performance this week is being driven as much by single-name and US read-through dynamics as by a clean rates-repricing narrative.",
+          "source": "Reuters, Bloomberg (via search aggregation)",
+          "time": "Through the European session"
+        },
+        {
+          "stars": 2,
+          "headline": "Brent falls toward $102-104 as Saudi Arabia moves to restore East-West pipeline capacity, easing Europe's energy-inflation channel",
+          "detail": "Brent crude fell to around $102-103.6 a barrel, down roughly 2.1% on the day and extending a 2.7% drop in the prior session, after Saudi Arabia indicated it could restore about half of the drone-damaged East-West pipeline's capacity within days and reach full operations within roughly six weeks -- materially faster than the three-to-six-week (and in some analyst views, months-long) repair estimates that had circulated earlier in the week. The pipeline normally carries up to 5% of global oil supply from the Gulf to the Red Sea port of Yanbu, bypassing the Strait of Hormuz entirely, so the restoration timeline is the single most important variable for the European energy-inflation outlook right now: a faster fix directly reduces the risk that oil-driven inflation forces the ECB, BoE or other European central banks into a more aggressive tightening path than currently priced. The flip side showed up in equities -- Stoxx Europe Energy dipped about 0.2% as the oil majors gave back some of their recent trading-windfall gains even as the broader market cheered lower input costs.",
+          "source": "CNBC, Al Jazeera, Investing.com",
+          "time": "Through the European session, ~06:00-14:00 UTC"
+        },
+        {
+          "stars": 2,
+          "headline": "USD/TRY grinds to a fresh record low near 48.67 as CBRT holds at 37% for a fifth straight meeting",
+          "detail": "The Turkish lira weakened to a fresh record low near 48.67 per dollar, continuing the central bank's tolerated slow-devaluation path, as the Central Bank of the Republic of Turkey held its policy rate at 37% for a fifth consecutive meeting, in line with expectations. The CBRT's statement said recent inflation data and leading indicators point to a decelerating underlying inflation trend and confirmed continued weakness in domestic demand, while explicitly flagging that surging energy prices tied to the escalation in the Iran-US/Middle East conflict are a heightened inflationary risk. The lira is now down roughly 18% over the past twelve months and 1.6% over the past month, a pace of depreciation the CBRT continues to manage rather than defend outright via FX intervention. For EM and periphery-Europe desks, Turkey remains the clearest example in the region of a central bank explicitly trading currency stability for a still-gradual disinflation path, with the Middle East energy-price channel now the dominant upside risk to that plan.",
+          "source": "Trading Economics, Central Banking, FXStreet",
+          "time": "CBRT decision + FX trade through the session"
+        },
+        {
+          "stars": 1,
+          "headline": "South African rand near a one-week low around 16.1-16.25/USD after Q2 GDP contraction ends a six-quarter expansion streak",
+          "detail": "USD/ZAR held near a one-week low around 16.1-16.25, with the rand's recent softness tracing back to worse-than-expected domestic GDP data showing South Africa's economy contracted 0.2% in Q2, ending six consecutive quarters of growth, as the escalating Middle East conflict disrupted energy-intensive mining and manufacturing activity. SARB hiked its repo rate to 7% in May and held it there through July, with Governor Kganyago signalling the central bank can afford to respond cautiously to recent inflation shocks (inflation eased to 4.3% in July from 5% in June) even as August-September fuel price adjustments risk a temporary reversal. With municipal elections set for November 4, the rand's near-term path is as much a domestic political-risk story as a global dollar-strength one, and today's softness is best read as a continuation of that pre-existing trend rather than a fresh catalyst.",
+          "source": "Trading Economics, FX Leaders, BusinessTech",
+          "time": "Through the European/EM overlap session"
+        },
+        {
+          "stars": 1,
+          "headline": "Bund 10-year holds steady near 3.51% even as ECB signals more tightening ahead, a rare pocket of European rates calm",
+          "detail": "Germany's 10-year Bund yield was little changed around 3.51%, up roughly 25bp over the past month but essentially flat on the day, a notable contrast to the volatility in UK gilts and US Treasuries this week. The steadiness comes despite the ECB having delivered its second hike of the year on September 10 (deposit rate to 2.50%, main refi to 2.65%), with officials citing renewed inflation risk from higher energy prices tied to the Middle East conflict; markets are now pricing the ECB deposit rate reaching roughly 2.9% by December, implying at least one more hike priced in before year-end. The relative Bund calm suggests the market views the ECB's tightening path as largely already communicated and priced, in contrast to the UK where today's BoE hold-with-hawkish-dissent outcome and the fiscal-headroom debate ahead of the October Budget are actively repricing the gilt curve.",
+          "source": "Trading Economics, FXStreet",
+          "time": "European rates session"
+        },
+        {
+          "stars": 1,
+          "headline": "EUR/USD softer, dollar hits a seven-week high broadly as markets digest the Fed hike",
+          "detail": "EUR/USD traded in a roughly 1.153-1.160 range through the session, with the euro on the back foot as the dollar index pushed to its highest level in about seven weeks following Wednesday's Fed hike and hawkish dot-plot guidance. EUR/GBP, by contrast, ticked up toward 0.8588 (GBP/EUR near 1.1655-1.1671), as sterling underperformed the euro on the day given the BoE's hold-with-dissent outcome versus an ECB that has already delivered its second hike of the year. The divergence -- euro weaker against the dollar but firmer against the pound -- is a clean illustration of today's core cross-asset theme: a broadly stronger dollar dominating G10 FX, with the BoE decision acting as the idiosyncratic swing factor for sterling specifically.",
+          "source": "Trading Economics, Investing.com, Bloomberg",
+          "time": "Through the European session"
+        },
+        {
+          "stars": 1,
+          "headline": "Luxury sector stays under pressure: Hermès flat near €1,383, LVMH trading well off its 52-week high",
+          "detail": "Hermès traded roughly flat around €1,383, within a €1,358.50-€1,389 day range and well below its 52-week high of €2,300, while LVMH (most recently quoted around €417, versus a 52-week high of €654.70) continues to trade near multi-month lows. The sector's underperformance this year reflects a structural rather than cyclical set of headwinds -- softer Chinese luxury demand, currency translation drag from a firmer dollar on European reporting, and general risk-off positioning in discretionary consumer names during a period of elevated rates. Analyst coverage remains broadly constructive on both names (heavy buy-rating skew with substantial theoretical upside on both stocks), suggesting the market is treating the pressure as a valuation reset rather than a fundamental deterioration, but neither stock has yet found a durable floor.",
+          "source": "Investing.com equity data",
+          "time": "Paris session"
+        },
+        {
+          "stars": 1,
+          "headline": "European autos remain structurally under pressure from Chinese competition even as Volkswagen's restructuring plan draws support",
+          "detail": "The broader European auto sector continues to wrestle with Chinese EV makers taking European market share, a theme flagged again in sell-side commentary this week describing valuations that assign little value to legacy automakers' core businesses despite improved cash flows and earnings. Volkswagen has been the relative outperformer after its supervisory board backed a turnaround plan including 50,000 additional job cuts, while Stellantis continues to lean on new-model launches (nine concept cars slated for the Paris Motor Show) and French-plant investment to defend share. No fresh today-specific single-name catalyst emerged in the sector during the European session, but the structural competitive story remains one of the more important slow-moving themes for European industrials allocators to track into year-end.",
+          "source": "Reuters Breakingviews, Bloomberg",
+          "time": "Ongoing story, context as of the European session"
+        },
+        {
+          "stars": 1,
+          "headline": "Canada's Carney pitches EU 'associate membership' to European Parliament; Trump threatens to halt US-EU trade if it proceeds",
+          "detail": "Canadian Prime Minister Mark Carney addressed the European Parliament in Strasbourg, endorsing European Commission President von der Leyen's proposal to grant Canada 'associate member' status within the EU -- a novel institutional arrangement without recent precedent. President Trump responded by threatening to halt US trade with Europe entirely if Canada is admitted as an EU associate member, escalating an already tense transatlantic trade backdrop. The story has not yet shown up as a clean market-moving catalyst in European equities or FX today, but it adds another layer of trade-policy tail risk for EU-exposed exporters and is worth tracking closely given the administration's willingness to follow through on trade threats this year; multi-asset and macro desks should treat this as an emerging risk rather than a resolved one.",
+          "source": "Parameter, CoinCentral (Kobeissi Letter coverage)",
+          "time": "Strasbourg address, through the European afternoon"
+        },
+        {
+          "stars": 1,
+          "headline": "Anglo American, Bollore and Dassault Systèmes post notable single-name moves without a clear broad-market driver",
+          "detail": "Among the day's smaller single-name stories: Anglo American rose about 1.1%, tracking firmer industrial-metals sentiment consistent with the Chinese copper-restocking signal flagged in Asia trade; Bollore fell around 1.1%; and Dassault Systèmes dropped about 2.4%, with no single dominant catalyst identified across the newsflow scanned today. These moves sit below the bar for a standalone tradable theme but are worth noting for desks tracking index-constituent dispersion, particularly given how narrow the gap was between the day's broad indices (+0.2% to +0.9%) and the wider spread of single-name outcomes underneath them.",
+          "source": "Newsquawk Daily European Equity Opening News",
+          "time": "European cash open, ~07:00-08:00 UTC"
+        },
+        {
+          "stars": 1,
+          "headline": "USD/PLN and CEE FX stay choppy, zloty trading in a wide 3.72-3.81 weekly range",
+          "detail": "The Polish zloty traded within a roughly 3.72-3.81 range against the dollar over the past week, with the largest single-day move (+0.73%) coming Wednesday around the Fed decision. There was no fresh Poland-specific catalyst identified in today's newsflow; the moves are consistent with the broader dollar-strength theme dominating G10 and EM FX post-Fed rather than any domestic National Bank of Poland policy shift. CEE currencies broadly remain a secondary read on the same US-dollar and European-rates cross-currents driving the rest of the session, without an independent local narrative today.",
+          "source": "30rates.com, MTFX historical data",
+          "time": "Weekly context through European trade"
+        }
+      ]
     },
     "us": {
       "status": "pending",
@@ -234,6 +348,113 @@
         "value": "~2.95%",
         "change": "near 3-decade highs into Friday's BOJ decision",
         "direction": "up"
+      }
+    ],
+    "europe": [
+      {
+        "category": "Equities",
+        "label": "Euro Stoxx 50",
+        "value": "6,272",
+        "change": "+0.57%",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "FTSE 100",
+        "value": "~14,430",
+        "change": "+0.75%",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "DAX",
+        "value": "—",
+        "change": "+0.62%",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "CAC 40",
+        "value": "8,141",
+        "change": "+0.62%",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "IBEX 35",
+        "value": "19,721",
+        "change": "+0.44%",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "EUR/USD",
+        "value": "~1.155",
+        "change": "softer, USD at 7-wk high",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "GBP/USD",
+        "value": "1.3381",
+        "change": "-0.23%",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "EUR/GBP",
+        "value": "0.8588",
+        "change": "euro firmer vs sterling",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "USD/TRY",
+        "value": "48.67",
+        "change": "fresh record low for lira",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "USD/ZAR",
+        "value": "~16.10-16.25",
+        "change": "near 1-week low for rand",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "Gold",
+        "value": "~$4,290/oz",
+        "change": "below $4,300, 6-week low",
+        "direction": "down"
+      },
+      {
+        "category": "Commodities",
+        "label": "Brent Crude",
+        "value": "~$103",
+        "change": "-2.1%",
+        "direction": "down"
+      },
+      {
+        "category": "Rates",
+        "label": "Bund 10Y",
+        "value": "3.51%",
+        "change": "little changed",
+        "direction": "flat"
+      },
+      {
+        "category": "Rates",
+        "label": "Gilt 10Y",
+        "value": "~5.22%",
+        "change": "-8bp post-BoE",
+        "direction": "down"
+      },
+      {
+        "category": "Rates",
+        "label": "Gilt 30Y",
+        "value": "~5.74%",
+        "change": "-12bp post-BoE",
+        "direction": "down"
       }
     ]
   }
