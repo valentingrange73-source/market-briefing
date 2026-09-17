@@ -1,0 +1,240 @@
+{
+  "date": "2026-09-17",
+  "sessions": {
+    "asia": {
+      "status": "done",
+      "generated_at": "2026-09-17T11:30:00+02:00",
+      "items": [
+        {
+          "stars": 3,
+          "headline": "Asia trades the morning-after of the Fed's first hike since 2023, with the dollar and Treasury yields firmer and BOJ next up Friday",
+          "detail": "The Fed's unanimous 25bp move to 3.75%-4.00% landed after Asia's close on Wednesday, so Thursday's session was the region's first chance to reprice against it, and it did so through the dollar and rates channel rather than a straight equity selloff. The dollar index pushed to a roughly two-week high and US 10-year yields pushed toward 5%, dragging USD/JPY toward 156, USD/KRW toward 1,386 and keeping gold pinned near six-week lows around $4,300. Asian equities were mixed rather than uniformly weak -- Tokyo and Sydney rose on the weaker-currency, exporter-friendly read-through, while Hong Kong and Seoul fell as rate-sensitive tech and property names absorbed the higher-for-longer message and foreign investors trimmed exposure. The bigger swing factor for the region is now Friday: the Bank of Japan is close to a lock for a 25bp hike of its own, which would be its most hawkish policy pairing with the Fed since the BOJ began normalizing in 2024. Cross-asset desks are treating today largely as a positioning session ahead of that decision rather than a resolution of the hiking cycle question.",
+          "source": "CNBC, Bloomberg, Saxo Bank Market Quick Take",
+          "time": "Through the Asia session, ~00:00-09:00 UTC"
+        },
+        {
+          "stars": 3,
+          "headline": "BOJ widely expected to hike 25bp to 1.25% on Friday, the highest Japanese rate since 1993",
+          "detail": "All 52 economists surveyed ahead of the two-day meeting concluding September 18 expect the Bank of Japan to raise its policy rate a quarter point to 1.25%, which would be the BOJ's sixth hike since exiting ultra-loose policy in 2024 and its second this year. Roughly 93% of surveyed watchers expect a further move by January, with about a third pencilling in December, meaning tomorrow's decision is as much about the accompanying guidance and yen-support signalling as the move itself. The setup is unusual: a hawkish BOJ landing one day after a hawkish Fed compounds financial-conditions tightening for a region that is simultaneously nursing a weak yen, elevated oil-driven import costs and JGB 10-year yields near three-decade highs around 2.95%. Options and futures positioning in Nikkei and JGB markets has been building into the decision, and a explicit hike with dovish-leaning forward guidance would likely extend yen weakness and support exporters, while a hawkish surprise on the dot-plot-equivalent guidance would hit both JGBs and rate-sensitive Nikkei names hardest at Friday's open. The pairing of BOJ-Fed hikes this week is the first time both banks have tightened in the same calendar week since the BOJ's policy shift began.",
+          "source": "Investing.com (BOJ preview), Bloomberg, MNI",
+          "time": "Ahead of Friday Sept 18 decision (~03:00-06:00 UTC), preview circulated through Thursday's Asia session"
+        },
+        {
+          "stars": 2,
+          "headline": "Hong Kong stocks fall roughly 1.1-1.2% as HKMA matches the Fed hike via the currency peg, Tencent and Alibaba both down",
+          "detail": "The Hang Seng slid toward the 24,400-24,470 area, its worst level since around July, as the mechanical transmission of the Fed decision hit Hong Kong hardest of the major Asia markets. Because the Hong Kong dollar is pegged to the US dollar, the Hong Kong Monetary Authority automatically matched the Fed's move, lifting its base rate 25bp to 4.25% overnight, which tightens local financial conditions in lockstep with the US regardless of Hong Kong's own domestic growth backdrop. Tencent fell about 1.6% and Alibaba about 1.5%, with the mega-cap tech complex leading losses as investors reassessed valuations against a higher discount rate and rising US-China trade risk. The move extends a rougher stretch for Hong Kong equities that has seen the index give back over 10% from this year's high, with desks flagging sticky oil-driven inflation and higher-for-longer messaging as the read-through into Chinese corporate earnings and property-sector refinancing costs. Mainland shares were comparatively more resilient than Hong Kong, underlining that the peg mechanism is doing much of the work in HK's underperformance today.",
+          "source": "Invezz, South China Morning Post",
+          "time": "Hong Kong close, ~08:00 UTC"
+        },
+        {
+          "stars": 2,
+          "headline": "Nikkei and Topix push through 64,200 as a weaker yen lifts exporters, even as Fed hike headlines dominate",
+          "detail": "The Nikkei 225 added roughly 0.5-0.9% to trade above 64,200 (previous close 63,923), with the Topix up around 0.7-1% to near 4,100, as futures-led buying carried through from Wednesday's pre-Fed session. USD/JPY firming toward 156 -- its weakest yen level in about three sessions -- did the heavy lifting for exporter earnings translation, with SoftBank Group up roughly 1.2% and Mitsubishi UFJ Financial Group up about 0.6%. The move is notable because it runs counter to the dollar-strength-equals-risk-off pattern seen in Hong Kong and Seoul today: Japan's exporter-heavy index structure means yen weakness is a net equity tailwind even as it signals tighter global financial conditions elsewhere. That dynamic is set to be tested directly at Friday's BOJ decision, where a hike (near-universally expected) paired with hawkish guidance could reverse the yen weakness that is currently propping up the Nikkei's gains. Desks are broadly treating today's strength as a 'buy the exporter trade before BOJ' positioning move rather than a durable repricing.",
+          "source": "News On Japan, Sunday Guardian Live",
+          "time": "Tokyo close, ~06:00 UTC"
+        },
+        {
+          "stars": 2,
+          "headline": "Kospi ends flat as foreigners dump a seventh straight session of large-cap chip stocks",
+          "detail": "The Kospi closed essentially unchanged at 6,715.41 (-0.04%), giving back an intraday gain of more than 1% after foreign investors sold a net 2.28 trillion won (~$1.6bn), extending a seventh consecutive session of foreign outflows. The index opened firmly higher on the view that Fed-hike risk was already priced in, but turned negative in the afternoon as foreign funds rotated out of Samsung Electronics and SK Hynix specifically, the two stocks with the heaviest index weight and the most direct exposure to global rate and AI-capex sentiment. The pattern is notable given both names sit at the centre of the memory supercycle story -- Samsung, SK Hynix and Micron are reportedly sold out of production capacity through 2027 -- suggesting today's selling is a rates/positioning story rather than a fundamental one. Local flow desks noted the won also stayed soft (USD/KRW near 1,386) despite the equity resilience, an unusual divergence that points to broad de-risking by offshore accounts around the Fed rather than Korea-specific news.",
+          "source": "Seoul Economic Daily (Sedaily)",
+          "time": "Seoul close, ~06:30 UTC"
+        },
+        {
+          "stars": 2,
+          "headline": "SK Hynix rallies on Intel Ohio JV talks while top traders rotate out of Samsung after its HBM4 unveil",
+          "detail": "SK Hynix was the most-bought name among Mirae Asset Securities' top-performing traders after reports it is in talks to lease part of the semiconductor fab Intel is building in Ohio to produce memory chips, with a broader joint venture involving SK Hynix, Intel and major cloud providers also reportedly under review. The same top-trader cohort was a net seller of Samsung Electronics, even though Samsung unveiled its next-generation HBM4 memory earlier this week in a bid to tighten its grip on AI-accelerator supply -- the market read is that the Intel tie-up gives SK Hynix a second high-margin growth vector (leading-edge foundry-adjacent capacity) that Samsung's product announcement alone doesn't offset. The story matters beyond single-name positioning: it signals capacity-constrained memory makers are now actively seeking JV and leasing structures with US foundries to meet AI-driven demand rather than relying purely on organic capex, a structural shift in how the memory supply chain is being built out. Both stocks remain central to Kospi's chip-heavy index composition and to the broader AI-capex trade that has driven much of this year's Asia tech outperformance.",
+          "source": "Seoul Economic Daily (Sedaily)",
+          "time": "Seoul morning session, ~02:00-04:00 UTC"
+        },
+        {
+          "stars": 2,
+          "headline": "Shanghai Composite slips 0.4% to 3,877.46, mainland China lagging Japan's exporter-led bounce",
+          "detail": "The Shanghai Composite fell about 0.4% to 3,877.46 on Thursday in direct reaction to the Fed's rate decision, a relatively contained move analysts described as largely priced in given the hike itself matched consensus. The pullback follows a stronger Wednesday session (Shanghai and CSI 300 both +0.7%, ChiNext +2%, STAR50 +4.1%) that had been driven by a tech-sector rally ahead of the Fed, so today's move is better read as a partial give-back than a fresh risk-off leg. The PBOC continued its steady-hand approach, fixing the USD/CNY reference rate stronger at 6.7580 (from 6.7628 previously) while keeping benchmark loan prime rates unchanged for a 15th straight month, reinforcing the central bank's 'supportive but stable' framing rather than reaching for stimulus. China's underperformance relative to Japan and Australia today underscores that mainland equities remain more sensitive to domestic property-sector and growth concerns than to the Fed's rate path directly, even as the broader dollar-strength backdrop still weighs on sentiment at the margin.",
+          "source": "Business Recorder, Trading Pedia",
+          "time": "Shanghai close, ~07:00 UTC"
+        },
+        {
+          "stars": 2,
+          "headline": "ASX 200 rises 0.4% to 8,732 as RBA hike odds climb into the September 29 decision",
+          "detail": "Australia's ASX 200 closed up around 0.4% at 8,732, extending its bounce off an 11-week low, even as the Fed's move added to pressure on the RBA to follow suit. NAB is now forecasting a 25bp RBA hike at the September 29 meeting to take the cash rate to 4.60%, while ANZ, CBA and Westpac all still expect the move in November, but all four major banks now agree a hike is coming before year-end. The RBA held at 4.35% in August while explicitly leaving the door open to further tightening, and July CPI at 3.5% y/y (trimmed mean 3.6%) remains well above the 2-3% target band, giving the hawks ammunition. AUD/USD was little moved on the day near 0.7221 (-0.01%), suggesting the RBA repricing is not yet a dominant driver of the currency relative to the broader dollar-strength theme from the Fed. The domestic policy debate is a genuine outlier in a region where most other central banks (BOJ, HKMA) are moving in lockstep with the Fed rather than debating their own independent cycle.",
+          "source": "ABC News, Aussie.com.au, Finder",
+          "time": "Sydney close, ~06:00 UTC"
+        },
+        {
+          "stars": 2,
+          "headline": "Oil eases as Saudi Arabia routes crude around its damaged East-West pipeline, but the Hormuz/Red Sea chokepoint crisis stays unresolved",
+          "detail": "WTI slipped about 0.2% to $102.14 and Brent eased to around $105.81, extending Wednesday's pullback as Saudi Arabia moves to cushion the impact of last weekend's drone-damaged East-West pipeline by making additional crude cargoes available to Asian refiners via ship-to-ship transfers near Oman's Sohar port. The pipeline, which has a 7mb/d design capacity and normally lets Saudi crude bypass the Strait of Hormuz entirely via the Red Sea port of Yanbu, remains a critical piece of regional supply infrastructure, and the workaround is a stopgap rather than a fix. The broader chokepoint crisis has not de-escalated: Houthi forces have reportedly taken the Red Sea port city of Mocha and the island of Perim near the Bab al-Mandeb strait, tightening their grip on a key backup shipping route just as the primary Hormuz corridor remains under threat from the wider Iran-linked conflict. For Asia specifically, oil is a genuine two-way risk this week -- a further escalation would hit import-heavy economies (Japan, India, Korea) hardest via both the trade balance and inflation channels, while today's partial reprieve is providing only temporary relief to refiners and current-account-sensitive currencies.",
+          "source": "CNN Business, CNBC",
+          "time": "Through the Asia session, ~00:00-09:00 UTC"
+        },
+        {
+          "stars": 2,
+          "headline": "Copper's Yangshan premium jumps to a near four-year high as Chinese buyers restock on the price dip",
+          "detail": "The Yangshan copper premium, the standard gauge of Chinese physical demand for imported copper, rose 7% to $118 per tonne, its highest level in almost four years, even as LME three-month copper itself has pulled back about 4% from last week's record high near $14,875/t to trade around $14,231/t. The divergence is the story: Chinese buyers are using the pullback from record prices to rebuild inventory rather than stepping back, a signal of genuine underlying demand rather than speculative froth, and a read-through for industrial metals broadly as China's property-linked demand has otherwise been a persistent drag this year. The move comes against a backdrop of a structurally tight global copper market -- analysts have flagged a 17-year global supply shortage colliding with near-$110 oil and record smelter margins pressure -- meaning any sustained pickup in Chinese import demand has outsized price implications given how little spare mine and smelter capacity exists to absorb it. For multi-asset desks, the copper/Yangshan signal is one of the cleaner reads on Chinese real-economy demand available intraday, largely uncorrelated with today's equity-index-level Fed reaction.",
+          "source": "Business Recorder, Crux Investor, IEA",
+          "time": "LME/Yangshan pricing, most recent as of Sept 16-17 Asia trade"
+        },
+        {
+          "stars": 2,
+          "headline": "Gold holds below $4,300, near six-week lows, as the post-Fed dollar and real yields weigh",
+          "detail": "Spot gold traded in a roughly $4,294-$4,356 range and stayed below the psychologically important $4,300 handle for a second straight session, its lowest level in nearly six weeks, as the firmer dollar and rising Treasury yields following the Fed's hike removed some of the safe-haven bid that had been supporting the metal through the Middle East escalation. The pullback is notable given gold had been one of the primary beneficiaries of the chokepoint crisis narrative over the past two weeks; today's move suggests that, for now, the rates/dollar channel from the Fed decision is dominating over the geopolitical safe-haven channel. Asia dealers noted physical demand in India and China provided some support on dips given the softer local-currency gold price, but not enough to push spot back above $4,300 intraday. The metal remains up sharply on the year and well within its recent $4,270-$4,760 range, so today's move reads as consolidation into the BOJ decision rather than a trend reversal.",
+          "source": "JM Bullion, Markets.com, Investing.com",
+          "time": "Through the Asia session, ~00:00-09:00 UTC"
+        },
+        {
+          "stars": 1,
+          "headline": "PBOC fixes yuan stronger at 6.7580, holds LPR steady for a 15th straight month",
+          "detail": "The People's Bank of China set its daily USD/CNY reference rate at 6.7580, firmer than the prior fix of 6.7628, a modest signal of currency stability management even as the dollar strengthened broadly post-Fed. USD/CNH in the offshore market traded around 6.7070, holding in a tight 6.7057-6.7141 range through the session. The central bank left both the one-year (3.0%) and five-year (3.5%) loan prime rates unchanged for a 15th consecutive month, in line with expectations and consistent with its stated 'supportive but moderately loose' stance. The steady fix and unchanged rates suggest the PBOC continues to prioritize currency and financial stability over an aggressive growth push, leaving fiscal policy and targeted property-sector measures as the primary growth levers for now.",
+          "source": "Trading Pedia, Investing.com",
+          "time": "PBOC fix ahead of Thursday's session, ~01:30 UTC"
+        },
+        {
+          "stars": 1,
+          "headline": "India holds up best among Asia majors: Nifty +0.37%, rupee near flat despite the Fed hike",
+          "detail": "The Nifty 50 rose about 0.37% to 23,303.55 and the Sensex added roughly 0.16% to 74,456.42 by midday, with Bharat Electronics, Bajaj Finance and Eternal leading gainers, while USD/INR held nearly flat around 95.95-95.99. India's relative resilience versus Hong Kong and Korea today fits a pattern this year of India being viewed as comparatively insulated from direct China/Hong Kong-style rate-peg mechanics and from the Korea/Taiwan chip-cycle volatility, leaving it more exposed to its own domestic earnings and RBI policy path than to today's Fed-driven cross-asset moves. FII flow data will be the key thing to watch over the next few sessions to see whether this resilience holds once the initial post-Fed dust settles.",
+          "source": "Business Standard",
+          "time": "Mumbai midday, ~06:30 UTC"
+        },
+        {
+          "stars": 1,
+          "headline": "Asia credit spreads hold near multi-year tights; stress still concentrated in China property high yield",
+          "detail": "The JACI (JP Morgan Asia Credit Index) spread tightened roughly 4bp to 82bp on a trailing weekly basis, near multi-year tight levels that reflect investors becoming more comfortable with regional credit risk broadly and accepting less compensation for it. The exception remains mainland China property and other idiosyncratic single-name credits, where the high-yield universe has structurally shrunk -- non-investment-grade active issuers have fallen from 136 in 2020 to just 22 in 2026 -- as defaulted or restructured names have been worked through and survivors skew toward stronger balance sheets. Desks are flagging a busy primary issuance calendar for the rest of September as the main near-term risk to spread stability, alongside the broader macro overhang from robust US data and hawkish Fed commentary that has raised the bar for continued spread compression. For fixed income allocators, the setup argues for staying selective in China property/HY exposure while broader Asia IG and quasi-sovereign credit continues to grind tighter.",
+          "source": "Macrostream (Asia Credit Weekly), UBS Asset Management",
+          "time": "Weekly context, as of Asia trade September 17"
+        },
+        {
+          "stars": 1,
+          "headline": "JGB 10-year yield holds near three-decade highs around 2.95% into Friday's BOJ decision",
+          "detail": "Japan's 10-year government bond yield has been oscillating in a roughly 2.93-2.98% band over the past week, close to its highest level in about three decades, as the market prices in Friday's near-consensus BOJ hike alongside a broader global steepening move tied to elevated US yields post-Fed. The level matters less as a single data point than as the backdrop against which the BOJ decision will land: a hike with hawkish forward guidance risks pushing yields decisively through the 3% threshold, a level that has previously triggered BOJ market-operation responses when crossed too quickly. Curve and duration desks are watching the JGB auction calendar and the BOJ's own bond-buying pace closely into the decision, given how sensitive both domestic bank balance sheets and the broader yen-funding trade are to a disorderly move in Japanese long rates.",
+          "source": "Trading Economics, AsianBondsOnline",
+          "time": "Tokyo trade, ~05:00-06:00 UTC"
+        },
+        {
+          "stars": 1,
+          "headline": "China's CXMT and SMIC keep gaining share in the memory and foundry supply chain",
+          "detail": "Chinese memory maker CXMT has reportedly reached roughly 10% global DRAM market share with revenue up around 870% as it ramps mass production of LPDDR6 and HBM3E chips, while SMIC continues to post strong growth as China's domestic foundry alternative amid ongoing US export-control pressure on advanced chipmaking tools. The trend sits alongside -- and is partly a response to -- the capacity crunch at Samsung, SK Hynix and Micron, all of which are reportedly sold out of memory production through 2027 as AI-driven demand outstrips supply; a faster-than-expected ramp from Chinese suppliers would be a genuine medium-term competitive threat to the Korean/US-aligned memory oligopoly, even if near-term technology gaps in HBM remain meaningful. For investors in the Korean and Taiwanese tech complex, this is a slower-moving but structurally important story to track alongside the day-to-day AI-capex headlines.",
+          "source": "Digitimes, sector research aggregation",
+          "time": "Ongoing story, context as of mid-September 2026"
+        },
+        {
+          "stars": 1,
+          "headline": "New Zealand Q2 GDP beats forecasts at +0.2% q/q despite Middle East-linked drag",
+          "detail": "New Zealand's economy grew a seasonally adjusted 0.2% in Q2, ahead of both the 0.1% consensus forecast and the RBNZ's own forecast of no growth, with annual growth of 2.6% also beating the 2.2% expected. Statisticians and RBNZ commentary flagged that the Middle East crisis's impact on trade and energy costs weighed on the quarter even as the headline print surprised to the upside, keeping the data more of a modest positive than a clear all-clear. The release was effectively the lone standalone data point of note on an otherwise quiet Asia economic calendar today, with FOMC digestion dominating cross-asset attention instead; NZD firmed modestly on the beat. RBNZ rate-path implications are limited near-term given the bank's own more cautious growth forecast was beaten only marginally, but the print reduces the probability of near-term RBNZ easing at the margin.",
+          "source": "Stats NZ, FXStreet, Vantage Markets",
+          "time": "10:45 NZST release (~22:45 UTC Sept 16)"
+        }
+      ]
+    },
+    "europe": {
+      "status": "pending",
+      "items": []
+    },
+    "us": {
+      "status": "pending",
+      "items": []
+    }
+  },
+  "indicators": {
+    "asia": [
+      {
+        "category": "Equities",
+        "label": "Nikkei 225",
+        "value": "~64,200",
+        "change": "+0.5% to +0.9% (session strength varied by source), exporters lead on weaker yen",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "Hang Seng",
+        "value": "~24,450",
+        "change": "-1.1% to -1.2%, Tencent -1.6%, Alibaba -1.5%, HKMA matched Fed hike",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "Shanghai Composite",
+        "value": "3,877.46",
+        "change": "-0.4%, partial give-back after Wednesday's tech rally",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "Kospi",
+        "value": "6,715.41",
+        "change": "-0.04%, flat after erasing 1%+ intraday gain on heavy foreign chip selling",
+        "direction": "flat"
+      },
+      {
+        "category": "Equities",
+        "label": "ASX 200",
+        "value": "8,732",
+        "change": "+0.4%, extends bounce off 11-week low",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "USD/JPY",
+        "value": "~156.17",
+        "change": "yen weaker, 3rd session of losses into BOJ",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "USD/CNH",
+        "value": "6.7070",
+        "change": "PBOC fixed yuan stronger at 6.7580",
+        "direction": "flat"
+      },
+      {
+        "category": "FX",
+        "label": "AUD/USD",
+        "value": "0.7221",
+        "change": "-0.01%, muted ahead of Sept 29 RBA decision",
+        "direction": "flat"
+      },
+      {
+        "category": "FX",
+        "label": "USD/KRW",
+        "value": "~1,386",
+        "change": "won soft despite equity resilience",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "USD/INR",
+        "value": "~95.95",
+        "change": "near flat, rupee among the region's most resilient",
+        "direction": "flat"
+      },
+      {
+        "category": "Commodities",
+        "label": "Gold",
+        "value": "~$4,300/oz",
+        "change": "near 6-week low, below $4,300 handle",
+        "direction": "down"
+      },
+      {
+        "category": "Commodities",
+        "label": "WTI Crude",
+        "value": "$102.14",
+        "change": "-0.2%, Saudi pipeline workaround eases supply fears",
+        "direction": "down"
+      },
+      {
+        "category": "Commodities",
+        "label": "Copper",
+        "value": "~$14,231/t (LME)",
+        "change": "Yangshan premium +7% to 4-yr high on China restocking",
+        "direction": "up"
+      },
+      {
+        "category": "Rates",
+        "label": "JGB 10Y",
+        "value": "~2.95%",
+        "change": "near 3-decade highs into Friday's BOJ decision",
+        "direction": "up"
+      }
+    ]
+  }
+}
