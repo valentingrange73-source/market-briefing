@@ -1,0 +1,226 @@
+{
+  "date": "2026-09-18",
+  "sessions": {
+    "asia": {
+      "status": "done",
+      "generated_at": "2026-09-18T11:15:00+02:00",
+      "items": [
+        {
+          "stars": 3,
+          "headline": "BOJ hikes 25bp to 1.25%, its highest since 1995, but a 7-2 split vote triggers a 'sell the fact' reversal in yen, JGB yields and Nikkei",
+          "detail": "The Bank of Japan delivered the widely expected quarter-point hike to 1.25% at its 0230 GMT decision, its sixth hike since exiting ultra-loose policy and the highest Japanese policy rate in three decades, with Governor Ueda's press conference following at 0630 GMT. The vote was 7-2 rather than unanimous, with board members Toichiro Asada and Ayano Sato -- both reflationist appointees of Prime Minister Takaichi -- dissenting, which markets read as diluting the hawkish signal on the pace of further tightening. The reaction defied the textbook pattern: the yen weakened through 157/dollar rather than strengthening, the 10-year JGB yield fell roughly 4.9bp to 2.947% even as it sits near a three-decade high, and the Nikkei 225 rose 1.5% rather than selling off. The mechanism is a classic 'buy the rumour, sell the fact' unwind -- with the hike almost fully priced and JGB yields already near cycle highs into the decision, delivery removed uncertainty rather than adding fresh hawkish news, and the split vote reinforced a view that the pace of subsequent hikes (next seen as possible in December) is not accelerating. Export-heavy Nikkei names led gains on the weaker yen, while the muted currency reaction leaves the yen carry trade largely intact heading into the weekend. This is the region's most consequential single event of the session, cutting across FX, rates and equities simultaneously.",
+          "source": "CNBC, Reuters, investinglive",
+          "time": "Decision 02:30 UTC, Ueda press conference 06:30 UTC"
+        },
+        {
+          "stars": 3,
+          "headline": "Iran strikes Palau-flagged tanker Skylight near the Strait of Hormuz, but oil still falls a third day as Saudi capacity comes back online",
+          "detail": "The tanker Skylight was hit roughly five nautical miles north of Khasab Port near the Strait of Hormuz, with all 20 crew (15 Indian nationals, 5 Iranian) evacuated safely -- the latest escalation in the region's months-long 'tanker war' that began with US strikes on Iranian tankers in early September under Washington's 'tanker for tanker' retaliation policy. Despite a fresh kinetic strike inside the world's most important oil chokepoint, Brent fell roughly 1% to around $103-104/bbl and WTI slipped toward $101, both extending a third straight day of declines. The disconnect is explained by supply-side relief elsewhere: Saudi Arabia is restoring its damaged East-West pipeline (targeting roughly half of its 7mb/d capacity within days, full capacity in about six weeks) and is running ship-to-ship transfers to Asian refiners via Sohar, Oman, bypassing the contested strait entirely. For desks, the read is that headline risk from Hormuz remains acute and could reprice sharply on any escalation, but the market's current pricing reflects confidence in Saudi Arabia's ability to reroute barrels around the chokepoint -- a fragile equilibrium that could snap if attacks target the alternate routes.",
+          "source": "CNBC, Al Jazeera, Bloomberg",
+          "time": "Overnight into Asia session"
+        },
+        {
+          "stars": 2,
+          "headline": "RBA's Bullock tells parliament inflation risks are 'materialising,' all but locking in a September 28-29 hike",
+          "detail": "Governor Michele Bullock, appearing before a House of Representatives economics committee alongside Deputy Governor Hauser, said the upside inflation risks flagged in August are now materialising, citing Middle East-driven energy prices, AI-boom demand for power and materials, and extreme weather events on the agriculture side. The testimony pushed market pricing for a hike at the September 28-29 meeting to close to fully priced from roughly 70-75% before the hearing, with a further hike priced in by March; UBS moved its call to two more hikes taking the cash rate to a 4.85% terminal. AUD/USD firmed into the 0.71-0.72 area on the repricing. The ASX 200 barely moved, essentially flat around 8,731, as a rotation between rate-sensitive banks/staples (weaker) and a bounce in miners largely offset each other -- a reminder that a hawkish repricing in front-end rates does not mechanically translate into a single equity direction when sector composition is mixed.",
+          "source": "ABC News, investinglive",
+          "time": "Parliamentary testimony, Asia morning"
+        },
+        {
+          "stars": 2,
+          "headline": "Samsung and SK Hynix jump as Nvidia's bullish AI demand outlook carries into Asia; Kospi opens 2.5% higher",
+          "detail": "Nvidia's upbeat chip-demand commentary from Thursday's US session triggered an immediate read-through into Asia's memory and foundry complex. The Kospi opened sharply higher, up around 2.5% to roughly 6,886, led by SK Hynix and Samsung Electronics as the region's highest-beta proxies for the Nvidia trade. The move extends a broader supply-chain story: TSMC posted August revenue up 53% y/y, blowing past its own guidance, with management describing packaging capacity as 'so tight' it is constraining customers and the demand-supply gap as 'very big.' For multi-asset and thematic funds, the signal is that AI capex is still translating directly into APAC hardware earnings momentum rather than showing signs of digestion, even after a sharp chip-sector selloff earlier this year wiped over $1 trillion off valuations -- underscoring how quickly sentiment in this complex can swing on a single US earnings print.",
+          "source": "Bloomberg, Investing.com, Digitimes",
+          "time": "Seoul/Tokyo morning session"
+        },
+        {
+          "stars": 2,
+          "headline": "PBOC guides yuan to its strongest level since 2022 with an eighth straight firmer fixing, ahead of the Xi-Trump summit",
+          "detail": "The offshore yuan strengthened to around 6.6957 per dollar, its firmest since July 2022, after the PBOC set its daily reference fixing stronger for an eighth consecutive session -- the longest such streak since 2023. The move looks like a deliberate policy signal rather than a market-driven rally: Beijing appears to want currency stability and strength as a show of confidence heading into the upcoming meeting between Xi Jinping and President Trump, rather than risk a weak-yuan headline complicating trade diplomacy. It comes even as China is widely expected to hold its loan prime rates unchanged for a 16th consecutive month at Sunday's review (1-year at 3.00%, 5-year at 3.50%), suggesting policymakers are currently leaning on FX signaling rather than rate cuts to manage the macro narrative. For FX desks, an eight-session stronger-fixing streak this deliberate is itself a data point on Beijing's reaction function into the summit.",
+          "source": "Bloomberg, Reuters",
+          "time": "Friday fixing, ~01:15 UTC"
+        },
+        {
+          "stars": 2,
+          "headline": "Shanghai Composite and CSI 300 rebound as onshore investors trade the Xi-Trump summit as a de-risking event",
+          "detail": "The Shanghai Composite rose 0.94% to 3,911.9 and the Shenzhen Component gained 1.72% to 13,640.9, with the CSI 300 firmer as well, rebounding from Thursday's partial give-back. The move lines up with the PBOC's stronger yuan fixing and comes despite soft underlying data -- August industrial output growth slowed to 3.5% y/y from 5.0% in July, and the unemployment rate ticked up to 5.6% -- indicating the rally is being driven by summit positioning and short-covering rather than a genuine improvement in the growth outlook. Desks should treat the bounce as sentiment-driven and reversible: onshore equities have repeatedly round-tripped stimulus and trade-diplomacy rallies this year when the underlying data hasn't followed through.",
+          "source": "Bloomberg, multiple",
+          "time": "Shanghai/Shenzhen session"
+        },
+        {
+          "stars": 2,
+          "headline": "Hong Kong tech leads Hang Seng higher as Alibaba and Tencent both gain on broad regional risk-on tone",
+          "detail": "Hong Kong-listed tech outperformed within a broadly positive Asia session, with Alibaba and Tencent both firmer and the Hang Seng Tech sub-index up around 1.7%, as MSCI's broader Asian equities gauge rose roughly 0.8% -- its best cross-regional showing in weeks -- carried by the same Wall Street rally (S&P 500 and Nasdaq 100's best day since early August) and falling oil prices that lifted sentiment across the region. The move is consistent with continued capital inflows into Hong Kong tech from mainland investors and Middle East sovereign funds that have supported the sector through the year, though single-day HSI level data was inconsistent across sources this morning and desks should confirm the exact close against their own feed before marking books.",
+          "source": "Bloomberg, SCMP",
+          "time": "Hong Kong session"
+        },
+        {
+          "stars": 2,
+          "headline": "Gold extends gain toward $4,400/oz on a disinflationary rather than risk-off bid, as falling oil pulls yields lower",
+          "detail": "Gold rose about 1% to $4,384.78/oz, extending Thursday's advance, with the move explicitly tied to falling oil prices easing inflation expectations and pulling bond yields lower -- the JGB pullback post-BOJ fits the same pattern -- rather than a classic flight-to-safety bid despite the Hormuz tanker strike and ongoing Iran tensions sitting in the background. Gold remains down roughly 2.9% over the past month but still up about 19% year-on-year. The setup is worth flagging for multi-asset desks: gold rallying on lower yields even as a live geopolitical shock (the Hormuz strike) fails to move it materially suggests the market's marginal driver right now is the global rates/duration channel, not the geopolitical risk premium.",
+          "source": "TradingEconomics, Bloomberg",
+          "time": "Asia morning"
+        },
+        {
+          "stars": 1,
+          "headline": "Copper drifts near seven-week lows around $6.40-6.53/lb as the market digests mixed China data",
+          "detail": "Copper futures traded in a $6.40-6.53/lb range, still hovering near seven-week lows reached earlier this month as fresh deliveries into London warehouses eased supply-tightness concerns. Reads on the demand side from China were mixed this week: some data pointed to industrial output growth running ahead of expectations in August, while other readings show broader activity indicators (industrial output, investment, retail-adjacent consumption) softening from July. With no fresh single catalyst overnight, copper is essentially rangebound and taking direction from the broader China growth debate rather than any dedicated news today.",
+          "source": "TradingEconomics",
+          "time": "Asia session"
+        },
+        {
+          "stars": 2,
+          "headline": "Yen speculative positioning rebuilds to net short above 50,000 contracts, confirming September's brief long spell was short-covering",
+          "detail": "CFTC data show speculative yen positioning has swung sharply in recent weeks -- from a net short of around 92,200 contracts, to a brief net long of about 10,800 contracts in the week to September 8, and now back to a net short above 50,000 contracts. The round trip indicates the September long spell was driven by short-covering into Fed/BOJ event risk rather than a genuine directional shift in view, and it lines up with today's muted yen reaction to the BOJ hike -- carry-trade funding in yen remains broadly intact rather than being aggressively unwound. For CTA and macro fund desks, this is the clearest read yet that systematic positioning is still treating BOJ normalisation as gradual enough not to threaten the funding-currency status of the yen, though the position is now large enough that any hawkish surprise from Ueda on the pace of future hikes would have outsized squeeze potential.",
+          "source": "FXStreet (CFTC COT report), Convera",
+          "time": "COT data as of week ending Sept 8, contextualizing today's price action"
+        },
+        {
+          "stars": 2,
+          "headline": "Asia high-yield dollar bonds extend 2026 outperformance, +4.3% YTD versus 2% for US HY, as spreads near historically tight levels",
+          "detail": "Asian high-yield dollar bonds have returned 4.3% so far this year against 2% for US high yield, ranking among the best-performing segments of global fixed income tracked by Bloomberg, with Chinese issuers driving the bulk of the outperformance amid cheaper onshore financing conditions. Spreads across the region have tightened toward the historically tight end of their range, which desks read as a signal that further compression-driven returns are limited from here -- income/carry is now doing more of the work than spread tightening. This is a structural, multi-week theme rather than a single-day move, but it's directly relevant for credit and multi-asset allocators weighing Asia HY against a US high-yield market that is itself trading near decile-tight spreads: Asia is offering a diversification angle within an already-expensive global credit backdrop.",
+          "source": "CreditSights, Bloomberg",
+          "time": "As of data through Sept 15, context for today's session"
+        },
+        {
+          "stars": 1,
+          "headline": "Indian equities and rupee firm in early trade as oil retreats, though IT and Tata-group stocks cap the advance",
+          "detail": "The Nifty 50 was up about 0.14% to 23,302 and the rupee gained 16 paise to 95.73/dollar in early Friday trade, rebounding off two-month lows, with the move supported by easing crude prices overseas and continued domestic equity buying. Gains were capped by weakness in IT and some Tata-group names, keeping the advance modest rather than broad-based. The move is consistent with the region-wide pattern today of falling oil acting as the dominant cross-asset tailwind, even as India-specific single-stock drags kept the index move contained.",
+          "source": "Business Standard",
+          "time": "Early NSE/BSE trade, Friday session"
+        },
+        {
+          "stars": 1,
+          "headline": "Ringgit and regional ASEAN currencies firm modestly as easing Middle East oil-supply concerns lift risk appetite",
+          "detail": "The Malaysian ringgit opened higher against the dollar at 4.0955/1015 from Thursday's 4.0965/1010 close, gaining against the Singapore dollar while dipping slightly against the Thai baht and holding roughly flat against the Indonesian rupiah and Philippine peso. The move is a direct extension of the region's broader risk-on tone -- falling oil prices easing import-cost and inflation concerns for energy-importing ASEAN economies -- rather than any country-specific catalyst. It is a modest move in absolute terms but fits the session's dominant cross-asset theme of oil-driven risk appetite spilling into EM Asia FX.",
+          "source": "Malay Mail",
+          "time": "Kuala Lumpur morning trade"
+        },
+        {
+          "stars": 1,
+          "headline": "China's loan prime rate expected to hold steady for a 16th straight month at Sunday's review",
+          "detail": "A Reuters poll of 21 market participants found unanimous expectations that the PBOC will leave the one-year LPR at 3.00% and the five-year LPR at 3.50% when the rates are set this weekend, extending an unchanged streak that has now run for over a year. The forecast holding pattern reflects policymakers' continued caution about fresh stimulus even as growth data has softened, preferring targeted measures (export VAT rebates, EV/appliance trade-in financing, tech R&D tax incentives) over broad rate cuts -- consistent with today's FX-led signaling into the Xi-Trump summit rather than a monetary-easing push. Nothing here moved markets today, but it sets up this weekend's actual data point for Monday's open.",
+          "source": "Reuters",
+          "time": "Preview ahead of Sunday's LPR fixing"
+        }
+      ]
+    },
+    "europe": {
+      "status": "pending",
+      "items": []
+    },
+    "us": {
+      "status": "pending",
+      "items": []
+    }
+  },
+  "indicators": {
+    "asia": [
+      {
+        "category": "Equities",
+        "label": "Nikkei 225",
+        "value": "—",
+        "change": "+1.5% post-BOJ, near record levels",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "Hang Seng",
+        "value": "—",
+        "change": "Higher; Hang Seng Tech +~1.7%, Alibaba/Tencent both firmer",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "Shanghai Composite",
+        "value": "3,911.9",
+        "change": "+0.94%",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "Kospi",
+        "value": "~6,886 (session open)",
+        "change": "+2.5% at the open, chip-led",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "ASX 200",
+        "value": "8,731",
+        "change": "-1.2pts, essentially flat",
+        "direction": "flat"
+      },
+      {
+        "category": "FX",
+        "label": "USD/JPY",
+        "value": "~156.3-157+",
+        "change": "Yen weaker, briefly through 157 post-BOJ",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "USD/CNH",
+        "value": "~6.6957",
+        "change": "Yuan strongest since 2022, 8th straight firmer PBOC fix",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "AUD/USD",
+        "value": "~0.71-0.72",
+        "change": "Firmer on hawkish Bullock testimony",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "USD/KRW",
+        "value": "~1,380",
+        "change": "Won little changed",
+        "direction": "flat"
+      },
+      {
+        "category": "FX",
+        "label": "USD/INR",
+        "value": "95.73",
+        "change": "Rupee +16 paise in early trade",
+        "direction": "down"
+      },
+      {
+        "category": "Commodities",
+        "label": "Gold",
+        "value": "$4,384.78/oz",
+        "change": "+1.0%, extending toward $4,400",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "Brent Crude",
+        "value": "~$103-104/bbl",
+        "change": "-1%, third straight day of declines",
+        "direction": "down"
+      },
+      {
+        "category": "Commodities",
+        "label": "WTI Crude",
+        "value": "~$101/bbl",
+        "change": "-0.9%",
+        "direction": "down"
+      },
+      {
+        "category": "Commodities",
+        "label": "Copper",
+        "value": "$6.40-6.53/lb",
+        "change": "Near seven-week lows, rangebound",
+        "direction": "flat"
+      },
+      {
+        "category": "Rates",
+        "label": "JGB 10Y Yield",
+        "value": "2.947%",
+        "change": "-4.9bp post-BOJ",
+        "direction": "down"
+      }
+    ]
+  }
+}
