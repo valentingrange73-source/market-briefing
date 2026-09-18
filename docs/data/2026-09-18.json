@@ -238,8 +238,129 @@
       ]
     },
     "us": {
-      "status": "pending",
-      "items": []
+      "status": "done",
+      "generated_at": "2026-09-18T21:30:00+02:00",
+      "items": [
+        {
+          "stars": 3,
+          "headline": "Wednesday's Fed hike to 3.75-4.00% keeps repricing the curve through Friday's close -- 10-year yield near 5%, a December follow-up now close to fully priced",
+          "detail": "The FOMC voted 12-0 on Wednesday to lift the fed funds target range to 3.75-4.00%, the first US hike since 2023, with Chair Kevin Warsh reiterating at Jackson Hole days earlier that softer monthly inflation readings 'do not tell me that underlying trends have meaningfully improved.' Two days on, the follow-through rather than the decision itself is what's moving markets: CME FedWatch pricing now shows roughly 50-55% odds of an October move and close to 88-90% odds of a further quarter-point hike by December, up sharply from where it sat a week ago. The 10-year Treasury yield pushed to essentially 5.00-5.01% intraday Friday -- its highest close since 2007 -- while the 2-year rose to around 4.75%, leaving the 2s10s spread at a narrow +27bp: positively sloped but well below the 100-150bp typical of a healthy expansion. The timing compounds an already stagflationary-looking backdrop -- University of Michigan sentiment collapsed to 47.8 this month, the second-lowest reading since 1952, with year-ahead inflation expectations up to 4.6% -- meaning the Fed is visibly prioritizing inflation credibility over growth optics. For rates and multi-asset desks, the read is that duration remains the dominant cross-asset story of the week: this is the same dynamic driving Bund yields to 17-year highs and gilts to multi-decade highs in Europe, now confirmed as a globally synchronized, Fed-led repricing rather than a regional phenomenon.",
+          "source": "CNBC, TheStreet, Federal Reserve, CME FedWatch",
+          "time": "FOMC decision Wed Sept 16 ~18:00 UTC; yield move through Friday's cash session to ~20:00 UTC"
+        },
+        {
+          "stars": 2,
+          "headline": "Warren Buffett steps down as Berkshire Hathaway chairman after 56 years, handing the gavel to son Howard as CEO Greg Abel's authority is formalized",
+          "detail": "Buffett, 96, told shareholders in a Friday letter that he is stepping down as chairman effective immediately -- 'Father Time always wins' -- becoming chairman emeritus while remaining a director. Howard Buffett, a Berkshire board member since 1993, takes over as chairman, while Greg Abel, who became CEO earlier this year, gets his authority as operating chief formalized alongside the governance change; Buffett's letter credited Abel with having 'exceeded his expectations.' The market reaction was muted relative to the news's scale, which is itself informative -- this is a succession and governance event rather than an earnings or capital-allocation surprise, and Berkshire's famously conservative balance sheet and enormous cash pile are unaffected by the chairmanship transition on its own. For multi-asset allocators, the more relevant question going forward is whether Abel's now-fuller authority produces any shift in Berkshire's capital-deployment posture -- cash levels, buyback pace, or public-equity concentration -- heading into 2027, given how closely Buffett's own commentary has functioned as an informal read on market valuation for institutional investors for decades. It is also a symbolic bookend to a week already dominated by policy regime change, landing the same day the Fed's hiking cycle and the BOJ's normalization path are both back in focus.",
+          "source": "Washington Post, CNBC, CNN Business, Axios",
+          "time": "Shareholder letter released Friday morning, ~13:00 UTC"
+        },
+        {
+          "stars": 2,
+          "headline": "Quarterly triple witching produces the second-largest options expiry on record -- roughly $7 trillion of notional rolls off in one session",
+          "detail": "Today is one of four annual triple-witching Fridays, when stock options, index options and index futures all expire simultaneously; Citadel Securities data put today's expiring notional at around $7 trillion, roughly a quarter of the total options market and the second-largest such event on record. Triple witching mechanically inflates volume and can produce sharp, information-free swings in the final trading hour as market-makers and funds roll or unwind hedges and expiring positions, distinct from anything driven by fresh news. The scale this quarter is notable in the context of a market that has built substantial options-related positioning around both the AI/semiconductor trade and rates-sensitive sectors through a volatile summer, meaning the unwind carries more mechanical weight than a typical quarter. Despite the size of the expiry and this week's Fed-driven volatility, the CBOE Volatility Index held in the mid-teens through the session, suggesting dealers were reasonably positioned for the event rather than being caught offside. Desks should treat some of the day's index-level moves -- and especially any late-session reversals -- as positioning mechanics rather than a read on the fundamental picture.",
+          "source": "Bloomberg, Investing.com, Cboe",
+          "time": "Expiry effects concentrated into the cash close, ~19:00-20:00 UTC"
+        },
+        {
+          "stars": 2,
+          "headline": "US high-yield spreads sit near historically tight levels around 271bp even as the Fed hikes into a slowing-sentiment backdrop",
+          "detail": "The ICE BofA US High Yield Index Option-Adjusted Spread stood at roughly 2.71% (271bp) this week, near the tight end of its historical range and consistent with the Asia session's read on Asian HY spreads also compressing toward decile-tight levels. The combination of a hiking Fed, a collapsing consumer-sentiment print, and spreads this tight is an unusual one: credit is pricing very little near-term default or recession risk even as the rates market reprices for a higher-for-longer policy path and equity-market sentiment gauges (Michigan at 47.8) sit near record lows. For credit and multi-asset desks, the read is that carry is doing essentially all the work in high yield right now, and the asset class has limited room left to compress further -- meaning total-return upside from here depends almost entirely on the coupon rather than additional spread tightening, and leaves HY more exposed than usual to a growth-data disappointment repricing the credit risk premium wider. This mirrors the same dynamic flagged for Asian and European high-yield in earlier sessions today, making tight, carry-driven credit a genuinely global theme rather than a US-specific one.",
+          "source": "FRED (ICE BofA), TradingEconomics, MacroMicro",
+          "time": "Spread level as of Friday, contextualizing the session"
+        },
+        {
+          "stars": 2,
+          "headline": "Financials lag the broader tape for a second straight week -- XLF down more than 2%, Citizens Financial off 4.8% -- as the Fed hike fails to lift bank sentiment",
+          "detail": "The SPDR Financial Select Sector Fund (XLF) has dropped more than 2% over the past week even as the S&P 500 was roughly flat, a divergence that runs counter to the textbook expectation that a hiking Fed benefits net-interest-margin-sensitive bank stocks. Citizens Financial was among the sector's weakest single names, closing down 4.8% at $66.84 on Thursday and now sitting 10.6% below its 52-week high, as bank shares broadly reacted negatively to the confirmation of further tightening ahead rather than the hike itself. The mechanism worth flagging for desks: a hike delivered alongside a curve this flat (2s10s at just +27bp) and consumer sentiment this weak raises credit-quality and loan-demand concerns for banks that can outweigh the NIM benefit of higher short rates, particularly for regional and super-regional names more exposed to consumer and commercial lending than trading revenue. Money-center names (Bank of America, JPMorgan, US Bancorp) are the ones desks are watching most closely into next week's data for signs of whether this is sector-specific rotation or an early tell on credit conditions more broadly.",
+          "source": "CNBC, Ad-hoc News, MarketBeat",
+          "time": "Week through Friday's close, ~20:00 UTC"
+        },
+        {
+          "stars": 2,
+          "headline": "Energy underperforms again as crude extends its slide -- Exxon fell 3.5% and Chevron 0.6% into Friday even as both majors remain among 2026's best-performing large caps",
+          "detail": "Exxon Mobil closed Thursday at $163.32, down 3.5% on the day, while Chevron finished at $210.28, down 0.6%, as Brent traded near $103 and WTI held close to $100-101, both continuing the third consecutive down day flagged in the Asia session as Saudi Arabia works to restore damaged export infrastructure. The pullback is a near-term price move rather than a change in the majors' 2026 trajectory -- Exxon's 31% year-to-date gain and Chevron's 29% remain among the strongest in the S&P 500, powered by $100-plus oil for most of the year and, per sector commentary, historically wide refining margins that benefit integrated majors on both the crude-price and crack-spread legs of their business. The tension for energy desks is the same one flagged in Europe: Saudi Arabia's crude and diesel exports to Europe are frozen until November following the Yanbu and East-West pipeline strikes, a structurally bullish setup for refining margins and product cracks into Q4 earnings, even as the day-to-day oil price direction (currently softer on supply-rerouting relief) is pulling upstream-heavy US energy equities lower. Desks running the sector should distinguish between the bearish daily price action and what looks like a bullish medium-term earnings setup for the majors' downstream and trading arms.",
+          "source": "Ad-hoc News, Yahoo Finance, 24/7 Wall St.",
+          "time": "Thursday close carried into Friday's session; oil continuing to soften through the US morning"
+        },
+        {
+          "stars": 2,
+          "headline": "AI/semiconductor rally extends on Huang's 'twice as many chips in 2027' call and Broadcom's 'very strong and durable' demand line -- but Qualcomm bucks the trend, down 6%",
+          "detail": "Nvidia, AMD, Intel and Broadcom all traded higher in Friday's session, extending the chip-sector strength that carried into Asia overnight and lifted Samsung and SK Hynix sharply at the open. Nvidia CEO Jensen Huang told investors the company expects to sell twice as many AI chips in 2027 as it will this year, while Broadcom CEO Hock Tan separately said AI infrastructure demand remains 'very strong and very durable,' explicitly pushing back on concerns about slowing AI capex that have periodically hit the sector this year. The divergence worth flagging: Qualcomm fell 6% to $178.15, unwinding part of a rally built over the prior month, alongside softness in Skyworks and Qorvo -- a reminder that the AI-driven strength is concentrated in the data-center/GPU/networking complex rather than lifting the entire semiconductor space uniformly, with mobile-exposed names trading on a separate, weaker set of fundamentals. For thematic and multi-asset funds, today's action confirms the read from Asia's session: AI capex commentary from US mega-cap suppliers continues to be the single most powerful cross-regional catalyst in equities right now, capable of moving Korean and Taiwanese hardware names as much as the US semis themselves.",
+          "source": "TipRanks, 24/7 Wall St.",
+          "time": "Pre-market into the cash session, ~12:00-16:00 UTC"
+        },
+        {
+          "stars": 2,
+          "headline": "Wells Fargo slashes Netflix to Underweight, cuts price target from $80 to $57, on 'worrying' engagement trends",
+          "detail": "Wells Fargo downgraded Netflix from Equal Weight to Underweight and cut its price target to $57 from $80, sending shares down as much as 3.5% in premarket trading and extending what was already shaping up as a fourth straight down session for the stock. The call centers on engagement data: Wells Fargo's analysts cite an 8% year-over-year decline in viewership and a 3% drop in hours viewed for Netflix's Top 100 Original titles in the first half of 2026, alongside per-subscriber viewing hours down roughly 8% from 2023 once adjusted for the password-sharing crackdown and geographic mix. The $57 target implies roughly 24% downside from Thursday's close and runs directly against Street consensus, where 38 of 52 covering analysts still rate the stock buy or strong buy -- making this a genuine, high-conviction contrarian call rather than a consensus-following move. For media and communication-services desks, the mechanism matters more than the single-name move: if engagement erosion is real and not just a mix effect, it raises questions about Netflix's ability to keep raising prices and expanding margins into a slate of upcoming content investment, a read-through relevant to the broader streaming and ad-supported media complex heading into Q4 earnings season.",
+          "source": "Investing.com, TradingKey, GuruFocus",
+          "time": "Downgrade published pre-market ~12:00 UTC, weighing on shares through the cash session"
+        },
+        {
+          "stars": 2,
+          "headline": "Nucor and Steel Dynamics guidance disappoints -- shares fall 6% and more than 4% -- a soft read on US industrial demand into Q4",
+          "detail": "Steel Dynamics fell more than 4% and Nucor traded 6% lower after both companies issued third-quarter earnings guidance below analyst consensus, with Nucor specifically flagging that earnings in its raw-materials segment are expected to decline even as its steel-mills and steel-products segments should see gains. The divergence within Nucor's own guidance -- mills and products up, raw materials down -- points to margin compression on the input side rather than a demand collapse across the board, but the market's reaction (a 6% single-day move on a large-cap industrial name) suggests investors are treating it as a genuine negative surprise rather than a rounding error. For desks tracking the industrial cycle, steel-sector guidance is typically an early tell on construction, auto and manufacturing demand trends heading into year-end, and today's twin misses land the same week Germany posted a hot 4.6% y/y PPI print driven by energy costs -- a reminder that industrial input-cost pressure is a genuinely global theme right now, not confined to Europe's energy shock. Materials as an S&P sector was among the session's more mixed performers as a result, with the steel-specific weakness offsetting strength elsewhere in the complex.",
+          "source": "Earnings Whispers, company guidance releases",
+          "time": "Guidance released Thursday evening, reaction through Friday's session"
+        },
+        {
+          "stars": 2,
+          "headline": "Bitcoin and crypto extend gains as spot ETFs post their strongest weekly inflow in 10 months at $1.92 billion",
+          "detail": "Bitcoin traded up toward the $80,000-81,000 area Friday, a roughly 5% gain from this time Thursday, as crypto markets moved past the failure of the CLARITY digital-asset legislation and instead focused on continued institutional demand. US spot Bitcoin ETFs recorded $1.92 billion of net inflows over the past week, their strongest showing in 10 months, even as the broader macro backdrop -- a hiking Fed, a firm dollar, and Treasury yields near 5% -- would typically be read as a headwind for risk assets funded on liquidity expectations. JPMorgan flagged separately that Bitcoin could benefit more than gold if ETF-related hedging demand in the options market eases, an argument for bitcoin's relative-value case against gold specifically rather than against risk assets broadly. For desks tracking digital-asset fund flows as a cross-asset positioning signal, the inflow strength alongside a hawkish Fed is worth noting: it suggests institutional crypto demand is currently being driven by structural adoption and ETF-channel flows rather than by the same liquidity-driven, rate-sensitive logic that governs most of the rest of the risk complex.",
+          "source": "Yahoo Finance, Fortune, DeItaone/Walter Bloomberg",
+          "time": "Friday's US morning session, ~13:00-15:00 UTC"
+        },
+        {
+          "stars": 2,
+          "headline": "Gold pushes to a fresh weekly high near $4,440/oz; global official gold holdings surpass $5 trillion, now exceeding foreign Treasury holdings in reserve composition",
+          "detail": "Gold extended its rebound into the US session, touching a weekly high near $4,439.80 and trading around $4,384.78-4,421.40 through the morning, continuing the disinflationary (rather than safe-haven) bid flagged in both the Asia and Europe sessions -- falling oil prices are pulling down inflation-linked yield expectations even as a live Middle East supply shock sits in the background. The more structural data point from today: global official-sector gold holdings have now reached roughly $5 trillion in value, according to central-bank reserve data, overtaking foreign official Treasury holdings within central-bank FX reserves for the first time. That is a genuinely multi-year reserve-diversification story -- central banks, particularly in emerging markets, have been steady net buyers of gold for several years as a hedge against dollar-based reserve concentration -- and it is landing the same week the Fed is hiking and Treasury yields are pushing toward 5%, i.e. precisely the environment in which reserve managers might otherwise be expected to prefer dollar assets. For multi-asset and macro desks, the read is that the gold bid right now has two distinct and only loosely related drivers: a short-term rates/duration channel and a multi-year structural reserve-diversification flow, and conflating the two risks mis-reading how durable today's move is.",
+          "source": "Tickmill, Yahoo Finance, Fortune, KobeissiLetter",
+          "time": "US morning session, extending the Asia/Europe move; reserve data as of this week"
+        },
+        {
+          "stars": 1,
+          "headline": "Dollar index holds a modest bid near 100.30, still winning the rate-differential trade against a hawkish ECB and BoE",
+          "detail": "The ICE Dollar Index traded around 100.30 through Friday's session, extending its post-FOMC firmness even as both the ECB and the Bank of England are themselves in tightening or hawkish-hold mode, per today's European session. The dollar was strongest specifically against the yen, consistent with the muted BOJ reaction flagged in Asia, while holding a more modest edge against the euro and sterling. For FX desks running relative central-bank-pricing models, the persistence of dollar strength despite multiple G10 central banks now hiking or signaling more tightening reinforces the point made in Europe's session: US real-rate and growth dynamics, not just the direction of travel on policy, remain the marginal driver of the greenback right now.",
+          "source": "FXStreet, TradingEconomics",
+          "time": "Friday's US session, ~14:00-20:00 UTC"
+        },
+        {
+          "stars": 2,
+          "headline": "Brazil's Copom cuts Selic to 13.75% the same week the Fed hikes -- a vivid snapshot of DM-EM policy divergence",
+          "detail": "Brazil's central bank delivered a fifth consecutive quarter-point cut, taking the Selic rate to 13.75%, in line with 48 of 51 economists polled by Reuters, even as the Fed raised its own target range to 3.75-4.00% the same week. Copom nudged up its inflation forecasts to 5.2% for 2026 and 3.9% for 2027 but kept its 18-month-horizon projection (through Q1 2028) unchanged at 3.2%, signaling confidence that current real rates remain restrictive enough to keep cutting despite the Fed moving the other way. The Brazilian real held in a narrow R$5.10-5.15 band and the Ibovespa stayed inside its recent range, suggesting the market had this divergence well-priced ahead of the decision -- itself a sign of how much carry cushion Brazil's still-elevated policy rate provides against Fed-driven capital-flow risk. For EM rates and FX desks, the episode is a clean real-time test of the 'EM decoupling' thesis flagged in recent market commentary -- that emerging markets can keep easing into their own disinflation cycles even as the Fed tightens, provided the real-rate buffer and carry are large enough to hold the currency, which today's calm real/Ibovespa reaction suggests is currently the case for Brazil specifically.",
+          "source": "Investing.com, Rio Times, TradingEconomics",
+          "time": "Copom decision Wednesday evening BRT; market reaction context through Friday's session"
+        },
+        {
+          "stars": 1,
+          "headline": "Mexican peso firms to 17.17/dollar as equities reopen positive after the Independence Day holiday; Banxico's Sept 24 decision sits against the cycle's narrowest US-Mexico rate gap",
+          "detail": "The peso strengthened 0.46% to 17.1681 per dollar from 17.2475, and the Mexican Stock Exchange reopened with broad-based positive breadth (470 advancers versus 268 decliners) on turnover of roughly $1.05 billion, as trading resumed after Wednesday's Independence Day closure. The move sets up an interesting read into Banxico's September 24 policy decision: with the Fed having just hiked and Mexican rates unchanged, the US-Mexico policy rate gap is now at its narrowest point of the current cycle, a dynamic that typically argues for caution on further Banxico easing to protect carry-trade support for the peso. This is a modest, single-session move rather than a standalone catalyst, but it's a useful marker for EM FX desks ahead of next week's Banxico meeting, particularly given how directly the peso's carry appeal depends on that rate-gap staying wide enough to compensate for Fed-driven dollar strength.",
+          "source": "Rio Times",
+          "time": "Friday's Mexican session, reopening after Wednesday's holiday"
+        },
+        {
+          "stars": 1,
+          "headline": "VIX holds in the mid-teens despite a hawkish Fed and the year's second-largest options expiry",
+          "detail": "The CBOE Volatility Index traded in a roughly 13.80-15.52 range through Friday, ending the session little changed and still comfortably below the levels that would typically accompany both a hiking-cycle restart and a near-record triple-witching expiry. The muted reading suggests dealers and funds were reasonably well-positioned heading into today's mechanical unwind, and that equity markets are not currently pricing meaningful near-term tail risk from the Fed's tightening path despite the sharp repricing higher in Treasury yields this week. For volatility and options desks, a calm VIX print alongside a genuinely hawkish rates backdrop is itself a data point worth banking -- it leaves relatively cheap optionality available for anyone wanting to hedge the risk that October's Fed meeting delivers a more aggressive signal than currently priced.",
+          "source": "Yahoo Finance, CBOE",
+          "time": "Intraday range through Friday's cash session"
+        },
+        {
+          "stars": 1,
+          "headline": "Fedspeak bookends the session -- Cleveland's Hammack opens hawkish, Chicago's Goolsbee closes -- with no major data prints scheduled after Wednesday's FOMC",
+          "detail": "Cleveland Fed President Beth Hammack, a hawkish 2026 voter who dissented in favor of a larger move at Jackson Hole, delivered opening remarks around 19:00 UTC, while Chicago Fed President Austan Goolsbee, a 2027 voter, closed out the day's commentary around 19:55 UTC. Hammack has argued that policy is not yet restrictive enough and that waiting to hike further only creates more pain down the line, a view that stands in some tension with Governor Waller's more dovish read that recent data show 'signs of disinflation.' With no tier-one US data releases scheduled in the window following Wednesday's FOMC decision, today's Fedspeak was the session's primary source of incremental policy signal, and the spread of views on display -- from Hammack's hawkishness to Waller's disinflation call -- underscores that the December-hike pricing near 90% is still contestable rather than a done deal.",
+          "source": "Newsquawk, Federal Reserve",
+          "time": "Hammack opening remarks ~19:00 UTC; Goolsbee closing remarks ~19:55 UTC"
+        },
+        {
+          "stars": 2,
+          "headline": "Leverage keeps building on both sides of the balance sheet -- record $7.70tn in trailing 12-month Treasury/corporate issuance, margin debt at an all-time high $1.45tn",
+          "detail": "Combined Treasury and corporate bond issuance reached $7.70 trillion over the trailing 12 months, an all-time high, with AI-related bond issuance up 78% in the first half of 2026 alone to a record $194 billion as hyperscalers and infrastructure builders increasingly tap public debt markets to fund data-center capex. Separately, margin debt rose to a record $1.45 trillion in August, up $37 billion on the month and now equivalent to roughly 4.5% of GDP -- a level that historically has coincided with elevated, not diminished, systemic fragility when growth or liquidity conditions turn. The two data points describe the same underlying phenomenon from different angles: record public and private leverage being built up into a market that is simultaneously facing a hiking Fed, a yield curve pushing 10-year yields toward 5%, and credit spreads (HY OAS at 271bp) offering very little compensation for it. For multi-asset, macro fund and CTA desks, this combination -- record issuance and record margin debt, funded at rising rates, with spreads this tight -- is the kind of setup that doesn't cause a problem on its own but meaningfully raises the cost of being wrong if growth or credit conditions deteriorate from here.",
+          "source": "KobeissiLetter, market issuance data",
+          "time": "Data through August/H1 2026, context for today's session"
+        }
+      ]
     }
   },
   "indicators": {
@@ -456,6 +577,72 @@
         "change": "off 19-year highs but still elevated",
         "direction": "flat"
       }
+    ],
+    "us": [
+      {
+        "category": "Equities",
+        "label": "S&P 500",
+        "value": "7,650.50",
+        "change": "+0.17%",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "Nasdaq Composite",
+        "value": "26,522.55",
+        "change": "+0.39%",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "Dow Jones",
+        "value": "51,682.64",
+        "change": "-0.18%",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "Russell 2000",
+        "value": "\u2014",
+        "change": "-0.50%",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "Dollar Index (DXY)",
+        "value": "~100.30",
+        "change": "modest gains, firm post-Fed",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "Gold",
+        "value": "~$4,420/oz",
+        "change": "+1%, fresh weekly high near $4,440",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "WTI Crude",
+        "value": "~$101/bbl",
+        "change": "-0.7% to -0.9%",
+        "direction": "down"
+      },
+      {
+        "category": "Rates",
+        "label": "US 10Y Treasury",
+        "value": "~5.00-5.01%",
+        "change": "+5bp, highest close since 2007",
+        "direction": "up"
+      },
+      {
+        "category": "Rates",
+        "label": "US 2Y Treasury",
+        "value": "~4.75%",
+        "change": "+6bp",
+        "direction": "up"
+      }
     ]
-  }
+  },
+  "summary": "Asia hiked and got a 'sell the fact' unwind: the BOJ's 25bp move to 1.25% weakened rather than strengthened the yen, while AI-chip demand and an eighth straight firmer yuan fixing into the Xi-Trump summit lifted Nikkei, Kospi and Chinese equities even as a Hormuz tanker strike failed to stop oil's third straight down day. Europe spent the session absorbing the consequences: Saudi Arabia's crude and diesel exports to Europe are now frozen until November on top of the East-West pipeline outage, sending refining margins and inflation risk higher just as a hawkish BoE hold, a hot German PPI print and rising ECB inflation expectations pushed Bund and gilt yields to multi-year highs and hit FTSE, sterling and European credit. The US session closed the loop on the week's dominant theme -- the Fed's hike to 3.75-4.00% kept repricing the curve toward a 10-year yield near 5% and a near-90%-priced December follow-up, even as equities finished a choppy triple-witching Friday little changed, AI/semis extended their rally, financials and energy lagged, and Warren Buffett's retirement as Berkshire's chairman closed out a week that reset rate expectations across every major central bank at once."
 }
