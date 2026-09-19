@@ -252,8 +252,143 @@
       ]
     },
     "us": {
-      "status": "pending",
-      "items": []
+      "status": "done",
+      "generated_at": "2026-09-19T21:15:00+02:00",
+      "items": [
+        {
+          "stars": 3,
+          "headline": "Fed Chair Kevin Warsh delivers the first hike in three years -- 25bp to 3.75%-4.00% -- and a hawkish 'inflation is too high' press conference sets the tone for the whole US session",
+          "detail": "The FOMC's Wednesday decision, still being digested through Friday's close, was the dominant force behind every other US-session story this week: Warsh told reporters 'the plain fact is that inflation is too high, and has been for too long,' explicitly framing the Fed's approach as timelier and more preemptive than the Powell-era reaction function it replaces. The dot plot backed that language with substance -- of 18 officials, 12 see one more 25bp hike by year-end (taking the range to 4.00%-4.25%) and four see two more (to 4.25%-4.50%), with only two projecting no further move, and hawkishness extends into 2027 dot placements as well. Markets spent Wednesday through Friday oscillating between relief-rally buying (equities up sharply Thursday as yields and oil eased) and renewed unease, which is exactly the choppy, two-sided price action a genuinely hawkish-but-already-priced decision tends to produce. For US desks, the mechanical read-through is that this is not a one-and-done: October is now a real live meeting (markets pricing roughly a coin-flip 56% hike probability), and every US data point between now and then -- starting with next week's data slate -- will be read through the lens of whether it validates or challenges the 12-of-18 hike consensus. Warsh, confirmed by the Senate in a contentious 54-45 vote in May and sworn in that month succeeding Powell, is delivering exactly the hawkish regime change his critics warned about and his backers wanted.",
+          "source": "CNBC, PBS NewsHour, NPR, Federal Reserve",
+          "time": "Decision and press conference Wednesday Sept 16, still driving price action into Friday's close"
+        },
+        {
+          "stars": 2,
+          "headline": "US equities close a choppy, second straight losing week -- S&P and Nasdaq eke out small Friday gains (7,650.50, +0.17%; 26,522.55, +0.39%) while the Dow slips (-0.18% to 51,682.64) and loses over 1.5% on the week",
+          "detail": "Friday's session capped a week that whipsawed between a roughly 600-point Dow selloff on Tuesday (Fed rate-hike fears and Warsh's own inflation talk unnerving investors before the meeting) and a sharp Thursday rebound (Dow +316pts/+0.6%, Nasdaq +1.7%, S&P +1.1%) as falling oil and yields let investors look past the hike itself. Friday itself landed in between: the S&P and Nasdaq closed marginally higher while the Dow gave back a touch of ground, leaving the S&P down roughly 0.1%-1% and the Dow down more than 1.5% for the week -- a second consecutive weekly loss for the large-cap benchmarks even as the Nasdaq finished the week in the green on tech leadership. The mechanism worth flagging for desks: this is a market that has now absorbed a hawkish Fed without a disorderly selloff, which is itself informative -- volatility compressed rather than expanded into the weekend (see VIX item below), suggesting positioning had already priced most of the hawkish outcome ahead of the meeting. The path from here depends heavily on whether next week's data continues to validate the 'resilient economy, sticky inflation' narrative that let the Fed hike without spooking risk assets.",
+          "source": "TheStreet, CNBC, Yahoo Finance",
+          "time": "Friday close Sept 18, week-over-week context"
+        },
+        {
+          "stars": 2,
+          "headline": "University of Michigan consumer sentiment craters to 47.8 vs. 51.0 expected -- a second straight monthly decline with year-ahead inflation expectations jumping to 4.6% -- a stagflationary print delivered squarely into a hawkish Fed week",
+          "detail": "The preliminary September UMich sentiment reading fell well short of consensus, with the Current Conditions sub-index down 1.9% to 50.9 and the Expectations sub-index collapsing 15.7% to 45.8; the headline level now sits below the first percentile of the series' history and is down 13.2% year-over-year. The inflation-expectations component is the piece that matters most for the Fed's reaction function: one-year-ahead inflation expectations jumped to 4.6% (the highest since June) while five-year expectations ticked up to 3.4%, exactly the kind of de-anchoring signal that gives a hawkish Fed chair cover to keep hiking even as growth signals soften. Consumers specifically cited rising fuel prices (a direct read-through from the Aramco-driven oil spike) and trade-tension anxiety as drivers of the deterioration in expectations. For multi-asset desks, the combination of weak-to-poor sentiment data landing the same week as a Fed hike, rather than pushing the Fed toward pause, appears to be reinforcing Warsh's 'inflation is too high' framing -- a genuinely uncomfortable stagflation-adjacent mix that the bond market's flattening-then-re-steepening this week partially reflects.",
+          "source": "InvestingLive, Advisor Perspectives/Seeking Alpha, Xinhua",
+          "time": "Preliminary September print, released mid-week, contextualized through Friday"
+        },
+        {
+          "stars": 1,
+          "headline": "Triple witching drives roughly $7 trillion of options notional to expiry Friday -- the second-largest on record -- landing two days after the Fed hike and on the BOJ's own decision day",
+          "detail": "Quarterly index and single-stock options expiration coincided this week with both the Fed's Wednesday hike and the final day of the BOJ's own September meeting, a rare stacking of a top-tier derivatives-mechanics event on top of two central-bank decisions in the same 72-hour window. Citadel Securities had estimated roughly $6.2 trillion of exposure set to expire based on data through late August, with the final tally landing closer to $7 trillion -- about a quarter of total US options market notional -- by Friday's close. The mechanical relevance for desks is dealer-gamma positioning: large, concentrated expiries of this size can exaggerate intraday moves as market-makers rebalance hedges, and doing so in the same week as a genuinely uncertain Fed outcome raises the odds of outsized, technically-driven (rather than fundamentally-driven) price swings around the Friday close specifically. There's no standalone directional signal here, but it's relevant context for anyone reading Friday's relatively calm tape as a clean signal of where positioning actually sits heading into next week.",
+          "source": "Bloomberg, Investing.com, EBC Financial Group",
+          "time": "Expiry Friday Sept 18"
+        },
+        {
+          "stars": 2,
+          "headline": "VIX slides to 14.81 -- down from 17.71 on Tuesday's pre-Fed selloff -- a notable volatility compression given the week delivered a genuinely hawkish central-bank outcome",
+          "detail": "The CBOE Volatility Index fell steadily through the week's second half, from 17.71 on Tuesday (the session of the roughly 600-point Dow selloff on Fed-hike fears) to 15.44 Thursday and 14.81 by Friday's close, even as the Fed delivered exactly the hawkish dot-plot outcome that had driven Tuesday's fear. The mechanism is the classic 'sell the rumor, buy the fact' pattern: once the hike and hawkish guidance were confirmed rather than merely feared, uncertainty resolved and implied volatility came in, a pattern reinforced by Thursday's sharp equity rally on falling oil and yields. For vol and options desks, sub-15 VIX heading into a week that already saw one 600-point single-day Dow move is a genuine repricing of near-term risk rather than complacency born of low realized volatility -- though the triple-witching mechanics above and next week's PMI/data slate both argue against reading too much comfort into a single Friday print.",
+          "source": "CNBC, Vistap Global, FRED",
+          "time": "Week's progression, Friday close Sept 18"
+        },
+        {
+          "stars": 2,
+          "headline": "Treasury curve stays elevated but pulls back from highs -- 10Y near 4.94% (down roughly 10bp from Wednesday/Thursday peaks) while the 2Y touched 4.744% intraday Friday, its highest since July 2024",
+          "detail": "The long end eased into the weekend as falling oil prices took some of the inflation-risk premium out of the curve, with the 10-year yield settling around 4.94% after briefly running toward 5% earlier in the week on the Fed's hawkish dot plot. The short end told a different story: the 2-year yield, most directly sensitive to the Fed's own rate path, pushed to 4.744% intraday Friday -- its highest level since July 2024 -- as the market absorbed the 12-of-18 dot-plot consensus for at least one more hike this year. The net effect was a curve that flattened sharply into Thursday (2s10s compressing to its tightest since March 2025) before recovering some steepness Friday as the long end rallied on the oil-driven yield pullback. For rates desks, the divergence is the story: front-end yields are pricing a Fed that keeps hiking through year-end, while the long end is still willing to rally on any relief in the oil/inflation-premium complex, a tension that will likely persist until either oil stabilizes decisively or the Fed's October decision clarifies the path.",
+          "source": "Yahoo Finance, Federal Reserve H.15, TradingEconomics",
+          "time": "Curve moves through the week, Friday close Sept 18"
+        },
+        {
+          "stars": 2,
+          "headline": "This week's Treasury auctions clear broadly in line -- 20-year bond at 5.420% (bid-to-cover 2.57), while 4-week and 8-week bills draw strong indirect demand -- no auction-tail stress despite the hawkish backdrop",
+          "detail": "Wednesday's 20-year bond auction priced at a 5.420% high yield with a 2.57 bid-to-cover ratio and 52.5% indirect (largely foreign official and fund) participation, while this week's 4-week and 8-week bill auctions cleared at 3.82% and 3.92% respectively with indirect bidder participation of 69.9% and 62.4% -- both rated 'in line' with pre-auction expectations rather than showing any concession or tail. The mechanical significance for rates desks is what didn't happen: a week that combined a hawkish Fed hike, a 2-year yield at a two-year high and elevated fiscal-supply concerns (the kind of combination that has produced weak, wide-tailing auctions elsewhere this cycle, notably in UK gilts) saw US Treasury demand hold up without visible strain. That's a meaningful data point on the durability of foreign and domestic demand for US paper even as the Fed signals more tightening, and it stands in some contrast to the story unfolding in UK gilts and French OATs this week, where fiscal-risk premium has been actively widening.",
+          "source": "TreasuryDirect, Helious.io, TheVaultReport",
+          "time": "Auctions settled through the week of Sept 14-18"
+        },
+        {
+          "stars": 1,
+          "headline": "US high-yield spreads remain near the tight end of their historical range (roughly 270bp OAS) -- credit desks describe the asset class as 'priced close to perfection' even as macro cross-currents multiply",
+          "detail": "The ICE BofA US High Yield Index option-adjusted spread was last tracked around 270bp (as of September 10), against a long-run median closer to 450bp, placing current spreads in the richest decile of the index's history. That tightness sits awkwardly alongside the week's broader risk-off inputs -- a hawkish Fed, oil above $95-100, and (per the European credit item flagged in this week's Europe panel) European funds actively de-risking long-credit exposure into the crude-driven inflation scare. US HY has so far been more insulated than its European counterpart, likely reflecting the more US-domestic composition of the index and lower direct exposure to the Aramco-driven European energy shock, but the combination of near-record-tight spreads and rising rate volatility leaves the asset class with very little cushion if sentiment turns. Desks running US HY exposure should treat this week's Fed-driven vol compression (see VIX item) as the reason spreads have held rather than evidence that credit risk itself has genuinely improved.",
+          "source": "TradingEconomics, Convex, Macrotrends",
+          "time": "Spread level as of Sept 10, context through the week"
+        },
+        {
+          "stars": 2,
+          "headline": "Dollar posts its best week since June, DXY near 100.3, as the Fed's hawkish hold-the-line reasserts a global rate-differential story that is now squeezing EM currencies and yen-funded carry trades alike",
+          "detail": "The Bloomberg Dollar Spot Index rose roughly 1.1% on the week and the ICE Dollar Index traded near 100.3 by Friday, its strongest weekly performance since June, as the Fed's hawkish dot plot widened rate differentials against a BOJ that, despite its own hike to 1.25%, is still seen as far behind the Fed and ECB in the tightening cycle. The mechanical channel running through multiple asset classes this week: dollar strength depresses multinational overseas revenue translation, raises the debt-service burden on dollar-denominated EM borrowing, and -- per the BOJ carry-trade item flagged in today's Asia panel -- adds pressure to yen-funded positions precisely as fast CTA momentum models have already flipped short-dollar/long-yen. For FX and macro-fund desks, this is the week's cleanest across-asset transmission mechanism: one hawkish Fed decision is simultaneously pressuring EM local-currency debt, complicating the BOJ's intervention calculus, and setting up next week's Bessent-He Lifeng meeting (below) with a stronger dollar as the backdrop Beijing has to manage into.",
+          "source": "Bloomberg, Babypips",
+          "time": "Weekly move through Friday Sept 18 close"
+        },
+        {
+          "stars": 2,
+          "headline": "Gold extends its post-Fed rally to a weekly high near $4,380-4,440/oz -- a second straight up session even as the Fed hiked and the dollar posted its best week since June -- as falling oil drags yields down",
+          "detail": "Bullion broke back above $4,400 intraday Friday, powering toward a weekly high of roughly $4,440 before settling closer to $4,380, extending Thursday's post-Fed bounce for a second consecutive session. The mechanism is a genuinely cross-asset one and worth spelling out: a pullback in crude prices this week eased the acute inflation-premium spike that had pushed Treasury yields toward multi-year highs, and lower real yields are supportive for a non-yielding asset like gold even in a week when the nominal policy story (a hawkish Fed hike) would typically argue the other way. That gold rallied through a hawkish Fed decision and a stronger dollar simultaneously is the more interesting signal for desks than the headline level itself -- it suggests real-yield and safe-haven demand (geopolitical risk from the Aramco disruption, Nestle's Russian-asset seizure, and the broader Middle East-linked oil shock) is currently outweighing the conventional dollar-strength drag on bullion.",
+          "source": "Yahoo Finance/CNBC, Fortune, Kitco",
+          "time": "Second straight up session, weekly high set intraday Friday"
+        },
+        {
+          "stars": 2,
+          "headline": "WTI crude pulls back to roughly $99.53 (-2.3% on the day) even as it remains up over 75% year-to-date, offering the week's first real relief valve on the Aramco-driven energy-inflation scare",
+          "detail": "West Texas Intermediate eased to around $99.53 a barrel on Friday, a 2.3% daily decline that nonetheless leaves the contract up more than 75% year-to-date and roughly 20% over just the past month, underscoring how extreme the underlying move has been even with Friday's pullback. The retreat is the single biggest reason several of the week's other stories inflected the way they did: it is what allowed Thursday's equity rally, Friday's Treasury-yield pullback from multi-year highs, and gold's continued climb, all of which are more sensitive to the rate-of-change in oil than to its absolute level. The pullback should be read as tactical relief rather than a resolution of the underlying supply shock -- Aramco's European allocation cuts and the East-West pipeline outage described in today's Europe panel remain unresolved, and record diesel crack spreads (below) show the physical market is still extremely tight even as the flat price eases.",
+          "source": "TradingEconomics, Investing.com",
+          "time": "Friday session, Sept 18"
+        },
+        {
+          "stars": 2,
+          "headline": "US refiners hit record highs on the sixth straight week of gains -- Marathon Petroleum near $424-428, up 161% YTD -- as the US ultra-low-sulfur diesel crack spread tops $100/bbl, exceeding anything seen in the 2022 energy crisis",
+          "detail": "Marathon Petroleum, Valero, Phillips 66 and HF Sinclair have all posted six consecutive weeks of gains, with Marathon specifically up 7.1% this week alone to roughly $424-428 a share (a fresh record) and 161% year-to-date, as the US diesel crack spread -- the margin a refiner captures converting crude into diesel -- pushed above $100/bbl, a level that surpasses the peak of the 2022 post-invasion energy crisis. The mechanism is a direct read-through from this week's Aramco supply disruption to Europe: with European refiners scrambling for alternative crude and diesel supply (see the Europe panel's Orlen and gasoil-crack items), the global diesel market has tightened enough that US refiners -- largely insulated from the crude-allocation cuts themselves -- are capturing outsized margins on the product side even without a comparable feedstock disruption. Analysts have begun flagging the refiner rally as increasingly overbought given how far, how fast the move has run, which is itself a signal for equity desks: this is a crack-spread story that is likely closer to its late innings than its early ones, even if the underlying diesel tightness (a genuinely structural, not speculative, phenomenon) persists for weeks longer.",
+          "source": "Benzinga, CNBC, Simply Wall St, oilprice.com",
+          "time": "Six-week rally, fresh records into Friday's close"
+        },
+        {
+          "stars": 2,
+          "headline": "Tech leads Thursday's rebound with the sector SPDR up 2.2% as falling yields lift growth stocks, while AI-infrastructure capex commentary (Micron's raised $25bn+ FY26 capex, Oracle's ~$35bn+) keeps underpinning the mega-cap complex",
+          "detail": "The Technology Select Sector SPDR (XLK) rose 2.2% on Thursday as the retreat in Treasury yields mechanically improved the relative valuation appeal of long-duration growth stocks, with nine of the S&P 500's eleven sectors closing green that session versus a Financials sector (XLF) that lagged, down about 0.1%. The AI-capex backdrop continues to do real work underneath the index-level move: Micron raised its full-year FY2026 capex guidance to over $25bn (up from $20bn, a 25% increase reflecting accelerating AI-memory demand) and flagged even higher construction and equipment spend in FY2027, while Oracle's FY2026 capex guidance sits in the $35bn-plus range, both figures that keep validating the 'AI infrastructure demand is durable' narrative also being pushed by Nvidia and Broadcom management as flagged in today's Asia panel. For desks tracking US mega-cap concentration risk, the read is the same one flagged for Korea in the Asia panel: US equity-index returns remain heavily levered to a handful of AI-supply-chain balance sheets holding their capex trajectories, a dependency that raises the stakes of any guidance disappointment in the next earnings cycle.",
+          "source": "Yahoo Finance, CNBC, Micron and Oracle investor materials",
+          "time": "Thursday's sector move, capex guidance context from recent earnings cycles"
+        },
+        {
+          "stars": 2,
+          "headline": "Bitcoin rallies to a two-week high near $81,000 (+5.8% intraday) as the SEC grants a conditional exemption for tokenized-stock trading after the Senate's CLARITY Act digital-asset framework stalls",
+          "detail": "Bitcoin opened Friday around $76,350 and surged as high as $81,000 intraday (+5.8% on a 24-hour basis) even as the Fed delivered a hawkish hike earlier in the week, with Ethereum posting a smaller but still positive move to around $2,445. The immediate catalyst was regulatory rather than macro: after the CLARITY Act -- legislation meant to create a federal framework for digital-asset market structure -- failed to advance in the Senate, the SEC stepped in Thursday with a conditional exemption allowing tokenized-stock trading on blockchains for the next five years, a consolation regulatory win that crypto markets read as constructive even without the fuller legislative framework. The pullback in oil prices Friday also helped broader risk sentiment. For macro and digital-asset-adjacent fund desks, the signal worth noting is that crypto rallied through a hawkish Fed week on a purely idiosyncratic regulatory catalyst -- a reminder that digital-asset price action is currently being driven more by market-structure and regulatory-plumbing news than by the same rates/dollar framework governing traditional risk assets.",
+          "source": "Yahoo Finance, CoinDesk, The Motley Fool",
+          "time": "Friday session, Sept 18"
+        },
+        {
+          "stars": 2,
+          "headline": "Detroit automakers absorb a fresh tariff hit as Canada's dollar-for-dollar retaliation takes effect -- GM facing $2.5-3.5bn in gross tariff expense this year, Ford carrying a negative net margin and 461% debt-to-equity ratio",
+          "detail": "Canada's retaliatory tariffs against US auto-sector duties took effect September 8, adding to an already-stacked cost picture: General Motors faces an estimated $2.5-3.5bn in gross tariff expense for the year (having already absorbed roughly $900m in Q2 alone), while Ford -- carrying a -4.4% net margin and a 461% debt-to-equity ratio -- has the thinnest buffer among the Detroit three to absorb further cost pressure. US automakers face roughly 25% duties on imports from Canada and Mexico under the current framework, versus a flat 15% tariff on Japanese, Korean and European competitors exporting into the US -- an asymmetry that structurally disadvantages the North American-integrated supply chains Ford and GM depend on relative to import-based competitors. Ford shares are still up modestly year-to-date (+4.8%) but down over the past month (-3.1%) as the tariff overhang has started to bite into sentiment, a dynamic that sits alongside Volkswagen's own profit-warning story in today's Europe panel as a reminder that 2026's tariff and trade-policy environment is pressuring legacy automakers on both sides of the Atlantic simultaneously, for different reasons.",
+          "source": "Investing.com, 24/7 Wall St., TS2.tech",
+          "time": "Retaliatory tariffs effective Sept 8, cost context through the week"
+        },
+        {
+          "stars": 2,
+          "headline": "Bessent and Greer meet China's He Lifeng in New York Sunday for final pre-summit trade talks -- AI, rare earths and a tariff-truce extension on the agenda, with Beijing voicing 'serious concern' over new US tech curbs",
+          "detail": "US Treasury Secretary Scott Bessent and USTR Jamieson Greer are set to meet Chinese Vice Premier He Lifeng in New York Sunday, the final scheduled preparatory session before Presidents Trump and Xi meet in Washington on September 24. The confirmed agenda spans a possible extension of the tariff truce expiring November 10, continued rare-earth and critical-mineral flows into US supply chains, an emerging AI-governance dialogue, and fentanyl-precursor chemical controls -- but South China Morning Post reporting into the weekend notes China has separately voiced 'serious concern' over newly announced US technology curbs, a friction point that complicates the otherwise conciliatory framing both sides have used publicly. For US-listed China-exposed equities and the broader risk complex, Sunday's meeting is the single largest swing factor heading into Monday's open across every region's panel today: a constructive readout would likely extend the rare-earth and rally in Chinese tech flagged in this week's Asia panel, while a contentious or inconclusive session -- especially given the fresh US tech-curbs friction -- would be the first real test of how much of the recent China-risk rally is genuine versus purely summit-positioning.",
+          "source": "Bloomberg, Korea Times, SCMP, Newsquawk",
+          "time": "Meeting scheduled Sunday, New York; reporting through Sept 18-19"
+        },
+        {
+          "stars": 2,
+          "headline": "Initial jobless claims fall to 196,000 (vs. 207,500 expected), the lowest since mid-July, reinforcing the labor-market resilience that gave the Fed cover to hike into a stagflationary-looking data mix",
+          "detail": "Claims for the week ending September 12 fell 10,000 to 196,000 from an unrevised 206,000 the prior week, comfortably below the FactSet consensus of 207,500 and the fewest since mid-July; the four-week moving average dropped to 203,250. Continuing (insured) claims for the week ending September 5 fell 39,000 to 1,730,000, reinforcing that layoffs remain historically rare even as the softer UMich sentiment print (above) points to households feeling squeezed. This is precisely the combination Warsh referenced in his press conference -- a labor market that is not cracking, paired with inflation and inflation expectations both running hot -- and it is the data-side justification the Fed leaned on to hike despite the obvious cross-currents from tariffs, oil and consumer sentiment. For rates and macro desks, a labor market this resilient removes any near-term case for the Fed to pause on growth-concern grounds, keeping the focus squarely on the inflation side of the mandate heading into October.",
+          "source": "TradingEconomics, Hot Springs Sentinel Record, American Greatness",
+          "time": "Data for week ended Sept 12, released and reported through Sept 18"
+        },
+        {
+          "stars": 1,
+          "headline": "Government shutdown risk stays defused into year-end -- Trump signed a stopgap CR through December 11 on September 2, pushing the full FY2027 appropriations fight past the November midterms",
+          "detail": "The House passed the continuing resolution 370-48 on September 1 after the Senate cleared it 90-6 back in August, a bipartisan margin that stands in sharp contrast to the bitter, 76-day Department of Homeland Security shutdown fight earlier this year, and Trump signed it into law September 2, funding the government at current levels through December 11. Both parties have signaled they'd rather litigate the full fiscal-2027 appropriations fight after the midterm elections than risk a shutdown heading into the holidays, which removes one recurring source of US-specific tail risk from cross-asset positioning for the next several months. This is background context rather than a live catalyst this week, but it matters as a baseline: with fiscal-funding risk off the table until December, the US macro story for Q4 is now almost entirely about the Fed's rate path and the oil/inflation shock rather than about a government-funding cliff, a genuinely different risk profile than desks were pricing as recently as late August.",
+          "source": "Conference Board, Hal Rogers press release, Political.org",
+          "time": "CR signed Sept 2, context into the weekend"
+        },
+        {
+          "stars": 1,
+          "headline": "Copper extends a third straight gain to around $6.66/lb as the White House delays a decision on refined-copper import tariffs, reducing near-term supply-cost risk for US buyers",
+          "detail": "COMEX copper futures climbed to roughly $6.66/lb by Friday's close, a third consecutive session of gains as the broader metals complex rebounded alongside the rest of the commodity space following the Fed's hike, with the White House's decision to delay tariffs on refined copper imports from major global suppliers removing an immediate cost overhang for US industrial buyers. This sits directly alongside the Yangshan copper premium story flagged in today's Asia panel -- Chinese import demand pulling metal into Shanghai warehouses at the fastest pace in nearly four years -- suggesting the current copper strength is being driven by a genuine global demand and policy-relief combination (US tariff delay plus Chinese physical pull) rather than a single-region story. For industrial-metals and multi-asset desks, the tariff-delay decision is the piece most likely to move again on short notice: a reversal toward actually imposing the tariffs would reintroduce a US-specific cost shock that the market is not currently pricing.",
+          "source": "Barchart, TradersUnion, FXEmpire",
+          "time": "Third straight gain into Friday's close, Sept 18"
+        }
+      ]
     }
   },
   "indicators": {
@@ -470,6 +605,79 @@
         "change": "+15bp, widest in yrs",
         "direction": "up"
       }
+    ],
+    "us": [
+      {
+        "category": "Equities",
+        "label": "S&P 500",
+        "value": "7,650.50",
+        "change": "+0.17%",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "Nasdaq Composite",
+        "value": "26,522.55",
+        "change": "+0.39%",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "Dow Jones",
+        "value": "51,682.64",
+        "change": "-0.18%",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "Russell 2000",
+        "value": "—",
+        "change": "+0.6%",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "Dollar Index (DXY)",
+        "value": "~100.3",
+        "change": "+1.1% on the week, best week since June",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "Gold",
+        "value": "$4,380/oz",
+        "change": "+0.9%, weekly high",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "WTI crude",
+        "value": "$99.53",
+        "change": "-2.3%",
+        "direction": "down"
+      },
+      {
+        "category": "Commodities",
+        "label": "Copper (COMEX)",
+        "value": "$6.66/lb",
+        "change": "3rd straight gain",
+        "direction": "up"
+      },
+      {
+        "category": "Rates",
+        "label": "US 10Y Treasury yield",
+        "value": "4.94%",
+        "change": "-10bp on day, off multi-yr highs",
+        "direction": "down"
+      },
+      {
+        "category": "Rates",
+        "label": "US 2Y Treasury yield",
+        "value": "4.744%",
+        "change": "highest since July 2024",
+        "direction": "up"
+      }
     ]
-  }
+  },
+  "summary": "Global central banks turned hawkish in lockstep this week -- the Fed's first hike since 2023 (to 3.75%-4.00%) under new chair Kevin Warsh, the ECB to 2.50% flagging an October move, and the BOJ to 1.25% -- while a Saudi Aramco pipeline and port outage triggered a genuine oil-supply shock that hit Europe hardest (record diesel cracks, Forties crude's premium exploding) and left Asian allocations largely untouched. Europe bore the brunt in risk assets (Stoxx 600 -1.1%, Volkswagen's profit warning, Nestle's Russian assets nationalized, the French OAT spread blowing out to 95bp) while the US closed a choppy, second straight losing week for the S&P and Dow (Nasdaq eked out a gain) against record-high refiner stocks, a cratering UMich sentiment print, and the dollar's best week since June; Asia was comparatively firm, led by the Kospi's AI-chip record run and China's rare-earth diplomacy and currency stability ahead of the summit. The week's unresolved threads carry straight into next week: Sunday's Bessent-He Lifeng trade huddle and the PBOC's LPR decision, the September 24 Trump-Xi summit, BOJ intervention risk on yen weakness, and the eurozone's flash PMIs -- all now playing out against the first synchronized global tightening cycle in years."
 }
