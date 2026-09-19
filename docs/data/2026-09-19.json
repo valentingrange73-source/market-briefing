@@ -1,0 +1,142 @@
+{
+  "date": "2026-09-19",
+  "sessions": {
+    "asia": {
+      "status": "done",
+      "generated_at": "2026-09-19T11:30:00+02:00",
+      "items": [
+        {
+          "stars": 1,
+          "headline": "Saturday: Asia cash equities and spot FX are closed -- today's brief covers overnight/weekend developments and Friday's settle, not a live session",
+          "detail": "September 19 falls on a Saturday, so Tokyo, Hong Kong, Shanghai, Seoul and Sydney cash markets are shut and there is no fresh index or spot-FX print to report against. The levels in today's indicator strip are therefore Friday's (September 18) close, carried forward as the reference point heading into Monday's open, not a same-day move. What is genuinely live this weekend is newsflow rather than price action: the Bank of Japan's post-hike verbal intervention signal, the Bessent-He Lifeng preparatory meeting in New York ahead of the September 24 Trump-Xi summit, and Sunday's PBOC loan-prime-rate review are all real catalysts landing in the gap between Friday's close and Monday's open, and are covered below because they will set the tone for the week's first Asia session rather than because they moved a market today.",
+          "source": "Desk framing note",
+          "time": "Saturday, no cash session"
+        },
+        {
+          "stars": 2,
+          "headline": "BOJ signals discomfort with yen weakness via a reported 'rate check' with market participants, a classic precursor to FX intervention",
+          "detail": "The Nikkei newspaper reported that the Bank of Japan inquired with market participants about exchange-rate levels late Friday, a step Japanese officials have historically used as a verbal warning shot before actual intervention. The yen had weakened as much as 1.3% intraday Friday in the hours after the BOJ's 25bp hike to 1.25% -- the 7-2 split vote and Governor Ueda's press conference were read as diluting the hawkish signal on the pace of further tightening -- before paring the move to roughly -0.5% at about ¥156.75/dollar by the New York afternoon on the rate-check report. The mechanism is straightforward: officials appear unwilling to let the currency reaction to a delivered hike run in the 'wrong' direction (weaker yen despite tighter policy), and a verbal check is the lowest-cost way to introduce two-way risk into short-yen positioning without spending reserves. For desks, this reopens the intervention-risk premium that had been fading since the BOJ's hiking cycle began -- Japan's Ministry of Finance has a track record of following rate checks with actual yen-buying operations when USD/JPY pushes toward the 155-160 area, and today's report puts that playbook back on the table heading into next week.",
+          "source": "Japan Times, Nikkei, Bloomberg",
+          "time": "Reported Friday evening JST / Friday afternoon in New York"
+        },
+        {
+          "stars": 2,
+          "headline": "Bessent and He Lifeng meet Sunday in New York for final trade talks ahead of the September 24 Xi-Trump summit -- tariff truce extension and rare earths on the agenda",
+          "detail": "US Treasury Secretary Scott Bessent, alongside USTR Jamieson Greer, is set to meet Chinese Vice Premier He Lifeng on Sunday in New York in what both sides are framing as the final preparatory round before Presidents Trump and Xi meet in Washington on September 24. The confirmed agenda covers a possible extension of the tariff truce that expires November 10, continued flows of Chinese rare-earth magnets and critical minerals into US supply chains, and an opening dialogue on AI safety and governance -- all issues with direct read-through into China-exposed equities, industrial metals and the offshore yuan. This is the same dynamic that has been driving the PBOC's deliberate string of stronger daily fixings and the rebound in Shanghai/CSI 300 over the past week: Beijing wants currency and market stability going into the summit rather than headline-risk noise that could complicate the diplomacy. Desks should treat Sunday's meeting outcome (or lack of a clean readout) as the single biggest swing factor for Monday's China-risk complex -- a constructive tone on the truce extension would likely extend the yuan-strength, HK-tech rally seen this week, while a stalled or contentious meeting would be the first real test of how much of that rally is summit-positioning versus durable flow.",
+          "source": "Bloomberg, South China Morning Post, The Standard",
+          "time": "Meeting scheduled Sunday, New York"
+        },
+        {
+          "stars": 1,
+          "headline": "PBOC widely expected to hold loan prime rates unchanged for a 16th straight month at Sunday's review (1-year 3.00%, 5-year 3.50%)",
+          "detail": "A Reuters poll of 21 economists found unanimous expectations that the PBOC will leave both the one-year and five-year loan prime rates unchanged when they are set Sunday, extending the longest unchanged streak in the LPR's history. Citi analysts framed the call explicitly against the global backdrop: with the Fed, BOJ, ECB and BoE all now hiking or hawkish-holding, the PBOC has less room to ease without adding fresh depreciation pressure on the yuan just as Beijing is engineering currency strength into next week's summit. The decision itself is not expected to move markets given how thoroughly it is priced, but it sets the final policy data point of the week before Monday's open and confirms that Beijing continues to lean on targeted measures and FX signaling rather than broad rate cuts to manage the growth-versus-stability tradeoff.",
+          "source": "Reuters, Citi",
+          "time": "Decision due Sunday"
+        },
+        {
+          "stars": 2,
+          "headline": "Saudi Aramco's crude blackout is Europe-specific -- Asian refiners are reportedly still getting full September allocations, sharpening the regional divergence",
+          "detail": "While Aramco has cancelled all remaining September and October crude allocations to European refiners following the Yanbu port and East-West pipeline strikes, separate reporting this week indicates Saudi Arabia is supplying full contracted oil volumes to its Asian customers for September, with no allocation cuts communicated to the region's largest buyers (China, Japan, South Korea, India). The divergence matters mechanically: Aramco appears to be prioritizing its largest and stickiest long-term contract relationships -- concentrated in Northeast and South Asia -- while using the temporary loss of Red Sea/Yanbu export capacity to absorb the cut entirely on the European side. For Asia desks this is a genuinely favorable read relative to what Europe is facing: it suggests refining margins and crude availability across the region's largest importers should stay intact through the disruption, even as European gasoil cracks spike, though the read is fragile -- if the East-West pipeline restoration (targeted at roughly half capacity within days, full within six weeks) slips further, Asia could eventually see its own allocation get squeezed as Aramco reroutes barrels to defend the more acute European shortfall.",
+          "source": "Gulf News, Bloomberg, Kpler",
+          "time": "Reported through the week, context into the weekend"
+        },
+        {
+          "stars": 2,
+          "headline": "Yangshan copper premium jumps 72% in September to $124/tonne, its highest in nearly four years, on live Chinese physical demand",
+          "detail": "The Yangshan copper premium -- the fee Chinese importers pay over LME prices to secure physical delivery into Shanghai-area warehouses, and one of the cleanest real-time gauges of onshore Chinese demand -- has climbed 72% so far this month to $124 a tonne, its highest level since late 2022. LME three-month copper itself firmed further to around $14,521/tonne (roughly $6.63/lb) on Friday, supported by the same signal. The mechanism worth flagging: a sharply rising physical premium alongside firm futures indicates the move is being driven by genuine import demand pulling metal into China rather than speculative futures positioning, which is a more durable bullish signal for industrial-metals desks than a futures-only rally. It also lines up with the mixed China data picture from earlier this week (soft August industrial output and retail prints against resilient copper demand specifically), suggesting demand is concentrated in the data-center and grid/renewables buildout rather than broad-based manufacturing -- a distinction multi-asset and commodity desks should keep in mind when reading through to the rest of the China cyclical complex.",
+          "source": "Business Recorder, MINING.com",
+          "time": "Premium data through Thursday, context into Friday's LME close"
+        },
+        {
+          "stars": 2,
+          "headline": "AI-hardware momentum carries into the weekend -- Samsung up 45% YTD, SK Hynix up 77% over three months, as Huang's 'twice as many chips in 2027' call keeps propagating through the supply chain",
+          "detail": "The chip-sector strength that lifted the Kospi 2.66% to a fresh high of 6,894.23 on Friday continues to be underpinned by the same US mega-cap AI-capex commentary flagged earlier in the week: Nvidia's Jensen Huang telling investors the company expects to sell twice as many AI chips in 2027 as this year, and Broadcom's Hock Tan describing AI infrastructure demand as 'very strong and very durable.' Samsung Electronics closed the week up roughly 45% year-to-date and SK Hynix up about 77% over three months, with SK Hynix also using NVIDIA's GTC 2026 event to showcase next-generation AI memory products, reinforcing the read that Korean memory makers remain the highest-beta regional proxy for the US AI-capex trade. For thematic and index-concentration desks, the flip side is the same one flagged in the chaebol-concentration item below: this much of Korea's equity-market return is now dependent on a narrow set of AI-supply-chain names holding their premium, which raises the stakes of any US mega-cap guidance disappointment on the next earnings cycle.",
+          "source": "Bloomberg, Digitimes, TipRanks",
+          "time": "Week's momentum, into Friday's Seoul close"
+        },
+        {
+          "stars": 2,
+          "headline": "BofA flags CTA yen-buying risk building beneath the surface -- fast USD/JPY momentum models have already flipped short-dollar, with 152.8 and 150.4 as the next trigger levels",
+          "detail": "BofA's systematic-flows desk highlighted this week that fast-moving CTA trend models on USD/JPY have already turned negative (i.e., short dollar/long yen), even as slower, longer-lookback models remain positioned the other way -- a split that historically precedes a period of choppy, two-way price action rather than a clean trend. The desk's flagged trigger levels are 152.8 and then 150.4 on USD/JPY: a decisive break below either would pull more of the slower trend-following models into yen-long territory, adding mechanical buying pressure independent of any fresh fundamental news. This sits directly on top of today's BOJ rate-check story -- if Tokyo does follow through with actual intervention on any further yen weakness, it would be pushing in the same direction CTA flow is already quietly building toward, a combination that raises the odds of a sharper, more one-directional yen move than the muted spot reaction to Friday's hike itself suggested. For macro and CTA-tracking desks, this is the clearest technical setup risk in G10 FX heading into next week.",
+          "source": "BofA Global Research (via Kodiak Trades, Substack), CNBC",
+          "time": "Positioning data through the week, context for next week's open"
+        },
+        {
+          "stars": 2,
+          "headline": "RBA rate-hike pricing keeps climbing after Bullock's hawkish testimony -- estimates now range as high as 80-92% for a September 29 move, with a widening bank consensus",
+          "detail": "Following Governor Bullock's parliamentary testimony that upside inflation risks are 'materialising,' market-implied odds of a 25bp RBA hike at the September 29 meeting have continued to firm through the week, with different pricing services now showing figures as high as the low-90s percent, up from roughly 70-75% before the hearing and just 17% as recently as late August. National Australia Bank, Deutsche Bank and UBS have all now moved their formal calls to expect a hike, with UBS specifically flagging a terminal rate of 4.85% on two further moves. The spread across pricing services (some closer to 80%, others closer to 92%) is itself a data point -- it reflects how quickly the repricing has moved and that there is still genuine dispersion in how different desks are weighting Bullock's language versus the underlying data. AUD/USD has firmed to the 0.712 area on the back of the repricing, holding near the top of its recent range heading into the weekend.",
+          "source": "ABC News, Finimize, OrbitRemit, centralbank.watch",
+          "time": "Pricing shifts through the week, ahead of the Sept 29 decision"
+        },
+        {
+          "stars": 1,
+          "headline": "South Korea's top five chaebol now account for over half of the KRX's total market value, a concentration risk worth flagging as the Kospi hits fresh records",
+          "detail": "Samsung, SK, Hyundai Motor, LG and HD Hyundai together represent more than 50% of South Korea's total stock-market capitalization, with Hyundai Motor Group's roughly 194 trillion won (4.9% of the total) and LG Group's 191 trillion won (4.8%) illustrating how top-heavy the index has become even outside the Samsung/SK duopoly at the very top. With the Kospi's 2026 rally overwhelmingly powered by the AI/memory trade concentrated in Samsung Electronics and SK Hynix specifically, passive and index-tracking flows into Korean equities are increasingly a leveraged bet on a handful of semiconductor-adjacent balance sheets rather than a diversified exposure to the broader economy. This is a structural rather than a daily-news point, but it is directly relevant for multi-asset allocators sizing Korea exposure or running index-replication strategies, particularly given how binary the AI-capex narrative underpinning the rally has proven to be over the past twelve months.",
+          "source": "The Korea Herald, The Tribune",
+          "time": "Structural context, no single-day catalyst"
+        },
+        {
+          "stars": 1,
+          "headline": "China's property-sector consolidation keeps grinding on as new presale-financing rules bite -- state-backed and private developers both still under pressure",
+          "detail": "The regulatory shift restricting mortgage issuance to completed residential projects rather than presales continues to work through the Chinese property complex, with the CSI 300 Real Estate Index having dropped sharply on the initial announcement and state-backed names (China Jinmao, Yuexiu Property) alongside private developers (Longfor, Seazen) all still carrying the damage into this week. Analysts continue to frame the shift as accelerating industry consolidation -- smaller players lacking the financing capacity and management discipline to operate without presale cash flow are expected to exit -- rather than a policy aimed at stabilizing prices in the near term. There is no fresh single catalyst this weekend, but the sector remains a standing overhang on Chinese growth data and a background risk for any credit or equity exposure to the mainland property complex heading into next week's PBOC decision and the Xi-Trump summit.",
+          "source": "Bloomberg, SCMP",
+          "time": "Ongoing since late August, no new weekend catalyst"
+        },
+        {
+          "stars": 2,
+          "headline": "Alibaba trades at a valuation premium to Tencent for the first time in over a decade, up 36% this quarter on its AI/cloud re-rating",
+          "detail": "Alibaba shares have surged 36% in Hong Kong this quarter, topping the Hang Seng Tech Index, as investors reward what the market is treating as a genuine strategic pivot toward AI and cloud infrastructure rather than a cyclical e-commerce recovery. The re-rating is significant structurally: Alibaba has traded at a persistent valuation discount to Tencent for most of the past decade, and this quarter marks the first time that relationship has flipped, with southbound investor flows (over HK$1.5 billion in a single recent session) reinforcing the move. Tencent's own fundamentals remain solid -- full-year 2025 revenue of 751.8 billion yuan, up 14% -- but the market is currently paying up specifically for Alibaba's AI-infrastructure optionality in a way it is not for Tencent's more mature ad/gaming engagement gains. For desks positioning in Chinese internet names ahead of the summit, this is the clearest single-stock evidence that 2026's China-tech rally is being driven by a genuine bottom-up re-rating story in select names, not just a uniform beta trade on trade-diplomacy optimism.",
+          "source": "Seeking Alpha, GuruFocus",
+          "time": "Quarter-to-date move, context into the weekend"
+        },
+        {
+          "stars": 1,
+          "headline": "Asia USD credit spreads hold near the tight end of their historical range, with returns increasingly carry-driven rather than compression-driven",
+          "detail": "Asian credit desks continue to describe spreads -- across both investment-grade and high-yield Asia dollar-bond complexes -- as trading near historically tight levels, consistent with the +4.3% YTD outperformance versus US high yield flagged earlier in the week. Portfolio commentary this week highlighted continued activity across gaming, technology, property and financial credits specifically, with issuer selection increasingly the main source of differentiated return given how little room is left for further broad spread compression. Growing investor interest in diversifying away from concentrated US-dollar exposure is cited as a structural support for Asia-Pacific hard-currency bonds, a theme that should persist through the Xi-Trump summit window regardless of the meeting's specific outcome, though it leaves the asset class more exposed than usual to any credit-specific shock given how little spread cushion remains.",
+          "source": "CreditSights, J.P. Morgan Asset Management",
+          "time": "Weekly positioning context"
+        },
+        {
+          "stars": 1,
+          "headline": "Indian equities close the week soft -- Sensex flat near a three-month low around 74,315, rupee near 96/dollar -- as elevated oil prices keep sentiment cautious",
+          "detail": "The BSE Sensex closed essentially unchanged at 74,314.6 on Thursday, hovering near its lowest level since June, with the broader Nifty holding a bearish bias below the 23,600 mark as investors stayed cautious despite this week's pullback in crude prices from their highs. The rupee has also drifted to around 96/dollar, a step weaker than the 95.73 level seen earlier in the week when oil's retreat had briefly supported the currency, suggesting the relief from lower crude has only partially offset broader EM-Asia dollar strength following the Fed's hike. There is no fresh single catalyst behind the softness -- it reflects the accumulated weight of a still-elevated energy import bill, a firm dollar, and general caution ahead of next week's PBOC decision and Trump-Xi summit rather than any India-specific news.",
+          "source": "Business Standard, TradingEconomics",
+          "time": "Thursday/Friday close context"
+        },
+        {
+          "stars": 1,
+          "headline": "Vietnam's VN-Index slips 0.39% on bank-sector weakness while Thailand's SET closes essentially flat, a quiet close to the week across ASEAN",
+          "detail": "The VN-Index fell 7.11 points (-0.39%) to 1,815.66 on Friday, with six banking names -- CTG, TCB, BID, MBB, VPB and ACB -- collectively responsible for roughly 8.6 points of the drag as CTG fell 3.7% and TCB 3.2%, while the smaller-cap HNX and UPCoM gauges both edged higher, pointing to a rotation away from large-cap banks rather than a broad risk-off move. Thailand's SET Index closed essentially flat, up just 0.05% to 1,584.15 on modest turnover, with strong foreign buying in banking and ICT sectors offset by a lack of fresh catalysts; falling oil prices were cited as easing inflation concerns generally across the ASEAN energy-importing bloc, consistent with the region-wide theme flagged in earlier sessions this week. Neither move is large enough to stand alone, but together they round out a broadly quiet close to the week across Southeast Asian equities heading into the PBOC decision and Trump-Xi summit.",
+          "source": "Vietstock, KAOHOON International",
+          "time": "Friday close, Ho Chi Minh City and Bangkok sessions"
+        }
+      ]
+    },
+    "europe": {
+      "status": "pending",
+      "items": []
+    },
+    "us": {
+      "status": "pending",
+      "items": []
+    }
+  },
+  "indicators": {
+    "asia": [
+      {"category": "Equities", "label": "Nikkei 225", "value": "65,019", "change": "+1.4%", "direction": "up"},
+      {"category": "Equities", "label": "Hang Seng", "value": "—", "change": "+0.6%", "direction": "up"},
+      {"category": "Equities", "label": "CSI 300", "value": "—", "change": "+0.6%", "direction": "up"},
+      {"category": "Equities", "label": "Kospi", "value": "6,894", "change": "+2.7%", "direction": "up"},
+      {"category": "Equities", "label": "ASX 200", "value": "8,761", "change": "+0.3%", "direction": "up"},
+      {"category": "FX", "label": "USD/JPY", "value": "156.75", "change": "+0.5%", "direction": "up"},
+      {"category": "FX", "label": "USD/CNH", "value": "6.707", "change": "-0.1%", "direction": "down"},
+      {"category": "FX", "label": "AUD/USD", "value": "0.7121", "change": "+0.14%", "direction": "up"},
+      {"category": "FX", "label": "USD/KRW", "value": "1,385", "change": "+0.3%", "direction": "up"},
+      {"category": "FX", "label": "USD/INR", "value": "96.14", "change": "+0.2%", "direction": "up"},
+      {"category": "Commodities", "label": "Gold", "value": "$4,379/oz", "change": "+0.9%", "direction": "up"},
+      {"category": "Commodities", "label": "Brent crude", "value": "$103.21", "change": "-1.5%", "direction": "down"},
+      {"category": "Commodities", "label": "Copper (LME)", "value": "$14,521/t", "change": "+0.2%", "direction": "up"},
+      {"category": "Rates", "label": "JGB 10Y", "value": "2.99%", "change": "-1bp", "direction": "down"}
+    ]
+  }
+}
