@@ -238,8 +238,115 @@
       ]
     },
     "us": {
-      "status": "pending",
-      "items": []
+      "status": "done",
+      "generated_at": "2026-09-20T23:04:58+02:00",
+      "items": [
+        {
+          "stars": 3,
+          "headline": "Fed delivers a unanimous 25bp hike to 3.75%-4.00%, its first since 2023, as Chair Warsh's 'dose of accommodation' framing leaves the door open to more",
+          "detail": "The Federal Open Market Committee raised the federal funds target range by 25bp to 3.75%-4.00% on Wednesday, September 16, its first hike since July 2023 and, per multiple outlets, a 12-0 unanimous vote -- the first unanimous FOMC decision since May 2025. Fed Chair Kevin Warsh, in the shortest post-meeting press conference since the Fed began holding them in 2011 (roughly 30 minutes), described the move as removing 'a dose of accommodation' rather than framing it as the start of a conventional tightening cycle, a deliberate choice that markets read as leaving the door open to further hikes rather than signaling a one-and-done adjustment. The September dot plot showed 16 of 18 participants expecting at least one more hike this year, with four projecting two, pointing toward a fed funds rate of 4.00%-4.25% by year-end and keeping October's meeting squarely in play. The decision lands amid open friction with the White House: President Trump had reportedly threatened twelve days earlier to 'stop trading' with more than 50 partners if the Fed didn't cut, and the committee hiked anyway, widening rather than narrowing the divide between the administration and an ostensibly independent Fed under a chair Trump himself appointed. For rates and multi-asset desks, the read-through is that Warsh's Fed is now the most overtly hawkish of the week's four major central-bank decisions (alongside the BOJ, ECB and BoE), and the 'dose of accommodation' language argues for treating October as a live meeting rather than a formality.",
+          "source": "CNBC, Bloomberg, Fool.com, Kobeissi Letter (via X)",
+          "time": "decision and press conference Wednesday Sept 16, ramifications through Friday's close"
+        },
+        {
+          "stars": 3,
+          "headline": "10-year Treasury yield tops 5% for the first time since 2007 before easing toward 4.9%, as the Fed's hawkish hike reprices the whole curve",
+          "detail": "The 10-year Treasury yield broke above 5% intraweek, its highest level since July 2007, before easing back to roughly 4.94% by Friday's close after losing nearly 10bp in Thursday's session as softer oil prices took some of the inflation-premium pressure off the long end. The 2-year yield, more directly tied to Fed policy expectations, rose a further 7bp Friday to around 4.75% as the dot plot's signal of an October hike got priced into the front end, even as the 10-year gave back some of its post-Fed spike -- a bull-flattening impulse layered on top of an already elevated-yield regime. Treasury ETFs tracked the move: TLT fell 0.65% on the day, while investment-grade and high-yield credit proxies LQD and HYG slipped 0.44% and roughly 0.2% respectively, a broad-based, if modest, risk-off tone across duration and credit alike. The move follows a difficult run of Treasury supply: a 20-year auction on September 15 cleared at a 5.420% high yield with a solid 2.57 bid-to-cover and 52.5% indirect bidding, but it comes on the heels of an August 30-year auction that priced at 5.216% -- the highest since 2001 -- on weak demand, with primary dealers left holding 11.5% of the issue. For rates desks, the combination of a hawkish Fed, elevated term premium and choppy but not disastrous auction demand argues for keeping duration underweight into October's meeting rather than chasing the Thursday rally.",
+          "source": "Bloomberg, CNBC, TradingEconomics, thevaultreport.com",
+          "time": "yield spike through the week of Sept 14-18, Friday close levels"
+        },
+        {
+          "stars": 2,
+          "headline": "Wall Street closes a choppy Fed-hike week mixed -- S&P and Nasdaq edge higher, the Dow and Russell 2000 slip as yields stay elevated",
+          "detail": "The S&P 500 added 0.17% Friday to close at 7,650.50 and the Nasdaq Composite rose 0.39% to 26,522.55, while the Dow Jones Industrial Average slipped 0.18% (-95.40 points) to 51,682.64 and the Russell 2000 underperformed, down 0.50% to 2,860.40. The divergence -- large-cap tech and growth outperforming small caps and more cyclical Dow components -- is a fairly direct read on the week's rates story: small caps carry disproportionately more floating-rate and near-term refinancing debt, making them the most exposed part of the market to the Fed's hawkish 'dose of accommodation' framing and the accompanying backup in front-end yields. The week itself was volatile rather than one-directional: Wednesday's hike initially pressured stocks, Thursday saw a sharp rebound (Dow +316 points, S&P +1.1%, Nasdaq +1.7%) as softer oil and a strong jobless-claims print eased inflation-and-growth fears simultaneously, and Friday gave back only a sliver of that gain as yields firmed again into the weekend. Friday also carried quarterly index/options expiration (quadruple witching), which typically inflates volume and single-name dispersion without necessarily reflecting a change in the underlying trend -- worth discounting some of Friday's cross-currents on that basis. For equity desks, the net read is a market that absorbed a genuinely hawkish Fed decision without cracking, but with breadth already thinning at the small-cap and value end even as headline indices sit near their highs.",
+          "source": "TheStreet, Yahoo Finance, Alain Guillot market recap, Bloomberg",
+          "time": "Friday Sept 18 close, Thursday Sept 17 rebound referenced for context"
+        },
+        {
+          "stars": 2,
+          "headline": "Alphabet jumps 3% with no clear catalyst while Meta and Microsoft both slip 0.6% -- a breadth-narrowing signal inside the 'Magnificent Seven'",
+          "detail": "Alphabet shares rose roughly 3% Friday even as neither earnings, analyst upgrades nor product news offered an obvious explanation, while Meta Platforms fell 0.6% to $678.23 and Microsoft fell 0.6% to $494.68 on the same session -- a split that left the mega-cap complex, rather than moving as a bloc, pulling in different directions. Friday's quadruple witching likely amplified the dispersion mechanically (index rebalancing flows and options-related hedging can produce outsized single-name moves independent of fundamentals on expiration days), but the magnitude and lack of catalyst for Alphabet's move is still notable given how much of the Nasdaq's 0.39% Friday gain it likely accounts for on its own given Alphabet's index weight. For desks running mega-cap tech exposure or short-vol strategies around the 'Magnificent Seven' as a single trade, the divergence is a reminder that correlation within the group has been loosening -- idiosyncratic, single-name demand is increasingly driving days that used to move as a unified AI-capex trade, which has implications for how tightly basket or pairs trades should be sized heading into October earnings season.",
+          "source": "24/7 Wall St., NewsBreak/MarketBeat",
+          "time": "Friday Sept 18 session"
+        },
+        {
+          "stars": 2,
+          "headline": "VIX slides to 14.81, nearly 3 points below Wednesday's Fed-day spike, as realized volatility fails to keep pace with a genuinely hawkish decision",
+          "detail": "The Cboe Volatility Index closed at 14.81 on Friday, down from 15.44 Thursday and a Fed-day peak of 17.71 on Wednesday, meaning implied volatility largely round-tripped the week even though the underlying decision -- a unanimous hike with hawkish forward guidance -- was arguably a bigger surprise to positioning than the pre-meeting pricing suggested. The gap between a genuinely hawkish policy surprise and a vol index back near its pre-meeting level is a classic complacency signal that options and vol-target desks should note heading into October's meeting: cheap convexity is still available to hedge a repeat hawkish surprise, and dealer gamma positioning into Friday's quadruple witching may have exaggerated the settling-down as much as any change in the market's actual risk assessment. For multi-asset and CTA-style desks, low realized-vs-implied vol readings like this one are typically a signal to add convexity rather than fade it, particularly with the Fed's dot plot pointing to a live October decision.",
+          "source": "Yahoo Finance, CBOE",
+          "time": "Friday Sept 18 close; Wednesday Sept 16 Fed-day level for comparison"
+        },
+        {
+          "stars": 2,
+          "headline": "Nvidia's Huang says chip volumes will double next year and pushes AI capex forecast to $3-4 trillion by 2030, extending the week's memory-and-logic AI-capex story",
+          "detail": "Speaking to reporters ahead of an AI summit hosted by King Charles III in Scotland on Thursday, Nvidia CEO Jensen Huang said he expects the company to sell twice as many chips next year as this year, describing current demand as 'much greater than 70%' above what the company had previously forecast and calling the AI buildout 'an industrial transformation' that will eventually require a thousand times more energy than currently available. He put a number on the broader capex cycle, projecting $3-4 trillion of AI infrastructure spending by 2030, and pushed back explicitly on 'AI slowdown' narratives that had built up around cautious guidance from Intel and other suppliers earlier in the month. Nvidia shares gained roughly 2% on the commentary, and the remarks are the same read-through that lifted SK Hynix, Samsung and Kioxia sharply in Friday's Asia session -- a reminder that a single executive's comments are currently moving global semiconductor and memory names more than scheduled data points are. For US tech and semis desks, Huang's framing argues for treating the 'peak AI capex' bear case that surfaced around Intel's guidance as premature, though the sheer scale of the forecast ($3-4tn) also raises the bar for what would count as disappointing in the names most levered to it.",
+          "source": "Benzinga, Fox Business, Blockonomi, Breitbart",
+          "time": "comments Thursday Sept 17 at the Scotland AI summit, market reaction into Friday"
+        },
+        {
+          "stars": 2,
+          "headline": "Chevron and Exxon keep riding the Hormuz/Bab el-Mandeb crude premium even as Brent and WTI both fall for a third straight session",
+          "detail": "Chevron traded near $208 Friday, up roughly 36% year-to-date, while Exxon Mobil remains up around 22% on the year, with both majors' 2026 profit surges attributed directly to the elevated crude price complex created by Iran's closure of the Strait of Hormuz and the now-completed Houthi takeover of Yemen's Red Sea coast. Friday's session was nonetheless a third consecutive down day for both benchmarks -- WTI fell roughly 1.6% to $100.30 and Brent eased to $103.17 -- as traders took profits into the weekend and priced some probability that Saudi Aramco's East-West pipeline repair (targeting roughly half capacity within days, full capacity in about six weeks) starts to relieve the physical supply squeeze. The Middle East accounts for roughly 20% of Exxon's oil-and-gas output and nearly 60% of its LNG business, so the majors remain directly exposed to any further escalation or de-escalation in the region, not merely to the benchmark price level. For desks running energy-equity or crude exposure, the setup argues for treating Friday's pullback as profit-taking within a structurally elevated price regime rather than the start of a genuine unwind, given both chokepoints remain compromised and the pipeline bypass is still weeks from full capacity.",
+          "source": "Fortune, 247wallst.com, Investing.com",
+          "time": "Friday Sept 18 session, YTD context through mid-September"
+        },
+        {
+          "stars": 2,
+          "headline": "Airlines keep bleeding on jet-fuel costs -- United down 18%, American down 24% and Delta down 16% since the August oil surge began",
+          "detail": "United, American and Delta have fallen 18%, 24% and 16% respectively since crude began its August surge, with WTI up more than 56% year-to-date and jet fuel now trading near $4/gallon -- a cost base that typically runs 20-25% of airline operating expenses and has pushed the group's margins into a genuine squeeze even as the carriers pass costs through, with fares up 25.5% year-over-year as of July. Carnival, American and United are flagged by desks as carrying the most immediate margin pressure if crude stays near current levels, while valuations across the group are sitting at multi-year lows, a combination some contrarian desks are starting to frame as a value setup rather than a value trap given the fare pass-through has been unusually effective this cycle. The airlines are the clearest single-name read-through in the US market for the same Hormuz/Bab el-Mandeb crude story dominating the Asia and Europe panels, and Friday's -1.6% pullback in WTI offers only modest near-term relief given both chokepoints remain compromised. For consumer-discretionary and travel-sector desks, the key swing factor remains the pace of the Aramco pipeline repair -- full capacity restoration in roughly six weeks would be the first genuine catalyst for a sustained airline-sector re-rating.",
+          "source": "Yahoo Finance, Investing.com, MarketBeat",
+          "time": "performance since the August oil surge, referenced through mid-September"
+        },
+        {
+          "stars": 2,
+          "headline": "White House-Fed friction widens as Trump's own appointee hikes rates anyway -- a genuine fiscal/monetary conflict now playing out in real time",
+          "detail": "Twelve days before Wednesday's decision, President Trump reportedly threatened to 'stop trading' with more than 50 US trading partners if the Fed did not cut interest rates, an unusually direct linkage of trade policy to monetary policy; the Fed hiked anyway, and did so unanimously, in what multiple outlets flagged as the first 12-0 FOMC vote since May 2025 -- notable given Kevin Warsh is Trump's own appointee as Fed chair. The Kobeissi Letter had argued ahead of the meeting that markets were overestimating the odds of a hike given the political pressure, making the unanimous outcome a genuine surprise to at least part of the positioning base rather than a formality. For FX and rates desks, an independent-seeming Fed hiking directly against explicit White House pressure is constructive for the dollar's credibility as a policy anchor in the near term, but it also raises the stakes around Fed-independence headline risk into October and beyond -- any further escalation from the administration (a public call for Warsh's resignation, an attempt to influence FOMC composition, tariff retaliation tied explicitly to the rate decision) would be a genuine cross-asset event given how directly Trump has now tied trade policy to the Fed's independence. This is a story to keep on watch lists even though Friday's market reaction was contained -- the political conflict itself, not just the 25bp move, is the more durable risk factor.",
+          "source": "Kobeissi Letter (via X), Bloomberg",
+          "time": "threat referenced twelve days prior, decision Wednesday Sept 16"
+        },
+        {
+          "stars": 2,
+          "headline": "Goldman Sachs stays bullish on gold post-hike, arguing the Fed should slow the rally rather than derail it, with spot still near record highs above $4,400",
+          "detail": "In a note published the day after the hike, Goldman Sachs told clients that the Fed's tightening should moderate gold's ascent rather than reverse it, maintaining its bullish medium-term thesis even as the bank trimmed some near-term upside language given the stronger-dollar, higher-real-yield backdrop a hiking cycle typically creates. Gold itself touched a weekly high of $4,439.80 intraday Friday before settling up 0.60% around $4,368.60, having climbed more than 25% since early 2025 on a combination of persistent inflation, the Middle East risk premium, and central-bank buying that has continued through the tightening cycle rather than pausing for it -- an unusual combination that is precisely why Goldman is framing this as a 'slower, not derailed' rally rather than a top. Gold miners Barrick (trading near $43.69) and Newmont are both benefiting directly, with Newmont and Barrick's Nevada Gold Mines joint venture also absorbing newly contributed assets (Barrick's Fourmile, Newmont's Fiberline and Mike developments) as of mid-August, consolidating the two majors' shared exposure to the metal's strength. For commodities and multi-asset desks, the fact that a major sell-side house is willing to stay bullish gold through a hawkish hiking cycle is itself a signal about how structurally different this environment is from a textbook 2013-2018-style taper-driven gold bear market.",
+          "source": "TheStreet, MarketBeat, Yahoo Finance",
+          "time": "Goldman note published Sept 18; gold levels Friday Sept 18 close"
+        },
+        {
+          "stars": 2,
+          "headline": "EM stress deepens as the Fed's hawkish hike lands on top of an already-fragile EM bond-and-currency backdrop -- lira, rand and broader EM credit all under pressure",
+          "detail": "A broader EM bond-and-currency selloff had been building through late August and early September on rising odds of a September Fed hike, with MSCI's EM currency and equity gauges whipsawing on shifting hike-probability pricing; now that the hike has actually landed -- unanimously, with hawkish forward guidance -- the read-through is negative for the highest-beta EM names even if the initial market reaction was contained. The clearest single-day evidence is in currencies already flagged elsewhere in today's briefing: the Turkish lira hit a fresh record low near 48.5-48.8/USD with the CBRT intervening directly, and the South African rand sits near 16.26/USD, roughly 1% weaker on the month even after a strong year-to-date run (see Europe panel for both). A firmer dollar and higher US real yields directly raise the cost of servicing dollar-denominated EM debt and reduce the relative appeal of EM carry trades, which is the mechanical channel connecting Wednesday's FOMC decision to Friday's currency-market stress well outside the US. For EM and multi-asset desks, the combination of a genuinely hawkish Fed, a still-unresolved Middle East energy shock, and a full slate of other-central-bank hikes this week (BOJ, ECB, BoE) argues for treating EM local-currency exposure as the most vulnerable corner of the global cross-asset map heading into next week.",
+          "source": "Bloomberg, cross-referenced with Europe/Asia panel FX levels",
+          "time": "Fed-hike read-through through Friday Sept 18"
+        },
+        {
+          "stars": 1,
+          "headline": "Bitcoin tops $81,000 even as the Fed hikes and yields spike -- risk-asset resilience that stands out against the week's rates story",
+          "detail": "Bitcoin traded above $81,000 during the US session Friday, a notable data point given the week's backdrop was a genuinely hawkish, unanimous Fed hike and a 10-year Treasury yield that briefly broke above 5% -- textbook conditions for risk-asset de-rating that crypto largely shrugged off. The move is consistent with the broader pattern seen across risk assets this week (equities closing mixed rather than sharply lower, gold staying bid rather than selling off on the stronger-dollar backdrop), suggesting positioning and liquidity conditions are currently absorbing hawkish surprises better than a simple rates-based framework would predict. No sector-specific crypto catalyst was identified in Friday's coverage, so this is best read as a read-through of the broader risk-appetite story rather than a stand-alone development, but it's worth a line for desks tracking crypto as a liquidity/risk-appetite barometer alongside equities and credit.",
+          "source": "Bloomberg",
+          "time": "Friday Sept 18 session"
+        },
+        {
+          "stars": 1,
+          "headline": "Initial claims fall to 196k, the lowest since mid-July and well below consensus, as Friday's calendar also carries new home sales, industrial production and the KC Fed survey",
+          "detail": "Initial jobless claims for the week ending September 12 fell 10,000 to a seasonally adjusted 196,000, comfortably below the 207,500 consensus and the lowest print since mid-July, with the four-week moving average also declining to 203,250 -- a labor market that remains historically tight even as the Fed hikes into it. Friday's US calendar additionally carried August new home sales (consensus 615k SAAR, up from July's 607k), the Federal Reserve's G.17 industrial production and capacity utilization report, and the Kansas City Fed's September manufacturing survey at 11am, rounding out a data-dense end to Fed week. None of Friday's releases surprised markets enough to move the tape on their own -- the initial-claims beat was the most notable, and even that was absorbed within the broader Fed-hike narrative rather than driving an independent repricing -- but the resilient labor data is part of why the Fed felt comfortable hiking unanimously despite the political pressure described elsewhere in this panel. For desks tracking the Fed's reaction function, a labor market this resilient removes one of the more obvious arguments against continuing to hike in October.",
+          "source": "American Greatness, TradingEconomics, Census Bureau calendar sourcing",
+          "time": "claims data for week ending Sept 12, released and referenced through Friday Sept 18"
+        },
+        {
+          "stars": 1,
+          "headline": "Treasury supply stays a live theme -- a solid 20-year auction Sept 15 follows a weak 30-year sale in August that cleared at the highest yield since 2001",
+          "detail": "A 20-year Treasury bond auction on September 15 cleared at a 5.420% high yield with a 2.57 bid-to-cover ratio and 52.5% indirect bidder participation -- a solid, if unspectacular, showing heading straight into the Fed decision the following day. That result follows a materially weaker 30-year auction in August, which priced at 5.216% (the highest yield since 2001) on a soft 2.39 bid-to-cover with primary dealers left absorbing 11.5% of the issue, an outcome Bloomberg characterized at the time as an investor warning shot to Treasury Secretary Bessent over the pace of long-end issuance. Taken together, the pattern is a long end that remains cheap enough to clear but increasingly sensitive to size and timing, a dynamic rates desks should watch closely as the Fed's hawkish dot plot raises the odds of further front-end pressure layering on top of an already elevated term premium. There is no scheduled coupon auction in the immediate days ahead, but the September/October refunding calendar remains the next test of whether Friday's calmer tone in the long end (10-year easing back from its intraweek break above 5%) can hold.",
+          "source": "Bloomberg, thevaultreport.com, CRFB",
+          "time": "auctions Sept 15 (20-year) and August (30-year), referenced into the weekend"
+        },
+        {
+          "stars": 1,
+          "headline": "Goldman Sachs and JPMorgan rallied into Wednesday's decision as major banks argued earnings could readily absorb a Fed hike",
+          "detail": "Goldman Sachs and JPMorgan both outperformed the broader market ahead of Wednesday's FOMC decision, rising 2.0% and 2.7% respectively, as the banks' own economists had already been calling for the hike and their strategists argued publicly that earnings and balance sheets would readily absorb higher rates -- Goldman, JPMorgan and Morgan Stanley all told clients any Fed-related equity dip should prove brief given healthy profit trends and improving loan growth. The framing matters for financials desks because a genuinely higher-for-longer rate path is a two-sided trade for banks: net interest margin benefits from higher short rates are real, but so is the risk of credit deterioration in more rate-sensitive borrower cohorts (small caps, commercial real estate, consumer revolving credit) if the hiking cycle extends into 2027 as the dot plot now implies. With the sector's own largest players publicly framing this hike as manageable rather than threatening, the more interesting tell for credit-quality watchers will be commentary at October's bank investor days rather than Friday's price action, which was largely quiet in financials by comparison to Wednesday's pre-decision positioning.",
+          "source": "FXStreet, TradersUnion",
+          "time": "Wednesday Sept 16 pre-decision session; framing referenced into Friday"
+        }
+      ]
     }
   },
   "indicators": {
@@ -449,6 +556,79 @@
         "change": "highest since Nov 2008; OAT-Bund spread >100bp",
         "direction": "up"
       }
+    ],
+    "us": [
+      {
+        "category": "Equities",
+        "label": "S&P 500",
+        "value": "7,650.50",
+        "change": "+0.17% (Fri close)",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "Nasdaq Composite",
+        "value": "26,522.55",
+        "change": "+0.39% (Fri close)",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "Dow Jones",
+        "value": "51,682.64",
+        "change": "-0.18% (Fri close), -95.40 points",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "Russell 2000",
+        "value": "2,860.40",
+        "change": "-0.50% (Fri close), small caps underperformed",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "Dollar Index (DXY)",
+        "value": "~100.2-100.3",
+        "change": "roughly flat (Fri), -0.04%",
+        "direction": "flat"
+      },
+      {
+        "category": "Commodities",
+        "label": "Gold",
+        "value": "$4,368.60/oz",
+        "change": "+0.60% (Fri), weekly high $4,439.80 intraday",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "WTI crude",
+        "value": "$100.30",
+        "change": "-1.6% (Fri), 3rd straight down session",
+        "direction": "down"
+      },
+      {
+        "category": "Commodities",
+        "label": "Copper",
+        "value": "$6.62/lb",
+        "change": "+0.43% (Fri), 4th straight gain",
+        "direction": "up"
+      },
+      {
+        "category": "Rates",
+        "label": "US 10Y Treasury yield",
+        "value": "~4.94%",
+        "change": "eased from an intraweek break above 5% (highest since July 2007)",
+        "direction": "flat"
+      },
+      {
+        "category": "Rates",
+        "label": "US 2Y Treasury yield",
+        "value": "~4.75%",
+        "change": "+7bp (Fri), front end pricing an October hike",
+        "direction": "up"
+      }
     ]
-  }
+  },
+  "summary": "A globally synchronized central-bank tightening pulse hit every major bloc at once: the BOJ hiked to 1.25% (7-2 dovish dissent, yen weaker anyway), the ECB hiked to a 2.50% deposit rate, the BoE held hawkish at 3.75%, and the Fed delivered a unanimous 25bp hike to 3.75%-4.00% -- its first since 2023 -- sending the 10-year Treasury briefly above 5% for the first time since 2007 and blowing France's OAT-Bund spread through 100bp for the first time since the 2011-12 sovereign crisis. Europe capitulated into Friday's quadruple witching (every major bourse down 1.4-1.6%) while Asia diverged higher on the BOJ's dovish-dissent yen slide and an AI/memory-driven Kospi surge, and the US closed a choppy Fed-hike week roughly flat-to-firmer at the index level even as small caps, credit and duration all showed real cracks underneath. The Strait of Hormuz and Bab el-Mandeb remain simultaneously compromised, keeping a structural risk premium in crude, gold and EM currencies (fresh lira and rand lows) into next week's Trump-Xi summit and the Fed's now-live October meeting."
 }
