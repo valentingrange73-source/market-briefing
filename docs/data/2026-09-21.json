@@ -148,8 +148,136 @@
       ]
     },
     "europe": {
-      "status": "pending",
-      "items": []
+      "status": "done",
+      "generated_at": "2026-09-21T18:15:58+02:00",
+      "items": [
+        {
+          "stars": 3,
+          "headline": "Volkswagen flags roughly EUR10bn ($11.5bn) of one-off costs and slashes 2026 margin guidance to 1% or less from 4.0-5.5%, and is mechanically ejected from the Euro Stoxx 50 -- replaced by Nokia -- as markets open",
+          "detail": "Volkswagen cut its 2026 operating-margin guidance to a maximum of 1% (from 4.0-5.5% previously) after taking a roughly EUR6bn writedown on its Porsche stake plus further one-off charges, citing 'a further deterioration in the market environment, especially in China' and an accelerated shift in demand toward battery-electric vehicles -- China first-half sales were down about 20%. VW shares fell as much as 5.6% intraday on the follow-through, with Porsche down a further 2.3% on top of Friday's slide, and the warning triggered nationwide protests by German autoworkers at VW, BMW and parts supplier Bosch on Monday. Separately, and mechanically rather than as a fresh judgement, Volkswagen dropped out of the Euro Stoxx 50 as markets opened -- Stoxx's annual index review had already flagged the change -- with Finland's Nokia taking its place on the back of a share price that has more than doubled over the past year on AI-infrastructure and fibre-optic demand. For portfolios and passive trackers, the mechanical index exit forces real rebalancing flows independent of any active view on VW, while the size of the profit warning (nearly 4x the prior full-year guidance range) makes this the clearest single-name confirmation yet that Europe's largest automaker is losing the China/EV transition on cost as much as on volume.",
+          "source": "Reuters, CNBC, Euronews, Bloomberg",
+          "time": "Guidance cut disclosed over the weekend, reflected in Monday's Frankfurt open; index change effective at Monday's open"
+        },
+        {
+          "stars": 3,
+          "headline": "Trump says he would be 'probably open' to meeting Iran's Pezeshkian at the UN General Assembly this week, and Brent extends its slide for a fourth straight session (-2% to around $101.40) on hopes of a diplomatic off-ramp",
+          "detail": "A Fox reporter cited Trump saying he would be open to a sit-down with Iranian President Masoud Pezeshkian, who leads Iran's delegation to the UN General Assembly in New York this week (Trump addresses the Assembly Tuesday, Pezeshkian Wednesday), even as the same administration has separately threatened to 'wipe Iran out' economically or militarily if no deal is reached. The market reaction was immediate and cross-asset: Brent fell around $2.20-2.50 (roughly 2-2.4%) to near $101.40, its fourth consecutive down session, as US officials said oil and LNG shipments through the Strait of Hormuz had reached their highest level in six months despite the formal closure, and traders read the meeting overture as reducing (not eliminating) the odds of near-term military escalation. European equities and US futures both firmed on the headline -- Stoxx 600 was up around 0.56% in early trade with tech leading -- while gold gave back some of its earlier gains as the safe-haven bid eased. For multi-asset desks the mechanism is textbook: a single geopolitical headline moved oil, equities, gold and risk sentiment simultaneously, even though the underlying Hormuz/Bab-el-Mandeb chokepoint disruption described in recent sessions remains structurally unresolved and could reverse just as fast on any negative UNGA readout.",
+          "source": "Investing.com, Bloomberg (Saxo Market Quick Take), FinancialJuice, CNBC",
+          "time": "Comments and market reaction through Monday's European session"
+        },
+        {
+          "stars": 2,
+          "headline": "Merz's CDU polls just 4.9% and misses the 5% threshold in the Mecklenburg-Vorpommern state election -- the first time in postwar German history the party has failed to win a single seat in a regional parliament -- as AfD takes 38.2%",
+          "detail": "Final results confirmed the CDU's worst-ever state election result, a result Chancellor Friedrich Merz himself called 'a disaster,' with the party effectively squeezed out as the race became a two-way AfD-versus-Left contest; Die Linke also beat the CDU in Berlin mayoral elections held the same weekend. Merz said he intends to remain chancellor and press ahead with his reform agenda regardless, but the result adds to a run of poor regional showings that is testing his authority within his own coalition just as Germany navigates a fragile fiscal and growth backdrop. DAX price action on the day was choppy rather than a clean risk-off move -- futures had opened firmer on the oil-driven global risk rally described above -- but the combination of a domestic political shock landing on the same morning as Volkswagen's profit warning and autoworker protests gives rates and FX desks a second, distinct source of German political risk to track alongside the fiscal/growth story, particularly given AfD's now-consistent regional polling strength ahead of any future federal contest.",
+          "source": "CNN, Bloomberg, CNBC, Daily Sceptic",
+          "time": "Results confirmed Monday; election held over the weekend"
+        },
+        {
+          "stars": 3,
+          "headline": "France's OAT-Bund spread stays pinned above 100bp -- a level last seen in the 2011-12 sovereign crisis -- as the 10-year OAT yield holds near 4.49% against debt at 119.3% of GDP, while PM Lecornu unveils an 'offensive' 2027 budget targeting EUR54bn of cuts",
+          "detail": "The spread France pays over Germany on 10-year debt, which breached 100bp over the weekend for the first time since the depths of the eurozone crisis, held there Monday with the OAT yield easing only marginally to around 4.49% even as German Bunds themselves eased off their own multi-year highs (Bund 10Y around 3.50%, down from last week's 3.57% peak, the highest since 2009). The genuinely fresh news is fiscal: Lecornu's government unveiled an 'offensive' 2027 budget plan targeting roughly EUR54bn in spending cuts, aiming to narrow the deficit to 5% of GDP in 2027 from an expected 5.4% this year, with Lecornu warning that without the consolidation the 2027 deficit could approach 6.5%. The plan goes to the Council of Ministers on October 1, and the government -- which has already survived repeated no-confidence votes and rammed the 2026 budget through without a parliamentary vote -- faces the same fragmented-parliament arithmetic that has kept French risk premia elevated all year. For rates and bank-credit desks, the spread stabilizing just above 100bp rather than continuing to widen suggests the market is provisionally willing to wait for October 1 detail before repricing further, but French bank funding costs (BNP Paribas, Societe Generale) remain directly exposed to any disappointment.",
+          "source": "Eastern Herald, Bloomberg, Daily Beirut, Trading Economics",
+          "time": "Spread and yield levels through Monday's session; budget presented to Council of Ministers October 1"
+        },
+        {
+          "stars": 2,
+          "headline": "Societe Generale shares jump as much as 4% -- the top performer on the Stoxx 600 -- after unveiling a new strategic plan lifting its 2029 profitability target to 13-14% RoTE (from ~11% now) with over EUR21bn of shareholder returns through 2029",
+          "detail": "SocGen's new plan targets a return on tangible equity of 13-14% by 2029 rising to 15%-plus from 2030, alongside average annual revenue growth of roughly 3% through 2029 and a 2% reduction in 2029 costs versus this year's expected level, financed partly by cutting IT and procurement spend and partly by an estimated EUR500-600m of AI-driven savings (about EUR350m already embedded by 2029). The market reaction was immediate and sizeable -- shares rose roughly 3.4-4% on the day, taking the stock to nearly +10% year-to-date -- and the bank separately mapped out over EUR21bn ($24bn) in cumulative shareholder returns across the plan period. For European bank-equity desks the read-through is important given the sector backdrop: SocGen is explicitly framing itself as a self-help cost-and-capital-return story rather than relying on a rates tailwind, a template other mid-tier European banks under margin pressure (several French and Italian names) are likely to be benchmarked against over the coming weeks.",
+          "source": "MarketScreener, Bloomberg, Euronext Live, ts2.tech",
+          "time": "Plan unveiled and market reaction Monday"
+        },
+        {
+          "stars": 2,
+          "headline": "UniCredit holds an extraordinary shareholder meeting in Milan to authorise a capital increase settling the Total Return Swaps behind its roughly 49.65% derivative-built stake in Commerzbank -- a pivotal step in Europe's largest cross-border bank M&A push since the financial crisis",
+          "detail": "UniCredit's EGM asked its own shareholders to approve issuing new shares needed to settle a set of TRS agreements the bank used to build synthetic exposure to Commerzbank stock well beyond the 17.6% actually tendered by the close of its formal offer period (July 3). Once regulatory sign-off is secured, the mechanism gives UniCredit access to just under 50% of Commerzbank's voting rights without a full cash tender for that portion of the stake -- a structure that has already prompted UniCredit to move toward replacing Commerzbank's supervisory board ahead of today's vote. For bank-M&A and event-driven credit desks, this is the clearest sign yet that UniCredit intends to press its position rather than accept a standstill, and the vote's outcome (plus any German political or regulatory pushback, given Berlin's historical discomfort with the deal) is now the key near-term catalyst for both banks' bonds and equity, as well as for the broader European banking-consolidation narrative that SocGen's plan (above) and other mid-tier banks are being read against.",
+          "source": "Techtimes, Commerzbank Group disclosures, UniCredit investor relations",
+          "time": "EGM held Monday, 10:00 CET, Milan"
+        },
+        {
+          "stars": 2,
+          "headline": "UK Gilt yields ease (10Y -5bp to 5.24%, 30Y -5bp to 5.70%) as the market continues digesting last week's Bank of England plan to pause all gilt sales for six months and halt long-dated gilt sales entirely, unwinding its GBP488bn QE stock only out to 2034",
+          "detail": "The BoE's MPC voted unanimously last Thursday to keep Bank Rate at 3.75% and to restructure its QE unwind: roughly GBP222bn of gilts will simply be allowed to mature by 2034, while only GBP146bn will be actively sold -- about GBP20bn a year, for an average annual unwind of GBP46bn including maturities, sharply slower than the roughly GBP70bn pace of the past 12 months -- with sales of long-dated gilts halted entirely and no active sales at all for the next six months. That is a materially more gilt-supportive stance than the market had priced, and it is still the dominant technical factor shaping gilt demand and term premium into today's session, even with no fresh BoE headlines today. For rates desks, the combination of a slower, more back-loaded QT path and a hold at 3.75% argues for continued gradual richening at the long end specifically (hence 30Y outperforming on the pause in long-dated sales), while the short end stays anchored to the Bank Rate path and any incremental data surprises.",
+          "source": "Bank of England, Trading Economics, GlobalBankingAndFinance, TheStandard.com.hk",
+          "time": "BoE decision and QE plan published Thursday Sept 17; yield levels as of Monday's session"
+        },
+        {
+          "stars": 2,
+          "headline": "Saudi Aramco confirms it is allocating zero October term-crude volumes to at least two, and reportedly all, European refiners after the East-West pipeline attack, with several cargoes already cancelled or postponed into November",
+          "detail": "Aramco's move follows the September 10 drone attack that knocked out the 4-5 million b/d East-West (Petroline) pipeline, the kingdom's primary Hormuz bypass; repairs are targeting roughly half capacity restored within days and full capacity in about six weeks, but in the meantime Saudi Arabia is prioritising Asian buyers and using ship-to-ship transfers out of Ras Tanura to keep committed volumes moving there, leaving European term customers with nothing for October. At least three European refiners have had late-September cargoes cancelled or pushed out, in some cases to November, and the read-through for desks is specifically a diesel/middle-distillate risk: Europe is structurally short mid-distillate refining capacity, so a Saudi crude gap that forces refiners to source alternative (likely costlier, longer-haul) grades can show up in higher diesel cracks and haulage/farm-input costs well before it is visible in the Brent flat price, which is actually falling today on the broader de-escalation headlines above. This is the clearest single data point yet that the Hormuz/Red Sea disruption is starting to bite European energy security directly, rather than staying a Gulf-region and flat-price story.",
+          "source": "Bloomberg, Invezz, Turkiye Today, Euronews",
+          "time": "Aramco allocation confirmed last week, cargo cancellations reported through the weekend into Monday"
+        },
+        {
+          "stars": 2,
+          "headline": "Italy's BTP-Bund spread falls to a 15-year low (BTP 10Y around 4.33%) even as France's OAT-Bund spread sits above 100bp -- a genuine periphery-versus-core divergence that has flipped Italy into the stronger fiscal-credibility story in the eurozone",
+          "detail": "Italy's 10-year yield eased a further 11bp to roughly 4.33% and the BTP-Bund spread compressed to its tightest level in fifteen years, a striking reversal of the traditional core-periphery hierarchy that has Italy now trading tighter to Germany than France does. The driver is relative rather than absolute: Italy's government has delivered several years of primary-balance discipline and political stability under Meloni, while France's fragmented parliament, serial no-confidence votes and 119.3%-of-GDP debt load have pushed OAT spreads to crisis-era wides (see above). For rates and cross-market desks running European sovereign relative value, this is the trade of the moment -- long BTP/short OAT has been working as a genuine fundamentals-driven convergence rather than a beta trade, and today's fresh 15-year BTP-Bund low confirms the divergence is still widening rather than stabilising, even before France's October 1 budget presentation provides the next potential catalyst.",
+          "source": "Trading Economics, Morningstar Europe, Borsa Italiana",
+          "time": "Yield and spread levels as of Monday's session"
+        },
+        {
+          "stars": 2,
+          "headline": "Moody's downgrades Poland to A3, bringing it in line with S&P and Fitch, injecting some fresh caution into Polish bonds this morning ahead of August wage data and tomorrow's retail sales print",
+          "detail": "The downgrade, delivered Friday after European close, removed the split-rating premium Polish bonds had carried while Moody's sat a notch above the other two major agencies, and desks are pricing in modest spread widening and light aversion to Polish paper at Monday's open even though the move itself was broadly signalled. Today's domestic calendar adds August wage growth data, a direct input to the National Bank of Poland's reaction function, with retail sales due tomorrow alongside Hungary's central bank decision (NBH expected to pause its 'mini' easing cycle and hold at 5.50%, potentially unveiling a two-step cut to its inflation target from 3.0% to 2.0%). USD/PLN was broadly stable near 3.80 on the day, suggesting the downgrade is being absorbed as a ratings-convergence event rather than a fresh credit shock, but CEE rates desks should watch whether Polish government-bond auctions later this week see any real concession build versus recent levels.",
+          "source": "MarketScreener, ING Think, FXStreet",
+          "time": "Downgrade delivered Friday after-hours; market reaction Monday"
+        },
+        {
+          "stars": 2,
+          "headline": "Morgan Stanley flips to calling a 25bp SARB hike to 7.25% on September 23 (from a prior hold call) as August CPI is seen accelerating to around 4.5% y/y, with the rand little changed near 16.2-16.3/dollar into the decision",
+          "detail": "The call shift matters because July's MPC vote split 4-2 in favour of a hold, meaning only one committee member needs to flip toward the hawks for a hike to actually carry on Wednesday; Morgan Stanley frames a hike as 'insurance' against a string of supply shocks (oil, imported inflation) delaying convergence to the 3% target and risking a de-anchoring of inflation expectations. Consensus sees headline CPI rising from 4.3% in July to roughly 4.5% in August with core steady at 4.2%, both above target, giving the SARB a straightforward data justification if it chooses to move. USD/ZAR has stayed remarkably contained around 16.2-16.3 heading into a live, two-sided rate decision, which EM-FX desks should read as the market genuinely uncertain on the outcome rather than complacent -- a hike would be a clean, if modest, positive surprise for rand carry, while a hold that cites the same inflation data as merely 'watching' would likely see the rand give back some of its recent resilience.",
+          "source": "Bloomberg, Invezz, TheGlobalBanker",
+          "time": "Morgan Stanley call published Monday; SARB decision due Wednesday, September 23"
+        },
+        {
+          "stars": 1,
+          "headline": "USD/TRY prints a fresh record high near 48.80, extending the lira's slide to roughly -18% over the past 12 months, as CBRT intervention chatter continues but fails to arrest the multi-week weakening trend",
+          "detail": "The lira weakened a further 0.08% on the day to a fresh all-time low against the dollar, continuing a slide that has now taken USD/TRY down 1.52% over the past month and roughly 18% over the past year, with no single fresh catalyst today beyond the grinding continuation of Turkey's structurally negative real-rate and current-account dynamics. There is nothing new in today's print for EM-FX desks beyond confirmation that the CBRT's periodic verbal and light intervention efforts remain insufficient to change the trend, but it is worth flagging alongside today's broader EM/periphery items (Poland's downgrade, South Africa's live rate decision) as a reminder that Turkish lira exposure continues to require active hedging rather than passive carry, even in sessions with no Turkey-specific headline.",
+          "source": "Trading Economics",
+          "time": "Level as of Monday's session"
+        },
+        {
+          "stars": 2,
+          "headline": "European luxury stocks extend their slide -- LVMH, Hermes and Kering all down another 2-3%+ -- taking the STOXX Europe Luxury 10 index to its lowest level in nearly three months and a 19% year-to-date decline",
+          "detail": "LVMH fell to its lowest price since 2020 and Hermes and Kering both dropped around 3% on continued caution about wealthy-shopper spending, extending a multi-year pattern of slowing sales and lacklustre earnings across the sector; LVMH's own H1 2026 results showed organic revenue growth of just 2% (accelerating to 3% in Q2), with net income flat at EUR5.7bn and operating margin at 22.5% -- jewellery (Tiffany, Bvlgari, +9% organic) was the standout bright spot against otherwise sluggish core leather-goods and fashion divisions. For European consumer-discretionary and China-exposure desks, the luxury complex remains one of the cleanest read-throughs on Chinese domestic demand and high-net-worth confidence available in European equities, and the sector's continued underperformance -- even on a day when broader European equities and banks were finding some support from lower oil -- argues the China-demand weakness is a standing structural drag rather than a sentiment blip that will reverse with the broader market.",
+          "source": "Morningstar UK, Global Banking and Finance",
+          "time": "Levels and moves through Monday's session"
+        },
+        {
+          "stars": 2,
+          "headline": "Tech is the standout Stoxx 600 sector gainer (around +2%) led by chip-linked names Soitec and Aixtron, as travel stocks add 0.86% on cheaper oil while energy slips 0.62% on the Brent decline",
+          "detail": "The sector dispersion is a clean mirror of today's macro drivers: falling oil (see above) is a direct tailwind for travel/airlines and a direct headwind for the energy complex, while chip and semiconductor-equipment names are catching a bid on the same AI-hardware momentum that drove Korea's Samsung and SK Hynix higher in the Asia session, reinforced by Thursday's Trump-Xi state dinner (Nvidia's Jensen Huang confirmed to attend) putting AI-export policy back on the agenda. Soitec and Aixtron specifically are European-listed semiconductor-equipment suppliers whose order books are directly levered to the same HBM/AI-capex cycle driving Asian memory names, making them the natural European proxy for that trade. For sector-rotation desks, today's pattern -- tech up, energy down, travel up, autos and luxury down -- is a genuinely coherent single-factor session (oil price plus AI-capex momentum) rather than noisy dispersion, which argues for treating the moves as tradeable rather than discounting them as idiosyncratic.",
+          "source": "Business Recorder (Reuters), Investing.com",
+          "time": "Sector moves as of Monday's European session"
+        },
+        {
+          "stars": 2,
+          "headline": "FTSE 100 outperforms on miners and banks -- Antofagasta (+2.6%), Anglo American (+2.5%) and Standard Chartered (+2.5%) lead gainers -- while BP (-1.7%) and Shell (-0.7%) lag as Brent falls and industrials/property offset the energy-major drag",
+          "detail": "London's benchmark added roughly 0.4-1% on the session (estimates vary intraday between 10,699 and 10,767) as strength in mining and banking large-caps more than offset a straightforward mechanical drag from lower oil prices hitting BP and Shell, both major index constituents. Antofagasta and Anglo American's gains track the same firmer-copper, tight-Chinese-demand dynamic flagged in the Asia session (LME copper +0.3%, Shanghai copper +1.4%), while Standard Chartered's gain fits the broader European-bank rally led by SocGen's strategic-plan news. J Sainsbury (-1.1%) and Barratt Redrow (-1.0%) were among the day's laggards. For UK equity desks, the FTSE's relative resilience versus the Euro Stoxx 50's weaker session (dragged by Volkswagen and French political/fiscal risk) is a genuine divergence worth tracking -- the FTSE's heavier weighting toward miners, banks and defensives is providing real insulation from the auto and luxury-sector weakness concentrated on the continent today.",
+          "source": "Proactive Investors, Business Recorder, Sunday Guardian Live",
+          "time": "Levels and constituent moves through Monday's session"
+        },
+        {
+          "stars": 1,
+          "headline": "ECB launches Pontes, its DLT wholesale-settlement pilot linking tokenised trades to TARGET services in central-bank money, with Lagarde giving opening remarks at a Frankfurt roundtable and the central bank confirming it will invest part of its own funds in tokenised securities settled through the new system",
+          "detail": "Pontes went live Monday as a focused pilot with limited operating hours, letting market blockchain platforms settle tokenised wholesale trades directly in central-bank money via the Eurosystem's existing TARGET infrastructure -- a concrete, if early-stage, step in the ECB's broader push to keep central-bank money relevant as wholesale markets experiment with tokenisation. Lagarde's Frankfurt remarks frame the launch alongside the ECB's own decision to allocate a small portion of its own funds into tokenised securities settled via Pontes, a symbolic show of confidence in the plumbing. There is no near-term trading implication from today's launch, but for desks tracking market-structure and tokenisation themes, Pontes is the clearest signal yet that a G7 central bank is willing to put its own settlement rails behind DLT-based wholesale trades rather than leaving the space entirely to private stablecoin and tokenised-deposit initiatives -- a genuine structural development worth logging even on a day with no immediate market reaction.",
+          "source": "European Central Bank, Cryptopolitan",
+          "time": "Pontes launched Monday; Lagarde remarks 17:00 CEST, Frankfurt"
+        },
+        {
+          "stars": 1,
+          "headline": "Gold eases back toward $4,360-4,395/oz off the day's higher open near $4,413, as Trump/Pezeshkian de-escalation hopes trim the safe-haven bid even as ETF inflows keep running at their longest streak since October 2025",
+          "detail": "Gold opened around $4,413/oz -- its highest level in over a week -- before slipping back into last week's $4,350-4,400 range as the UNGA meeting overture described above reduced some of the geopolitical risk premium embedded in the metal, a mirror image of the same mechanism pulling Brent lower today. The pullback in spot price sits against a still-firm structural backdrop: global gold ETF holdings are back near roughly 100 million ounces, up more than 4 million ounces from the July low, on an eight-consecutive-day inflow streak that is the longest since October 2025, per Kobeissi Letter tracking. For desks running gold as a portfolio hedge rather than a pure directional trade, today's pattern -- price easing on a single de-escalation headline while flow data stays unambiguously net-buying -- is a useful reminder that the ETF-flow picture is the more durable signal of underlying positioning than any single day's price reaction to headline risk.",
+          "source": "Yahoo Finance, CNBC, Fortune, Kobeissi Letter (via web search)",
+          "time": "Price action through Monday's session, open around 9am ET"
+        },
+        {
+          "stars": 1,
+          "headline": "Core EUR/GBP/CHF economic calendar is thin today, with the week's real catalysts still ahead -- Wednesday's flash PMIs and Thursday's Trump-Xi summit -- leaving Monday's price action almost entirely geopolitics- and corporate-news-driven rather than data-driven",
+          "detail": "No top-tier eurozone, UK or Swiss data prints landed in the 07:00-16:00 UTC window today; Poland's August wages and tomorrow's Polish retail sales plus Hungary's NBH decision are the nearest CEE-specific data points, while the core euro-area/UK calendar stays quiet until Wednesday's flash composite/services/manufacturing PMIs, the next genuine test of whether the currency bloc's growth momentum is holding up. EUR/USD drifted to around 1.1475 (-0.10%) and GBP/USD held essentially flat near 1.3395, both consistent with a session where FX was tracking the dollar's broad tone and risk sentiment (oil, equities) rather than reacting to fresh eurozone or UK-specific data. For FX and rates desks, the practical takeaway is that today's session -- VW, Merz, SocGen, oil/Iran -- was a story of corporate and political catalysts overwhelming a quiet calendar, and positioning into Wednesday's PMIs and Thursday's summit is the more relevant near-term question than anything released today.",
+          "source": "FXStreet, Trading Economics, RoboForex",
+          "time": "EUR/USD and GBP/USD levels as of Monday's session; PMIs due Wednesday"
+        }
+      ]
     },
     "us": {
       "status": "pending",
@@ -255,6 +383,113 @@
         "value": "2.99%",
         "change": "flat, Japan bond market closed for holiday",
         "direction": "flat"
+      }
+    ],
+    "europe": [
+      {
+        "category": "Equities",
+        "label": "Euro Stoxx 50",
+        "value": "6,236.21",
+        "change": "-1.37%, VW/Merz-driven weakness offsets oil-relief open",
+        "direction": "down"
+      },
+      {
+        "category": "Equities",
+        "label": "FTSE 100",
+        "value": "10,699-10,767",
+        "change": "+0.4% to +1.0% intraday, miners and banks lead",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "DAX",
+        "value": "25,400-25,587",
+        "change": "+0.5% to +1.1%, choppy on VW warning vs Merz/CDU shock",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "CAC 40",
+        "value": "—",
+        "change": "opened firmer vs Friday's 8,065.02 close before fading on VW/political risk",
+        "direction": "flat"
+      },
+      {
+        "category": "Equities",
+        "label": "IBEX 35",
+        "value": "19,601-19,724",
+        "change": "session range, roughly flat to Friday's 19,513.80 close",
+        "direction": "flat"
+      },
+      {
+        "category": "FX",
+        "label": "EUR/USD",
+        "value": "1.1475",
+        "change": "-0.10%, dollar broadly firm",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "GBP/USD",
+        "value": "1.3395",
+        "change": "little changed",
+        "direction": "flat"
+      },
+      {
+        "category": "FX",
+        "label": "USD/TRY",
+        "value": "48.80",
+        "change": "fresh record high, lira -18% over 12 months",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "USD/ZAR",
+        "value": "16.2-16.3",
+        "change": "little changed into Wednesday's live SARB decision",
+        "direction": "flat"
+      },
+      {
+        "category": "FX",
+        "label": "USD/PLN",
+        "value": "~3.80",
+        "change": "broadly stable despite Moody's downgrade to A3",
+        "direction": "flat"
+      },
+      {
+        "category": "Commodities",
+        "label": "Gold",
+        "value": "$4,360-4,395/oz",
+        "change": "off the day's $4,413 high on Iran de-escalation hopes",
+        "direction": "down"
+      },
+      {
+        "category": "Commodities",
+        "label": "Brent crude",
+        "value": "$101.40",
+        "change": "-2.4%, 4th straight down session on Hormuz-flow/UNGA hopes",
+        "direction": "down"
+      },
+      {
+        "category": "Rates",
+        "label": "Bund 10Y",
+        "value": "~3.50%",
+        "change": "eased from last week's 3.57% high (highest since 2009)",
+        "direction": "flat"
+      },
+      {
+        "category": "Rates",
+        "label": "Gilt 10Y",
+        "value": "5.24%",
+        "change": "-5bp, BoE QE-unwind slowdown still supportive",
+        "direction": "down"
+      },
+      {
+        "category": "Rates",
+        "label": "OAT 10Y",
+        "value": "~4.49%",
+        "change": "OAT-Bund spread holding >100bp, first time since 2011-12",
+        "direction": "up"
       }
     ]
   }
