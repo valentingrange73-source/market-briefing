@@ -280,8 +280,150 @@
       ]
     },
     "us": {
-      "status": "pending",
-      "items": []
+      "status": "done",
+      "items": [
+        {
+          "stars": 3,
+          "headline": "Treasury Secretary Bessent calls US-China trade/AI talks 'very successful' ahead of Thursday's summit, triggering a same-session cross-asset rally in equities, oil, EM and rates",
+          "detail": "Bessent told reporters after roughly eight hours of talks with Vice Premier He Lifeng's team in New York that the US and China had a 'very successful' engagement on trade and AI, with both sides agreeing to launch a new AI dialogue and notification mechanism and confirming their bilateral 'Board of Trade' framework is now operational (consumer goods and low-tech items from China, energy and agricultural products from the US). The talks are the direct prelude to Thursday's Trump-Xi summit in Washington, where tariffs, rare earths and AI-export policy are on the agenda, and where Nvidia's Jensen Huang is confirmed to attend the state dinner. Markets read the headline as reducing tail risk into the summit and reacted across every asset class at once: the S&P 500 rose 1.49% to a close of 7,764.70, the Nasdaq Composite gained 2.26% to a record 27,122.09, MSCI's EM equity gauge jumped 1.1% to its best level in over a week (Samsung, TSMC and MediaTek leading), Brent extended its slide to a fourth straight session, and the 10-year Treasury yield fell more than 4bp to 4.951%. For multi-asset desks this is the clearest single catalyst of the US session and the rubric-defining move of the day -- one trade/diplomacy headline repricing equities, EM, commodities and rates together, with the follow-through still live into Thursday's actual leader-level meeting.",
+          "source": "Bloomberg, Japan Times, FXStreet, Korea Times",
+          "time": "Talks concluded Sunday into Monday NY session; market reaction through Monday's US close"
+        },
+        {
+          "stars": 2,
+          "headline": "Nasdaq closes at a record 27,122.09 (+2.26%) as chip and AI names melt up -- AMD crosses $1trn market cap, Intel jumps as much as 12%",
+          "detail": "The Nasdaq Composite's first record close since June came as the Philadelphia Semiconductor Index (SOX) rallied more than 3% intraday. Advanced Micro Devices surged roughly 9-10% to an all-time high, crossing a $1 trillion market capitalization for the first time; Intel jumped as much as 12% and Arm gained over 8%, while Nvidia added 2.5% after CEO Jensen Huang reiterated confidence in AI demand. The rally's drivers stack on top of each other: optimism around Thursday's Trump-Xi state dinner and AI-export policy, a reported Intel-AUO Micro LED packaging partnership and SK Hynix exploring a deal with Intel, and Meta's new MUSE AI agent sparking a broader rally in server-CPU suppliers. For portfolios running AI-hardware beta, today's move extends the same Korea-export-driven momentum flagged in the Asia session (record September chip exports, Samsung/SK Hynix strength) into US large- and mega-cap names, reinforcing that the AI-capex trade remains the dominant single-factor driver of US equity returns.",
+          "source": "TipRanks, Yahoo Finance, CNBC",
+          "time": "Monday's full US session, close 4pm ET"
+        },
+        {
+          "stars": 1,
+          "headline": "Russell 2000 slips 0.50% even as large-caps rally, widening the small-cap divergence",
+          "detail": "While the S&P 500, Nasdaq and Dow all posted solid gains, the small-cap Russell 2000 fell about 0.50% on the day, a clean divergence from the mega-cap/AI-led rally driving the broader tape. Small caps carry more floating-rate and bank-dependent balance sheets, so they are typically the first cohort to lag when a rally is concentrated in AI-capex names rather than broad economic reacceleration; today's split is consistent with that pattern rather than signaling anything new. For desks tracking market breadth as a health check on the rally, the Russell's underperformance alongside a record Nasdaq close is worth flagging as a persistence-of-concentration signal rather than a one-off.",
+          "source": "Yahoo Finance, Trading Economics",
+          "time": "Monday's US close"
+        },
+        {
+          "stars": 2,
+          "headline": "10-year Treasury yield falls to 4.951% (-4bp+), tracking a global bond rally as oil retreats",
+          "detail": "The benchmark 10-year yield fell more than 4bp to 4.951%, moving further off last week's 19-year high of 5.041% touched immediately after the Fed's 25bp hike to 3.75-4.00%. The move tracked a broader global easing in borrowing costs alongside the day's falling oil prices -- German Bunds and UK Gilts were both down more than 5bp in the European session -- as the Bessent China-talks headline and Iran de-escalation hopes reduced the oil-driven inflation premium priced into the long end. The 2-year yield held closer to 4.74%, meaning the 2s10s curve stayed compressed in the high-20s/low-30s bp range rather than steepening, consistent with a market that still expects the Fed's recent hike, not a cut, to be the operative near-term policy signal. For rates desks, today's rally is best read as an oil/inflation-premium unwind at the long end rather than a dovish repricing of the Fed path itself.",
+          "source": "CNBC, Trading Economics, MacroRadar",
+          "time": "Monday's US session"
+        },
+        {
+          "stars": 2,
+          "headline": "Fed's Goolsbee warns the inflation fight 'is going to be painful,' explicitly tying oil/tariff shocks to the Fed's reaction function",
+          "detail": "Chicago Fed President Austan Goolsbee, speaking at an OMFIF event in London, said persistent supply shocks -- including oil prices driven up by the Iran war and by tariffs -- mean the Fed can no longer simply 'look through' inflation prints as transitory, and that bringing inflation back to target 'is going to be painful.' He added there is 'no ambiguity' about how the Fed would respond if demand also overheats, hawkish language landing one week after the FOMC's 25bp hike to 3.75-4.00% (its first hike since 2023) and a dot plot in which 16 of 18 officials saw at least one more hike this year. The comments are a direct read-through from the Iran/Hormuz oil-supply story dominating the Asia and Europe sessions today into US rates: a Fed official is now explicitly naming geopolitical oil disruption as a reason policy must stay restrictive rather than easing into any growth wobble. For rates and macro desks, Goolsbee's framing raises the bar for any near-term dovish pivot even as today's price action (yields down, equities up) reflects a market currently trading the oil-relief headline rather than the hawkish Fed-speak.",
+          "source": "Bloomberg, Newsquawk, WSAU/AP",
+          "time": "Speech delivered 5:30am CT Monday (11:30 UTC), reported through the US session"
+        },
+        {
+          "stars": 2,
+          "headline": "Energy sector drops ~2% as oil extends its slide to a fourth straight session, WTI below $100",
+          "detail": "The S&P 500 energy sector fell roughly 2.02% on the day, the market's clear laggard, as WTI crude dropped about 2% to $98.27 and Brent fell 1.9% to $101.94 -- both a fourth consecutive down session. The decline reflects the same mechanism flagged across today's sessions: US Central Command said Hormuz shipping volumes have reached a six-month high despite the formal closure, Saudi Arabia continues rerouting roughly 2.8 million b/d via Ras Tanura ship-to-ship transfers, and Trump's openness to meeting Iran's Pezeshkian at the UN this week is being read as reducing near-term military-escalation odds. Exxon and Chevron, both up double digits year-to-date on the earlier Iran-driven spike, gave back some 2026 gains on the day, a mechanical drag on both the sector and the Dow. For desks running the oil-supply-shock trade, today is the clearest evidence yet that flat-price is decoupling from the underlying chokepoint risk (Hormuz traffic is still roughly 90% below pre-war levels per the Asia session's reporting) purely on diplomatic-headline flow -- meaning the energy-sector reversal remains fragile and reversible on any negative UNGA or Iran surprise this week.",
+          "source": "Yahoo Finance, GuruFocus, Fortune",
+          "time": "Monday's US session; fourth straight down day for crude"
+        },
+        {
+          "stars": 1,
+          "headline": "Gold eases to $4,350-4,413/oz on the diplomatic de-escalation headlines, giving back some of last week's gains",
+          "detail": "Gold slipped roughly 0.3-0.6% on the day, trading in a $4,350-4,413/oz range as the safe-haven bid unwound alongside the broader risk-on move triggered by the Bessent China-talks and Trump-Pezeshkian headlines. The pullback mirrors the same mechanism pulling oil lower today -- a reduction in the geopolitical risk premium rather than any change in the metal's structural demand backdrop, which per the Europe session's reporting still shows global ETF holdings on an eight-day inflow streak, the longest since October 2025. For desks running gold as a portfolio hedge, today's price action is a single-day reaction to a de-escalation headline rather than a reversal of the underlying positioning trend, and the metal remains vulnerable to a sharp re-rating higher if this week's UNGA or Trump-Xi summit produces a negative surprise instead.",
+          "source": "Yahoo Finance, CNBC, Fortune",
+          "time": "Monday's US session, morning open near $4,413"
+        },
+        {
+          "stars": 2,
+          "headline": "Copper extends its advance to $6.65-6.75/lb (+0.47%) as Chinese import-demand tightness carries through from the Asia session",
+          "detail": "Copper futures rose a further 0.47% to around $6.65-6.75/lb in US trade, extending the advance flagged in Monday's Asia session (LME three-month +0.3% to $14,539/tonne, Shanghai copper +1.4%) as Chinese physical demand continues running 1-2% above year-ago levels into scheduled October-November smelter maintenance that will constrain supply just as demand holds up. Peru and Chile production dynamics are also in focus for desks tracking the physical market. The continuation of the copper bid through the US session -- on a day when broader commodities (oil, gold) both fell -- reinforces the Asia session's read that this is a genuine China-import-demand story rather than a speculative futures rally tracking the broader risk-on tape, a more durable signal for industrial-metals and China-cyclical desks.",
+          "source": "Rio Times, Economies.com",
+          "time": "Monday's US session"
+        },
+        {
+          "stars": 1,
+          "headline": "Silver eases to $66.53/oz, a modest pullback in line with gold's de-escalation-driven retreat",
+          "detail": "Silver slipped about 41 cents to $66.53/oz, tracking gold's modest pullback on the day's diplomatic de-escalation headlines even as the metal remains up roughly $22.47, or about 51%, over the past twelve months. There is no fresh silver-specific catalyst today; the move is best read as a beta reaction to the same safe-haven unwind hitting gold rather than an independent development, though the metal's scale of twelve-month appreciation keeps it a standing theme for desks tracking the broader precious-metals and industrial-demand complex.",
+          "source": "Fortune",
+          "time": "9:20am ET Monday"
+        },
+        {
+          "stars": 2,
+          "headline": "MSCI Emerging Markets index gains 1.1% to a one-week high as US-China trade optimism lifts Samsung, TSMC and MediaTek",
+          "detail": "MSCI's developing-nation equity gauge rose 1.1% to its best level in over a week, led by rallies in Samsung Electronics, Taiwan Semiconductor Manufacturing and MediaTek, as the Bessent-led 'very successful' US-China trade/AI talks combined with a fourth straight day of oil declines to lift EM sentiment broadly heading into Thursday's summit. FXI (China large-cap ETF) added a further 0.38% on the day, building on its 4.3% year-to-date gain, while EEM's largest country weights (China, India, Taiwan, South Korea) all benefited from the same reduced-tail-risk read-through. This is a direct continuation of the Asia session's Kospi/Hang Seng strength (Samsung +4.98%, chip-export records, Alibaba/Tencent gains) carrying through the US trading day, and for EM-allocator desks it reinforces that AI-hardware exposure and US-China de-escalation headlines, not local EM fundamentals, remain the dominant drivers of the asset class's recent performance.",
+          "source": "Bloomberg",
+          "time": "Monday's session, gauge at its highest in over a week"
+        },
+        {
+          "stars": 2,
+          "headline": "US high-yield spreads hold near record tights at 270bp OAS even as SoftBank's $11bn+ AI-linked junk deal tests investor appetite",
+          "detail": "The ICE BofA US High Yield Index option-adjusted spread sits around 270bp, near the tight end of its historical range and echoing the same near-record-tight Asia dollar-credit story (Asia USD HY +4.3% YTD vs 2% for US HY) flagged in Monday's Asia session. The tightness leaves the asset class very little cushion against a shock, a backdrop against which SoftBank's marketed $10bn-plus-EUR1bn junk bond sale -- one of the largest single-company high-yield deals on record, funding the next $10bn tranche of its OpenAI investment -- is a live test of how much AI-capex leverage credit markets will absorb before demanding wider spreads. The deal is expected to price ahead of its October 1 close. For L/S credit and multi-asset desks, the combination of near-record-tight US HY spreads and the more than $1 trillion pile of AI-linked debt flagged below argues that credit, not equities, is where the AI-financing story's downside risk is most likely to first show up if sentiment turns.",
+          "source": "FRED/Trading Economics, Bloomberg, Business Standard",
+          "time": "Spread level as of Monday; SoftBank deal in market through the week"
+        },
+        {
+          "stars": 2,
+          "headline": "Kobeissi flags record AI concentration -- 45% of S&P 500 market cap, 15.4% of IG debt ($1.4trn) tied to AI, and a claim the AI debt boom is now pushing Treasury yields higher",
+          "detail": "New positioning research highlighted by The Kobeissi Letter shows AI-related stocks now account for a record 45% of the S&P 500's total market capitalization, up 20 percentage points since ChatGPT's November 2022 launch, while a record 15.4% of US investment-grade corporate debt -- an all-time-high $1.4 trillion -- is now tied to AI, making it the single largest sector in US credit markets. The same research argues combined AI-related bond issuance from Big Tech and their financing SPVs (including vehicles like the one funding SoftBank's OpenAI commitment above) is on pace to hit a record $320bn this year, a 60% year-on-year jump the desk explicitly links to the recent rise in Treasury yields. The structural read-through matters beyond any single day's price action: with AI exposure this concentrated across both the equity index and the IG credit complex simultaneously, a shock to AI-capex confidence would no longer be containable to tech-sector equities the way it might have been even a year ago. For multi-asset and risk-budgeting desks, today's chip-led equity rally and near-record-tight HY spreads are both downstream of the same concentration this research is flagging as the market's dominant systemic exposure.",
+          "source": "Kobeissi Letter (X)",
+          "time": "Positioning data published through the week, referenced Monday"
+        },
+        {
+          "stars": 2,
+          "headline": "Paramount Skydance settles state AG lawsuits, clearing the path for its roughly $110bn Warner Bros Discovery merger",
+          "detail": "Paramount Skydance reached a settlement with California and several other states that had sued to block the roughly $110bn Warner Bros Discovery merger, with the last holdout states conceding over the weekend after California-led terms were largely accepted. The settlement removes one of the last major legal obstacles to what would be one of the largest media mergers in history, following the deal's earlier FCC broadcast-ownership clearance. For M&A and media-equity desks, the removal of state-level antitrust risk is the clearest signal yet that the deal is on track to close, shifting the market's focus toward integration execution and the combined entity's content/streaming strategy rather than deal-completion risk.",
+          "source": "Bloomberg, CBS6 Albany, Yahoo Finance",
+          "time": "Settlement reported Monday, reached over the weekend"
+        },
+        {
+          "stars": 2,
+          "headline": "Meta rallies toward its sixth straight positive session on AI-agent optimism, MAGS ETF hits a fresh record high",
+          "detail": "Meta Platforms shares extended their winning streak, pacing for their best single-day gain since September 9, as investor enthusiasm builds ahead of the company's September 23 Connect event where its new personal AI agent MUSE is expected to be a centerpiece. The Roundhill Magnificent Seven ETF (MAGS) hit an intraday all-time high for a second straight session, reflecting the same mega-cap AI-optimism driving the broader Nasdaq record close. Meta also went ex-dividend today ($0.525/share). For desks tracking mega-cap AI-capex exposure specifically, Meta's rally is a distinct thread from the semiconductor-led rally above -- it reflects optimism about AI-product monetization (an agent consumers might actually pay for or engage with) rather than pure infrastructure/hardware demand, and Wednesday's Connect event is the next scheduled catalyst.",
+          "source": "Motley Fool, Yahoo Finance",
+          "time": "Sixth straight positive session through Monday's close; Connect event September 23"
+        },
+        {
+          "stars": 2,
+          "headline": "Memory-chip names diverge -- SanDisk +11% on S&P 100 inclusion, Micron +2.2% ahead of Sept 30 earnings, but CXMT flagged as a fresh Chinese competitive pressure point",
+          "detail": "SanDisk shares jumped roughly 11% to $1,791.82 as the stock joined the S&P 100 index today, a rebalancing-driven flow event that adds passive-fund buying independent of any change in the company's fundamentals. Micron rose about 2.2% in a session where broader memory-sector sentiment stayed constructive on AI-hardware demand ahead of its September 30 fiscal Q4 earnings report, though sell-side commentary flagged Chinese memory maker CXMT (ChangXin Memory Technologies) as an emerging pressure point that could test both Micron's and SanDisk's pricing power if its output scales faster than expected. SK Hynix, Micron and SanDisk all currently carry Strong Buy sell-side ratings. For semiconductor-supply-chain desks, today's index-inclusion pop in SanDisk is a purely mechanical flow event layered on top of a genuine fundamentals story (the same Korea chip-export record and HBM sold-out narrative flagged in the Asia session), while the CXMT mention is worth tracking as the first specific named competitive threat to the memory-pricing story this week.",
+          "source": "TipRanks, Ad-hoc News, Invezz",
+          "time": "Monday's US session; Micron earnings due September 30"
+        },
+        {
+          "stars": 1,
+          "headline": "Bitcoin surges to an eight-month high near $84-85k on a short squeeze as oil falls and risk appetite improves",
+          "detail": "Bitcoin opened at $81,162 and surged to an eight-month high of $85,134 intraday, briefly crossing $84,000 for the first time since January 31, a roughly 3.2% gain that liquidated some $262 million of short positions within a single hour. Ethereum added a more modest 0.5%+ to trade near $2,714. The move is attributed to the same cross-asset risk-on tone driving equities and pressuring oil today -- a strong weekly close for Bitcoin heading into the session plus the short-covering dynamic amplified the initial move. For crypto and macro-fund desks, the size of the single-hour short liquidation is the more informative signal than the headline price gain, since it points to positioning rather than fresh fundamental news as the primary driver.",
+          "source": "24/7 Wall St, Yahoo Finance",
+          "time": "Move through Monday's US morning session, 10:07am ET"
+        },
+        {
+          "stars": 1,
+          "headline": "VIX holds near 14.8, a one-month-range low, even against a live Iran/Hormuz and pre-summit macro backdrop",
+          "detail": "The CBOE Volatility Index closed around 14.81, near the low end of its past-month 13.80-18.94 range, reflecting a market pricing very little near-term equity-volatility risk despite the ongoing Iran/Hormuz standoff, Thursday's Trump-Xi summit, and this week's live central-bank decisions abroad (SARB Wednesday, Hungary's NBH). The low print is consistent with today's melt-up price action (S&P and Nasdaq both up, chip names surging) and the reduced tail-risk read-through from the Bessent China-talks and Trump-Pezeshkian headlines. For vol and options desks, a sub-15 VIX heading into a week with this much genuine event risk (summit, Fed speakers, Iran diplomacy) is worth flagging as complacent positioning rather than a signal the risk itself has actually receded.",
+          "source": "Investing.com, Yahoo Finance",
+          "time": "Monday's US close, approximately 2:32pm ET reading of 14.81"
+        },
+        {
+          "stars": 1,
+          "headline": "US economic calendar stays thin Monday -- Goolsbee's speech was the session's only major scheduled event, with the week's real data (UMich final Friday) still ahead",
+          "detail": "No top-tier US data releases landed in the 12:00-21:00 UTC window today; Fed's Goolsbee speech in London was the session's primary scheduled catalyst (see above). The University of Michigan's preliminary September consumer-sentiment reading, released earlier this month, had already fallen to 47.8 -- its weakest since May's record low, with year-ahead inflation expectations up to 4.6% -- and the final September reading is due Friday, September 25. This week's calendar is otherwise dominated by Fed-speaker appearances (roughly ten scheduled across the week) rather than data prints, meaning today's price action was driven almost entirely by the geopolitical/trade headlines and corporate news covered above rather than by economic releases. For desks positioning into the rest of the week, Friday's UMich final and any incremental Fed commentary are the next scheduled US catalysts, alongside Thursday's Trump-Xi summit.",
+          "source": "Kiplinger, Advisor Perspectives, FRED",
+          "time": "Calendar as of Monday; UMich final due Friday, September 25"
+        },
+        {
+          "stars": 2,
+          "headline": "Yield curve stays flat-to-compressed in the front/belly even as the long end richens -- 2s10s in the high-20s/low-30s bp range",
+          "detail": "The 2s10s Treasury spread has compressed from roughly 33bp on September 15 to the high-20s bp range by today, even as the outright 10-year yield fell to 4.951% on today's oil/China-talks-driven rally. The pattern reflects a front end still anchored to the Fed's hawkish September hike (2-year yield around 4.74%, up 7bp on decision day and little changed since) against a long end that is trading the day's risk-on/oil-relief headline rather than a fresh dovish repricing of the policy path. For curve-relative-value and macro-rates desks, the combination -- a still-compressed 2s10s alongside a widening 10Y-3M spread over the past week -- is a genuinely mixed signal that argues for treating today's yield decline as a risk-premium unwind specific to the oil/Iran story rather than the start of a broader Fed-cut repricing, consistent with Goolsbee's hawkish remarks earlier today.",
+          "source": "FinanceFeeds, MacroRadar, Convex",
+          "time": "Curve levels as of Monday's session"
+        },
+        {
+          "stars": 1,
+          "headline": "Regional and large-cap banks broadly firm as the 2026 sector outlook stays constructive on loan growth and steepening expectations",
+          "detail": "US bank stocks, including regional names (PNC, Citizens, Truist, Regions, US Bancorp, Fifth Third) and the broader KRE-tracked regional-bank complex, continued to trade with a constructive technical tone, part of a 2026 sector narrative built on accelerating loan growth, hopes for a steeper yield curve, and an active bank-M&A pipeline. There is no single fresh catalyst specific to today, but the theme sits alongside the European banking story in this week's Europe session (SocGen's new strategic plan, UniCredit's Commerzbank EGM), giving cross-market bank-equity desks a genuinely global read on financial-sector re-rating this week rather than a US-only phenomenon. For desks running bank-sector relative value, the standing bullish setup means today's session offered no reason to change positioning, but it is worth logging as context alongside the more event-driven items above.",
+          "source": "NerdWallet, Morningstar, CNBC",
+          "time": "Standing sector context, no fresh Monday-specific catalyst"
+        }
+      ],
+      "generated_at": "2026-09-21T23:06:12+02:00"
     }
   },
   "indicators": {
@@ -491,6 +633,79 @@
         "change": "OAT-Bund spread holding >100bp, first time since 2011-12",
         "direction": "up"
       }
+    ],
+    "us": [
+      {
+        "category": "Equities",
+        "label": "S&P 500",
+        "value": "7,764.70",
+        "change": "+1.49%",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "Nasdaq Composite",
+        "value": "27,122.09",
+        "change": "+2.26%, record close",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "Dow Jones",
+        "value": "52,048.83",
+        "change": "+0.71% (+366pts)",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "Russell 2000",
+        "value": "—",
+        "change": "-0.50%, lagging large-caps",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "Dollar Index (DXY)",
+        "value": "99.98",
+        "change": "+0.05%, little changed",
+        "direction": "flat"
+      },
+      {
+        "category": "Commodities",
+        "label": "Gold",
+        "value": "~$4,353/oz",
+        "change": "-0.6%, off last week's high",
+        "direction": "down"
+      },
+      {
+        "category": "Commodities",
+        "label": "WTI crude",
+        "value": "$98.27",
+        "change": "-2.0%, 4th straight down day",
+        "direction": "down"
+      },
+      {
+        "category": "Commodities",
+        "label": "Copper",
+        "value": "~$6.70/lb",
+        "change": "+0.47%, China demand tightness",
+        "direction": "up"
+      },
+      {
+        "category": "Rates",
+        "label": "US 10Y Treasury",
+        "value": "4.951%",
+        "change": "-4bp",
+        "direction": "down"
+      },
+      {
+        "category": "Rates",
+        "label": "US 2Y Treasury",
+        "value": "~4.74%",
+        "change": "little changed, curve stays compressed",
+        "direction": "flat"
+      }
     ]
-  }
+  },
+  "summary": "Iran/Hormuz risk dominated the Asia hours (Trump's 'deciding mode' rhetoric, oil rerouted via Saudi workarounds) before Trump's openness to meeting Iran's Pezeshkian and Bessent's 'very successful' US-China trade/AI talks flipped the day's tone into Europe and the US, pushing Brent down roughly 4% across the session and lifting risk assets into Thursday's Trump-Xi summit. Europe carried its own distinct stress -- Volkswagen's ~EUR10bn profit warning and Euro Stoxx 50 ejection, Merz's CDU shut out of a German state election for the first time postwar, and France's OAT-Bund spread stuck above 100bp -- while the US session closed at records (S&P 500 +1.49%, Nasdaq +2.26% to an all-time high) on an AI/chip melt-up that took AMD through a $1trn market cap and pulled the 10-year Treasury yield down to 4.951%. Threads to carry into the summit: AI-capex financing keeps concentrating risk (SoftBank's $11bn+ junk deal, a record 45% of S&P 500 market cap and $1.4trn of IG debt now AI-linked per Kobeissi), a hawkish Fed reaction function stayed live all day (Goolsbee, plus RBA and SARB hike calls citing oil-driven inflation), and today's oil de-escalation is a fragile, reversible headline trade rather than a resolved chokepoint crisis."
 }
