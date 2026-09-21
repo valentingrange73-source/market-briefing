@@ -1,0 +1,261 @@
+{
+  "date": "2026-09-21",
+  "sessions": {
+    "asia": {
+      "status": "done",
+      "generated_at": "2026-09-21T12:15:00+02:00",
+      "items": [
+        {
+          "stars": 1,
+          "headline": "Japan's cash equity and bond markets are shut for the first day of 'Silver Week' -- Respect for the Aged Day closes Tokyo through Sept 23, with only Osaka Exchange derivatives trading",
+          "detail": "September 21 is Respect for the Aged Day in Japan, the first of a rare three-day closure (a 'bridge holiday' on the 22nd and Autumn Equinox Day on the 23rd) that keeps the Tokyo Stock Exchange and JGB cash market shut until trading resumes Thursday, September 24. The Nikkei 225 and JGB levels in today's indicator strip are therefore Friday's close (65,018.95 and roughly 2.99% on the 10-year) carried forward as a reference point, not a live print. The one channel still open is Osaka Exchange's derivatives market, which continues to run Nikkei 225 futures through the holiday window, giving desks a thin but real-time read on how Japanese risk appetite is digesting the weekend's Iran escalation and the ongoing PBOC/Trump-Xi newsflow. With Tokyo dark for three sessions, USD/JPY spot and yen-crosses become the primary live proxy for Japan-specific risk sentiment this week, and any BOJ verbal intervention would have to work through FX rather than the cash equity or bond market until Thursday.",
+          "source": "Nikkei Indexes, JPX, GuruFocus",
+          "time": "Holiday, no Tokyo cash session; JPX derivatives trading through Osaka Exchange"
+        },
+        {
+          "stars": 3,
+          "headline": "Trump says he is in 'deciding mode' on Iran and floats 'wiping the entire nation out,' escalating the Hormuz/Bab el-Mandeb standoff just as Iran warns of a 'painful' retaliation",
+          "detail": "In a Sunday call with Fox News, President Trump described his options on Iran as 'wiping Iran out, letting them rot economically, or making a deal,' asking rhetorically what happens 'if and when I blow the entire nation up,' while adding that 'very big things are going to be happening in the not-so-distant future.' Iran's military responded that its intelligence points to a large-scale US-allied strike being prepared and threatened 'painful' retaliation across the Middle East, and Iran-backed Houthi forces claimed missile and drone strikes on Riyadh on Saturday -- the first air-raid alert in the Saudi capital since fighting escalated in July. This lands on top of an already-compromised energy corridor: the Strait of Hormuz remains closed by Iranian declaration and patrolled by the IRGC Navy, Houthi forces hold Perim Island and Mocha at Bab el-Mandeb barring Saudi-flagged vessels, and Saudi Arabia's East-West pipeline is still down after this month's drone strikes. For Asia desks the transmission channels are the same ones that have been live for weeks -- oil, gold, the dollar and EM Asia currencies -- but a US president publicly framing regime-ending options rather than sanctions or strikes raises the tail-risk premium those assets should carry heading into a week that already has the Trump-Xi summit and a live UN General Assembly gathering of both sides' officials in New York.",
+          "source": "CNBC, Fox News, CBS News",
+          "time": "Comments made Sunday evening US time, reported into Monday's Asia open"
+        },
+        {
+          "stars": 2,
+          "headline": "Brent eases toward $103 even as Hormuz stays shut, as Saudi Arabia reroutes barrels via Ras Tanura ship-to-ship transfers and targets half of East-West pipeline capacity within days",
+          "detail": "Brent crude slipped to around $103.19 (from Friday's $104.82 close) even against the weekend's Iran escalation, as satellite tracking shows Saudi Arabia moving roughly 2.8 million b/d through the Gulf over the past six days -- up from just 700,000 b/d in August -- largely via ship-to-ship transfers of crude sold out of Ras Tanura that bypass the closed strait entirely. Aramco is separately working to restore about half of the 4-5 million b/d East-West (Petroline) pipeline within days by bypassing the drone-damaged section, targeting full capacity in roughly six weeks. The mechanism worth flagging for desks: the flat price is easing not because the underlying chokepoint risk has resolved -- Hormuz traffic is still running roughly 90% below pre-war levels and Bab el-Mandeb remains Houthi-controlled -- but because Saudi Arabia has found partial physical workarounds that are keeping barrels moving despite the blockade. That makes today's pullback fragile rather than a genuine de-escalation signal, particularly with Trump's Iran comments overnight raising the odds of a fresh supply shock that could overwhelm the workarounds.",
+          "source": "OilPrice.com, Windward, Bloomberg, TradingEconomics",
+          "time": "Monday Asia/early European trade"
+        },
+        {
+          "stars": 2,
+          "headline": "PBOC holds loan prime rates unchanged for a 16th straight month (1-year 3.00%, 5-year 3.50%) while nudging the yuan fixing stronger ahead of Thursday's Trump-Xi summit",
+          "detail": "The PBOC left both loan prime rates unchanged at Monday's review, exactly as a Reuters poll of economists had unanimously expected, extending the longest unchanged streak in the LPR's history. More market-relevant than the widely-priced hold is the fixing behavior: the central bank continued nudging its daily reference rate stronger, keeping USD/CNH pinned near 6.7070 (versus Friday's 6.7111 close) and offshore yuan trading close to its firmest levels since mid-2022. The mechanism is a deliberate one -- Beijing has less room to ease policy without adding fresh depreciation pressure just as it wants currency and market stability heading into Thursday's Trump-Xi meeting in Washington, where a tariff-truce extension, rare-earth flows and AI guardrails are all on the table. For FX and China-macro desks, the fixing discipline is the more informative signal than the LPR decision itself: it confirms Beijing is leaning on FX management rather than rate cuts to manage the growth-versus-stability tradeoff into the summit window.",
+          "source": "FXStreet, Reuters, TradingPedia",
+          "time": "Decision and fixing Monday morning Beijing time"
+        },
+        {
+          "stars": 2,
+          "headline": "Kospi reclaims the 7,000 level, +1.65% to 7,007.72, as Samsung Electronics jumps almost 5% on record September semiconductor exports of $34.12bn",
+          "detail": "South Korea's benchmark closed at 7,007.72, up 113.49 points, after briefly touching the 7,000 mark intraday for the first time, driven by Samsung Electronics (+4.98% to 274,000 won, having traded up as much as 5.36%) and a more modest SK Hynix gain (+0.59% to 1.87 million won). The catalyst is trade data: Korea's semiconductor exports more than tripled year-on-year to $34.12bn in the first 20 days of September, a fresh monthly record, pushing chips' share of total exports to another all-time high as the AI-hardware supercycle keeps accelerating. SK Hynix's own fundamentals underpin the move structurally -- the company commands roughly 54% of the global HBM (high-bandwidth memory) market and has confirmed its entire 2026 output is already sold out, meaning near-term upside is now almost entirely a pricing rather than volume story. For desks tracking the AI-capex trade, Korea's export data remains one of the cleanest, most timely proxies for global AI-hardware demand, and today's beat reinforces rather than challenges the momentum flagged in recent sessions.",
+          "source": "Korea Times, Seoul Economic Daily, CNBC",
+          "time": "Kospi close, Seoul afternoon"
+        },
+        {
+          "stars": 2,
+          "headline": "Bank of Korea launches a 24-hour offshore won settlement pilot with four local banks, a structural step toward won internationalization for foreign investors",
+          "detail": "The BOK's new 'Won International Wire Network' began trial operations at 9am Monday in partnership with Kookmin, Woori, Hana and Shinhan Bank, with two of the four completing an initial 1.4 billion won (~$1m) of transactions on day one. The network is designed to run 24 hours -- 9am each business day through 9am the next, closed on weekends and holidays -- letting offshore investors trade won freely with other foreign counterparties via accounts at Registered Foreign Institutions for KRW Business (RFI-K) in their home markets, without routing through Korean market hours. Full implementation with overseas-bank participation is scheduled for January. The mechanism matters for multi-asset and FX-flow desks specifically: easier, round-the-clock offshore won settlement lowers a structural barrier that has historically limited foreign participation in Korean fixed income and FX relative to the size of Korea's export and equity markets, and is a direct policy complement to Seoul's ongoing push (alongside the chip-export boom) to deepen foreign capital access to won assets.",
+          "source": "Bloomberg, Korea Times, Bank of Korea",
+          "time": "Pilot launched 9am Monday, Seoul"
+        },
+        {
+          "stars": 2,
+          "headline": "Hang Seng gains 0.5% to ~24,872 led by tech and health-tech, with Alibaba +4% and Tencent +2.1%, as investors position into Thursday's Trump-Xi summit",
+          "detail": "Hong Kong's benchmark rose 121 points on the back of technology and healthcare-biotech names, with Tencent up 2.1%, Alibaba rebounding 4% to HKD 109.30, and a cluster of biotech names (XtalPi +4.1%, Genscript Biotech +6.7%, Innovent Biologics +6.0%) posting outsized gains. Mainland turnover hit a record alongside the move, and the session also saw AI-infrastructure software provider Transwarp Technology make its Hong Kong trading debut, pricing at HK$49 and gaining immediate access to Southbound Stock Connect. The broader driver is the same one running through several of today's items -- continued optimism around AI-infrastructure demand plus easing Brent prices -- but the rebound in Alibaba specifically is notable given the stock remains below both its 20-day and 50-day moving averages, meaning today's bounce is being read by desks as a tactical rally within a still-intact downtrend rather than confirmation of a durable re-rating. Trade, technology and AI-export restrictions remain the specific agenda items investors are watching ahead of Thursday's Trump-Xi meeting in Washington.",
+          "source": "TradingView/Reuters, SCMP, Benzinga",
+          "time": "Hong Kong close, Monday"
+        },
+        {
+          "stars": 2,
+          "headline": "ASX 200 ekes out a flat close (+0.01% to 8,731.8) as banks and healthcare rescue the index from a tech-led selloff -- the tech sector down 18% since August 25",
+          "detail": "Australia's benchmark dropped almost 0.6% early in the session before financials (+0.78%) and healthcare (+0.57%) clawed the index back to essentially unchanged, while the technology sector fell a further 1.44% to a fresh five-month low, extending its decline since August 25 to 18%. The divergence is a genuinely useful signal for equity desks: it shows Australian large-cap breadth rotating firmly out of rate-sensitive, high-multiple tech names and into banks -- a sector that stands to benefit directly if the RBA delivers the rate hike now priced at 85-92% odds for September 29 -- while growth and duration-sensitive names keep bleeding. Ramelius Resources was the day's best performer (+6.15%) on gold-miner strength, while Perpetual was by far the worst (see below). For portfolios running Australian equity beta, today's price action argues the index-level flatness is masking a much sharper style rotation underneath -- exactly the kind of dispersion that matters more than the headline number for positioning into the RBA decision.",
+          "source": "ABC News, Stockhead",
+          "time": "ASX close, Sydney afternoon"
+        },
+        {
+          "stars": 2,
+          "headline": "Perpetual shares sink as much as 15.8% -- their worst day since November 2022 -- after the board rejects EQT's final A$22.50/A$2.6bn takeover offer as undervaluing the company",
+          "detail": "Perpetual's board rejected EQT Group's revised cash bid, unchanged in price from EQT's July 27 offer, on the grounds it still undervalues the company; the stock fell as low as A$16.50 from Friday's A$19.60 close before settling down roughly 13.67% on the ASX 200. Management confirmed the rejection does not affect its separate plan to complete the sale of its Wealth Management business in Q4 2026, after which Perpetual expects to hold a net cash position and refocus purely on Corporate Trust and Asset Management. The mechanism worth flagging for M&A and event-driven desks: a private equity sponsor walking away from an unchanged price after two rounds of rejection, rather than sweetening the offer, suggests EQT's own return threshold was already tight at A$22.50 -- meaning the deal is more likely dead than merely paused, and Perpetual now trades as a standalone restructuring story (Wealth Management divestiture plus a leaner Corporate Trust/Asset Management remainco) rather than a takeover target.",
+          "source": "Proactive Investors, Fool.com.au, GuruFocus",
+          "time": "Announced pre-market Sunday, reflected in Monday's ASX session"
+        },
+        {
+          "stars": 2,
+          "headline": "RBA rate-hike odds firm to 85-92% for the September 29 meeting after Governor Bullock tells parliament upside inflation risks 'are materialising,' explicitly citing Middle East oil pass-through",
+          "detail": "Bullock's testimony to a House of Representatives committee went further than her prior hawkish signaling, framing the central policy question as whether tightening delivered so far will be enough to return inflation to target -- language markets read as leaning toward one more hike rather than a hold. She explicitly linked Middle East-driven oil price gains to both direct and indirect inflation channels, tying today's Trump/Iran and Aramco/Hormuz stories directly into the RBA's own reaction function. Market-implied hike odds for the September 29 decision now range from roughly 85% to 92% depending on the pricing service, up from just 17% in late August, with NAB, Deutsche Bank and UBS all having moved their formal calls to expect a hike (UBS flags a 4.85% terminal rate on two further moves). For rates and FX desks, this is the clearest example this week of the oil-supply shock feeding directly into a G10 central bank's calculus rather than staying contained to the commodity complex.",
+          "source": "InvestingLive, GuruFocus, Michael West",
+          "time": "Testimony reported through the week, RBA decision due Sept 29"
+        },
+        {
+          "stars": 1,
+          "headline": "AUD/USD holds comfortably above 0.7100 (last ~0.7125), outperforming G10 peers on the RBA repricing even as a firm dollar and Middle East risk cap further gains",
+          "detail": "The Australian dollar has stayed resilient near the top of its recent range despite broad-based dollar strength elsewhere in G10, as the hawkish RBA repricing described above provides an offsetting rate-differential tailwind. Bullock is scheduled to give a further speech Tuesday, ahead of Australian employment data and the Trump-Xi meeting later in the week, both of which are live catalysts that could move the pair sharply in either direction. For carry and rates-differential trades, AUD is now one of the few G10 currencies with a genuinely two-sided setup into a live central-bank decision this week, rather than simply tracking the dollar or risk sentiment passively.",
+          "source": "FXStreet, TradingPedia",
+          "time": "Monday European morning trade"
+        },
+        {
+          "stars": 1,
+          "headline": "Indian equities open the week higher on falling oil (Sensex +300pts, Nifty above 23,300) even as FPIs deepen September outflows and the rupee holds near 95.8-96/dollar",
+          "detail": "The Sensex and Nifty both advanced as Brent's retreat toward $102-103 offered relief to an oil-import-dependent economy, but the gains sit awkwardly against a deteriorating foreign-flow picture: FPIs have pulled ₹20,974 crore from Indian equities so far in September, reversing two months of inflows (₹20,200 crore in July, ₹29,630 crore in August) and taking the 2026 year-to-date outflow to ₹2.45 lakh crore, already above all of 2025's ₹1.66 lakh crore total. The rupee has held around 95.83-96/dollar, little changed on the day, as the relief from lower crude only partially offsets the drag from a narrower India-US yield differential following the Fed's hike and elevated broader oil-import costs. For EM-Asia desks, the split between a firmer index and persistent foreign selling is the more important signal than the headline move -- it suggests today's bounce is largely a domestic-flow and short-covering rally against a backdrop foreign investors are still actively de-risking from.",
+          "source": "Business Standard, Angel One, International News and Views",
+          "time": "Monday morning IST session"
+        },
+        {
+          "stars": 2,
+          "headline": "India's NSE IPO -- the country's second-largest ever at ₹22,561.57 crore -- closes its final subscription day at 1.94x, with debut trading set for Thursday",
+          "detail": "The National Stock Exchange's own listing, a pure offer-for-sale of 12.64 crore shares priced at ₹1,700-1,785, closed 1.94 times subscribed on its final day, with non-institutional investors at 3.37x, qualified institutional buyers at 2.54x and retail at 98%. The deal ranks behind only Hyundai Motor India's ₹27,870 crore 2024 listing as India's largest-ever public offering, surpassing LIC's ₹21,000 crore 2022 IPO. Allotment is expected Tuesday with the market debut targeted for Thursday, September 24 -- the same day as the Trump-Xi summit, meaning NSE shares will open into what could be a genuinely volatile global macro backdrop. For desks tracking India's capital-markets pipeline, a systemically important listing (the exchange operator itself) clearing comfortably above 1x despite the month's broader FPI outflows is a reasonably constructive signal on domestic institutional and retail appetite even as foreign flows stay negative.",
+          "source": "BusinessToday, Upstox, Sunday Guardian Live",
+          "time": "Subscription closed Monday, allotment Tuesday, listing Thursday Sept 24"
+        },
+        {
+          "stars": 1,
+          "headline": "Vietnam's VN-Index dips 0.51% even as FTSE Russell's upgrade to Secondary Emerging Market status officially takes effect today, with up to $6bn of passive inflows expected",
+          "detail": "The VN-Index eased slightly on the day the long-awaited FTSE Russell reclassification became effective, moving Vietnam out of Frontier Market status for the first time -- a structural milestone FTSE Russell itself estimates could draw in roughly $6bn of investment as EM-tracking passive funds add Vietnamese equities to their benchmarks. The modest same-day pullback (VN-Index opened 0.54% higher on bank-sector strength before fading) illustrates a pattern common to index-reclassification events: the flow impact is realized over the following weeks and months as passive funds actually rebalance, not on the effective date itself, so today's price action tells desks little about the durability of the reclassification story. For EM-Asia allocators, this is nonetheless one of the more significant structural catalysts in the region this year, and the pace at which the promised $6bn actually materializes over Q4 is worth tracking as a distinct workstream from Vietnam's daily index moves.",
+          "source": "Vietnam.vn, TradingEconomics",
+          "time": "Effective Monday, Ho Chi Minh City session"
+        },
+        {
+          "stars": 2,
+          "headline": "Copper holds its gain -- LME three-month +0.3% to $14,539/tonne, Shanghai futures +1.4% -- as Chinese physical demand tightness persists into scheduled Oct-Nov smelter maintenance",
+          "detail": "London copper extended its recent advance while the most-traded Shanghai Futures Exchange contract closed 1.4% higher at 109,620 yuan (~$16,367) a tonne, with traders weighing near-term tightness signals from China specifically. High-frequency data show Chinese demand for copper, aluminium and flat steel running 1-2% above year-ago levels in the first half of September, while Shanghai Metals Markets flagged that multiple Chinese copper refineries are scheduled for planned maintenance between October and November -- a supply-side constraint that will limit how much metal availability can increase even if demand holds. This sits on top of the Yangshan copper premium's 72% September surge to $124/tonne (its highest in nearly four years) flagged in recent sessions, reinforcing that the current copper strength is being driven by genuine Chinese import demand pulling metal into the country rather than a futures-only speculative rally -- a more durable bullish signal for industrial-metals and China-cyclical desks than price action alone would suggest.",
+          "source": "Bloomberg, Business Recorder, Rio Times",
+          "time": "LME morning trade, Shanghai close"
+        },
+        {
+          "stars": 1,
+          "headline": "Asia USD high-yield keeps outperforming (+4.3% YTD vs. 2% for US HY) as spreads sit near record tights -- a carry, not compression, story with little cushion left",
+          "detail": "Asia's dollar-bond complex continues to benefit from a region-wide capital-spending boom financed largely from domestic savings, current-account surpluses at post-financial-crisis highs, and a contracting net supply of new dollar bonds -- fundamentals that have kept the asset class's outperformance intact even as spreads compress toward the tight end of their historical range. With limited room left for further spread tightening to drive returns, portfolio managers describe issuer selection (gaming, technology, property and financials credits specifically) as now the main source of differentiated performance rather than broad beta. For L/S credit and multi-asset desks, this is a standing rather than a fresh story, but it is worth flagging alongside today's oil/Iran headlines: near-record-tight Asia credit spreads offer very little cushion if the Hormuz/Iran escalation actually disrupts regional growth or funding conditions rather than staying a commodity-price story.",
+          "source": "CreditSights, J.P. Morgan Asset Management, KED Global",
+          "time": "Standing positioning context, no fresh single-day catalyst"
+        },
+        {
+          "stars": 2,
+          "headline": "SoftBank launches an $11bn-plus junk bond sale -- one of the largest in history -- to fund its next $10bn tranche of OpenAI investment, closing October 1",
+          "detail": "SoftBank Group is marketing $10bn of dollar-denominated senior unsecured notes plus €1bn of euro notes, proceeds earmarked for the third tranche of its follow-on OpenAI investment that is due to close October 1. The deal would rank among the largest single-company junk bond sales on record (excluding distressed-exchange deals) and takes SoftBank's 2026 total bond issuance across currencies to almost $15bn, making it the largest junk-rated corporate borrower in global bond markets so far this year. The mechanism matters beyond SoftBank specifically: a Japanese conglomerate raising this much sub-investment-grade debt to fund a single AI-lab commitment is a direct test of how much leverage credit markets will tolerate for AI-capex exposure that has no near-term cash-flow backing, and the deal's pricing and demand (expected to price ahead of the Sept 24 close) will be watched as a read-through for the broader AI-financing complex, not just SoftBank's own balance sheet.",
+          "source": "Bloomberg, Business Standard, ts2.tech",
+          "time": "Launched Monday, expected to price ahead of Sept 24 close"
+        },
+        {
+          "stars": 2,
+          "headline": "Nvidia's Jensen Huang confirmed to attend Trump's state dinner for Xi on Thursday -- a chip-diplomacy signal with direct read-through for Korea and Taiwan's semiconductor supply chain",
+          "detail": "Huang is set to join Trump's September 24 state dinner for Xi Jinping in Washington, the latest sign of his alliance with the administration after traveling to Beijing with Trump in May and attending a dinner Xi hosted for Trump in China. AI and semiconductor export policy are expected to be central topics when Xi and Trump meet, with Huang's presence signaling that Nvidia's China market access -- and by extension the broader Korea/Taiwan chip supply chain (Samsung, SK Hynix, TSMC) that feeds Nvidia's AI hardware -- is a live agenda item rather than a settled one. For semiconductor-exposed Asia desks, this is the single clearest calendar catalyst this week for the AI-hardware trade beyond the Korea export data itself: any signal from the dinner on eased or tightened US chip-export rules to China would move Samsung, SK Hynix and the broader memory complex immediately upon Tokyo, Seoul and Taipei's return from this week's holidays.",
+          "source": "Bloomberg, CNBC, Benzinga",
+          "time": "Dinner scheduled Thursday, Sept 24, Washington"
+        },
+        {
+          "stars": 2,
+          "headline": "CFTC data show speculative yen net-longs building to the 88th percentile of recent history even as USD/JPY holds near 157 -- keeping BofA's 152.8/150.4 CTA trigger levels live",
+          "detail": "The latest positioning data show non-commercial JPY net longs improving markedly (the largest weekly increase since early August) even as USD/JPY has traded with strong gains over the same period -- a genuine divergence between spot price action and futures positioning that speaks to funds building yen exposure ahead of, rather than in response to, a weaker dollar. This is a direct continuation of the CTA dynamic flagged in recent sessions: BofA's systematic-flows desk has fast USD/JPY trend models already flipped short-dollar/long-yen while slower models remain positioned the other way, with 152.8 and 150.4 flagged as the next levels that would pull slower, larger models into yen-long territory and add mechanical buying pressure independent of fresh news. With Japan's cash markets closed for three sessions and Trump's Iran comments adding a fresh safe-haven bid into the mix, thin holiday liquidity raises the odds that any decisive break of those technical levels produces an outsized, mechanically-amplified yen move rather than an orderly one.",
+          "source": "FXStreet (CFTC), Kodiak Trades/BofA Global Research",
+          "time": "Positioning data through week ended Sept 20, context into Monday"
+        },
+        {
+          "stars": 1,
+          "headline": "JGB 10-year yield holds at Friday's 2.99% close as Japan's bond market shuts alongside equities for the Silver Week holiday",
+          "detail": "With Tokyo's cash bond market closed through Wednesday, the 10-year JGB yield carries forward Friday's roughly 2.99% level (having eased slightly after the BOJ's hike to 1.25% and its 7-2 dissenting vote) as the reference point rather than a live print. The 30-year JGB yield had eased to around 4.09% as of September 17, reflecting the same post-BOJ curve dynamics -- a front end that richened on the dovish-leaning dissent even as the long end stayed historically elevated. Rates desks have little to react to directly until Thursday's reopening, but the holiday window is not fully quiet: any escalation in the Iran story or a surprise readout from the pre-summit Bessent-He Lifeng-style diplomacy would still show up first in JGB futures via Osaka Exchange and in USD/JPY, both of which remain live throughout the closure.",
+          "source": "TradingEconomics, JPX",
+          "time": "Friday close carried forward; cash market reopens Thursday Sept 24"
+        }
+      ]
+    },
+    "europe": {
+      "status": "pending",
+      "items": []
+    },
+    "us": {
+      "status": "pending",
+      "items": []
+    }
+  },
+  "indicators": {
+    "asia": [
+      {
+        "category": "Equities",
+        "label": "Nikkei 225",
+        "value": "65,018.95",
+        "change": "Japan closed for holiday; Friday's close carried forward, +1.38% that session",
+        "direction": "flat"
+      },
+      {
+        "category": "Equities",
+        "label": "Hang Seng",
+        "value": "24,872",
+        "change": "+0.5%, led by tech and health-tech",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "CSI 300",
+        "value": "4,526.30",
+        "change": "+0.42%",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "Kospi",
+        "value": "7,007.72",
+        "change": "+1.65%, reclaimed 7,000 on record chip exports",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "ASX 200",
+        "value": "8,731.8",
+        "change": "+0.01%, tech -1.44% offset by banks/healthcare",
+        "direction": "flat"
+      },
+      {
+        "category": "FX",
+        "label": "USD/JPY",
+        "value": "157.06",
+        "change": "+0.1%, yen soft into holiday-thinned liquidity",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "USD/CNH",
+        "value": "6.7070",
+        "change": "yuan firmer on PBOC fixing ahead of Trump-Xi summit",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "AUD/USD",
+        "value": "0.7125",
+        "change": "holding above 0.7100 on hawkish RBA repricing",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "USD/KRW",
+        "value": "1,386.01",
+        "change": "little changed from Friday's 1,385.80",
+        "direction": "flat"
+      },
+      {
+        "category": "FX",
+        "label": "USD/INR",
+        "value": "95.83",
+        "change": "-0.19%, rupee firmer on lower oil",
+        "direction": "down"
+      },
+      {
+        "category": "Commodities",
+        "label": "Gold",
+        "value": "$4,377/oz",
+        "change": "off Friday's ~$4,440 intraday high, holding $4,350-4,400 range",
+        "direction": "flat"
+      },
+      {
+        "category": "Commodities",
+        "label": "Brent crude",
+        "value": "$103.19",
+        "change": "-1.6% despite Hormuz closure, on Saudi reroute via Ras Tanura",
+        "direction": "down"
+      },
+      {
+        "category": "Commodities",
+        "label": "Copper",
+        "value": "$14,539/tonne (LME)",
+        "change": "+0.3%, Shanghai copper +1.4% on China demand tightness",
+        "direction": "up"
+      },
+      {
+        "category": "Rates",
+        "label": "JGB 10Y",
+        "value": "2.99%",
+        "change": "flat, Japan bond market closed for holiday",
+        "direction": "flat"
+      }
+    ]
+  }
+}
