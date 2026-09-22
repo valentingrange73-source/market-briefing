@@ -1,0 +1,261 @@
+{
+  "date": "2026-09-22",
+  "sessions": {
+    "asia": {
+      "status": "done",
+      "generated_at": "2026-09-22T12:40:00+02:00",
+      "items": [
+        {
+          "stars": 3,
+          "headline": "Xi Jinping departs for Washington ahead of Wednesday's arrival and Thursday's Trump summit, with Huang, Bezos, Pichai, Cook, Musk and Altman all confirmed for the state dinner",
+          "detail": "Beijing confirmed Xi will make a state visit to the US from Wednesday to Friday, with Trump personally greeting him at Joint Base Andrews on Wednesday -- an unusually high honor for a US president to extend -- before the two leaders hold their formal bilateral meeting at the White House Thursday, followed by a state dinner. The guest list for that dinner is itself a market signal: Nvidia's Jensen Huang, Amazon's Jeff Bezos, Alphabet's Sundar Pichai, Apple's Tim Cook, Tesla's Elon Musk and OpenAI's Sam Altman are all expected to attend, meaning trade, AI-chip export policy, rare earths and Taiwan will all be discussed with the CEOs whose companies are most directly exposed to the outcome in the room. This comes on the heels of Sunday's Bessent-He Lifeng talks in New York, which both sides characterized as productive and which produced a working 'Board of Trade' framework and a new AI dialogue mechanism -- meaning the summit now carries real expectations of concrete deliverables rather than just optics. For desks across the region, the whole Tuesday Asia session traded as a pre-positioning day into this event: AI/chip names bid, the yuan firming, oil easing on the assumption that a deal gets done, all of which unwinds fast if Thursday disappoints.",
+          "source": "CNBC, Bloomberg, Atlantic Council",
+          "time": "Xi's visit confirmed Monday; arrival Wednesday, summit and dinner Thursday, Washington"
+        },
+        {
+          "stars": 2,
+          "headline": "Yuan hits a 3.5-year high as PBOC extends its firmer-fixing streak to a 10th straight session (central parity 6.7459 vs. 6.7487) ahead of Xi's Washington trip",
+          "detail": "The PBOC set Tuesday's USD/CNY central parity at 6.7459, stronger than Monday's 6.7487 fix and firmer than Reuters' own model estimate of 6.6989, extending the longest run of consecutive firmer fixings since late 2023. The mechanism is the same one flagged in recent sessions -- Beijing using fixing discipline rather than rate cuts to manage currency stability -- but the streak length and the resulting 3.5-year high in the yuan is now itself the headline, landing on the exact day Xi departs for his Washington visit. The PBOC separately injected CNY 35bn via 7-day reverse repos at 1.4%, keeping money-market liquidity conditions stable and unremarkable, which is itself a signal: policymakers want nothing but the currency story making noise this week. For FX desks, a currency this deliberately managed into a summit is worth fading technically (the fixing gap versus market estimates is unusually wide) but not fighting directionally until the summit outcome is known.",
+          "source": "FXStreet, Business Recorder, PBOC",
+          "time": "Fixing set Tuesday morning Beijing time"
+        },
+        {
+          "stars": 2,
+          "headline": "Kospi's early 2.2% AI-chip surge fades to a 0.15% gain at the close (7,017.91) as SK Hynix reverses from +2% to roughly -1.5% on profit-taking",
+          "detail": "South Korea's benchmark opened as much as 2.2-2.3% higher, briefly trading above 7,160, on the back of an overnight US chip melt-up (AMD through $1trn market cap, Intel +12%) and Meta's AI agent Muse topping download charts -- but gave back almost the entire move to close up just 0.15% at 7,017.91. Samsung Electronics held on to end the day roughly 2-3% higher near 280,000-283,500 won, but SK Hynix -- which had led the open with a 2%-plus gain -- reversed into a roughly 1.5% decline, the clearest single data point that today's enthusiasm was not broad enough to sustain the move. The pattern echoes a fade dynamic increasingly common in Korea's AI-chip complex this year: a strong US overnight lead gets bought aggressively at the open and then sold into strength intraday, with commentators flagging that a renewed spike in US Treasury yields or oil could be the trigger that turns the next such fade into something sharper. For desks running Korea memory-chip beta, today's price action is a reminder that headline index moves are increasingly disconnecting from what SK Hynix and Samsung are doing individually intraday.",
+          "source": "Invezz, Korea JoongAng Daily, SBS, Digital Today",
+          "time": "Kospi opened +2.2%, closed +0.15% at 7,017.91, Seoul afternoon"
+        },
+        {
+          "stars": 2,
+          "headline": "Taiwan's Taiex sets a fresh record close (~47,800, +0.2%) after touching an intraday record of 48,601.53, with MediaTek up almost 8% and Delta Electronics up 2.7%",
+          "detail": "Taiwan's benchmark extended its winning streak to a fifth straight session, briefly trading above 48,600 intraday -- roughly three months after its last record high in June -- before easing back to close at approximately 47,800, still a fresh closing record. MediaTek was the standout, surging 7.88% on the same AI-infrastructure optimism running through the region's chip complex, while Delta Electronics (a key power-supply and thermal-management name for AI data centers) added 2.67% and TSMC itself was more muted at +0.40%, having already priced in much of the good news. The dispersion -- MediaTek and Delta massively outperforming TSMC -- is a useful read for portfolios running Taiwan tech beta: money is rotating toward the more levered, higher-beta names in the AI supply chain (packaging, power, connectivity) rather than concentrating further in TSMC itself, which is arguably the more crowded and fully-valued trade at this point in the cycle.",
+          "source": "CNBC, InstaForex/FX.co, Focus Taiwan",
+          "time": "Taiex close, Taipei afternoon"
+        },
+        {
+          "stars": 2,
+          "headline": "Alibaba unveils its Zhenwu V900 AI chip and a 20GW data-center buildout plan at the Apsara Conference, sending the stock up 3% and lifting Hang Seng and CSI 300 tech names roughly 0.5-0.6%",
+          "detail": "At its Apsara Conference in Hangzhou (running Sept 22-24), Alibaba's T-Head chip unit unveiled the Zhenwu V900, claimed to deliver three times the performance of its predecessor Zhenwu M890 (released in May), targeting mass production and commercial release in Q1 2027. Alongside the chip, Alibaba laid out plans to train a new AI model scaling to 5-10 trillion parameters (the coming Qwen 4.5/5 series) and to expand global data-center capacity to more than 20GW by 2032 -- both direct answers to the US export-restriction overhang that has driven China's push for domestic AI-hardware self-sufficiency all year (alongside Cambricon's own 2026 rally). Alibaba shares rose roughly 3% in Hong Kong on the news, helping lift both the Hang Seng (+0.5-0.6%) and CSI 300 (+0.5-0.6%) as tech led broader China/HK gains, with Tencent also firmer. For desks tracking the China-AI-hardware theme distinct from the US one, today's announcement is a genuine product-cycle catalyst -- not just sentiment -- landing deliberately in the same week as the Trump-Xi summit, where AI-chip export policy is a live agenda item.",
+          "source": "CNBC, Benzinga, Reuters (Investing.com)",
+          "time": "Announced at Apsara Conference Tuesday, Hangzhou; HK/China equity reaction through Tuesday's close"
+        },
+        {
+          "stars": 1,
+          "headline": "ASX 200 edges up 0.3% to 8,758 as RBA Governor Bullock tells parliament the global AI data-center boom is itself now 'adding' to Australia's demand-driven inflation problem",
+          "detail": "Bullock's testimony went beyond her recent oil-focused inflation warnings to name a new and structurally different culprit: the worldwide rush to build AI data centers, which she said is increasing demand for energy and supply-constrained technology inputs and pushing up prices across parts of the AI supply chain, even as she separately flagged the risk of an 'AI bubble.' The framing matters for rates desks because it identifies a source of inflation pressure that is not obviously transitory in the way an oil-supply shock is -- capex cycles for data-center buildout run for years, not weeks -- and it lands exactly a week before the RBA's September 28-29 meeting, where a 25bp hike from 4.35% is now priced at odds ranging 73-93% depending on the model, with NAB, Deutsche Bank, UBS and Morgan Stanley all forecasting a move. On the ASX itself, mining and tech both contributed to the modest gain (Sunrise Energy Metals +12.7%, Megaport +4.3%), while Origin Energy (-4%) and Woodside (-2.4%) lagged as easing oil weighed on the energy complex -- a clean mirror of the AUD/oil/RBA dynamics running through the rest of today's session.",
+          "source": "ABC News, Capital Brief, Finimize",
+          "time": "Testimony reported Tuesday; ASX close, Sydney afternoon"
+        },
+        {
+          "stars": 2,
+          "headline": "AUD/USD holds near 0.7117 even as the dollar firms broadly, with RBA hike odds for September 29 now spanning 73-93% across pricing models after today's AI/data-centre inflation comments",
+          "detail": "The Australian dollar gave back a modest 0.09% on the day but continues to trade well above its 50-day average (0.70809), underpinned by the same hawkish RBA repricing that has been building since Bullock's testimony last week and reinforced today by her AI-data-centre inflation comments. National Australia Bank, Deutsche Bank, UBS and Morgan Stanley have all now moved their formal calls to expect a 25bp hike to 4.60% at next Tuesday's meeting, while ANZ and CBA still expect the move in November and Westpac sees no further hikes this year -- a genuine three-way split among major sell-side desks that keeps AUD positioning two-sided rather than consensus-driven into the decision. For rates-differential and carry desks, AUD remains one of the cleanest G10 stories of live central-bank uncertainty this week, distinct from the more one-directional Fed and BOJ paths.",
+          "source": "OrbitRemit, TS2.tech, RBA Rate Watch",
+          "time": "Tuesday's Asia/European morning trade; RBA decision due September 29"
+        },
+        {
+          "stars": 1,
+          "headline": "Tokyo's cash equity and JGB markets stay shut for a second straight session -- the 'Silver Week' bridge holiday -- with reopening still set for Thursday",
+          "detail": "September 22 is a bridge holiday under Japan's national holiday law, falling between Monday's Respect for the Aged Day and Wednesday's Autumnal Equinox Day, keeping the Tokyo Stock Exchange and JGB cash market closed for a second consecutive session; both reopen Thursday, September 24. Friday's closing levels (Nikkei 65,018.95, JGB 10-year around 2.95-2.99%) continue to serve as the reference points carried forward in today's indicator strip rather than live prints. The Osaka Exchange's holiday-trading facility remains the only channel still open, allowing Nikkei 225 futures (though not JGB futures, which are excluded from holiday trading under JPX rules) to trade through the closure, giving desks a thin but real-time proxy for how Japanese equity risk appetite is digesting this week's Trump-Xi build-up. With Thursday's reopening coinciding with the actual Trump-Xi summit and Nvidia's Huang attending the state dinner, Japan's markets will reopen directly into what could be the week's most consequential single news day -- a notable sequencing risk for anyone assuming an orderly re-open.",
+          "source": "JPX, TradingHours.com, IC Markets",
+          "time": "Second day of Japan market holiday; cash markets reopen Thursday, September 24"
+        },
+        {
+          "stars": 3,
+          "headline": "Iran and Oman move toward finalizing a temporary Strait of Hormuz safe-passage corridor for IMO registration, while Trump separately calls off further US airstrikes as Houthi forces advance in Yemen's highlands",
+          "detail": "Iran and Oman have reportedly agreed on the geographical coordinates of a temporary safe shipping route through Hormuz and a joint coordination center to manage maritime traffic, with the arrangement expected to be formally registered with the International Maritime Organization -- a genuine structural de-escalation step after weeks of the strait remaining closed by Iranian declaration. The critical caveat flagged by regional reporting is that the waterway will not fully reopen until the US fulfils its own commitments under the June interim peace deal, which has since lapsed, meaning the Oman-brokered corridor is a partial and conditional fix rather than a resolution. Separately, and on the same day, Trump called off further US airstrikes in Yemen as Houthi forces continued advancing in the highlands -- Defense Secretary Austin explicitly citing a reluctance to repeat the extended entanglements of Iraq and Afghanistan, and flagging that Iran and China remain the administration's bigger strategic priorities. Taken together, both threads point the same direction (reduced near-term US-Iran military escalation risk) and both are cross-asset relevant: oil, gold and the dollar have all been trading the Hormuz/Houthi risk premium for weeks, and today's twin developments are consistent with -- though do not fully explain -- Tuesday's modest oil uptick off Monday's sharp slide.",
+          "source": "Al Jazeera, The Hill, Nation.com.pk, CBS News",
+          "time": "Developments reported through Tuesday's Asia/European session"
+        },
+        {
+          "stars": 2,
+          "headline": "Oil ticks up off Monday's slide (Brent +1.0% to ~$101.34, WTI +0.76% to ~$93.07) even as Hormuz shipping volumes reportedly hit a six-month high despite the formal closure",
+          "detail": "Brent and WTI both firmed modestly Tuesday after Monday's roughly 2-4% slide (Brent had fallen toward $100, WTI toward $93.18-95.59), as the market digests conflicting signals: US Central Command data showing Hormuz oil and LNG traffic at its highest level in six months despite Iran's formal closure declaration, against today's Iran-Oman corridor progress and the Houthi-strike stand-down described above, both of which should reduce rather than add to the geopolitical risk premium. Saudi Arabia continues rerouting an estimated 2.8 million b/d via Ras Tanura ship-to-ship transfers that bypass Hormuz entirely, and Aramco's repair of the drone-damaged East-West pipeline remains on track for roughly half capacity restored within days. For oil and macro desks, today's small bounce reads as consolidation after four consecutive down sessions rather than a fresh escalation signal -- the flat price continues to decouple from the underlying chokepoint risk, which remains structurally unresolved (Hormuz traffic is still running well below pre-war levels even at a 'six-month high') and could reprice sharply in either direction depending on how Thursday's Trump-Xi summit and the Oman-brokered corridor actually develop.",
+          "source": "HDFC Sky, Reuters (Investing.com), CBS News",
+          "time": "Tuesday's Asia/early European trade"
+        },
+        {
+          "stars": 2,
+          "headline": "Copper extends its rally for a sixth straight session toward a record (LME/COMEX equivalent ~$6.75/lb, +0.92%) as Chinese physical tightness persists into pre-holiday buying",
+          "detail": "Copper's advance is being driven by the same mechanism flagged repeatedly in recent sessions: falling exchange inventories and pre-National Day-holiday buying in China are signaling genuine physical tightness rather than a purely speculative futures rally, with the Yangshan import premium -- a direct gauge of Chinese demand for physical metal -- sitting near $121-124/tonne, its highest level in roughly four years. Scheduled Chinese smelter maintenance running October-November will further constrain available supply just as this restocking demand persists, a supply-side setup that argues the current strength has more durability than a typical speculative squeeze. For industrial-metals and China-cyclical desks, six consecutive up days into a level flirting with all-time highs is now itself a technical story worth tracking independent of the fundamental tightness case, particularly given how much of 2026's broader risk-on tone (AI capex, chip demand, Chinese stimulus hopes into the Trump-Xi summit) is already reflected in the base-metals complex.",
+          "source": "Bloomberg, Business Recorder, Rio Times Online",
+          "time": "Sixth consecutive up session; LME morning trade, Shanghai close"
+        },
+        {
+          "stars": 1,
+          "headline": "Gold consolidates in a $4,310-4,395 range as global ETF holdings hit a record $472bn AUM after the strongest quarterly inflow ($26bn) on record",
+          "detail": "Spot gold is holding within last week's established range rather than making a fresh directional move, with the metal's earlier safe-haven bid easing somewhat as the Iran-Oman Hormuz progress and Trump's Yemen stand-down described above reduce (without eliminating) the geopolitical risk premium embedded in the price. The more structurally significant data point is flow-based: the World Gold Council's latest tally shows global gold ETFs recorded their largest-ever monthly inflow in the most recent month (roughly $17bn) and their strongest quarter on record (~$26bn), taking total AUM to a record $472bn and holdings up 6% quarter-on-quarter to 3,838 tonnes -- with North America and Europe driving the bulk of demand and Asia contributing a smaller but still-positive $2.1bn. For portfolios running gold as a structural hedge rather than a pure directional trade, the combination of range-bound spot price action and record-breaking ETF accumulation reinforces a pattern flagged in recent sessions: flow data remains the more durable signal of underlying institutional positioning than any single day's price reaction to a de-escalation or escalation headline.",
+          "source": "World Gold Council, Kitco, LiteFinance",
+          "time": "Range-bound through Tuesday's Asia session; ETF data as of most recent WGC reporting period"
+        },
+        {
+          "stars": 2,
+          "headline": "SoftBank's $11bn-plus junk bond sale for its next OpenAI tranche firms up its structure -- $10bn across 3.5/5.5/7.5-year dollar tranches plus EUR1bn across 4/6-year maturities -- pricing Thursday, settling Monday",
+          "detail": "SoftBank Group's dollar-denominated senior unsecured notes are being marketed across three maturities (3.5, 5.5 and 7.5 years) alongside a separate EUR1bn tranche split into 4-year and 6-year paper, with pricing now confirmed for Thursday, September 24 and settlement scheduled for Monday, September 29. Proceeds are earmarked for the third tranche of SoftBank's follow-on OpenAI investment, and the deal -- one of the largest single-company junk bond sales on record excluding distressed exchanges -- would become the largest non-financial corporate bond deal ever issued out of Asia-Pacific/Japan if it completes at the announced size. The Thursday pricing date is itself notable: it lands on the same day as the Trump-Xi summit and Japan's market reopening from Silver Week, meaning SoftBank's deal will price into what could be an unusually volatile single trading session for both credit and equity risk appetite simultaneously. For credit desks, the deal remains the cleanest live test of how much leverage markets will tolerate for AI-capex exposure with no near-term cash-flow backing, and Thursday's execution quality (order book size, final spread versus initial price talk) will be read as a signal for the broader AI-financing complex well beyond SoftBank itself.",
+          "source": "Bloomberg, Traders Agency, Seoul Economic Daily",
+          "time": "Structure confirmed Tuesday; pricing Thursday Sept 24, settlement Monday Sept 29"
+        },
+        {
+          "stars": 2,
+          "headline": "India's NSE finalizes IPO allotment today after 5.67x overall subscription (QIB demand 12.68x) on its record-sized ₹22,561.57 crore listing, with debut trading Thursday",
+          "detail": "The National Stock Exchange's own listing -- the country's second-largest IPO ever, behind only Hyundai Motor India's 2024 offering -- completed its allotment process Tuesday after the qualified institutional buyer book ran more than 12 times covered against the 5.67x overall subscription figure, with refunds and demat credits scheduled for Wednesday, September 23 ahead of Thursday's market debut. The listing date lands on the same day as the Trump-Xi summit in Washington, meaning a systemically important Indian market-infrastructure listing will open for trading into what may be one of the most consequential global macro news days of the year -- a genuine tail-risk consideration for allottees and index-inclusion-driven flows alike. For desks tracking India's capital-markets pipeline, the scale of institutional demand (a self-referential vote of confidence in the exchange operator itself) clearing comfortably above prior large-cap listings this year is a constructive signal on domestic and foreign institutional risk appetite even against September's broader FPI outflow backdrop flagged in recent sessions.",
+          "source": "Groww, Upstox, IndMoney",
+          "time": "Allotment finalized Tuesday; refunds/demat credit Sept 23, listing Sept 24"
+        },
+        {
+          "stars": 1,
+          "headline": "China's property overhang persists as a standing drag -- Vanke still facing over 9.4bn yuan of bond maturities in the next six months and Beijing's presale-to-completed-property shift threatening a further 30% hit to land-sale revenue",
+          "detail": "There is no fresh single-day catalyst in China property today, but the sector remains a structural overhang worth flagging alongside today's more constructive tech and PBOC-fixing stories: Vanke, once China's largest homebuilder by sales, continues to face a heavy 2026 repayment schedule even after avoiding a technical default late last year, while Goldman Sachs estimates Beijing's broader push to shift developers away from presale financing toward a completed-property model could cut local-government land-sale revenue by as much as 30% -- a policy change aimed at protecting homebuyers that mechanically worsens developer cash-flow and local-government fiscal positions in the near term. For China-macro and credit desks, the property sector's continued fragility is a useful counterweight to today's more headline-grabbing AI/chip optimism (Alibaba's chip launch, the Hang Seng/CSI 300 gains): the property drag is a multi-year structural story that Thursday's Trump-Xi summit outcome will not meaningfully change either way, even as it fades into the background on any given green-tape trading day.",
+          "source": "Bloomberg, South China Morning Post, ABC News",
+          "time": "Standing structural context, no fresh single-day catalyst"
+        },
+        {
+          "stars": 1,
+          "headline": "Asia USD high-yield spreads sit near a three-week low (JACI HY ~92bp) as regional credit continues to absorb rate volatility better than most global peers",
+          "detail": "Asia's dollar-denominated high-yield complex continues the compression trend flagged in recent sessions, with the JACI HY index spread grinding to roughly 92bp -- a three-week low -- as capital-spending-driven current-account surpluses and a contracting net supply of new dollar bonds keep technical demand for the asset class firm even as spreads approach historically tight levels. China investment-grade paper remains the relative laggard within the region, weighed down by longer average duration and lingering property-sector supply risk (see above), while Indian financial-sector bonds are outperforming on favorable macro data and liquidity conditions. For L/S credit and multi-asset desks, the standing caution from recent sessions still applies: near-record-tight spreads leave very little cushion if either the Trump-Xi summit disappoints or the Hormuz/Houthi de-escalation reverses, even though today's price action shows no sign of that risk being priced in yet.",
+          "source": "CreditSights, Macrostream, J.P. Morgan Asset Management",
+          "time": "Standing positioning context through this week"
+        },
+        {
+          "stars": 1,
+          "headline": "ASEAN FX stays split along oil-exposure lines -- Malaysia's ringgit up roughly 3% year-to-date as a net energy exporter, while the Indonesian rupiah and Philippine peso remain pinned near record lows as net importers",
+          "detail": "The region's currency divergence, which widened sharply during the worst of this year's Middle East-driven oil spike, remains intact even as crude has pulled back from its highs: Malaysia's ringgit continues to benefit structurally from its net energy-exporter status, while the rupiah (record low of 17,315/dollar hit in April) and the peso (pressured further by El Nino-linked agricultural strain on top of oil-import costs) stay under persistent pressure as net importers. Indonesia and the Philippines both hiked policy rates in late June (to 5.75% and 4.75% respectively) explicitly to defend their currencies rather than to fight inflation directly -- a policy-reaction-function shift worth noting for EM-Asia desks, since it signals both central banks view currency stability as the more pressing near-term risk than growth support. Equity performance mirrors the FX split: Thailand's SET (+26% YTD) and Singapore's Straits Times Index (+22% YTD) have meaningfully outperformed the Philippines' PSEi (flat) and Indonesia's JCI (-26% YTD), reinforcing that domestic currency and fiscal dynamics -- not a shared regional macro narrative -- are now the dominant driver of ASEAN equity dispersion.",
+          "source": "ASEAN Macro Monitor, The Edge Malaysia, Manila Bulletin",
+          "time": "Standing YTD context through mid-September"
+        },
+        {
+          "stars": 2,
+          "headline": "Memory-chip prices keep climbing (DRAM +13-18% q/q, NAND +10-15% q/q in Q3) even as the pace of increase decelerates sharply from earlier 2026 highs, reinforcing Korea's export-driven equity story",
+          "detail": "The AI-driven memory supercycle that has powered Samsung and SK Hynix's 2026 rally remains intact on the fundamentals even as the rate of price increase moderates: Q3 2026 DRAM contract prices are rising 13-18% quarter-on-quarter and NAND 10-15%, down sharply from the 58-63% and 70-75% quarter-on-quarter increases respectively that were seen earlier in the year, as consumers hit affordability limits on end-device pricing even while hyperscaler AI demand for high-bandwidth memory keeps supply constrained. Analysts increasingly frame this less as a cyclical shortage and more as a structural, potentially permanent reallocation of global silicon wafer capacity toward higher-margin HBM and enterprise-grade components, with suppliers flagging further cost adjustments likely in Q4. For desks running the Korea/Taiwan chip-supply-chain trade, the deceleration in the rate of price increases is worth distinguishing from an actual reversal -- prices are still rising, just more slowly -- and is consistent with, rather than contradictory to, today's Kospi fade and TAIEX's more selective (MediaTek/Delta over TSMC) rally pattern.",
+          "source": "Tom's Hardware, TrendForce, IDC",
+          "time": "Q3 2026 pricing data, standing context into Q4"
+        }
+      ]
+    },
+    "europe": {
+      "status": "pending",
+      "items": []
+    },
+    "us": {
+      "status": "pending",
+      "items": []
+    }
+  },
+  "indicators": {
+    "asia": [
+      {
+        "category": "Equities",
+        "label": "Nikkei 225",
+        "value": "65,018.95",
+        "change": "Japan closed for bridge holiday; Friday's close carried forward",
+        "direction": "flat"
+      },
+      {
+        "category": "Equities",
+        "label": "Hang Seng",
+        "value": "—",
+        "change": "+0.5% to +0.6%, led by Alibaba's new AI chip and tech",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "CSI 300",
+        "value": "—",
+        "change": "+0.5% to +0.6%, tech-led on Alibaba AI chip launch",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "Kospi",
+        "value": "7,017.91",
+        "change": "+0.15% at close after opening as much as +2.2%",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "ASX 200",
+        "value": "8,758",
+        "change": "+0.3%, Bullock flags AI data-centre inflation risk",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "Taiwan Taiex",
+        "value": "~47,800",
+        "change": "+0.2%, fresh record close, 5th straight up session",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "USD/JPY",
+        "value": "157.47",
+        "change": "+0.1%, testing 61.8% Fib retracement post-BOJ hike",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "USD/CNH",
+        "value": "6.7459",
+        "change": "PBOC fix firmer for 10th straight session, yuan at 3.5-yr high",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "AUD/USD",
+        "value": "0.7117",
+        "change": "-0.09%, holding on hawkish RBA repricing",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "USD/KRW",
+        "value": "1,386.01",
+        "change": "little changed from 1,385.80 previous close",
+        "direction": "flat"
+      },
+      {
+        "category": "FX",
+        "label": "USD/INR",
+        "value": "95.83",
+        "change": "modestly firmer, rupee little changed",
+        "direction": "down"
+      },
+      {
+        "category": "Commodities",
+        "label": "Gold",
+        "value": "—",
+        "change": "consolidating in $4,310-4,395 range",
+        "direction": "flat"
+      },
+      {
+        "category": "Commodities",
+        "label": "Brent crude",
+        "value": "$101.34",
+        "change": "+1.0%, bouncing off Monday's slide",
+        "direction": "up"
+      },
+      {
+        "category": "Commodities",
+        "label": "Copper",
+        "value": "$6.75/lb",
+        "change": "+0.92%, sixth straight up session toward record",
+        "direction": "up"
+      },
+      {
+        "category": "Rates",
+        "label": "JGB 10Y",
+        "value": "~2.95-2.99%",
+        "change": "flat, Japan bond market closed for holiday",
+        "direction": "flat"
+      },
+      {
+        "category": "Rates",
+        "label": "China 10Y",
+        "value": "~1.68%",
+        "change": "little changed, near multi-year lows",
+        "direction": "flat"
+      }
+    ]
+  }
+}
