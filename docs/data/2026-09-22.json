@@ -98,7 +98,7 @@
         },
         {
           "stars": 2,
-          "headline": "India's NSE finalizes IPO allotment today after 5.67x overall subscription (QIB demand 12.68x) on its record-sized ₹22,561.57 crore listing, with debut trading Thursday",
+          "headline": "India's NSE finalizes IPO allotment today after 5.67x overall subscription (QIB demand 12.68x) on its record-sized \u20b922,561.57 crore listing, with debut trading Thursday",
           "detail": "The National Stock Exchange's own listing -- the country's second-largest IPO ever, behind only Hyundai Motor India's 2024 offering -- completed its allotment process Tuesday after the qualified institutional buyer book ran more than 12 times covered against the 5.67x overall subscription figure, with refunds and demat credits scheduled for Wednesday, September 23 ahead of Thursday's market debut. The listing date lands on the same day as the Trump-Xi summit in Washington, meaning a systemically important Indian market-infrastructure listing will open for trading into what may be one of the most consequential global macro news days of the year -- a genuine tail-risk consideration for allottees and index-inclusion-driven flows alike. For desks tracking India's capital-markets pipeline, the scale of institutional demand (a self-referential vote of confidence in the exchange operator itself) clearing comfortably above prior large-cap listings this year is a constructive signal on domestic and foreign institutional risk appetite even against September's broader FPI outflow backdrop flagged in recent sessions.",
           "source": "Groww, Upstox, IndMoney",
           "time": "Allotment finalized Tuesday; refunds/demat credit Sept 23, listing Sept 24"
@@ -134,8 +134,136 @@
       ]
     },
     "europe": {
-      "status": "pending",
-      "items": []
+      "status": "done",
+      "generated_at": "2026-09-22T18:17:25+02:00",
+      "items": [
+        {
+          "stars": 3,
+          "headline": "Iran offers to reopen the Strait of Hormuz within seven days if the US eases its naval blockade, sending Brent tumbling 2.1% to $98.23 as European equities extend their rally",
+          "detail": "A senior Iranian official told intermediaries at the UN General Assembly in New York that Tehran would reopen the strait within a week if Washington formally commits to a diplomatic resolution and lifts the blockade on Iranian ports -- a far more concrete and time-bound offer than the Oman-brokered safe-passage corridor reported earlier Tuesday out of Asia hours. The market reaction was immediate and cross-asset: Brent's November contract fell $2.11 (2.1%) to $98.23 by 11:51 GMT, its lowest in roughly two weeks, while WTI dropped a similar 2.55% to just above $90, both extending a slide that has now erased more than 9% over the prior four sessions. The move compounds separately-reported gains in Saudi loadings from inside the Gulf and the resumption of exports from Yanbu, reinforcing the picture of physical supply already normalizing even before any formal diplomatic breakthrough. For multi-asset desks, today's reaction matters beyond oil itself: falling energy prices ease the exact inflation channel (energy-driven CPI) that forced the Fed, ECB and BOJ to all hike within the last two weeks, so a durable de-escalation would remove the single biggest upside risk to this autumn's rate path across three major central banks simultaneously -- the reason this clears the bar for a cross-asset, three-star item rather than a single-commodity move.",
+          "source": "CNBC, Reuters (Investing.com), Irish Times, BOE Report",
+          "time": "Reported through Tuesday UN General Assembly sidelines; oil reaction through the European morning, 11:51 GMT print"
+        },
+        {
+          "stars": 3,
+          "headline": "France's OAT-Bund spread breaches 100bp for the first time since the 2012 euro-debt crisis and now trades wider than Italy's BTP-Bund spread, as Lecornu's EUR54bn savings plan faces a parliament that has never passed a budget for him",
+          "detail": "French 10-year yields now cost more over Bunds than Italian BTPs do -- a genuine role-reversal moment for the eurozone's two largest peripheral fiscal risk stories, and one that would have been unthinkable even eighteen months ago given the two countries' respective credit ratings (France AA- at Fitch, down from AA+ in 2023, versus Italy's more junk-adjacent but stabilizing profile). The proximate driver is fiscal arithmetic: French public debt has climbed to 119.3% of GDP with a 5.4% deficit, and the finance ministry itself now projects 121.7% for 2027, while Prime Minister Lecornu's EUR54bn savings package must clear a National Assembly that rejected his predecessor's budget outright. S&P has already cut France's outlook to negative this year, and the market is now pricing genuine execution risk into the spread rather than reacting to any single day's headline. For rates and cross-asset desks, a G7 sovereign spread move of this magnitude is inherently a multi-asset story -- it bleeds into French bank funding costs, CAC 40 financials, and euro-area credit spreads generally -- which is why this clears the three-star bar distinct from the broader equity rally happening alongside it today.",
+          "source": "Eastern Herald, Amundi Research Center, Morningstar Europe, BIL Investment Insights",
+          "time": "Standing structural move, spread level as of Tuesday's European session"
+        },
+        {
+          "stars": 2,
+          "headline": "European equities post a broad banks-and-tech-led rally -- Euro Stoxx 50 +1.31% to 6,318, FTSE MIB leads at +1.60%, DAX +1.07% to 25,574, CAC 40 +0.92% to 8,139, FTSE 100 +0.75% to 10,739 -- as oil's slide and AI-chip optimism dominate the tape",
+          "detail": "Every major bourse in Europe closed higher Tuesday, with Italy's FTSE MIB the standout gainer and Switzerland's SMI (+1.23%) and Spain's IBEX (+1.08%) both comfortably outperforming the more muted FTSE 100, which was capped by weakness in Shell (-1%) and BP (-2.4%) as falling oil prices hit the energy-heavy UK index even as it helped everything else. Banks were a genuine sector leader across the region -- a rally in heavyweight financials and technology names was the explicit driver cited by wire reports -- continuing a theme visible since last week's ECB business survey, even as the ECB itself flagged a less comfortable inflation picture in the same commentary. The dispersion between FTSE 100's relatively modest 0.75% and FTSE MIB's 1.60% is itself informative: London's index-level energy exposure is now working against it on a day when oil-price relief is one of the two dominant cross-market narratives, while continental indices with less energy weighting captured the risk-on move more cleanly. For allocators running pan-European beta, today's gains sit on top of a market already digesting three simultaneous central-bank hikes (Fed, ECB, BOJ) inside the last two weeks, meaning the rally is being read as an oil-driven inflation-relief trade rather than a reassessment of the underlying rate path.",
+          "source": "Newsquawk European Market Wrap, Business Recorder, BBN Times",
+          "time": "European cash equities close, Tuesday ~17:35 CET"
+        },
+        {
+          "stars": 2,
+          "headline": "Novo Nordisk stays under pressure into day two of its Capital Markets Day after Monday's 7.7% collapse, as the market continues to digest pipeline targets it judged insufficient to offset semaglutide dependency",
+          "detail": "Monday's session saw Novo shares fall 7.7% in Copenhagen (the US ADR closed down nearly 8%) after the company's Capital Markets Day revealed a 2026-2030 revenue growth target management pitched as ambitious but which the market read as merely in line with industry peers -- a genuine disappointment given how much of Novo's valuation premium has rested on being the category leader rather than a fast-follower. The strategy update targets more than five new multi-blockbuster medicines by 2030 and over DKK150bn in risk-adjusted pipeline sales by 2035, but Morgan Stanley's read -- that semaglutide will still supply roughly 75% of 2026 sales -- crystallizes the market's core worry: the pipeline diversification story remains mostly a promise rather than a delivered offset. Today's session continues the CMD with further strategic detail on R&D, manufacturing and commercial operations, giving the market a second data point on whether Monday's reaction was an overreaction or the start of a re-rating. For European pharma and healthcare-weighted portfolios, Novo's roughly 2%+ direct weight in several regional benchmarks makes this one of the more index-relevant single-name stories in Europe this week, distinct from the broader macro-driven rally happening in banks and industrials.",
+          "source": "Briefs.co, TS2.tech, ad-hoc-news.de",
+          "time": "Rout began Monday's Copenhagen close; CMD continues Tuesday"
+        },
+        {
+          "stars": 2,
+          "headline": "A synchronized global hiking cycle -- Fed to 3.75-4.00% (Sept 16, first hike since 2023), ECB to 2.50% deposit (Sept 10), BOJ to 1.25% (Sept 18), all explicitly citing Middle East-driven energy inflation -- keeps EUR/USD (1.1463) and GBP/USD (1.3357) both pinned near their weakest since late July",
+          "detail": "All three of the world's most-watched central banks have now tightened policy within the same two-week window, and all three explicitly cited the same mechanism: the Iran war's disruption to Hormuz-transiting oil and gas has pushed energy costs high enough to force a policy response even in economies (the eurozone, Japan) that would ordinarily be nowhere near hiking territory this late in their respective cycles. The Fed's move was the more hawkish surprise -- a unanimous 12-0 vote, with 16 of 18 FOMC participants' dot-plot entries signaling at least one more hike this year -- and it is that relative hawkishness, more than the ECB's own tightening, that is keeping the dollar bid against both the euro and sterling today. Euro-area headline inflation printed 3.3% in August, driven by a 14.3% annual jump in energy prices, giving the ECB's own hike a clean data justification even as it leaves euro-area growth more exposed than the US to any further energy shock. For rates and FX desks, today's modest oil relief (see above) is the first real test of whether this energy-inflation-driven hiking cycle has further to run or is near its peak -- a lower and more durable oil price would remove the shared justification behind all three banks' most recent moves simultaneously.",
+          "source": "CNBC, Federal Reserve, Morningstar, Vantage Markets, NordFX",
+          "time": "Rate decisions dated Sept 10 (ECB), Sept 16-17 (Fed), Sept 18 (BOJ); FX levels as of Tuesday's European morning"
+        },
+        {
+          "stars": 2,
+          "headline": "German ZEW economic sentiment rises just 0.5pt to 34.7, badly missing expectations, as ZEW's Wambach flags Iran-war energy costs and hybrid-attack risk as 'considerable risks' to Germany's economy",
+          "detail": "The ZEW Economic Sentiment Index ticked up only marginally to 34.7 in September, a print that on its face looks like continued recovery but which analysts and ZEW's own president characterized as a clear disappointment against consensus, underscoring how fragile German investor confidence remains even as headline equity indices (the DAX among them) post strong gains today. Wambach's explicit framing -- high energy costs linked to the Iran war, plus increased uncertainty from suspected hybrid attacks on infrastructure -- echoes almost exactly the inflation-channel language used by the Fed, ECB and BOJ in their respective hiking decisions this month, reinforcing that German business sentiment and the broader hiking cycle are being driven by the same underlying shock. The gap between a strong DAX (+1.07% today) and a weak ZEW print is a useful reminder for desks running German macro exposure: equity-index performance is increasingly a function of index-heavy global cyclicals (autos, chemicals, industrials with non-German revenue) rather than a clean read on the domestic economy the ZEW survey actually measures. With the Ifo Business Climate print still pending for September, ZEW remains the freshest read on how German business decision-makers are pricing the energy and security overhang into their own planning.",
+          "source": "Mediabias.news, Trading Economics",
+          "time": "ZEW released Tuesday morning, Mannheim"
+        },
+        {
+          "stars": 2,
+          "headline": "Eurozone flash consumer confidence falls to -16.5 (from -15.5), missing the -16.0 consensus, as the renewed rise in energy costs snaps a four-month recovery in household sentiment",
+          "detail": "The European Commission's preliminary September reading shows euro-area consumer morale deteriorating for the first time since a summer recovery began, with the broader EU-wide gauge also softening (-15.8 from -15.0) -- a genuinely synchronized regional move rather than a single-country outlier. The proximate cause flagged by economists is the same energy-cost channel running through today's other European stories: households are once again feeling the pass-through from elevated oil and gas prices tied to the Iran conflict, even as today's 2%-plus intraday drop in Brent (see above) has not yet had time to show up in a survey largely conducted before that news broke. For consumption-sensitive equity sectors -- retail, autos, consumer discretionary -- a renewed confidence slide is a genuine read-through risk heading into Q4, particularly layered on top of Germany's own soft ZEW print and France's fiscal-consolidation overhang, both of which point the same direction on eurozone household spending power over the coming months.",
+          "source": "Investing.com, FXStreet, ActionForex",
+          "time": "Flash September reading released Tuesday, European Commission"
+        },
+        {
+          "stars": 2,
+          "headline": "UK gilts and sterling stay pressured as August public borrowing hits GBP18.3bn -- the second-highest August on record and GBP3.5bn above the OBR's own forecast -- squeezing Chancellor Healey's fiscal headroom to an estimated GBP10-12bn ahead of the October 28 Budget",
+          "detail": "The GBP18.3bn August print was GBP2.9bn (19%) higher than a year earlier and driven in significant part by record August debt-interest costs of GBP8.8bn -- itself a direct consequence of this year's higher gilt-yield environment, making the borrowing overshoot partly self-reinforcing. Year-to-date borrowing of GBP77.3bn is actually GBP2.2bn lower than the same period last year, but still GBP8.1bn above the OBR's own forecast, and the combination has reportedly cut the Chancellor's fiscal headroom against his own target from GBP23.6bn down to somewhere between GBP10bn and GBP12bn with five weeks left before the Budget. Gilt yields stayed elevated but directionally mixed Tuesday -- the 10-year around 5.3%, the 30-year easing modestly to 5.70%, the 2-year at 4.68% -- while GBP/USD slipped to 1.3357 (-0.07%), sterling's weakest level since late July, as the weak public-finance data compounded the broader dollar-strength theme discussed above. For rates and gilt-market desks, the read-through is now less about any single data print and more about accumulating evidence that the Budget will need either meaningfully larger consolidation measures or a fresh fiscal-rule reset to rebuild credibility with the market.",
+          "source": "ONS, BM Magazine, HL News, Trading Economics",
+          "time": "August public finances released Tuesday morning; gilt/FX levels through Tuesday's European session"
+        },
+        {
+          "stars": 2,
+          "headline": "Kingfisher jumps roughly 9-10% and Smiths Group rallies 5-6.8% to lead FTSE 100 gainers on strong half-year and full-year results respectively",
+          "detail": "Kingfisher raised full-year guidance after half-year adjusted pre-tax profit rose 9.9% to GBP404m, with management citing strong momentum at Screwfix and in the Poland and Iberia businesses -- a genuine multi-region beat rather than a single-market story -- and declared an interim dividend of 3.80p. Smiths Group's FY2026 results showed organic revenue growth of 1.2% to GBP1,937m and headline operating profit up 1.9% to GBP399m at a 20.6% margin, but the more structurally significant news was management's framing of the year as 'unlocking GBP3.3bn of value' through two major portfolio divestments plus continued growth at the John Crane and Flex-Tek divisions, the latter explicitly benefiting from data-centre-driven demand for its thermal-management products. Both stocks' moves were large enough (Kingfisher's in particular) to be single-handedly responsible for a meaningful chunk of the FTSE 100's 0.75% gain, illustrating how idiosyncratic single-name results can dominate a headline index move on a day when broader UK large-cap performance (energy majors down on oil weakness) was otherwise more mixed. For desks running UK retail and industrials exposure, today's prints are genuine, fundamentals-driven beats rather than macro-driven re-ratings.",
+          "source": "AskTraders, Investing.com, ADVFN, Global Banking and Finance",
+          "time": "Results released ahead of Tuesday's London open"
+        },
+        {
+          "stars": 2,
+          "headline": "Evonik rises roughly 3.7% on a Dealreporter story that BASF has held preliminary talks about a potential transaction, though BASF's own cash constraints and pending Agricultural Solutions IPO cloud the deal's prospects",
+          "detail": "The report, citing three people familiar with the matter, describes discussions this year between BASF and Evonik without specifying deal structure, price, or timeline, and Evonik itself has not confirmed concrete terms -- meaning today's move is a pure speculation-driven re-rating rather than a priced-in event. The more important context for credit and equity desks is BASF's own balance-sheet position: the company is prioritizing its planned Agricultural Solutions IPO ahead of any acquisition spending, which argues against a large, debt-funded Evonik transaction materializing quickly even if talks are genuine. For German chemicals-sector portfolios, the story is nonetheless a useful reminder that European specialty-chemicals consolidation speculation remains a live theme after a slow few years for the sector, and Evonik's reaction size (a clean, immediate 3.7% pop on an unconfirmed report) shows how sensitive the stock's positioning is to even preliminary M&A newsflow.",
+          "source": "Seeking Alpha, ms-aktuell.de, TradingView",
+          "time": "Report surfaced Tuesday morning; Frankfurt reaction through the session"
+        },
+        {
+          "stars": 2,
+          "headline": "Ericsson falls roughly 4.7% after Morgan Stanley downgrades the stock to Underweight from Equal Weight, the session's clearest European tech-sector laggard even as chip names rally",
+          "detail": "The downgrade stands out precisely because of its context: European technology and AI-adjacent names were broadly higher Tuesday on the same chip-optimism theme running through Asia's session (MediaTek, SK Hynix, Alibaba's new AI chip), making Ericsson's standalone underperformance a genuine idiosyncratic call rather than a sector-wide read-through. Morgan Stanley's rationale was not detailed in available reporting, but the size of the move (single-digit percentage, single session) is consistent with a genuine re-rating rather than a technical or index-related flow. For telecom-equipment and European TMT desks, the divergence between semiconductor-adjacent names (bid on AI capex optimism) and network-equipment names like Ericsson (facing more idiosyncratic competitive and margin pressure) is worth tracking as a dispersion trade distinct from the broader tech rally.",
+          "source": "Investing.com (Newsquawk-sourced equity flow)",
+          "time": "Downgrade effective Tuesday; Stockholm session reaction"
+        },
+        {
+          "stars": 1,
+          "headline": "European luxury stays a two-sided story -- LVMH eases modestly to around EUR403 after RBC cut its rating to Neutral (PT to EUR475 from EUR575) on a weaker demand backdrop, even as HSBC's earlier upgrade of LVMH and Kering on hoped-for Chinese-spending recovery still colors sell-side debate",
+          "detail": "RBC's downgrade, and its sizeable price-target cut, reflects a genuine reassessment of near-term luxury demand rather than a technical move, following LVMH's own first-half print showing organic sales growth of just 2% with currency headwinds cutting reported revenue 3% and an expected EUR1bn full-year EBIT hit. That sits in tension with HSBC's more constructive call earlier this year that Chinese consumer spending would recover and that US-market headwinds would prove temporary -- a genuine sell-side split on the sector's key swing factor (Chinese demand) that keeps luxury positioning two-sided into year-end. LVMH's stock has traded to its lowest levels since 2020 on a rolling basis, a reminder that even Europe's highest-quality consumer franchise is not immune to the same demand-normalization pressures affecting the sector broadly. For desks running European consumer-discretionary exposure, the luxury complex remains a genuine relative-value debate rather than a consensus short or long.",
+          "source": "ad-hoc-news.de, RBC (via wire reports), Business of Fashion",
+          "time": "RBC note reflected in Tuesday's Paris trade"
+        },
+        {
+          "stars": 2,
+          "headline": "Turkey's central bank holds its benchmark rate at 37% for a fifth straight meeting as USD/TRY grinds to a fresh record near 48.66 (lira down 18% year-on-year) and inflation eases only modestly to 31.51% in August",
+          "detail": "The hold was fully expected by markets, but the central bank's own language is notable: it acknowledged that the underlying inflation trend had moderated since June even as it explicitly flagged that surging energy prices from the fresh Iran-US escalation were heightening inflationary risk and preventing any signal toward easier financial conditions -- the same energy-inflation channel running through today's Fed, ECB and BOJ stories, now constraining a fourth major central bank's policy path as well. The lira's slide to a fresh record low continues a multi-year depreciation trend (down 18% over twelve months) that the central bank has increasingly tried to manage through funding-rate mechanics rather than outright rate moves, having previously tightened bank funding conditions after May's currency stress following the removal of opposition leader Ozel by Turkish courts. For EM and carry desks, Turkey remains a structurally high-carry, high-inflation trade that requires active hedging discipline -- today's hold-with-hawkish-language combination is consistent with, not a break from, that standing framework.",
+          "source": "Tradingeconomics, ING Think",
+          "time": "TCMB decision Tuesday; USD/TRY levels through Tuesday's European morning"
+        },
+        {
+          "stars": 1,
+          "headline": "CEE/EM Europe FX stays a low-conviction, standing watch -- zloty modestly firmer (USD/PLN ~3.79) and rand range-bound (USD/ZAR ~16.28) -- with ING flagging the forint as the region's likely near-term outperformer amid diverging Budapest/Bucharest/Prague policy paths",
+          "detail": "None of today's CEE moves are large enough on their own to clear a higher bar, but the standing policy-divergence theme is worth tracking: ING's latest CEEMEA FX note flags the forint coming back bid after a recent correction, the koruna's 2025-style appreciation trend fading on disappointing first-half Czech growth, and Romania's budget deficit narrowing to 2.34% of GDP (from 3.99% a year earlier) as a genuine positive credit-story development. The widening gap in policy stances across the three central banks is now the dominant driver of regional currency performance rather than any shared CEE macro narrative, a dynamic that mirrors the ASEAN FX dispersion flagged in today's Asia panel. For EM-Europe desks, today's price action is unremarkable but the underlying policy-divergence framework remains the right lens for positioning into Q4.",
+          "source": "ING Think",
+          "time": "Standing context through Tuesday's European session"
+        },
+        {
+          "stars": 1,
+          "headline": "Bund 10-year yield holds near a 17-year high around 3.5% (having touched 3.57% last week, its highest since June 2009), keeping the eurozone rates complex on edge even as equities rally",
+          "detail": "The elevated Bund yield reflects the same combination of forces running through today's other European stories: the ECB's own September hike to 2.50% deposit, a more hawkish-than-expected Fed decision the following week, and the structural upward pressure on eurozone term premia from France's fiscal deterioration (see the OAT-Bund story above) all point the same direction. A Bund yield at its highest level since the pre-financial-crisis era is a genuine regime change for European rates desks that have spent much of the last decade anchored to near-zero or negative yields, and it raises the cost of capital for exactly the kind of leveraged, capex-heavy corporate borrowing (AI infrastructure, industrial reshoring) that has been a dominant equity theme this year. For portfolios running European duration, today's stability at elevated levels -- rather than a fresh sell-off -- suggests the market has for now priced in the known central-bank and fiscal risks rather than reacting to fresh information.",
+          "source": "Trading Economics, thetrading.tools",
+          "time": "Level as of last week's peak, holding into Tuesday's session; no fresh single-day catalyst"
+        },
+        {
+          "stars": 1,
+          "headline": "Gold eases to around $4,307-4,330 (-0.8%) even as Chinese gold imports reportedly hit a record and global ETF holdings sit at a record $472bn AUM",
+          "detail": "Today's modest pullback is consistent with the broader risk-on, oil-relief tone running through European markets -- gold's safe-haven bid naturally eases on the same Iran-Hormuz de-escalation news that sent Brent down over 2% -- but the flow-based data continues to tell a more structurally bullish story, echoing the World Gold Council data already flagged in today's Asia panel (record $26bn quarterly ETF inflow, AUM at $472bn). China's reported record gold imports add a second, independent data point on structural demand from the world's largest physical gold market, distinct from and additive to the Western ETF-driven flow story. For portfolios running gold as a structural hedge, today's modest price give-back alongside continued record flow data reinforces the now-familiar pattern: flows remain the more durable signal than any single day's price reaction to a de-escalation headline.",
+          "source": "Yahoo Finance, CNBC, Fortune",
+          "time": "Range through Tuesday's European session"
+        },
+        {
+          "stars": 1,
+          "headline": "European chip stocks hold their gains as ASML's raised FY26 revenue guidance (EUR43-45bn, up from EUR36-40bn) and the ongoing HBM/memory shortage narrative keep AI-capex optimism alive on this side of the Atlantic, echoing Tuesday's Asia session",
+          "detail": "ASML's guidance raise -- its second upward revision this year -- reflects a 75% expected increase in 2026 system sales to memory manufacturers, driven overwhelmingly by high-bandwidth-memory demand tied to AI data-center buildout, with SK Hynix itself flagging the memory shortage as likely to persist through 2030. The European chip complex's relative resilience today stands in useful contrast to the sharper swings seen in Asia's chip names (Kospi's fade, TAIEX's selective rally) -- ASML and STMicroelectronics are behaving more like structural AI-capex beneficiaries than day-trading momentum names, a dispersion worth noting for desks running global semiconductor-supply-chain exposure across regions. For portfolios overweight European industrial-tech, today's steadiness is a useful data point that the AI-capex re-rating theme is not purely an Asia/US phenomenon.",
+          "source": "Nerdwallet, Motley Fool, Stocks Down Under",
+          "time": "Standing guidance context, reflected in Tuesday's Amsterdam/Paris trade"
+        },
+        {
+          "stars": 1,
+          "headline": "European autos sector rotation continues -- Berenberg upgrades BMW to Buy (PT raised to EUR75 from EUR69) while downgrading Stellantis -- as analysts differentiate within a sector still digesting Volkswagen's guidance cut and Euro Stoxx 50 exit from earlier this week",
+          "detail": "Berenberg's framing is that BMW's China-driven profit warning from earlier this year now provides a 'much sounder earnings base' heading into the company's own capital markets day next week (September 29-30), while Stellantis -- despite leading larger peers on 2026 group sales growth of 5.3% -- draws a more cautious near-term call. The rotation is best read as evidence that the sector-wide pessimism triggered by VW's guidance cut earlier this week is giving way to more differentiated, company-specific analyst views rather than a blanket re-rating of European autos as a whole. For desks running the sector, today's moves are a reminder that the existential restructuring pressure facing European autos (EV transition costs, Chinese competition, tariff overhang) is increasingly being priced unevenly across names rather than as a single, undifferentiated basket trade.",
+          "source": "Investing.com (Berenberg note), Automotive News",
+          "time": "Analyst notes published ahead of Tuesday's Frankfurt/Paris trade; BMW capital markets day September 29-30"
+        }
+      ]
     },
     "us": {
       "status": "pending",
@@ -154,14 +282,14 @@
       {
         "category": "Equities",
         "label": "Hang Seng",
-        "value": "—",
+        "value": "\u2014",
         "change": "+0.5% to +0.6%, led by Alibaba's new AI chip and tech",
         "direction": "up"
       },
       {
         "category": "Equities",
         "label": "CSI 300",
-        "value": "—",
+        "value": "\u2014",
         "change": "+0.5% to +0.6%, tech-led on Alibaba AI chip launch",
         "direction": "up"
       },
@@ -224,7 +352,7 @@
       {
         "category": "Commodities",
         "label": "Gold",
-        "value": "—",
+        "value": "\u2014",
         "change": "consolidating in $4,310-4,395 range",
         "direction": "flat"
       },
@@ -255,6 +383,106 @@
         "value": "~1.68%",
         "change": "little changed, near multi-year lows",
         "direction": "flat"
+      }
+    ],
+    "europe": [
+      {
+        "category": "Equities",
+        "label": "Euro Stoxx 50",
+        "value": "6,318",
+        "change": "+1.31%",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "FTSE 100",
+        "value": "10,739.01",
+        "change": "+0.75%",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "DAX",
+        "value": "25,574",
+        "change": "+1.07%",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "CAC 40",
+        "value": "8,139",
+        "change": "+0.92%",
+        "direction": "up"
+      },
+      {
+        "category": "Equities",
+        "label": "FTSE MIB",
+        "value": "52,372",
+        "change": "+1.60%",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "EUR/USD",
+        "value": "1.1463",
+        "change": "-0.06%, weakest since late July",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "GBP/USD",
+        "value": "1.3357",
+        "change": "-0.07%, weakest since late July",
+        "direction": "down"
+      },
+      {
+        "category": "FX",
+        "label": "USD/TRY",
+        "value": "48.66",
+        "change": "fresh record high, lira -18% y/y",
+        "direction": "up"
+      },
+      {
+        "category": "FX",
+        "label": "USD/ZAR",
+        "value": "16.28",
+        "change": "range-bound",
+        "direction": "flat"
+      },
+      {
+        "category": "FX",
+        "label": "USD/PLN",
+        "value": "3.79",
+        "change": "modestly firmer zloty",
+        "direction": "down"
+      },
+      {
+        "category": "Commodities",
+        "label": "Gold",
+        "value": "~$4,310",
+        "change": "-0.8%",
+        "direction": "down"
+      },
+      {
+        "category": "Commodities",
+        "label": "Brent crude",
+        "value": "$98.23",
+        "change": "-2.1%, Iran Hormuz reopening offer",
+        "direction": "down"
+      },
+      {
+        "category": "Rates",
+        "label": "Bund 10Y",
+        "value": "~3.5%",
+        "change": "near 17-year high (touched 3.57% last week)",
+        "direction": "flat"
+      },
+      {
+        "category": "Rates",
+        "label": "OAT-Bund spread",
+        "value": "~100bp",
+        "change": "highest since 2012 debt crisis",
+        "direction": "up"
       }
     ]
   }
